@@ -46,8 +46,9 @@ class DataPool:
             extern_obj = Extern.Extern(raw_extern)
 
             # append the host object into the list
-            self.host_lst.append(extern_obj)
+            self.extern_lst.append(extern_obj)
 
+        log.debug(f"Length of extern_list : {len(self.extern_lst)}")
     def print_host_list(self):
         for host in self.host_lst:
             print(host)
