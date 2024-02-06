@@ -11,7 +11,7 @@ class DataPool:
         self.extern_lst = []
 
     def populate_host_list(self):
-        filename = r"/home/jamie/source/python/skillMatch/data/host_faux.csv"
+        filename = r"/home/jamie/PycharmProjects/skillMatch/data/host_faux.csv"
         with open(filename) as f:
             data = f.readlines()
         f.close()
@@ -30,7 +30,7 @@ class DataPool:
             self.host_lst.append(host_obj)
 
     def populate_extern_list(self):
-        filename = r"/home/jamie/source/python/skillMatch/data/extern_faux.csv"
+        filename = r"/home/jamie/PycharmProjects/skillMatch/data/extern_faux.csv"
         with open(filename) as f:
             data = f.readlines()
         f.close()
