@@ -1,6 +1,7 @@
 import csv
 import haversine
 from haversine import Unit
+import pickle
 
 def main():
     print("In foo_zipParser")
@@ -60,11 +61,12 @@ def make_dict():
             second_row_lon = abs(float(second_row[2]))
 
             distance_miles[(first_row[0],second_row[0])]=hav((first_row_lat,first_row_lon),(second_row_lat,second_row_lon))
-            for n in distance_miles.keys():
-                print(f"{n} : {distance_miles[n]}")
+            #for n in distance_miles.keys():
+                #print(f"{n} : {distance_miles[n]}")
 
-
-
+    pickle_file = r"/home/jamie/PycharmProjects/skillMatch/data/distance_miles.pickle"
+    with open(pickle_file, 'wb') as handle:
+        pickle.dump(distance_miles, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 
 if __name__ == "__main__":
