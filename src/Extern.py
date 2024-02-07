@@ -20,14 +20,12 @@ class Extern(AttributeSet):
             self.attitude04 = selections_lst[10]
             self.attitude05 = selections_lst[11]
 
-    def __str__(self):
-        return f"todo : write output function here."
-
     def __add__(self, other):
         number_of_matches = 0
 
         if self.skill01 == other.skill01:
             number_of_matches = number_of_matches + 1
+            #log.debug(f"Skill01 Match : {self.skill01} == {other.skill01}")
         else:
             pass
 

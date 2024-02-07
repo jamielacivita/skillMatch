@@ -22,13 +22,18 @@ def main():
     #dp.print_host_list()
     #dp.print_extern_list()
 
-    for extern in dp.extern_lst:
-        for host in dp.host_lst:
-            #print(extern)
-            #print(host)
-            print(f"Extern {extern.name} matches with host {host.name} : {extern+host} at an aproximate distance of {zip_distance[(extern.zip, host.zip)]}.")
 
-        print()
+    output_file = r"/home/jamie/PycharmProjects/skillMatch/data/out.txt"
+    with open(output_file,"w") as output_file:
+        for extern in dp.extern_lst:
+            for host in dp.host_lst:
+                #print(extern)
+                #print(host)
+                #print(f"Extern {extern.name} matches with host {host.name} : {extern+host} at an aproximate distance of {zip_distance[(extern.zip, host.zip)]}.")
+                out_row = f"Extern {extern.name} matches with host {host.name} {extern+host} times at an approximate distance of {zip_distance[(extern.zip, host.zip)]}\n"
+                output_file.write(out_row)
+            output_file.write("\n")
+    output_file.close()
 
     log.debug("finished")
 

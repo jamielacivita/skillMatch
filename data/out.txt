@@ -1,0 +1,110 @@
+Extern ZQ matches with host AB 7 times at an approximate distance of 6
+Extern ZQ matches with host BC 5 times at an approximate distance of 221
+Extern ZQ matches with host CD 4 times at an approximate distance of 202
+Extern ZQ matches with host DE 4 times at an approximate distance of 31
+Extern ZQ matches with host EF 4 times at an approximate distance of 0
+Extern ZQ matches with host FG 6 times at an approximate distance of 18
+Extern ZQ matches with host GH 6 times at an approximate distance of 323
+Extern ZQ matches with host HI 7 times at an approximate distance of 285
+Extern ZQ matches with host IJ 5 times at an approximate distance of 6
+Extern ZQ matches with host JK 5 times at an approximate distance of 284
+
+Extern PD matches with host AB 6 times at an approximate distance of 0
+Extern PD matches with host BC 6 times at an approximate distance of 215
+Extern PD matches with host CD 3 times at an approximate distance of 197
+Extern PD matches with host DE 7 times at an approximate distance of 25
+Extern PD matches with host EF 1 times at an approximate distance of 6
+Extern PD matches with host FG 5 times at an approximate distance of 24
+Extern PD matches with host GH 7 times at an approximate distance of 321
+Extern PD matches with host HI 4 times at an approximate distance of 283
+Extern PD matches with host IJ 8 times at an approximate distance of 0
+Extern PD matches with host JK 4 times at an approximate distance of 281
+
+Extern NM matches with host AB 5 times at an approximate distance of 0
+Extern NM matches with host BC 5 times at an approximate distance of 215
+Extern NM matches with host CD 8 times at an approximate distance of 197
+Extern NM matches with host DE 6 times at an approximate distance of 25
+Extern NM matches with host EF 6 times at an approximate distance of 6
+Extern NM matches with host FG 4 times at an approximate distance of 24
+Extern NM matches with host GH 6 times at an approximate distance of 321
+Extern NM matches with host HI 5 times at an approximate distance of 283
+Extern NM matches with host IJ 3 times at an approximate distance of 0
+Extern NM matches with host JK 7 times at an approximate distance of 281
+
+Extern JU matches with host AB 6 times at an approximate distance of 24
+Extern JU matches with host BC 6 times at an approximate distance of 239
+Extern JU matches with host CD 5 times at an approximate distance of 221
+Extern JU matches with host DE 5 times at an approximate distance of 49
+Extern JU matches with host EF 5 times at an approximate distance of 18
+Extern JU matches with host FG 5 times at an approximate distance of 0
+Extern JU matches with host GH 3 times at an approximate distance of 321
+Extern JU matches with host HI 8 times at an approximate distance of 281
+Extern JU matches with host IJ 4 times at an approximate distance of 24
+Extern JU matches with host JK 2 times at an approximate distance of 280
+
+Extern VJ matches with host AB 5 times at an approximate distance of 23
+Extern VJ matches with host BC 3 times at an approximate distance of 238
+Extern VJ matches with host CD 6 times at an approximate distance of 219
+Extern VJ matches with host DE 4 times at an approximate distance of 49
+Extern VJ matches with host EF 10 times at an approximate distance of 17
+Extern VJ matches with host FG 4 times at an approximate distance of 5
+Extern VJ matches with host GH 4 times at an approximate distance of 326
+Extern VJ matches with host HI 5 times at an approximate distance of 286
+Extern VJ matches with host IJ 3 times at an approximate distance of 23
+Extern VJ matches with host JK 7 times at an approximate distance of 286
+
+Extern PC matches with host AB 3 times at an approximate distance of 39
+Extern PC matches with host BC 9 times at an approximate distance of 226
+Extern PC matches with host CD 4 times at an approximate distance of 217
+Extern PC matches with host DE 4 times at an approximate distance of 50
+Extern PC matches with host EF 4 times at an approximate distance of 42
+Extern PC matches with host FG 6 times at an approximate distance of 43
+Extern PC matches with host GH 6 times at an approximate distance of 281
+Extern PC matches with host HI 7 times at an approximate distance of 243
+Extern PC matches with host IJ 7 times at an approximate distance of 39
+Extern PC matches with host JK 5 times at an approximate distance of 242
+
+Extern EP matches with host AB 7 times at an approximate distance of 321
+Extern EP matches with host BC 3 times at an approximate distance of 398
+Extern EP matches with host CD 4 times at an approximate distance of 424
+Extern EP matches with host DE 4 times at an approximate distance of 323
+Extern EP matches with host EF 6 times at an approximate distance of 323
+Extern EP matches with host FG 4 times at an approximate distance of 321
+Extern EP matches with host GH 6 times at an approximate distance of 0
+Extern EP matches with host HI 5 times at an approximate distance of 45
+Extern EP matches with host IJ 5 times at an approximate distance of 321
+Extern EP matches with host JK 7 times at an approximate distance of 42
+
+Extern HX matches with host AB 5 times at an approximate distance of 25
+Extern HX matches with host BC 7 times at an approximate distance of 189
+Extern HX matches with host CD 6 times at an approximate distance of 173
+Extern HX matches with host DE 4 times at an approximate distance of 0
+Extern HX matches with host EF 6 times at an approximate distance of 31
+Extern HX matches with host FG 6 times at an approximate distance of 49
+Extern HX matches with host GH 2 times at an approximate distance of 323
+Extern HX matches with host HI 9 times at an approximate distance of 287
+Extern HX matches with host IJ 3 times at an approximate distance of 25
+Extern HX matches with host JK 3 times at an approximate distance of 285
+
+Extern PF matches with host AB 6 times at an approximate distance of 0
+Extern PF matches with host BC 4 times at an approximate distance of 215
+Extern PF matches with host CD 5 times at an approximate distance of 197
+Extern PF matches with host DE 5 times at an approximate distance of 25
+Extern PF matches with host EF 7 times at an approximate distance of 6
+Extern PF matches with host FG 7 times at an approximate distance of 24
+Extern PF matches with host GH 5 times at an approximate distance of 321
+Extern PF matches with host HI 4 times at an approximate distance of 283
+Extern PF matches with host IJ 6 times at an approximate distance of 0
+Extern PF matches with host JK 6 times at an approximate distance of 281
+
+Extern RH matches with host AB 4 times at an approximate distance of 281
+Extern RH matches with host BC 6 times at an approximate distance of 374
+Extern RH matches with host CD 5 times at an approximate distance of 396
+Extern RH matches with host DE 1 times at an approximate distance of 285
+Extern RH matches with host EF 5 times at an approximate distance of 284
+Extern RH matches with host FG 9 times at an approximate distance of 280
+Extern RH matches with host GH 3 times at an approximate distance of 42
+Extern RH matches with host HI 6 times at an approximate distance of 8
+Extern RH matches with host IJ 6 times at an approximate distance of 281
+Extern RH matches with host JK 6 times at an approximate distance of 0
+
