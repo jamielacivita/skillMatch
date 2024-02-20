@@ -1,5 +1,7 @@
 import DataPool
 import pickle
+import openpyxl
+import Host as Host
 
 
 import logging.config
@@ -37,5 +39,65 @@ def main():
 
     log.debug("finished")
 
+def host_generate_field_headings(filename="/home/jamie/PycharmProjects/skillMatch/data/240218-055238_Host.xlsx"):
+    """
+    Given a path to a host file return a list of headings for the records.
+    :return:
+    """
+    dataframe = openpyxl.load_workbook(filename)
+    dataframe1 = dataframe.active
+    for row in range(0, dataframe1.max_row):
+    #for row in range(1, 2):
+        for col in dataframe1.iter_cols(1, dataframe1.max_column):
+            cell = col[row]
+            if cell.column_letter == "AJ":
+                print(f" {cell.column_letter} : {cell.value}")
+
+def host_get_dataframe(filename="/home/jamie/PycharmProjects/skillMatch/data/240218-055238_Host.xlsx"):
+    """
+    Given a path to a host file return a dataframe records.
+    :return:
+    """
+    dataframe = openpyxl.load_workbook(filename)
+    dataframe1 = dataframe.active
+
+    return dataframe1
+
+def host_parse_dataframe(dataframe):
+    """
+    :param dataframe:
+    :return: a list of lists holding the information in the dataframe.
+    """
+
+    hosts_obj_lst = []
+
+    #for row in range(2, dataframe.max_row):
+
+
+        #for col in dataframe.iter_cols(1, dataframe.max_column):
+            #cell = col[row]
+            #column_letter = cell.column_letter
+
+    FIRST_DATA_ROW = 2
+
+
+    for row in dataframe.iter_rows(FIRST_DATA_ROW, dataframe.max_row):
+    ## each row represents a host
+    ## create a blank host object
+        host_obj = Host.Host(row)
+        print(host_obj)
+
+
+
+    print("done.")
+
+
+
 if __name__ == "__main__":
-    main()
+    #main()
+    #host_generate_field_headings()
+
+    df = host_get_dataframe()
+    host_parse_dataframe(df)
+
+
