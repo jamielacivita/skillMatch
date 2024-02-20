@@ -29,6 +29,12 @@ class Host(AttributeSet):
         self.email = None
         self.name = None
         self.last_modified_time = None
+        self.completed_work_proposal = None
+        self.first_name = None
+        self.last_name = None
+        self.email_address = None
+        self.organization_name = None
+        self.location_of_organization = None
         self.specific_educator = None
         self.skills = None
         self.experience = None
@@ -42,6 +48,15 @@ class Host(AttributeSet):
         EMAIL_COL = 3
         NAME_COL = 4
 
+        LAST_MODIFIED_TIME_COL = 5
+        COMPLETED_WORK_PROPOSAL_COL = 6
+        FIRST_NAME_COL = 7
+        LAST_NAME_COL = 8
+        EMAIL_ADDRESS_COL = 9
+        ORGANIZATION_NAME_COL = 10
+        LOCATION_OF_ORGANIZATION_COL = 11
+
+
         ZIP_COL = 40
 
         self.set_id(row_data_tuple[ID_COL].value)
@@ -49,6 +64,14 @@ class Host(AttributeSet):
         self.set_completion_time(row_data_tuple[COMPLETION_TIME_COL].value)
         self.set_email(row_data_tuple[EMAIL_COL].value)
         self.set_name(row_data_tuple[NAME_COL].value)
+        self.set_last_modified_time(LAST_MODIFIED_TIME_COL)
+        self.set_completed_work_proposal(row_data_tuple[COMPLETED_WORK_PROPOSAL_COL].value)
+        self.set_first_name(row_data_tuple[FIRST_NAME_COL].value)
+        self.set_last_name(row_data_tuple[LAST_NAME_COL].value)
+        self.set_email_address(row_data_tuple[EMAIL_ADDRESS_COL].value)
+        self.set_organization_name(row_data_tuple[ORGANIZATION_NAME_COL].value)
+        self.set_location_of_organization(row_data_tuple[LOCATION_OF_ORGANIZATION_COL].value)
+
         self.set_zip(row_data_tuple[ZIP_COL].value)
 
 
@@ -97,7 +120,46 @@ class Host(AttributeSet):
     def get_last_modified_time(self):
         return self.last_modified_time
 
-    ###
+    def set_completed_work_proposal(self, completed_work_proposal):
+        self.completed_work_proposal = completed_work_proposal
+
+    def get_completed_work_proposal(self):
+        return self.completed_work_proposal
+
+    def set_first_name(self, first_name):
+        self.first_name = first_name
+
+    def get_first_name(self):
+        return self.first_name
+
+    def set_last_name(self, last_name):
+        return self.last_name
+
+
+    def set_email_address(self, email_address):
+        self.email_address = email_address
+
+    def get_email_address(self):
+        return self.email_address
+
+
+    def set_organization_name(self, organization_name):
+        self.organization_name = organization_name
+
+    def get_organization_name(self):
+        return self.organization_name
+
+
+    def set_location_of_organization(self, location_of_organization):
+        self.location_of_organization = location_of_organization
+
+    def get_location_of_organization(self):
+        return self.location_of_organization
+
+
+
+
+
 
 
     def set_specific_educator(self, specific_educator):
