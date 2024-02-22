@@ -23,61 +23,100 @@ class HostOld(AttributeSet):
 
 class Host(AttributeSet):
     def __init__(self, row_data_tuple):
+
         self.id = None
         self.start_time = None
         self.completion_time = None
         self.email = None
         self.name = None
+
         self.last_modified_time = None
         self.completed_work_proposal = None
         self.first_name = None
         self.last_name = None
         self.email_address = None
+
         self.organization_name = None
         self.location_of_organization = None
-        self.specific_educator = None
-        self.skills = None
-        self.looking_for_experience = None
-        self.type_of_person = None
-        self.work_done_remotely = None
-
         self.overview_of_organization = None
         self.title_role = None
         self.specific_educator = None
+
         self.primary_contact = None
         self.poc_first_name = None
         self.poc_last_name = None
         self.poc_email = None
         self.poc_title_role = None
+
         self.why_part = None
         self.hours_per_week = None
         self.continuing_relationship = None
         self.how_many_externs = None
         self.project_name = None
+
         self.project_objectives = None
         self.description = None
         self.meaningful_learning = None
         self.network_growth = None
         self.professional_level_work = None
+
         self.set_up_success = None
         self.what_type_learning = None
         self.learn_the_things = None
         self.business_education_skills = None
         self.looking_for_experience = None
-        self.best_suited = None
+
+        self.type_of_person = None
         self.report_to_name = None
         self.report_to_email = None
         self.other_teams = None
         self.work_done_remotely = None
+
+        self.zip = None
         self.travel_rerquired = None
         self.travel_rerquired_description = None
         self.how_hours_spent = None
         self.onboarding_and_training = None
+
         self.who_responsible_onboarding = None
         self.how_many_hours_onboarding = None
         self.anything_else = None
 
-        self.zip = None
+
+        ## scraps ##
+
+        self.skills = None
+        self.best_suited = None
+        ## end scraps ##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         ID_COL = 0                              ## A
         START_TIME_COL = 1                      ## B
@@ -114,7 +153,7 @@ class Host(AttributeSet):
         LEARN_THE_THINGS_COL = 32               ## AG
         BUSINESS_EDUCATION_SKILLS_COL = 33      ## AH
         LOOKING_FOR_EXPERIENCE_COL = 34         ## AI
-        BEST_SUITED_COL = 35                    ## AJ
+        TYPE_OF_PERSON_COL = 35                 ## AJ
         REPORT_TO_NAME_COL = 36                 ## AK
         REPORT_TO_EMAIL_COL = 37                ## AL
         OTHER_TEAMS_COL = 38                    ## AM
@@ -134,7 +173,7 @@ class Host(AttributeSet):
         self.set_completion_time(row_data_tuple[COMPLETION_TIME_COL].value)
         self.set_email(row_data_tuple[EMAIL_COL].value)
         self.set_name(row_data_tuple[NAME_COL].value)
-        self.set_last_modified_time(LAST_MODIFIED_TIME_COL)
+        self.set_last_modified_time(row_data_tuple[LAST_MODIFIED_TIME_COL].value)
         self.set_completed_work_proposal(row_data_tuple[COMPLETED_WORK_PROPOSAL_COL].value)
         self.set_first_name(row_data_tuple[FIRST_NAME_COL].value)
         self.set_last_name(row_data_tuple[LAST_NAME_COL].value)
@@ -164,7 +203,7 @@ class Host(AttributeSet):
         self.set_learn_the_things(row_data_tuple[LEARN_THE_THINGS_COL].value)
         self.set_business_education_skills(row_data_tuple[BUSINESS_EDUCATION_SKILLS_COL].value)
         self.set_looking_for_experience(row_data_tuple[LOOKING_FOR_EXPERIENCE_COL].value)
-        self.set_best_suited(row_data_tuple[BEST_SUITED_COL].value)
+        self.set_type_of_person(row_data_tuple[TYPE_OF_PERSON_COL].value)
         self.set_report_to_name(row_data_tuple[REPORT_TO_NAME_COL].value)
         self.set_report_to_email(row_data_tuple[REPORT_TO_EMAIL_COL].value)
         self.set_other_teams(row_data_tuple[OTHER_TEAMS_COL].value)
@@ -230,8 +269,10 @@ class Host(AttributeSet):
         return self.first_name
 
     def set_last_name(self, last_name):
-        return self.last_name
+        self.last_name = last_name
 
+    def get_last_name(self):
+        return self.last_name
 
     def set_email_address(self, email_address):
         self.email_address = email_address
@@ -490,4 +531,63 @@ class Host(AttributeSet):
         return self.anything_else
 
     def __str__(self):
-        return f"ID: {self.get_id()} : zip: {self.get_zip()}"
+        out_str = ""
+        out_str = out_str + f"ID: {self.get_id()}\n"
+        out_str = out_str + f"Start Time: {self.get_start_time()}\n"
+        out_str = out_str + f"Completion Time: {self.get_completion_time()}\n"
+        out_str = out_str + f"email: {self.get_email()}\n"
+        out_str = out_str + f"name: {self.get_name()}\n"
+
+        out_str = out_str + f"last modified time: {self.get_last_modified_time()}\n"
+        out_str = out_str + f"completed work proposal: {self.get_completed_work_proposal()}\n"
+        out_str = out_str + f"first name: {self.get_first_name()}\n"
+        out_str = out_str + f"last name: {self.get_last_name()}\n"
+        out_str = out_str + f"email address: {self.get_email_address()}\n"
+
+        out_str = out_str + f"organization name: {self.get_organization_name()}\n"
+        out_str = out_str + f"location of orgnization: {self.get_location_of_organization()}\n"
+        out_str = out_str + f"overivew of orgnization: {self.get_overview_of_organization()}\n"
+        out_str = out_str + f"title role: {self.get_title_role()}\n"
+        out_str = out_str + f"specific educator: {self.get_specific_educator()}\n"
+
+        out_str = out_str + f"prinary contact: {self.get_primary_contact()}\n"
+        out_str = out_str + f"poc first name: {self.get_poc_first_name()}\n"
+        out_str = out_str + f"poc last name: {self.get_poc_last_name()}\n"
+        out_str = out_str + f"poc e-mail: {self.get_poc_email()}\n"
+        out_str = out_str + f"poc title role: {self.get_poc_title_role()}\n"
+
+        out_str = out_str + f"why orgnization: {self.get_why_part()}\n"
+        out_str = out_str + f"hours per week: {self.get_hours_per_week()}\n"
+        out_str = out_str + f"continuing relationship: {self.get_continuing_relationship()}\n"
+        out_str = out_str + f"how many externs: {self.get_how_many_externs()}\n"
+        out_str = out_str + f"project name: {self.get_project_name()}\n"
+
+        out_str = out_str + f"project objectives: {self.get_project_objectives()}\n"
+        out_str = out_str + f"description: {self.get_description()}\n"
+        out_str = out_str + f"meangful learning: {self.get_meaningful_learning()}\n"
+        out_str = out_str + f"network growth: {self.get_network_growth()}\n"
+        out_str = out_str + f"professional level work: {self.get_professional_level_work()}\n"
+
+        out_str = out_str + f"set up sucess: {self.get_set_up_success()}\n"
+        out_str = out_str + f"what type learning: {self.get_what_type_learning()}\n"
+        out_str = out_str + f"learn the things: {self.get_learn_the_things()}\n"
+        out_str = out_str + f"business education skills: {self.get_business_education_skills()}\n"
+        out_str = out_str + f"looking for experience: {self.get_looking_for_experience()}\n"
+
+        out_str = out_str + f"type of person: {self.get_type_of_person()}\n"
+        out_str = out_str + f"report to name: {self.get_report_to_name()}\n"
+        out_str = out_str + f"report to email: {self.get_report_to_email()}\n"
+        out_str = out_str + f"get other teams: {self.get_other_teams()}\n"
+        out_str = out_str + f"work done remotely: {self.get_work_done_remotely()}\n"
+
+        out_str = out_str + f"zip: {self.get_zip()}\n"
+        out_str = out_str + f"travel required: {self.get_travel_rerquired()}\n"
+        out_str = out_str + f"travel required description: {self.get_travel_rerquired_description()}\n"
+        out_str = out_str + f"how hours spent: {self.get_how_hours_spent()}\n"
+        out_str = out_str + f"get onboarding and training: {self.get_onboarding_and_training()}\n"
+
+        out_str = out_str + f"who responsible for onboarding: {self.get_who_responsible_onboarding()}\n"
+        out_str = out_str + f"how many hours onborading: {self.get_how_many_hours_onboarding()}\n"
+        out_str = out_str + f"anything else: {self.get_anything_else()}\n"
+
+        return out_str
