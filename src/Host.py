@@ -1,4 +1,5 @@
 from AttributeSet import AttributeSet
+import Skills as Skills
 
 
 import logging
@@ -82,41 +83,8 @@ class Host(AttributeSet):
         self.how_many_hours_onboarding = None
         self.anything_else = None
 
-
-        ## scraps ##
-
-        self.skills = None
-        self.best_suited = None
-        ## end scraps ##
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        #append a skills object to hold data for skills matches.
+        self.skills = Skills.Skills()
 
         ID_COL = 0                              ## A
         START_TIME_COL = 1                      ## B

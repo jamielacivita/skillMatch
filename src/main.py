@@ -2,6 +2,8 @@ import DataPool
 import pickle
 import openpyxl
 import Host as Host
+import Extern as Extern
+import Skills as Skills
 
 
 import logging.config
@@ -92,12 +94,44 @@ def host_parse_dataframe(dataframe):
     print("done.")
 
 
+def foo_populate_Extern():
+    print("foo_populate_Extern")
+    filename = r"/home/jamie/PycharmProjects/skillMatch/data/240218-055306_Educator.xlsx"
+
+    dataframe = openpyxl.load_workbook(filename)
+    dataframe1 = dataframe.active
+
+    print(dataframe1)
+
+    FIRST_DATA_ROW = 2
+    for row in dataframe1.iter_rows(FIRST_DATA_ROW, dataframe1.max_row):
+        extern_obj = Extern.Extern(row)
+        print(extern_obj)
+
+
+def foo_Skills():
+    print("In foo_skills")
+    print("Make a skills object and print it out.")
+    skills_obj = Skills.Skills()
+    print(skills_obj)
+    print("toggle curiculum design.")
+    skills_obj.set_curriculum_design(True)
+    skills_obj.set_software_email(True)
+    skills_obj.set_software_presentation(True)
+    skills_obj.set_software_presentation(True)
+    print(skills_obj)
+
+
+
+
 
 if __name__ == "__main__":
     #main()
     #host_generate_field_headings()
 
-    df = host_get_dataframe()
-    host_parse_dataframe(df)
+    #df = host_get_dataframe()
+    #host_parse_dataframe(df)
+    foo_populate_Extern()
+    #foo_Skills()
 
 
