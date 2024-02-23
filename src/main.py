@@ -85,7 +85,7 @@ def host_parse_dataframe(dataframe):
 
     for row in dataframe.iter_rows(FIRST_DATA_ROW, dataframe.max_row):
     ## each row represents a host
-    ## create a blank host object
+    ## create and populate host object
         host_obj = Host.Host(row)
         print(host_obj)
 
@@ -129,9 +129,9 @@ if __name__ == "__main__":
     #main()
     #host_generate_field_headings()
 
-    #df = host_get_dataframe()
-    #host_parse_dataframe(df)
-    foo_populate_Extern()
+    df = host_get_dataframe()
+    host_parse_dataframe(df)
+    #foo_populate_Extern()
     #foo_Skills()
 
 

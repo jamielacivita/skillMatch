@@ -5,22 +5,6 @@ import Skills as Skills
 import logging
 log = logging.getLogger(__name__)
 
-class HostOld(AttributeSet):
-    def __init__(self, selections_lst = None):
-
-        if selections_lst:
-            self.name = selections_lst[0]
-            self.zip = selections_lst[1]
-            self.skill01 = selections_lst[2]
-            self.skill02 = selections_lst[3]
-            self.skill03 = selections_lst[4]
-            self.skill04 = selections_lst[5]
-            self.skill05 = selections_lst[6]
-            self.attitude01 = selections_lst[7]
-            self.attitude02 = selections_lst[8]
-            self.attitude03 = selections_lst[9]
-            self.attitude04 = selections_lst[10]
-            self.attitude05 = selections_lst[11]
 
 class Host(AttributeSet):
     def __init__(self, row_data_tuple):
@@ -185,6 +169,26 @@ class Host(AttributeSet):
         self.set_anything_else(row_data_tuple[ANYTHING_ELSE_COL].value)
         self.set_zip(row_data_tuple[ZIP_COL].value)
 
+        ## Run the function to fill out the siklls object.
+        self.set_skills_values()
+
+    def set_skills_values(self):
+        print("In set skills.")
+        # curriculum_design (AH)
+        # considered a match if the (AH) string contains 'Curriculum Design'
+        if "Curriculum Design" in self.business_education_skills:
+            self.skills.set_curriculum_design(True)
+        else :
+            pass
+        # instruction_adult (AH)
+        # instruction_elementary (AH)
+        # instruction_secondary (AH)
+        # project_management (AH)
+        # public_speaking (AH)
+        # software_email (AH)
+        # software_presentation (AH)
+        # software_spreadsheet (AH)
+        # software_wordprocessing (AH)
 
     def set_id(self, id):
         self.id = id
@@ -557,5 +561,7 @@ class Host(AttributeSet):
         out_str = out_str + f"who responsible for onboarding: {self.get_who_responsible_onboarding()}\n"
         out_str = out_str + f"how many hours onborading: {self.get_how_many_hours_onboarding()}\n"
         out_str = out_str + f"anything else : {self.get_anything_else()}\n"
+
+        out_str = out_str + f"{self.skills}"
 
         return out_str
