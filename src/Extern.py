@@ -43,50 +43,51 @@ class Extern(AttributeSet):
         self.linkedin_profile = None
         self.adult_education_training = None
         self.public_speaking = None
-        self.group_presentation = None
+        #self.group_presentation = None
         self.email_administrative_software = None
 
         #append a skills object to hold data for skills matches.
         self.skills = Skills.Skills()
 
-        ID_COL = 0
-        START_TIME_COL = 1
-        COMPLETION_TIME_COL = 2
-        EMAIL_COL = 3
-        NAME_COL = 4
-        WHO_ARE_YOU_COL = 5
-        FIRST_NAME_COL = 6
-        LAST_NAME_COL = 7
-        PRIMARY_EMAIL_COL = 8
-        BACKUP_EMAIL_COL = 9
-        SCHOOL_WHERE_YOU_WORK_COL = 10
-        DISTRICT_WHERE_YOU_WORK_COL = 11
-        CURRENT_ROLES_COL = 12
-        CITY_YOU_LIVE_IN_COL = 13
-        WHY_PART_OF_PROGRAM_COL = 14
-        FLAVOR_OF_WORK_COL = 15
-        WHY_MOST_INTERESTING_COL = 16
-        OPEN_TO_TEACHING_COL = 17
-        OPEN_TO_CURRICULUM_DESIGN_COL = 18
-        OPEN_TO_CAMP_COUNSELOR_COL = 19
-        PARTICULAR_STEM_FIELDS_COL = 20
-        WHAT_WORK_LOCATIONS_COL = 21
-        OPEN_TO_TRAVELLING_COL = 22
-        GRADE_LEVELS_COL = 23
-        STEM_DOMAINS_COL = 24
-        SPREADSHEET_SOFTWARE_COL = 25
-        WORD_PROCESSINGS_SOFTWARE_COL = 26
-        PRESENTATION_SOFTWARE_COL = 27
-        ELEMENTARY_LEVEL_INSTRUCTION_COL = 28
-        CURRICULUM_DESIGN_COL = 29
-        PROJECT_MANAGEMENT_COL = 30
-        SECONDARY_LEVEL_INSTRUCTION_COL = 31
-        EXPERIENCES_OR_INTERESTS_COL = 32
-        LINKEDIN_PROFILE_COL = 33
-        ADULT_EDUCATION_TRAINING_COL = 34
-        PUBLIC_SPEAKING_COL = 35
-        GROUP_PRESENTATION_COL = 36
-        EMAIL_ADMINISTRATIVE_SOFTWARE_COL = 37
+        ID_COL = 0                              # A
+        START_TIME_COL = 1                      # B
+        COMPLETION_TIME_COL = 2                 # C
+        EMAIL_COL = 3                           # D
+        NAME_COL = 4                            # E
+        WHO_ARE_YOU_COL = 5                     # F
+        FIRST_NAME_COL = 6                      # G
+        LAST_NAME_COL = 7                       # H
+        PRIMARY_EMAIL_COL = 8                   # I
+        BACKUP_EMAIL_COL = 9                    # J
+        SCHOOL_WHERE_YOU_WORK_COL = 10          # K
+        DISTRICT_WHERE_YOU_WORK_COL = 11        # L
+        CURRENT_ROLES_COL = 12                  # M
+        CITY_YOU_LIVE_IN_COL = 13               # N
+        WHY_PART_OF_PROGRAM_COL = 14            # O
+        FLAVOR_OF_WORK_COL = 15                 # P
+        WHY_MOST_INTERESTING_COL = 16           # Q
+        OPEN_TO_TEACHING_COL = 17               # R
+        OPEN_TO_CURRICULUM_DESIGN_COL = 18      # S
+        OPEN_TO_CAMP_COUNSELOR_COL = 19         # T
+        PARTICULAR_STEM_FIELDS_COL = 20         # U
+        WHAT_WORK_LOCATIONS_COL = 21            # V
+        OPEN_TO_TRAVELLING_COL = 22             # W
+        GRADE_LEVELS_COL = 23                   # X
+        STEM_DOMAINS_COL = 24                   # Y
+        SPREADSHEET_SOFTWARE_COL = 25           # Z
+        WORD_PROCESSINGS_SOFTWARE_COL = 26      # AA
+        PRESENTATION_SOFTWARE_COL = 27          # AB
+        ELEMENTARY_LEVEL_INSTRUCTION_COL = 28   # AC
+        CURRICULUM_DESIGN_COL = 29              # AD
+        PROJECT_MANAGEMENT_COL = 30             # AE
+        SECONDARY_LEVEL_INSTRUCTION_COL = 31    # AF
+        EXPERIENCES_OR_INTERESTS_COL = 32       # AG
+        RESUME_COL = 33                         # AH - This column is blank and not used in our data set.
+        LINKEDIN_PROFILE_COL = 34               # AI
+        ADULT_EDUCATION_TRAINING_COL = 35       # AJ
+        PUBLIC_SPEAKING_COL = 36                # AK
+        GROUP_PRESENTATION_COL = 0
+        EMAIL_ADMINISTRATIVE_SOFTWARE_COL = 37  # AL
 
 
 
@@ -126,7 +127,7 @@ class Extern(AttributeSet):
         self.set_linkedin_profile(row_data_tuple[LINKEDIN_PROFILE_COL].value)
         self.set_adult_education_training(row_data_tuple[ADULT_EDUCATION_TRAINING_COL].value)
         self.set_public_speaking(row_data_tuple[PUBLIC_SPEAKING_COL].value)
-        self.set_group_presentation(row_data_tuple[GROUP_PRESENTATION_COL].value)
+        #self.set_group_presentation(row_data_tuple[GROUP_PRESENTATION_COL].value)
         self.set_email_administrative_software(row_data_tuple[EMAIL_ADMINISTRATIVE_SOFTWARE_COL].value)
 
         ## Run the function to set the skills.
@@ -506,7 +507,7 @@ class Extern(AttributeSet):
         out_str = out_str + f"linkedin_profile:{self.linkedin_profile}\n"
         out_str = out_str + f"adult_education_training:{self.adult_education_training}\n"
         out_str = out_str + f"public_speaking:{self.public_speaking}\n"
-        out_str = out_str + f"group_presentation:{self.group_presentation}\n"
+        #out_str = out_str + f"group_presentation:{self.group_presentation}\n"
         out_str = out_str + f"email_administrative_software:{self.email_administrative_software}\n"
 
         out_str = out_str + "\n"
