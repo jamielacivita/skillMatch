@@ -614,7 +614,7 @@ class Host(AttributeSet):
 
         out_str = out_str + f"who responsible for onboarding: {self.get_who_responsible_onboarding()}\n"
         out_str = out_str + f"how many hours onborading: {self.get_how_many_hours_onboarding()}\n"
-        out_str = out_str + f"anything else : {self.get_anything_else()}\n"
+        out_str = out_str + f"anything else :  {self.get_anything_else()}\n"
 
         out_str = out_str + f"{self.skills}"
 
