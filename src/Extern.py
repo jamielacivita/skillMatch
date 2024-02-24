@@ -1,3 +1,5 @@
+import sys
+
 from AttributeSet import AttributeSet
 import Skills as Skills
 
@@ -62,7 +64,7 @@ city_zip["Wilder"] = 83303
 class Extern(AttributeSet):
     def __init__(self, row_data_tuple):
 
-        self.ID = None
+        self.ID = None                              ## A
         self.start_time = None
         self.completion_time = None
         self.email = None
@@ -77,12 +79,12 @@ class Extern(AttributeSet):
         self.current_roles = None
         self.city_you_live_in = None
         self.why_part_of_program = None
-        self.flavor_of_work = None
+        self.flavor_of_work = None                  ## P
         self.why_most_interesting = None
         self.open_to_teaching = None
         self.open_to_curriculum_design = None
         self.Open_to_camp_counselor = None
-        self.particular_stem_fields = None
+        self.particular_stem_fields = None          ## U
         self.what_work_locations = None
         self.open_to_travelling = None
         self.grade_levels = None
@@ -294,7 +296,6 @@ class Extern(AttributeSet):
         else:
             pass
 
-
     def set_ID(self, ID):
         self.ID = ID
 
@@ -433,6 +434,9 @@ class Extern(AttributeSet):
     def get_last_name(self):
         return self.last_name
 
+    def get_printable_name(self):
+        return f"{self.get_last_name()}, {self.get_first_name()}"
+
     def get_primary_email(self):
         return self.primary_email
 
@@ -457,6 +461,14 @@ class Extern(AttributeSet):
     def get_flavor_of_work(self):
         return self.flavor_of_work
 
+    def get_flavor_of_work_printable_list(self):
+        fow_lst = self.flavor_of_work.split(";")
+        out_str = ""
+        for f in fow_lst[0:-1]:
+            out_str = out_str + f"\t* {f}\n"
+
+        return out_str
+
     def get_why_most_interesting(self):
         return self.why_most_interesting
 
@@ -471,6 +483,14 @@ class Extern(AttributeSet):
 
     def get_particular_stem_fields(self):
         return self.particular_stem_fields
+
+    def get_particular_stem_fields_printable_list(self):
+        psf_lst = self.particular_stem_fields.split(";")
+        out_str = ""
+        for f in psf_lst[0:-1]:
+            out_str = out_str + f"\t* {f}\n"
+
+        return out_str
 
     def get_what_work_locations(self):
         return self.what_work_locations
@@ -536,7 +556,6 @@ class Extern(AttributeSet):
     def get_zip(self):
         return str(self.zip)
 
-
     def __str__(self):
         out_str = ""
         #out_str = out_str + f"ID : {self.ID}\n"
@@ -585,3 +604,40 @@ class Extern(AttributeSet):
         out_str = out_str + f"{self.skills}"
 
         return out_str
+
+    def print_dossier(self):
+        print(f"Applicant : {self.get_printable_name()}")
+        print(f"School : {self.get_school_where_you_work()}")
+        print(f"Roles : {self.current_roles}")
+        print(f"")
+
+    def save_dossier(self, to_file=False):
+        origional_stdout = sys.stdout
+        filename = f"{self.get_last_name()}_{self.get_first_name()}"
+        filepath = f"/home/jamie/PycharmProjects/skillMatch/data/dossier/{filename}.txt"
+        with open(filepath, 'a') as f:
+            sys.stdout = f
+            print(f"Applicant : {self.get_printable_name()}")
+            print(f"School (district) : {self.get_school_where_you_work()} ({self.get_district_where_you_work()})")
+            print(f"Roles : {self.current_roles}")
+            print(f"LinkedIn Profile : {self.get_linkedin_profile()}")
+            print(f"")
+            print(f"INTERESTS")
+            print(f"Why they want to be a part of this program:")
+            print(f"{self.get_why_part_of_program()}")
+            print(f"This applicant likes work environments that are:")
+            print(f"{self.get_flavor_of_work_printable_list()}")
+            print("STEM fields they are particularly interested in learning more about:")
+            print(f"{self.get_particular_stem_fields_printable_list()}")
+            print(f"EXPERIENCE")
+            print(f"Grade Levels: ")
+            print("Instructional Experience:")
+            print("STEM Domain Experience")
+            print("Business software & skills:")
+            print("Other interesting experience:")
+
+
+
+        # Return standard out back to origonal configuration.
+        sys.stdout = origional_stdout
+

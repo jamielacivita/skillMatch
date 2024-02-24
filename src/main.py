@@ -38,7 +38,14 @@ if __name__ == "__main__":
     print(f"Number of matches : {match_set_object.get_number_matches()}")
 
     #match_set_object.print_extern_city()
-    match_set_object.save_match_chart_csv()
+    #match_set_object.save_match_chart_csv()
+
+    extern_lst = match_set_object.extern_obj_lst
+    for extern in extern_lst:
+        #extern.print_dossier()
+        extern.save_dossier()
+
+
 
 
 
