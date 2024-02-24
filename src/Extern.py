@@ -87,7 +87,7 @@ class Extern(AttributeSet):
         self.particular_stem_fields = None          ## U
         self.what_work_locations = None
         self.open_to_travelling = None
-        self.grade_levels = None
+        self.grade_levels = None                    ## X
         self.stem_domains = None
         self.spreadsheet_software = None                ## Z
         self.word_processings_software = None
@@ -501,8 +501,23 @@ class Extern(AttributeSet):
     def get_grade_levels(self):
         return self.grade_levels
 
+    def get_grade_levels_printable_list(self):
+        gl_lst = self.grade_levels.split(";")
+        out_txt = ""
+        for g in gl_lst[0:-1]:
+            out_txt = out_txt + f"\t* {g}\n"
+
+        return out_txt
+
     def get_stem_domains(self):
         return self.stem_domains
+
+    def get_stem_domains_printable_list(self):
+        out_txt = ""
+        sd_lst = self.stem_domains.split(";")
+        for s in sd_lst[0:-1]:
+            out_txt = out_txt + f"\t* {s}\n"
+        return out_txt
 
     def get_spreadsheet_software(self):
         return self.spreadsheet_software
@@ -512,6 +527,24 @@ class Extern(AttributeSet):
 
     def get_presentation_software(self):
         return self.presentation_software
+
+    def get_business_software_skills_printable_list(self):
+        out_txt = ""
+        if self.get_spreadsheet_software() != "No Experience":
+            out_txt = out_txt + f"\t* spreadsheet software:        {self.get_spreadsheet_software()}\n"
+        if self.get_word_processings_software() != "No Experience":
+            out_text = out_txt + f"\t* word processing:             {self.get_word_processings_software()}\n"
+        if self.get_presentation_software() != "No Experience":
+            out_txt = out_text + f"\t* presentation software:       {self.get_presentation_software()}\n"
+        if self.get_project_management() != "No Experience":
+            out_txt = out_txt + f"\t* project management software: {self.get_project_management()}\n"
+        if self.get_email_administrative_software() != "No Experience":
+            out_txt = out_txt + f"\t* administrative software:       {self.get_email_administrative_software()}\n"
+        if self.get_public_speaking() != "No Experience":
+            out_txt = out_txt + f"\t* public speaking:             {self.get_public_speaking()}\n"
+
+
+        return out_txt
 
     def get_elementary_level_instruction(self):
          return self.elementary_level_instruction
@@ -524,6 +557,16 @@ class Extern(AttributeSet):
 
     def get_secondary_level_instruction(self):
         return self.secondary_level_instruction
+
+    def get_instructional_experience_printable_list(self):
+        out_txt = ""
+        if self.get_elementary_level_instruction() != "No Experience":
+            out_txt = out_txt + f"\t* Elementary: {self.get_elementary_level_instruction()}\n"
+        if self.get_secondary_level_instruction() != "No Experience:":
+            out_txt = out_txt + f"\t* Secondary:  {self.get_secondary_level_instruction()}\n"
+        if self.get_adult_education_training() != "No Experience":
+            out_txt = out_txt + f"\t* Adult:      {self.get_adult_education_training()}"
+        return out_txt
 
     def get_experiences_or_interests(self):
         return self.experiences_or_interests
@@ -605,18 +648,14 @@ class Extern(AttributeSet):
 
         return out_str
 
-    def print_dossier(self):
-        print(f"Applicant : {self.get_printable_name()}")
-        print(f"School : {self.get_school_where_you_work()}")
-        print(f"Roles : {self.current_roles}")
-        print(f"")
-
     def save_dossier(self, to_file=False):
         origional_stdout = sys.stdout
         filename = f"{self.get_last_name()}_{self.get_first_name()}"
         filepath = f"/home/jamie/PycharmProjects/skillMatch/data/dossier/{filename}.txt"
         with open(filepath, 'a') as f:
             sys.stdout = f
+            #sys.stdout = origional_stdout #(uncomment this to print to the screen).
+
             print(f"Applicant : {self.get_printable_name()}")
             print(f"School (district) : {self.get_school_where_you_work()} ({self.get_district_where_you_work()})")
             print(f"Roles : {self.current_roles}")
@@ -630,12 +669,19 @@ class Extern(AttributeSet):
             print("STEM fields they are particularly interested in learning more about:")
             print(f"{self.get_particular_stem_fields_printable_list()}")
             print(f"EXPERIENCE")
-            print(f"Grade Levels: ")
+            print(f"Grade Levels: ")    #From column X
+            print(f"{self.get_grade_levels_printable_list()}")
+            print(f"")
             print("Instructional Experience:")
+            print(f"{self.get_instructional_experience_printable_list()}")
+            print(f"")
             print("STEM Domain Experience")
+            print(f"{self.get_stem_domains_printable_list()}")
             print("Business software & skills:")
+            print(f"{self.get_business_software_skills_printable_list()}")
             print("Other interesting experience:")
-
+            print(f"{self.get_experiences_or_interests()}")
+            print(f"")
 
 
         # Return standard out back to origonal configuration.
