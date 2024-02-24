@@ -91,7 +91,7 @@ class MatchSet():
         return len(self.match_obj_lst)
 
     def get_match_chart_header_row(self):
-        return ["KEY", "EXTERN", "HOST", "DISTANCE", "DISTANCE NOTES"]
+        return ["KEY", "EXTERN", "HOST", "DISTANCE", "DISTANCE NOTES", "REMOTE MATCH"]
 
     def get_match_chart_data_rows(self):
         out_rows = []
@@ -102,6 +102,8 @@ class MatchSet():
             out_row.append(f"{match.get_host_name()}")
             out_row.append(f"{match.get_distance()}")
             out_row.append(f"{match.get_distance_notes()}")
+            out_row.append(f"{match.get_remote_match()}")
+
             out_rows.append(out_row)
 
         return out_rows

@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
     match_set_object = MatchSet.MatchSet()
 
-    #match_set_object.print_match_chart()
+    match_set_object.print_match_chart()
 
 
     print(f"Number of externs : {match_set_object.get_number_externs()}")
@@ -43,8 +43,8 @@ if __name__ == "__main__":
     extern_lst = match_set_object.extern_obj_lst
     for extern in extern_lst:
         #extern.print_dossier()
-        extern.save_dossier()
-
+        #extern.save_dossier()
+        pass
 
 
 

@@ -30,6 +30,7 @@ class Match():
         #self.host_zip = host_obj.get_zip()
         self.distance = None
         self.distance_notes = ""
+        self.remote_match = None
 
         self.match_score = 0
 
@@ -63,6 +64,15 @@ class Match():
                 print(f"extern {self.extern_obj.get_id()} zip : {extern_zip} -- host {self.host_obj.get_id()} zip : {host_zip}")
             #print(distance_dict[(extern_zip,host_zip)])
 
+        ## set remote match ##
+        # A remote match is Extern V (what work locations are you open to) and Host AN (can this work be done remotely)
+        extern_remote_match = self.extern_obj.get_what_work_locations()
+        host_remote_match = self.host_obj.get_work_done_remotely()
+
+        if ("Remote" in extern_remote_match) and ("Yes" in host_remote_match):
+            self.set_remote_match(True)
+        else:
+            self.set_remote_match(False)
 
 
     def __str__(self):
@@ -104,4 +114,11 @@ class Match():
         self.distance_notes = self.distance_notes + note
     def get_distance_notes(self):
         return self.distance_notes
+
+    def set_remote_match(self, remote_match):
+        self.remote_match = remote_match
+        return None
+
+    def get_remote_match(self):
+        return self.remote_match
 
