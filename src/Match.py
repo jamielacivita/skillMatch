@@ -29,6 +29,7 @@ class Match():
         #self.extern_zip = extern_obj.get_zip()
         #self.host_zip = host_obj.get_zip()
         self.distance = None
+        self.distance_notes = ""
 
         self.match_score = 0
 
@@ -43,8 +44,26 @@ class Match():
             self.instruction_adult_match = True
             self.match_score = self.match_score + 1
 
-        ## Calculate Distance ##
-        self.distance = distance_dict[(self.extern_obj.get_zip(),self.host_obj.get_zip())]
+        ## Calculate Distance (self.distance) ##
+        # we find distance by using a dictionary which stores the distances in miles between zipcodes.
+        extern_zip = self.extern_obj.get_zip()
+        host_zip = self.host_obj.get_zip()
+        distance_from_dictionary = distance_dict.get((extern_zip,host_zip))
+        if distance_from_dictionary is not None:
+            self.distance = distance_from_dictionary
+            self.set_distance_notes(f"{extern_zip}<-->{host_zip}")
+
+        else:
+            # if you are here the dictionary lookup has failed.
+            if host_zip == "remote":
+                self.distance = 0
+                self.set_distance_notes("host zip is 'remote'")
+            else:
+                self.distance = 9999
+                print(f"extern {self.extern_obj.get_id()} zip : {extern_zip} -- host {self.host_obj.get_id()} zip : {host_zip}")
+            #print(distance_dict[(extern_zip,host_zip)])
+
+
 
     def __str__(self):
         out_str = ""
@@ -80,3 +99,9 @@ class Match():
 
     def get_distance(self):
         return self.distance
+
+    def set_distance_notes(self, note):
+        self.distance_notes = self.distance_notes + note
+    def get_distance_notes(self):
+        return self.distance_notes
+

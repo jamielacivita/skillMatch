@@ -35,7 +35,7 @@ city_zip["McCammon"] = 83250
 city_zip["Meridian"] = 83646
 city_zip["Montpelier"] = 83254
 city_zip["Mountain Home"] = 83647
-city_zip["Nampa"] = 14850
+city_zip["Nampa"] = 83651
 city_zip["Nampa "] = 83651
 city_zip["Nampa, ID"] = 83651
 city_zip["Pocatello"] = 83205
@@ -55,7 +55,7 @@ city_zip["Sandpoint"] = 83864
 city_zip["Shelley"] = 83274
 city_zip["Spirit Lake, Idaho but I commute to Coeur d'Alene daily. "] = 83869
 city_zip["Sugar City Idaho"] = 83448
-city_zip["Twin Falls"] = 14850
+city_zip["Twin Falls"] = 83301
 city_zip["Wilder"] = 83303
 
 
@@ -524,7 +524,14 @@ class Extern(AttributeSet):
         return self.email_administrative_software
 
     def set_zip(self, zip):
-        self.zip = zip
+        if zip == 83606:
+            self.zip = 83605
+        elif zip == 83205:
+            self.zip = 83204
+        elif zip == 83303:
+            self.zip = 83301
+        else:
+            self.zip = zip
 
     def get_zip(self):
         return str(self.zip)

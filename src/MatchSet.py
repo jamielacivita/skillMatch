@@ -1,4 +1,5 @@
 import openpyxl
+import csv
 
 import Host as Host
 import Extern as Extern
@@ -89,20 +90,47 @@ class MatchSet():
     def get_number_matches(self):
         return len(self.match_obj_lst)
 
-    def print_match_chart(self):
-        out_table = pt()
-        out_table.field_names = ["KEY", "EXTERN", "HOST", "DISTANCE"]
+    def get_match_chart_header_row(self):
+        return ["KEY", "EXTERN", "HOST", "DISTANCE", "DISTANCE NOTES"]
+
+    def get_match_chart_data_rows(self):
+        out_rows = []
         for match in self.match_obj_lst:
             out_row = []
             out_row.append(f"{match.get_key()}")
             out_row.append(f"{match.get_extern_name()}")
             out_row.append(f"{match.get_host_name()}")
             out_row.append(f"{match.get_distance()}")
+            out_row.append(f"{match.get_distance_notes()}")
+            out_rows.append(out_row)
 
-            out_table.add_row(out_row)
+        return out_rows
+
+    def print_match_chart(self):
+        out_table = pt()
+        out_table.field_names = self.get_match_chart_header_row()
+        for row in self.get_match_chart_data_rows():
+            out_table.add_row(row)
 
         print(out_table)
+        return None
 
     def print_extern_city(self):
+        """
+        :return: None : printed output is a list of cities that Externs live in.
+        """
         for extern_obj in self.extern_obj_lst:
             print(extern_obj.get_city_you_live_in())
+
+    def save_match_chart_csv(self):
+        """
+        :return: None - effect is to save the match chart data to a CSV.
+        """
+        filename = f"/home/jamie/PycharmProjects/skillMatch/data/out.csv"
+        with open(filename, "w", newline='') as csvfile:
+            match_chart_write = csv.writer(csvfile)
+            match_chart_write.writerow(self.get_match_chart_header_row())
+            for row in self.get_match_chart_data_rows():
+                match_chart_write.writerow(row)
+        csvfile.close()
+        return None

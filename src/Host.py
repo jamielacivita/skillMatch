@@ -412,8 +412,21 @@ class Host(AttributeSet):
 
     def get_work_done_remotely(self):
         return self.work_done_remotely
-    def set_zip(self,zip):
-        self.zip = zip
+    def set_zip(self, zip):
+        if self.get_id() == 5:
+            self.zip = "83301"
+        elif self.get_id() == 16:
+            self.zip = "83201"
+        elif self.get_id() == 31:
+            self.zip = "83301"
+        elif self.get_id() == 32:
+            self.zip = "83647"
+        elif self.get_id() == 36:
+            self.zip = "83702"
+        elif self.get_id() == 41:
+            self.zip = "83702"
+        else:
+            self.zip = zip
 
     def get_zip(self):
         return self.zip
