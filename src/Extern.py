@@ -4,6 +4,61 @@ import Skills as Skills
 import logging
 log = logging.getLogger(__name__)
 print(log)
+
+city_zip = {}
+city_zip["Ada County"] = 83706
+city_zip["Blackfoot "] = 83221
+city_zip["Blackfoot"] = 83221
+city_zip["Boise"] = 83706
+city_zip["Boise, ID"] = 83706
+city_zip["Boise, Idaho"] = 83706
+city_zip["Boise County, halfway between Idaho City and Boise"] = 83716
+city_zip["Buhl"] = 83316
+city_zip["Burley"] = 83318
+city_zip["Caldwell"] = 83606
+city_zip["Dayton"] = 83232
+city_zip["Dietrich "] = 83324
+city_zip["Eagle"] = 83616
+city_zip["Eagle, Idaho"] = 83616
+city_zip["Garden Valley"] = 83622
+city_zip["Glenns Ferry"] = 83623
+city_zip["Hailey"] = 83333
+city_zip["Hazelton, ID"] = 83335
+city_zip["Idaho City"] = 83631
+city_zip["Idaho Falls"]= 83402
+city_zip["Idaho Falls "] = 83402
+city_zip["Idaho Falls, Idaho "] = 83402
+city_zip["Inkom"] = 83245
+city_zip["Kuna, Idaho"] = 83642
+city_zip["McCall"] = 83638
+city_zip["McCammon"] = 83250
+city_zip["Meridian"] = 83646
+city_zip["Montpelier"] = 83254
+city_zip["Mountain Home"] = 83647
+city_zip["Nampa"] = 14850
+city_zip["Nampa "] = 83651
+city_zip["Nampa, ID"] = 83651
+city_zip["Pocatello"] = 83205
+city_zip["Pocatello, ID"] = 83205
+city_zip["Pocatello, Idaho "] = 83205
+city_zip["Pocatello Idaho"] = 83205
+city_zip["Potlatch"] = 83855
+city_zip["Preston"] = 83263
+city_zip["Princeton, Idaho"] = 83857
+city_zip["Rathdrum"] = 83858
+city_zip["Rexburg"] = 83440
+city_zip["Richfield"] = 83349
+city_zip["Rigby"] = 83442
+city_zip["Ririe"] = 83443
+city_zip["Rupert"] = 83350
+city_zip["Sandpoint"] = 83864
+city_zip["Shelley"] = 83274
+city_zip["Spirit Lake, Idaho but I commute to Coeur d'Alene daily. "] = 83869
+city_zip["Sugar City Idaho"] = 83448
+city_zip["Twin Falls"] = 14850
+city_zip["Wilder"] = 83303
+
+
 class Extern(AttributeSet):
     def __init__(self, row_data_tuple):
 
@@ -45,6 +100,7 @@ class Extern(AttributeSet):
         self.public_speaking = None
         #self.group_presentation = None
         self.email_administrative_software = None
+        self.zip = None # This is a synthetic property -- needs conversion from City Live In to a zip.
 
         #append a skills object to hold data for skills matches.
         self.skills = Skills.Skills()
@@ -129,6 +185,7 @@ class Extern(AttributeSet):
         self.set_public_speaking(row_data_tuple[PUBLIC_SPEAKING_COL].value)
         #self.set_group_presentation(row_data_tuple[GROUP_PRESENTATION_COL].value)
         self.set_email_administrative_software(row_data_tuple[EMAIL_ADMINISTRATIVE_SOFTWARE_COL].value)
+        self.set_zip(city_zip[self.city_you_live_in])
 
         ## Run the function to set the skills.
         self.set_skills()
@@ -465,6 +522,11 @@ class Extern(AttributeSet):
 
     def get_email_administrative_software(self):
         return self.email_administrative_software
+
+    def set_zip(self, zip):
+        self.zip = zip
+
+
 
     def __str__(self):
         out_str = ""

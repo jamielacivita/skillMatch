@@ -1,4 +1,11 @@
+import pickle
+
+# Load in the dictionary that holds in the distances between zipcodes.
+with open('/home/jamie/PycharmProjects/skillMatch/data/distance_miles.pickle', 'rb') as distance:
+    distance_dict = pickle.load(distance)
+
 class Match():
+
     def __init__(self, extern_obj, host_obj):
 
         self.extern_obj = extern_obj
@@ -7,7 +14,6 @@ class Match():
         self.key = (extern_obj.get_id(), host_obj.get_id())
         self.host_name = f"{self.host_obj.get_organization_name()}"
         self.extern_name = f"{self.extern_obj.get_last_name()}, {self.extern_obj.get_first_name()}"
-        self.match_score = 0
 
         self.curriculum_design_match = False
         self.instruction_adult_match = False
@@ -20,7 +26,13 @@ class Match():
         self.software_spreadsheet_match = False
         self.software_wordprocessing_match = False
 
+        #self.extern_zip = extern_obj.get_zip()
+        #self.host_zip = host_obj.get_zip()
+        self.distance = None
 
+        self.match_score = 0
+
+        ## Set Matching Values ##
         # check for curriculum_design_match
         if self.extern_obj.skills.curriculum_design and self.host_obj.skills.curriculum_design:
             self.curriculum_design_match = True
@@ -30,6 +42,10 @@ class Match():
         if self.extern_obj.skills.instruction_adult and self.host_obj.skills.instruction_adult:
             self.instruction_adult_match = True
             self.match_score = self.match_score + 1
+
+        ## Calculate Distance ##
+        #self.distance = distance_dict[(self.extern_zip,self.host_zip)]
+
     def __str__(self):
         out_str = ""
         out_str = out_str + "\n"
@@ -52,3 +68,15 @@ class Match():
 
 
         return out_str
+
+    def get_key(self):
+        return self.key
+
+    def get_extern_name(self):
+        return self.extern_name
+
+    def get_host_name(self):
+        return self.host_name
+
+    def get_distance(self):
+        return self.distance
