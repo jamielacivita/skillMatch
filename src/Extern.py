@@ -526,6 +526,8 @@ class Extern(AttributeSet):
     def set_zip(self, zip):
         self.zip = zip
 
+    def get_zip(self):
+        return str(self.zip)
 
 
     def __str__(self):

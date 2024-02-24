@@ -44,7 +44,7 @@ class Match():
             self.match_score = self.match_score + 1
 
         ## Calculate Distance ##
-        #self.distance = distance_dict[(self.extern_zip,self.host_zip)]
+        self.distance = distance_dict[(self.extern_obj.get_zip(),self.host_obj.get_zip())]
 
     def __str__(self):
         out_str = ""
