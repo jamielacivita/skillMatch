@@ -14,15 +14,15 @@ class Skills():
     def __str__(self):
         out_str = ""
 
-        out_str = out_str + f"curriculum_design : {self.curriculum_design}\n"
-        out_str = out_str + f"instruction_adult : {self.instruction_adult}\n"
-        out_str = out_str + f"instruction_elementary : {self.instruction_elementary}\n"
-        out_str = out_str + f"instruction_secondary : {self.instruction_secondary}\n"
-        out_str = out_str + f"project_management : {self.project_management}\n"
-        out_str = out_str + f"public_speaking : {self.public_speaking}\n"
-        out_str = out_str + f"software_email : {self.software_email}\n"
-        out_str = out_str + f"software_presentation : {self.software_presentation}\n"
-        out_str = out_str + f"software_spreadsheet : {self.software_spreadsheet}\n"
+        out_str = out_str + f"curriculum_design :       {self.curriculum_design}\n"
+        out_str = out_str + f"instruction_adult :       {self.instruction_adult}\n"
+        out_str = out_str + f"instruction_elementary :  {self.instruction_elementary}\n"
+        out_str = out_str + f"instruction_secondary :   {self.instruction_secondary}\n"
+        out_str = out_str + f"project_management :      {self.project_management}\n"
+        out_str = out_str + f"public_speaking :         {self.public_speaking}\n"
+        out_str = out_str + f"software_email :          {self.software_email}\n"
+        out_str = out_str + f"software_presentation :   {self.software_presentation}\n"
+        out_str = out_str + f"software_spreadsheet :    {self.software_spreadsheet}\n"
         out_str = out_str + f"software_wordprocessing : {self.software_wordprocessing}\n"
 
         return out_str

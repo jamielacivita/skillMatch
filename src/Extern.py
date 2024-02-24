@@ -352,7 +352,7 @@ class Extern(AttributeSet):
     def set_email_administrative_software(self, email_administrative_software):
         self.email_administrative_software = email_administrative_software
 
-    def get_ID(self):
+    def get_id(self):
         return self.ID
 
     def get_start_time(self):

@@ -4,42 +4,28 @@ import openpyxl
 import Host as Host
 import Extern as Extern
 import Skills as Skills
-
+import Match as Match
 
 import logging.config
 #logging.config.fileConfig("/home/jamie/source/python/skillMatch/src/logging_config.ini")
 logging.config.fileConfig("/home/jamie/PycharmProjects/skillMatch/src/logging_config.ini")
-
-
 log = logging.getLogger(__name__)
 
-def main():
+def get_match_object_lst():
+    host_dataframe = get_host_dataframe()
+    host_objects_list = parse_host_dataframe(host_dataframe)
 
-    ## load the dictionary of distances between zip codes.
-    pickle_file = r"/home/jamie/PycharmProjects/skillMatch/data/distance_miles.pickle"
-    with open(pickle_file, 'rb') as handle:
-        zip_distance = pickle.load(handle)
+    extern_dataframe = get_extern_dataframe()
+    extern_objects_list = parse_extern_dataframe(extern_dataframe)
 
-    dp = DataPool.DataPool()
-    dp.populate_host_list()
-    dp.populate_extern_list()
-    #dp.print_host_list()
-    #dp.print_extern_list()
+    match_obj_list = []
+    for extern in extern_objects_list:
+        for host in host_objects_list:
+            # make a empty match object.
+            match_obj = Match.Match(extern,host)
+            match_obj_list.append(match_obj)
 
-
-    output_file = r"/home/jamie/PycharmProjects/skillMatch/data/out.txt"
-    with open(output_file,"w") as output_file:
-        for extern in dp.extern_lst:
-            for host in dp.host_lst:
-                #print(extern)
-                #print(host)
-                #print(f"Extern {extern.name} matches with host {host.name} : {extern+host} at an aproximate distance of {zip_distance[(extern.zip, host.zip)]}.")
-                out_row = f"Extern {extern.name} matches with host {host.name} {extern+host} times at an approximate distance of {zip_distance[(extern.zip, host.zip)]}\n"
-                output_file.write(out_row)
-            output_file.write("\n")
-    output_file.close()
-
-    log.debug("finished")
+    return match_obj_list
 
 def host_generate_field_headings(filename="/home/jamie/PycharmProjects/skillMatch/data/240218-055238_Host.xlsx"):
     """
@@ -55,7 +41,7 @@ def host_generate_field_headings(filename="/home/jamie/PycharmProjects/skillMatc
             if cell.column_letter == "AJ":
                 print(f" {cell.column_letter} : {cell.value}")
 
-def host_get_dataframe(filename="/home/jamie/PycharmProjects/skillMatch/data/240218-055238_Host.xlsx"):
+def get_host_dataframe(filename="/home/jamie/PycharmProjects/skillMatch/data/240218-055238_Host.xlsx"):
     """
     Given a path to a host file return a dataframe records.
     :return:
@@ -65,20 +51,13 @@ def host_get_dataframe(filename="/home/jamie/PycharmProjects/skillMatch/data/240
 
     return dataframe1
 
-def host_parse_dataframe(dataframe):
+def parse_host_dataframe(dataframe):
     """
     :param dataframe:
     :return: a list of lists holding the information in the dataframe.
     """
 
-    hosts_obj_lst = []
-
-    #for row in range(2, dataframe.max_row):
-
-
-        #for col in dataframe.iter_cols(1, dataframe.max_column):
-            #cell = col[row]
-            #column_letter = cell.column_letter
+    out_lst = []
 
     FIRST_DATA_ROW = 2
 
@@ -87,51 +66,37 @@ def host_parse_dataframe(dataframe):
     ## each row represents a host
     ## create and populate host object
         host_obj = Host.Host(row)
-        print(host_obj)
+        out_lst.append(host_obj)
+
+    return out_lst
 
 
-
-    print("done.")
-
-
-def foo_populate_Extern():
+def get_extern_dataframe():
     print("foo_populate_Extern")
     filename = r"/home/jamie/PycharmProjects/skillMatch/data/240218-055306_Educator.xlsx"
 
     dataframe = openpyxl.load_workbook(filename)
     dataframe1 = dataframe.active
 
-    print(dataframe1)
+    return dataframe1
 
+def parse_extern_dataframe(dataframe):
+    out_lst = []
     FIRST_DATA_ROW = 2
-    for row in dataframe1.iter_rows(FIRST_DATA_ROW, dataframe1.max_row):
+    for row in dataframe.iter_rows(FIRST_DATA_ROW, dataframe.max_row):
         extern_obj = Extern.Extern(row)
-        print(extern_obj)
+        out_lst.append(extern_obj)
 
-
-def foo_Skills():
-    print("In foo_skills")
-    print("Make a skills object and print it out.")
-    skills_obj = Skills.Skills()
-    print(skills_obj)
-    print("toggle curiculum design.")
-    skills_obj.set_curriculum_design(True)
-    skills_obj.set_software_email(True)
-    skills_obj.set_software_presentation(True)
-    skills_obj.set_software_presentation(True)
-    print(skills_obj)
-
-
+    return out_lst
 
 
 
 if __name__ == "__main__":
-    #main()
-    #host_generate_field_headings()
+    match_object_list = get_match_object_lst()
+    for match in match_object_list:
+        print(match)
 
-    df = host_get_dataframe()
-    host_parse_dataframe(df)
-    #foo_populate_Extern()
-    #foo_Skills()
+    print("Done.")
+
 
 
