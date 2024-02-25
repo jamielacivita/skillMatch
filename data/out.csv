@@ -18,13 +18,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 3,20,"Roope, Natalie",Idaho Division of Career Technical Education,37,83647<-->83702,True,0,None
 3,21,"Roope, Natalie",Idaho Division of Vocational Rehabilitation,37,83647<-->83720,False,0,None
 3,22,"Roope, Natalie",Londr,51,83647<-->83616,True,0,None
-3,23,"Roope, Natalie",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+3,23,"Roope, Natalie",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 3,24,"Roope, Natalie",Northwest Machining & Mfg Inc.,49,83647<-->83646,False,0,None
 3,25,"Roope, Natalie",Exyte ,20,83647<-->83716,False,0,None
 3,26,"Roope, Natalie",Exyte,20,83647<-->83716,False,0,None
 3,27,"Roope, Natalie","Western Aircraft, Inc.",37,83647<-->83705,False,0,None
 3,28,"Roope, Natalie",Girl Scouts of Silver Sage,40,83647<-->83709,False,0,None
-3,29,"Roope, Natalie",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+3,29,"Roope, Natalie",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 3,30,"Roope, Natalie","Intermountain Blending & Filling, LLC",46,83647<-->83642,False,0,None
 3,31,"Roope, Natalie",Boys & Girls Clubs of Magic Valley,85,83647<-->83301,True,0,None
 3,32,"Roope, Natalie",Museum of Idaho,0,83647<-->83647,True,0,None
@@ -60,13 +60,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 4,20,"Palmer, Suzy",Idaho Division of Career Technical Education,23,83651<-->83702,True,0,None
 4,21,"Palmer, Suzy",Idaho Division of Vocational Rehabilitation,21,83651<-->83720,False,0,None
 4,22,"Palmer, Suzy",Londr,17,83651<-->83616,True,0,None
-4,23,"Palmer, Suzy",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+4,23,"Palmer, Suzy",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 4,24,"Palmer, Suzy",Northwest Machining & Mfg Inc.,10,83651<-->83646,False,0,None
 4,25,"Palmer, Suzy",Exyte ,49,83651<-->83716,False,0,None
 4,26,"Palmer, Suzy",Exyte,49,83651<-->83716,False,0,None
 4,27,"Palmer, Suzy","Western Aircraft, Inc.",20,83651<-->83705,False,0,None
 4,28,"Palmer, Suzy",Girl Scouts of Silver Sage,17,83651<-->83709,False,0,None
-4,29,"Palmer, Suzy",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+4,29,"Palmer, Suzy",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 4,30,"Palmer, Suzy","Intermountain Blending & Filling, LLC",11,83651<-->83642,False,0,None
 4,31,"Palmer, Suzy",Boys & Girls Clubs of Magic Valley,134,83651<-->83301,True,0,None
 4,32,"Palmer, Suzy",Museum of Idaho,57,83651<-->83647,True,0,None
@@ -102,13 +102,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 5,20,"Dahl, Donovan",Idaho Division of Career Technical Education,120,83301<-->83702,True,0,None
 5,21,"Dahl, Donovan",Idaho Division of Vocational Rehabilitation,119,83301<-->83720,False,0,None
 5,22,"Dahl, Donovan",Londr,134,83301<-->83616,True,0,None
-5,23,"Dahl, Donovan",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+5,23,"Dahl, Donovan",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 5,24,"Dahl, Donovan",Northwest Machining & Mfg Inc.,129,83301<-->83646,False,0,None
 5,25,"Dahl, Donovan",Exyte ,105,83301<-->83716,False,0,None
 5,26,"Dahl, Donovan",Exyte,105,83301<-->83716,False,0,None
 5,27,"Dahl, Donovan","Western Aircraft, Inc.",117,83301<-->83705,False,0,None
 5,28,"Dahl, Donovan",Girl Scouts of Silver Sage,119,83301<-->83709,False,0,None
-5,29,"Dahl, Donovan",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+5,29,"Dahl, Donovan",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 5,30,"Dahl, Donovan","Intermountain Blending & Filling, LLC",125,83301<-->83642,False,0,None
 5,31,"Dahl, Donovan",Boys & Girls Clubs of Magic Valley,0,83301<-->83301,True,0,None
 5,32,"Dahl, Donovan",Museum of Idaho,85,83301<-->83647,True,0,None
@@ -144,13 +144,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 6,20,"Hill, Donna",Idaho Division of Career Technical Education,200,83402<-->83702,True,0,None
 6,21,"Hill, Donna",Idaho Division of Vocational Rehabilitation,201,83402<-->83720,False,0,None
 6,22,"Hill, Donna",Londr,211,83402<-->83616,True,0,None
-6,23,"Hill, Donna",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+6,23,"Hill, Donna",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 6,24,"Hill, Donna",Northwest Machining & Mfg Inc.,213,83402<-->83646,False,0,None
 6,25,"Hill, Donna",Exyte ,174,83402<-->83716,False,0,None
 6,26,"Hill, Donna",Exyte,174,83402<-->83716,False,0,None
 6,27,"Hill, Donna","Western Aircraft, Inc.",202,83402<-->83705,False,0,None
 6,28,"Hill, Donna",Girl Scouts of Silver Sage,206,83402<-->83709,False,0,None
-6,29,"Hill, Donna",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+6,29,"Hill, Donna",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 6,30,"Hill, Donna","Intermountain Blending & Filling, LLC",211,83402<-->83642,False,0,None
 6,31,"Hill, Donna",Boys & Girls Clubs of Magic Valley,142,83402<-->83301,True,0,None
 6,32,"Hill, Donna",Museum of Idaho,167,83402<-->83647,True,0,None
@@ -186,13 +186,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 7,20,"Harry, Rachel",Idaho Division of Career Technical Education,13,83646<-->83702,True,0,None
 7,21,"Harry, Rachel",Idaho Division of Vocational Rehabilitation,11,83646<-->83720,False,0,None
 7,22,"Harry, Rachel",Londr,9,83646<-->83616,True,0,None
-7,23,"Harry, Rachel",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+7,23,"Harry, Rachel",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 7,24,"Harry, Rachel",Northwest Machining & Mfg Inc.,0,83646<-->83646,False,0,None
 7,25,"Harry, Rachel",Exyte ,38,83646<-->83716,False,0,None
 7,26,"Harry, Rachel",Exyte,38,83646<-->83716,False,0,None
 7,27,"Harry, Rachel","Western Aircraft, Inc.",12,83646<-->83705,False,0,None
 7,28,"Harry, Rachel",Girl Scouts of Silver Sage,9,83646<-->83709,False,0,None
-7,29,"Harry, Rachel",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+7,29,"Harry, Rachel",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 7,30,"Harry, Rachel","Intermountain Blending & Filling, LLC",5,83646<-->83642,False,0,None
 7,31,"Harry, Rachel",Boys & Girls Clubs of Magic Valley,129,83646<-->83301,True,0,None
 7,32,"Harry, Rachel",Museum of Idaho,49,83646<-->83647,True,0,None
@@ -228,13 +228,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 10,20,"Bynum, Alicia",Idaho Division of Career Technical Education,183,83221<-->83702,True,0,None
 10,21,"Bynum, Alicia",Idaho Division of Vocational Rehabilitation,185,83221<-->83720,False,0,None
 10,22,"Bynum, Alicia",Londr,195,83221<-->83616,True,0,None
-10,23,"Bynum, Alicia",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+10,23,"Bynum, Alicia",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 10,24,"Bynum, Alicia",Northwest Machining & Mfg Inc.,196,83221<-->83646,False,0,None
 10,25,"Bynum, Alicia",Exyte ,158,83221<-->83716,False,0,None
 10,26,"Bynum, Alicia",Exyte,158,83221<-->83716,False,0,None
 10,27,"Bynum, Alicia","Western Aircraft, Inc.",185,83221<-->83705,False,0,None
 10,28,"Bynum, Alicia",Girl Scouts of Silver Sage,189,83221<-->83709,False,0,None
-10,29,"Bynum, Alicia",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+10,29,"Bynum, Alicia",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 10,30,"Bynum, Alicia","Intermountain Blending & Filling, LLC",194,83221<-->83642,False,0,None
 10,31,"Bynum, Alicia",Boys & Girls Clubs of Magic Valley,118,83221<-->83301,True,0,None
 10,32,"Bynum, Alicia",Museum of Idaho,149,83221<-->83647,True,0,None
@@ -270,13 +270,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 11,20,"Wallaert, Kristopher ",Idaho Division of Career Technical Education,37,83647<-->83702,True,0,None
 11,21,"Wallaert, Kristopher ",Idaho Division of Vocational Rehabilitation,37,83647<-->83720,False,0,None
 11,22,"Wallaert, Kristopher ",Londr,51,83647<-->83616,True,0,None
-11,23,"Wallaert, Kristopher ",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+11,23,"Wallaert, Kristopher ",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 11,24,"Wallaert, Kristopher ",Northwest Machining & Mfg Inc.,49,83647<-->83646,False,0,None
 11,25,"Wallaert, Kristopher ",Exyte ,20,83647<-->83716,False,0,None
 11,26,"Wallaert, Kristopher ",Exyte,20,83647<-->83716,False,0,None
 11,27,"Wallaert, Kristopher ","Western Aircraft, Inc.",37,83647<-->83705,False,0,None
 11,28,"Wallaert, Kristopher ",Girl Scouts of Silver Sage,40,83647<-->83709,False,0,None
-11,29,"Wallaert, Kristopher ",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+11,29,"Wallaert, Kristopher ",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 11,30,"Wallaert, Kristopher ","Intermountain Blending & Filling, LLC",46,83647<-->83642,False,0,None
 11,31,"Wallaert, Kristopher ",Boys & Girls Clubs of Magic Valley,85,83647<-->83301,True,0,None
 11,32,"Wallaert, Kristopher ",Museum of Idaho,0,83647<-->83647,True,0,None
@@ -312,13 +312,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 12,20,"Lucore, Autney ",Idaho Division of Career Technical Education,24,83605<-->83702,True,0,None
 12,21,"Lucore, Autney ",Idaho Division of Vocational Rehabilitation,22,83605<-->83720,False,0,None
 12,22,"Lucore, Autney ",Londr,15,83605<-->83616,True,0,None
-12,23,"Lucore, Autney ",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+12,23,"Lucore, Autney ",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 12,24,"Lucore, Autney ",Northwest Machining & Mfg Inc.,11,83605<-->83646,False,0,None
 12,25,"Lucore, Autney ",Exyte ,49,83605<-->83716,False,0,None
 12,26,"Lucore, Autney ",Exyte,49,83605<-->83716,False,0,None
 12,27,"Lucore, Autney ","Western Aircraft, Inc.",22,83605<-->83705,False,0,None
 12,28,"Lucore, Autney ",Girl Scouts of Silver Sage,19,83605<-->83709,False,0,None
-12,29,"Lucore, Autney ",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+12,29,"Lucore, Autney ",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 12,30,"Lucore, Autney ","Intermountain Blending & Filling, LLC",14,83605<-->83642,False,0,None
 12,31,"Lucore, Autney ",Boys & Girls Clubs of Magic Valley,138,83605<-->83301,True,0,None
 12,32,"Lucore, Autney ",Museum of Idaho,60,83605<-->83647,True,0,None
@@ -354,13 +354,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 13,20,"Randall, Allyson",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 13,21,"Randall, Allyson",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 13,22,"Randall, Allyson",Londr,16,83706<-->83616,True,0,None
-13,23,"Randall, Allyson",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+13,23,"Randall, Allyson",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 13,24,"Randall, Allyson",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 13,25,"Randall, Allyson",Exyte ,27,83706<-->83716,False,0,None
 13,26,"Randall, Allyson",Exyte,27,83706<-->83716,False,0,None
 13,27,"Randall, Allyson","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 13,28,"Randall, Allyson",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-13,29,"Randall, Allyson",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+13,29,"Randall, Allyson",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 13,30,"Randall, Allyson","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 13,31,"Randall, Allyson",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 13,32,"Randall, Allyson",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -396,13 +396,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 14,20,"Lucore, Timothy",Idaho Division of Career Technical Education,24,83605<-->83702,True,0,None
 14,21,"Lucore, Timothy",Idaho Division of Vocational Rehabilitation,22,83605<-->83720,False,0,None
 14,22,"Lucore, Timothy",Londr,15,83605<-->83616,True,0,None
-14,23,"Lucore, Timothy",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+14,23,"Lucore, Timothy",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 14,24,"Lucore, Timothy",Northwest Machining & Mfg Inc.,11,83605<-->83646,False,0,None
 14,25,"Lucore, Timothy",Exyte ,49,83605<-->83716,False,0,None
 14,26,"Lucore, Timothy",Exyte,49,83605<-->83716,False,0,None
 14,27,"Lucore, Timothy","Western Aircraft, Inc.",22,83605<-->83705,False,0,None
 14,28,"Lucore, Timothy",Girl Scouts of Silver Sage,19,83605<-->83709,False,0,None
-14,29,"Lucore, Timothy",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+14,29,"Lucore, Timothy",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 14,30,"Lucore, Timothy","Intermountain Blending & Filling, LLC",14,83605<-->83642,False,0,None
 14,31,"Lucore, Timothy",Boys & Girls Clubs of Magic Valley,138,83605<-->83301,True,0,None
 14,32,"Lucore, Timothy",Museum of Idaho,60,83605<-->83647,True,0,None
@@ -438,13 +438,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 15,20,"Walker, Colton",Idaho Division of Career Technical Education,193,83204<-->83702,True,0,None
 15,21,"Walker, Colton",Idaho Division of Vocational Rehabilitation,193,83204<-->83720,False,0,None
 15,22,"Walker, Colton",Londr,206,83204<-->83616,True,0,None
-15,23,"Walker, Colton",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+15,23,"Walker, Colton",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 15,24,"Walker, Colton",Northwest Machining & Mfg Inc.,205,83204<-->83646,False,0,None
 15,25,"Walker, Colton",Exyte ,169,83204<-->83716,False,0,None
 15,26,"Walker, Colton",Exyte,169,83204<-->83716,False,0,None
 15,27,"Walker, Colton","Western Aircraft, Inc.",193,83204<-->83705,False,0,None
 15,28,"Walker, Colton",Girl Scouts of Silver Sage,197,83204<-->83709,False,0,None
-15,29,"Walker, Colton",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+15,29,"Walker, Colton",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 15,30,"Walker, Colton","Intermountain Blending & Filling, LLC",202,83204<-->83642,False,0,None
 15,31,"Walker, Colton",Boys & Girls Clubs of Magic Valley,105,83204<-->83301,True,0,None
 15,32,"Walker, Colton",Museum of Idaho,156,83204<-->83647,True,0,None
@@ -480,13 +480,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 16,20,"Martinez, Kelli",Idaho Division of Career Technical Education,183,83221<-->83702,True,0,None
 16,21,"Martinez, Kelli",Idaho Division of Vocational Rehabilitation,185,83221<-->83720,False,0,None
 16,22,"Martinez, Kelli",Londr,195,83221<-->83616,True,0,None
-16,23,"Martinez, Kelli",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+16,23,"Martinez, Kelli",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 16,24,"Martinez, Kelli",Northwest Machining & Mfg Inc.,196,83221<-->83646,False,0,None
 16,25,"Martinez, Kelli",Exyte ,158,83221<-->83716,False,0,None
 16,26,"Martinez, Kelli",Exyte,158,83221<-->83716,False,0,None
 16,27,"Martinez, Kelli","Western Aircraft, Inc.",185,83221<-->83705,False,0,None
 16,28,"Martinez, Kelli",Girl Scouts of Silver Sage,189,83221<-->83709,False,0,None
-16,29,"Martinez, Kelli",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+16,29,"Martinez, Kelli",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 16,30,"Martinez, Kelli","Intermountain Blending & Filling, LLC",194,83221<-->83642,False,0,None
 16,31,"Martinez, Kelli",Boys & Girls Clubs of Magic Valley,118,83221<-->83301,True,0,None
 16,32,"Martinez, Kelli",Museum of Idaho,149,83221<-->83647,True,0,None
@@ -522,13 +522,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 17,20,"Weaver, Megan",Idaho Division of Career Technical Education,231,83855<-->83702,True,0,None
 17,21,"Weaver, Megan",Idaho Division of Vocational Rehabilitation,234,83855<-->83720,False,0,None
 17,22,"Weaver, Megan",Londr,222,83855<-->83616,True,0,None
-17,23,"Weaver, Megan",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+17,23,"Weaver, Megan",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 17,24,"Weaver, Megan",Northwest Machining & Mfg Inc.,230,83855<-->83646,False,0,None
 17,25,"Weaver, Megan",Exyte ,236,83855<-->83716,False,0,None
 17,26,"Weaver, Megan",Exyte,236,83855<-->83716,False,0,None
 17,27,"Weaver, Megan","Western Aircraft, Inc.",238,83855<-->83705,False,0,None
 17,28,"Weaver, Megan",Girl Scouts of Silver Sage,238,83855<-->83709,False,0,None
-17,29,"Weaver, Megan",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+17,29,"Weaver, Megan",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 17,30,"Weaver, Megan","Intermountain Blending & Filling, LLC",236,83855<-->83642,False,0,None
 17,31,"Weaver, Megan",Boys & Girls Clubs of Magic Valley,337,83855<-->83301,True,0,None
 17,32,"Weaver, Megan",Museum of Idaho,256,83855<-->83647,True,0,None
@@ -564,13 +564,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 18,20,"Harris, Jolene",Idaho Division of Career Technical Education,200,83402<-->83702,True,0,None
 18,21,"Harris, Jolene",Idaho Division of Vocational Rehabilitation,201,83402<-->83720,False,0,None
 18,22,"Harris, Jolene",Londr,211,83402<-->83616,True,0,None
-18,23,"Harris, Jolene",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+18,23,"Harris, Jolene",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 18,24,"Harris, Jolene",Northwest Machining & Mfg Inc.,213,83402<-->83646,False,0,None
 18,25,"Harris, Jolene",Exyte ,174,83402<-->83716,False,0,None
 18,26,"Harris, Jolene",Exyte,174,83402<-->83716,False,0,None
 18,27,"Harris, Jolene","Western Aircraft, Inc.",202,83402<-->83705,False,0,None
 18,28,"Harris, Jolene",Girl Scouts of Silver Sage,206,83402<-->83709,False,0,None
-18,29,"Harris, Jolene",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+18,29,"Harris, Jolene",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 18,30,"Harris, Jolene","Intermountain Blending & Filling, LLC",211,83402<-->83642,False,0,None
 18,31,"Harris, Jolene",Boys & Girls Clubs of Magic Valley,142,83402<-->83301,True,0,None
 18,32,"Harris, Jolene",Museum of Idaho,167,83402<-->83647,True,0,None
@@ -606,13 +606,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 19,20,"Castronova, Mary",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 19,21,"Castronova, Mary",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 19,22,"Castronova, Mary",Londr,16,83706<-->83616,True,0,None
-19,23,"Castronova, Mary",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+19,23,"Castronova, Mary",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 19,24,"Castronova, Mary",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 19,25,"Castronova, Mary",Exyte ,27,83706<-->83716,False,0,None
 19,26,"Castronova, Mary",Exyte,27,83706<-->83716,False,0,None
 19,27,"Castronova, Mary","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 19,28,"Castronova, Mary",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-19,29,"Castronova, Mary",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+19,29,"Castronova, Mary",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 19,30,"Castronova, Mary","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 19,31,"Castronova, Mary",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 19,32,"Castronova, Mary",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -648,13 +648,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 20,20,"Rasmussen, Lily",Idaho Division of Career Technical Education,120,83301<-->83702,True,0,None
 20,21,"Rasmussen, Lily",Idaho Division of Vocational Rehabilitation,119,83301<-->83720,False,0,None
 20,22,"Rasmussen, Lily",Londr,134,83301<-->83616,True,0,None
-20,23,"Rasmussen, Lily",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+20,23,"Rasmussen, Lily",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 20,24,"Rasmussen, Lily",Northwest Machining & Mfg Inc.,129,83301<-->83646,False,0,None
 20,25,"Rasmussen, Lily",Exyte ,105,83301<-->83716,False,0,None
 20,26,"Rasmussen, Lily",Exyte,105,83301<-->83716,False,0,None
 20,27,"Rasmussen, Lily","Western Aircraft, Inc.",117,83301<-->83705,False,0,None
 20,28,"Rasmussen, Lily",Girl Scouts of Silver Sage,119,83301<-->83709,False,0,None
-20,29,"Rasmussen, Lily",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+20,29,"Rasmussen, Lily",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 20,30,"Rasmussen, Lily","Intermountain Blending & Filling, LLC",125,83301<-->83642,False,0,None
 20,31,"Rasmussen, Lily",Boys & Girls Clubs of Magic Valley,0,83301<-->83301,True,0,None
 20,32,"Rasmussen, Lily",Museum of Idaho,85,83301<-->83647,True,0,None
@@ -690,13 +690,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 21,20,"Baughman, Lauren",Idaho Division of Career Technical Education,291,83858<-->83702,True,0,None
 21,21,"Baughman, Lauren",Idaho Division of Vocational Rehabilitation,294,83858<-->83720,False,0,None
 21,22,"Baughman, Lauren",Londr,282,83858<-->83616,True,0,None
-21,23,"Baughman, Lauren",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+21,23,"Baughman, Lauren",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 21,24,"Baughman, Lauren",Northwest Machining & Mfg Inc.,291,83858<-->83646,False,0,None
 21,25,"Baughman, Lauren",Exyte ,294,83858<-->83716,False,0,None
 21,26,"Baughman, Lauren",Exyte,294,83858<-->83716,False,0,None
 21,27,"Baughman, Lauren","Western Aircraft, Inc.",298,83858<-->83705,False,0,None
 21,28,"Baughman, Lauren",Girl Scouts of Silver Sage,298,83858<-->83709,False,0,None
-21,29,"Baughman, Lauren",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+21,29,"Baughman, Lauren",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 21,30,"Baughman, Lauren","Intermountain Blending & Filling, LLC",296,83858<-->83642,False,0,None
 21,31,"Baughman, Lauren",Boys & Girls Clubs of Magic Valley,394,83858<-->83301,True,0,None
 21,32,"Baughman, Lauren",Museum of Idaho,315,83858<-->83647,True,0,None
@@ -732,13 +732,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 22,20,"John, Joanna ",Idaho Division of Career Technical Education,24,83605<-->83702,True,0,None
 22,21,"John, Joanna ",Idaho Division of Vocational Rehabilitation,22,83605<-->83720,False,0,None
 22,22,"John, Joanna ",Londr,15,83605<-->83616,True,0,None
-22,23,"John, Joanna ",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+22,23,"John, Joanna ",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 22,24,"John, Joanna ",Northwest Machining & Mfg Inc.,11,83605<-->83646,False,0,None
 22,25,"John, Joanna ",Exyte ,49,83605<-->83716,False,0,None
 22,26,"John, Joanna ",Exyte,49,83605<-->83716,False,0,None
 22,27,"John, Joanna ","Western Aircraft, Inc.",22,83605<-->83705,False,0,None
 22,28,"John, Joanna ",Girl Scouts of Silver Sage,19,83605<-->83709,False,0,None
-22,29,"John, Joanna ",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+22,29,"John, Joanna ",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 22,30,"John, Joanna ","Intermountain Blending & Filling, LLC",14,83605<-->83642,False,0,None
 22,31,"John, Joanna ",Boys & Girls Clubs of Magic Valley,138,83605<-->83301,True,0,None
 22,32,"John, Joanna ",Museum of Idaho,60,83605<-->83647,True,0,None
@@ -774,13 +774,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 24,20,"McKenzie, Brenda",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 24,21,"McKenzie, Brenda",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 24,22,"McKenzie, Brenda",Londr,16,83706<-->83616,True,0,None
-24,23,"McKenzie, Brenda",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+24,23,"McKenzie, Brenda",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 24,24,"McKenzie, Brenda",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 24,25,"McKenzie, Brenda",Exyte ,27,83706<-->83716,False,0,None
 24,26,"McKenzie, Brenda",Exyte,27,83706<-->83716,False,0,None
 24,27,"McKenzie, Brenda","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 24,28,"McKenzie, Brenda",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-24,29,"McKenzie, Brenda",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+24,29,"McKenzie, Brenda",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 24,30,"McKenzie, Brenda","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 24,31,"McKenzie, Brenda",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 24,32,"McKenzie, Brenda",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -816,13 +816,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 25,20,"Aufderheide Keck, Penni",Idaho Division of Career Technical Education,120,83301<-->83702,True,0,None
 25,21,"Aufderheide Keck, Penni",Idaho Division of Vocational Rehabilitation,119,83301<-->83720,False,0,None
 25,22,"Aufderheide Keck, Penni",Londr,134,83301<-->83616,True,0,None
-25,23,"Aufderheide Keck, Penni",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+25,23,"Aufderheide Keck, Penni",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 25,24,"Aufderheide Keck, Penni",Northwest Machining & Mfg Inc.,129,83301<-->83646,False,0,None
 25,25,"Aufderheide Keck, Penni",Exyte ,105,83301<-->83716,False,0,None
 25,26,"Aufderheide Keck, Penni",Exyte,105,83301<-->83716,False,0,None
 25,27,"Aufderheide Keck, Penni","Western Aircraft, Inc.",117,83301<-->83705,False,0,None
 25,28,"Aufderheide Keck, Penni",Girl Scouts of Silver Sage,119,83301<-->83709,False,0,None
-25,29,"Aufderheide Keck, Penni",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+25,29,"Aufderheide Keck, Penni",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 25,30,"Aufderheide Keck, Penni","Intermountain Blending & Filling, LLC",125,83301<-->83642,False,0,None
 25,31,"Aufderheide Keck, Penni",Boys & Girls Clubs of Magic Valley,0,83301<-->83301,True,0,None
 25,32,"Aufderheide Keck, Penni",Museum of Idaho,85,83301<-->83647,True,0,None
@@ -858,13 +858,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 26,20,"Duncan, Samantha",Idaho Division of Career Technical Education,107,83349<-->83702,False,0,None
 26,21,"Duncan, Samantha",Idaho Division of Vocational Rehabilitation,107,83349<-->83720,False,0,None
 26,22,"Duncan, Samantha",Londr,120,83349<-->83616,False,0,None
-26,23,"Duncan, Samantha",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+26,23,"Duncan, Samantha",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 26,24,"Duncan, Samantha",Northwest Machining & Mfg Inc.,119,83349<-->83646,False,0,None
 26,25,"Duncan, Samantha",Exyte ,84,83349<-->83716,False,0,None
 26,26,"Duncan, Samantha",Exyte,84,83349<-->83716,False,0,None
 26,27,"Duncan, Samantha","Western Aircraft, Inc.",107,83349<-->83705,False,0,None
 26,28,"Duncan, Samantha",Girl Scouts of Silver Sage,110,83349<-->83709,False,0,None
-26,29,"Duncan, Samantha",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+26,29,"Duncan, Samantha",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 26,30,"Duncan, Samantha","Intermountain Blending & Filling, LLC",116,83349<-->83642,False,0,None
 26,31,"Duncan, Samantha",Boys & Girls Clubs of Magic Valley,51,83349<-->83301,False,0,None
 26,32,"Duncan, Samantha",Museum of Idaho,70,83349<-->83647,False,0,None
@@ -900,13 +900,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 27,20,"Kearns, Suzi",Idaho Division of Career Technical Education,217,83440<-->83702,True,0,None
 27,21,"Kearns, Suzi",Idaho Division of Vocational Rehabilitation,219,83440<-->83720,False,0,None
 27,22,"Kearns, Suzi",Londr,228,83440<-->83616,True,0,None
-27,23,"Kearns, Suzi",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+27,23,"Kearns, Suzi",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 27,24,"Kearns, Suzi",Northwest Machining & Mfg Inc.,231,83440<-->83646,False,0,None
 27,25,"Kearns, Suzi",Exyte ,192,83440<-->83716,False,0,None
 27,26,"Kearns, Suzi",Exyte,192,83440<-->83716,False,0,None
 27,27,"Kearns, Suzi","Western Aircraft, Inc.",221,83440<-->83705,False,0,None
 27,28,"Kearns, Suzi",Girl Scouts of Silver Sage,224,83440<-->83709,False,0,None
-27,29,"Kearns, Suzi",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+27,29,"Kearns, Suzi",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 27,30,"Kearns, Suzi","Intermountain Blending & Filling, LLC",230,83440<-->83642,False,0,None
 27,31,"Kearns, Suzi",Boys & Girls Clubs of Magic Valley,168,83440<-->83301,True,0,None
 27,32,"Kearns, Suzi",Museum of Idaho,187,83440<-->83647,True,0,None
@@ -942,13 +942,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 28,20,"Dyorich, Rebecca",Idaho Division of Career Technical Education,230,83443<-->83702,True,0,None
 28,21,"Dyorich, Rebecca",Idaho Division of Vocational Rehabilitation,232,83443<-->83720,False,0,None
 28,22,"Dyorich, Rebecca",Londr,242,83443<-->83616,True,0,None
-28,23,"Dyorich, Rebecca",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+28,23,"Dyorich, Rebecca",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 28,24,"Dyorich, Rebecca",Northwest Machining & Mfg Inc.,243,83443<-->83646,False,0,None
 28,25,"Dyorich, Rebecca",Exyte ,205,83443<-->83716,False,0,None
 28,26,"Dyorich, Rebecca",Exyte,205,83443<-->83716,False,0,None
 28,27,"Dyorich, Rebecca","Western Aircraft, Inc.",233,83443<-->83705,False,0,None
 28,28,"Dyorich, Rebecca",Girl Scouts of Silver Sage,236,83443<-->83709,False,0,None
-28,29,"Dyorich, Rebecca",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+28,29,"Dyorich, Rebecca",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 28,30,"Dyorich, Rebecca","Intermountain Blending & Filling, LLC",242,83443<-->83642,False,0,None
 28,31,"Dyorich, Rebecca",Boys & Girls Clubs of Magic Valley,168,83443<-->83301,True,0,None
 28,32,"Dyorich, Rebecca",Museum of Idaho,198,83443<-->83647,True,0,None
@@ -984,13 +984,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 29,20,"Dyorich, Matthew",Idaho Division of Career Technical Education,230,83443<-->83702,True,0,None
 29,21,"Dyorich, Matthew",Idaho Division of Vocational Rehabilitation,232,83443<-->83720,False,0,None
 29,22,"Dyorich, Matthew",Londr,242,83443<-->83616,True,0,None
-29,23,"Dyorich, Matthew",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+29,23,"Dyorich, Matthew",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 29,24,"Dyorich, Matthew",Northwest Machining & Mfg Inc.,243,83443<-->83646,False,0,None
 29,25,"Dyorich, Matthew",Exyte ,205,83443<-->83716,False,0,None
 29,26,"Dyorich, Matthew",Exyte,205,83443<-->83716,False,0,None
 29,27,"Dyorich, Matthew","Western Aircraft, Inc.",233,83443<-->83705,False,0,None
 29,28,"Dyorich, Matthew",Girl Scouts of Silver Sage,236,83443<-->83709,False,0,None
-29,29,"Dyorich, Matthew",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+29,29,"Dyorich, Matthew",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 29,30,"Dyorich, Matthew","Intermountain Blending & Filling, LLC",242,83443<-->83642,False,0,None
 29,31,"Dyorich, Matthew",Boys & Girls Clubs of Magic Valley,168,83443<-->83301,True,0,None
 29,32,"Dyorich, Matthew",Museum of Idaho,198,83443<-->83647,True,0,None
@@ -1026,13 +1026,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 30,20,"McDonald, Monica",Idaho Division of Career Technical Education,13,83616<-->83702,False,0,None
 30,21,"McDonald, Monica",Idaho Division of Vocational Rehabilitation,14,83616<-->83720,False,0,None
 30,22,"McDonald, Monica",Londr,0,83616<-->83616,False,0,None
-30,23,"McDonald, Monica",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+30,23,"McDonald, Monica",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 30,24,"McDonald, Monica",Northwest Machining & Mfg Inc.,9,83616<-->83646,False,0,None
 30,25,"McDonald, Monica",Exyte ,37,83616<-->83716,False,1,chem
 30,26,"McDonald, Monica",Exyte,37,83616<-->83716,False,0,None
 30,27,"McDonald, Monica","Western Aircraft, Inc.",17,83616<-->83705,False,0,None
 30,28,"McDonald, Monica",Girl Scouts of Silver Sage,16,83616<-->83709,False,0,None
-30,29,"McDonald, Monica",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+30,29,"McDonald, Monica",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 30,30,"McDonald, Monica","Intermountain Blending & Filling, LLC",14,83616<-->83642,False,1,chem
 30,31,"McDonald, Monica",Boys & Girls Clubs of Magic Valley,134,83616<-->83301,False,0,None
 30,32,"McDonald, Monica",Museum of Idaho,51,83616<-->83647,False,0,None
@@ -1068,13 +1068,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 31,20,"Dyorich, Tober",Idaho Division of Career Technical Education,145,83318<-->83702,True,0,None
 31,21,"Dyorich, Tober",Idaho Division of Vocational Rehabilitation,145,83318<-->83720,False,0,None
 31,22,"Dyorich, Tober",Londr,159,83318<-->83616,True,0,None
-31,23,"Dyorich, Tober",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+31,23,"Dyorich, Tober",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 31,24,"Dyorich, Tober",Northwest Machining & Mfg Inc.,156,83318<-->83646,False,0,None
 31,25,"Dyorich, Tober",Exyte ,126,83318<-->83716,False,0,None
 31,26,"Dyorich, Tober",Exyte,126,83318<-->83716,False,0,None
 31,27,"Dyorich, Tober","Western Aircraft, Inc.",143,83318<-->83705,False,0,None
 31,28,"Dyorich, Tober",Girl Scouts of Silver Sage,146,83318<-->83709,False,0,None
-31,29,"Dyorich, Tober",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+31,29,"Dyorich, Tober",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 31,30,"Dyorich, Tober","Intermountain Blending & Filling, LLC",152,83318<-->83642,False,0,None
 31,31,"Dyorich, Tober",Boys & Girls Clubs of Magic Valley,35,83318<-->83301,True,0,None
 31,32,"Dyorich, Tober",Museum of Idaho,108,83318<-->83647,True,0,None
@@ -1110,13 +1110,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 32,20,"Anderson, Lyndsey ",Idaho Division of Career Technical Education,120,83301<-->83702,True,0,None
 32,21,"Anderson, Lyndsey ",Idaho Division of Vocational Rehabilitation,119,83301<-->83720,False,0,None
 32,22,"Anderson, Lyndsey ",Londr,134,83301<-->83616,True,0,None
-32,23,"Anderson, Lyndsey ",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+32,23,"Anderson, Lyndsey ",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 32,24,"Anderson, Lyndsey ",Northwest Machining & Mfg Inc.,129,83301<-->83646,False,0,None
 32,25,"Anderson, Lyndsey ",Exyte ,105,83301<-->83716,False,0,None
 32,26,"Anderson, Lyndsey ",Exyte,105,83301<-->83716,False,0,None
 32,27,"Anderson, Lyndsey ","Western Aircraft, Inc.",117,83301<-->83705,False,0,None
 32,28,"Anderson, Lyndsey ",Girl Scouts of Silver Sage,119,83301<-->83709,False,0,None
-32,29,"Anderson, Lyndsey ",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+32,29,"Anderson, Lyndsey ",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 32,30,"Anderson, Lyndsey ","Intermountain Blending & Filling, LLC",125,83301<-->83642,False,0,None
 32,31,"Anderson, Lyndsey ",Boys & Girls Clubs of Magic Valley,0,83301<-->83301,True,0,None
 32,32,"Anderson, Lyndsey ",Museum of Idaho,85,83301<-->83647,True,0,None
@@ -1152,13 +1152,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 33,20,"Martin, Chris",Idaho Division of Career Technical Education,200,83402<-->83702,False,0,None
 33,21,"Martin, Chris",Idaho Division of Vocational Rehabilitation,201,83402<-->83720,False,0,None
 33,22,"Martin, Chris",Londr,211,83402<-->83616,False,0,None
-33,23,"Martin, Chris",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+33,23,"Martin, Chris",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 33,24,"Martin, Chris",Northwest Machining & Mfg Inc.,213,83402<-->83646,False,1,trade
 33,25,"Martin, Chris",Exyte ,174,83402<-->83716,False,0,None
 33,26,"Martin, Chris",Exyte,174,83402<-->83716,False,0,None
 33,27,"Martin, Chris","Western Aircraft, Inc.",202,83402<-->83705,False,1,trade
 33,28,"Martin, Chris",Girl Scouts of Silver Sage,206,83402<-->83709,False,0,None
-33,29,"Martin, Chris",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+33,29,"Martin, Chris",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 33,30,"Martin, Chris","Intermountain Blending & Filling, LLC",211,83402<-->83642,False,0,None
 33,31,"Martin, Chris",Boys & Girls Clubs of Magic Valley,142,83402<-->83301,False,0,None
 33,32,"Martin, Chris",Museum of Idaho,167,83402<-->83647,False,0,None
@@ -1194,13 +1194,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 34,20,"Jensen, Rachel",Idaho Division of Career Technical Education,291,83858<-->83702,True,0,None
 34,21,"Jensen, Rachel",Idaho Division of Vocational Rehabilitation,294,83858<-->83720,False,0,None
 34,22,"Jensen, Rachel",Londr,282,83858<-->83616,True,0,None
-34,23,"Jensen, Rachel",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+34,23,"Jensen, Rachel",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 34,24,"Jensen, Rachel",Northwest Machining & Mfg Inc.,291,83858<-->83646,False,0,None
 34,25,"Jensen, Rachel",Exyte ,294,83858<-->83716,False,0,None
 34,26,"Jensen, Rachel",Exyte,294,83858<-->83716,False,0,None
 34,27,"Jensen, Rachel","Western Aircraft, Inc.",298,83858<-->83705,False,0,None
 34,28,"Jensen, Rachel",Girl Scouts of Silver Sage,298,83858<-->83709,False,0,None
-34,29,"Jensen, Rachel",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+34,29,"Jensen, Rachel",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 34,30,"Jensen, Rachel","Intermountain Blending & Filling, LLC",296,83858<-->83642,False,0,None
 34,31,"Jensen, Rachel",Boys & Girls Clubs of Magic Valley,394,83858<-->83301,True,0,None
 34,32,"Jensen, Rachel",Museum of Idaho,315,83858<-->83647,True,0,None
@@ -1236,13 +1236,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 35,20,"Walker, Colton",Idaho Division of Career Technical Education,193,83204<-->83702,False,0,None
 35,21,"Walker, Colton",Idaho Division of Vocational Rehabilitation,193,83204<-->83720,False,0,None
 35,22,"Walker, Colton",Londr,206,83204<-->83616,False,0,None
-35,23,"Walker, Colton",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+35,23,"Walker, Colton",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 35,24,"Walker, Colton",Northwest Machining & Mfg Inc.,205,83204<-->83646,False,0,None
 35,25,"Walker, Colton",Exyte ,169,83204<-->83716,False,0,None
 35,26,"Walker, Colton",Exyte,169,83204<-->83716,False,0,None
 35,27,"Walker, Colton","Western Aircraft, Inc.",193,83204<-->83705,False,0,None
 35,28,"Walker, Colton",Girl Scouts of Silver Sage,197,83204<-->83709,False,0,None
-35,29,"Walker, Colton",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+35,29,"Walker, Colton",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 35,30,"Walker, Colton","Intermountain Blending & Filling, LLC",202,83204<-->83642,False,0,None
 35,31,"Walker, Colton",Boys & Girls Clubs of Magic Valley,105,83204<-->83301,False,0,None
 35,32,"Walker, Colton",Museum of Idaho,156,83204<-->83647,False,0,None
@@ -1278,13 +1278,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 36,20,"Widner, Christina",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 36,21,"Widner, Christina",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 36,22,"Widner, Christina",Londr,16,83706<-->83616,True,0,None
-36,23,"Widner, Christina",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+36,23,"Widner, Christina",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 36,24,"Widner, Christina",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 36,25,"Widner, Christina",Exyte ,27,83706<-->83716,False,0,None
 36,26,"Widner, Christina",Exyte,27,83706<-->83716,False,0,None
 36,27,"Widner, Christina","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 36,28,"Widner, Christina",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-36,29,"Widner, Christina",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+36,29,"Widner, Christina",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 36,30,"Widner, Christina","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 36,31,"Widner, Christina",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 36,32,"Widner, Christina",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -1320,13 +1320,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 37,20,"Jones, Kristin",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 37,21,"Jones, Kristin",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 37,22,"Jones, Kristin",Londr,16,83706<-->83616,True,0,None
-37,23,"Jones, Kristin",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+37,23,"Jones, Kristin",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 37,24,"Jones, Kristin",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 37,25,"Jones, Kristin",Exyte ,27,83706<-->83716,False,0,None
 37,26,"Jones, Kristin",Exyte,27,83706<-->83716,False,0,None
 37,27,"Jones, Kristin","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 37,28,"Jones, Kristin",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-37,29,"Jones, Kristin",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+37,29,"Jones, Kristin",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 37,30,"Jones, Kristin","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 37,31,"Jones, Kristin",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 37,32,"Jones, Kristin",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -1362,13 +1362,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 38,20,"Nai, Lawrance",Idaho Division of Career Technical Education,200,83402<-->83702,True,0,None
 38,21,"Nai, Lawrance",Idaho Division of Vocational Rehabilitation,201,83402<-->83720,False,0,None
 38,22,"Nai, Lawrance",Londr,211,83402<-->83616,True,0,None
-38,23,"Nai, Lawrance",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+38,23,"Nai, Lawrance",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 38,24,"Nai, Lawrance",Northwest Machining & Mfg Inc.,213,83402<-->83646,False,0,None
 38,25,"Nai, Lawrance",Exyte ,174,83402<-->83716,False,0,None
 38,26,"Nai, Lawrance",Exyte,174,83402<-->83716,False,0,None
 38,27,"Nai, Lawrance","Western Aircraft, Inc.",202,83402<-->83705,False,0,None
 38,28,"Nai, Lawrance",Girl Scouts of Silver Sage,206,83402<-->83709,False,0,None
-38,29,"Nai, Lawrance",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+38,29,"Nai, Lawrance",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 38,30,"Nai, Lawrance","Intermountain Blending & Filling, LLC",211,83402<-->83642,False,0,None
 38,31,"Nai, Lawrance",Boys & Girls Clubs of Magic Valley,142,83402<-->83301,True,0,None
 38,32,"Nai, Lawrance",Museum of Idaho,167,83402<-->83647,True,0,None
@@ -1404,13 +1404,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 39,20,"Gibson, Marilyn",Idaho Division of Career Technical Education,210,83250<-->83702,True,0,None
 39,21,"Gibson, Marilyn",Idaho Division of Vocational Rehabilitation,211,83250<-->83720,False,0,None
 39,22,"Gibson, Marilyn",Londr,223,83250<-->83616,True,0,None
-39,23,"Gibson, Marilyn",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+39,23,"Gibson, Marilyn",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 39,24,"Gibson, Marilyn",Northwest Machining & Mfg Inc.,223,83250<-->83646,False,0,None
 39,25,"Gibson, Marilyn",Exyte ,186,83250<-->83716,False,0,None
 39,26,"Gibson, Marilyn",Exyte,186,83250<-->83716,False,0,None
 39,27,"Gibson, Marilyn","Western Aircraft, Inc.",211,83250<-->83705,False,0,None
 39,28,"Gibson, Marilyn",Girl Scouts of Silver Sage,214,83250<-->83709,False,0,None
-39,29,"Gibson, Marilyn",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+39,29,"Gibson, Marilyn",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 39,30,"Gibson, Marilyn","Intermountain Blending & Filling, LLC",220,83250<-->83642,False,0,None
 39,31,"Gibson, Marilyn",Boys & Girls Clubs of Magic Valley,119,83250<-->83301,True,0,None
 39,32,"Gibson, Marilyn",Museum of Idaho,174,83250<-->83647,True,0,None
@@ -1446,13 +1446,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 40,20,"Jackson, Patsy",Idaho Division of Career Technical Education,207,83245<-->83702,True,0,None
 40,21,"Jackson, Patsy",Idaho Division of Vocational Rehabilitation,207,83245<-->83720,False,0,None
 40,22,"Jackson, Patsy",Londr,219,83245<-->83616,True,0,None
-40,23,"Jackson, Patsy",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+40,23,"Jackson, Patsy",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 40,24,"Jackson, Patsy",Northwest Machining & Mfg Inc.,219,83245<-->83646,False,0,None
 40,25,"Jackson, Patsy",Exyte ,182,83245<-->83716,False,0,None
 40,26,"Jackson, Patsy",Exyte,182,83245<-->83716,False,0,None
 40,27,"Jackson, Patsy","Western Aircraft, Inc.",207,83245<-->83705,False,0,None
 40,28,"Jackson, Patsy",Girl Scouts of Silver Sage,211,83245<-->83709,False,0,None
-40,29,"Jackson, Patsy",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+40,29,"Jackson, Patsy",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 40,30,"Jackson, Patsy","Intermountain Blending & Filling, LLC",217,83245<-->83642,False,0,None
 40,31,"Jackson, Patsy",Boys & Girls Clubs of Magic Valley,120,83245<-->83301,True,0,None
 40,32,"Jackson, Patsy",Museum of Idaho,170,83245<-->83647,True,0,None
@@ -1488,13 +1488,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 41,20,"Wohlwend, Keith",Idaho Division of Career Technical Education,97,83333<-->83702,False,0,None
 41,21,"Wohlwend, Keith",Idaho Division of Vocational Rehabilitation,99,83333<-->83720,False,0,None
 41,22,"Wohlwend, Keith",Londr,109,83333<-->83616,False,0,None
-41,23,"Wohlwend, Keith",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+41,23,"Wohlwend, Keith",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 41,24,"Wohlwend, Keith",Northwest Machining & Mfg Inc.,110,83333<-->83646,False,0,None
 41,25,"Wohlwend, Keith",Exyte ,72,83333<-->83716,False,0,None
 41,26,"Wohlwend, Keith",Exyte,72,83333<-->83716,False,0,None
 41,27,"Wohlwend, Keith","Western Aircraft, Inc.",100,83333<-->83705,False,0,None
 41,28,"Wohlwend, Keith",Girl Scouts of Silver Sage,103,83333<-->83709,False,0,None
-41,29,"Wohlwend, Keith",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+41,29,"Wohlwend, Keith",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 41,30,"Wohlwend, Keith","Intermountain Blending & Filling, LLC",109,83333<-->83642,False,0,None
 41,31,"Wohlwend, Keith",Boys & Girls Clubs of Magic Valley,83,83333<-->83301,False,0,None
 41,32,"Wohlwend, Keith",Museum of Idaho,65,83333<-->83647,False,0,None
@@ -1530,13 +1530,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 42,20,"Onishi, Cherydan",Idaho Division of Career Technical Education,145,83350<-->83702,False,0,None
 42,21,"Onishi, Cherydan",Idaho Division of Vocational Rehabilitation,145,83350<-->83720,False,0,None
 42,22,"Onishi, Cherydan",Londr,158,83350<-->83616,False,0,None
-42,23,"Onishi, Cherydan",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+42,23,"Onishi, Cherydan",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 42,24,"Onishi, Cherydan",Northwest Machining & Mfg Inc.,156,83350<-->83646,False,0,None
 42,25,"Onishi, Cherydan",Exyte ,123,83350<-->83716,False,0,None
 42,26,"Onishi, Cherydan",Exyte,123,83350<-->83716,False,0,None
 42,27,"Onishi, Cherydan","Western Aircraft, Inc.",144,83350<-->83705,False,0,None
 42,28,"Onishi, Cherydan",Girl Scouts of Silver Sage,147,83350<-->83709,False,0,None
-42,29,"Onishi, Cherydan",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+42,29,"Onishi, Cherydan",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 42,30,"Onishi, Cherydan","Intermountain Blending & Filling, LLC",153,83350<-->83642,False,0,None
 42,31,"Onishi, Cherydan",Boys & Girls Clubs of Magic Valley,51,83350<-->83301,False,0,None
 42,32,"Onishi, Cherydan",Museum of Idaho,107,83350<-->83647,False,0,None
@@ -1572,13 +1572,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 43,20,"Coles, Andrea",Idaho Division of Career Technical Education,183,83221<-->83702,True,0,None
 43,21,"Coles, Andrea",Idaho Division of Vocational Rehabilitation,185,83221<-->83720,False,0,None
 43,22,"Coles, Andrea",Londr,195,83221<-->83616,True,0,None
-43,23,"Coles, Andrea",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+43,23,"Coles, Andrea",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 43,24,"Coles, Andrea",Northwest Machining & Mfg Inc.,196,83221<-->83646,False,0,None
 43,25,"Coles, Andrea",Exyte ,158,83221<-->83716,False,0,None
 43,26,"Coles, Andrea",Exyte,158,83221<-->83716,False,0,None
 43,27,"Coles, Andrea","Western Aircraft, Inc.",185,83221<-->83705,False,0,None
 43,28,"Coles, Andrea",Girl Scouts of Silver Sage,189,83221<-->83709,False,0,None
-43,29,"Coles, Andrea",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+43,29,"Coles, Andrea",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 43,30,"Coles, Andrea","Intermountain Blending & Filling, LLC",194,83221<-->83642,False,0,None
 43,31,"Coles, Andrea",Boys & Girls Clubs of Magic Valley,118,83221<-->83301,True,0,None
 43,32,"Coles, Andrea",Museum of Idaho,149,83221<-->83647,True,0,None
@@ -1614,13 +1614,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 44,20,"Nielsen, Jaycie",Idaho Division of Career Technical Education,200,83402<-->83702,True,0,None
 44,21,"Nielsen, Jaycie",Idaho Division of Vocational Rehabilitation,201,83402<-->83720,False,0,None
 44,22,"Nielsen, Jaycie",Londr,211,83402<-->83616,True,0,None
-44,23,"Nielsen, Jaycie",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+44,23,"Nielsen, Jaycie",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 44,24,"Nielsen, Jaycie",Northwest Machining & Mfg Inc.,213,83402<-->83646,False,0,None
 44,25,"Nielsen, Jaycie",Exyte ,174,83402<-->83716,False,0,None
 44,26,"Nielsen, Jaycie",Exyte,174,83402<-->83716,False,0,None
 44,27,"Nielsen, Jaycie","Western Aircraft, Inc.",202,83402<-->83705,False,0,None
 44,28,"Nielsen, Jaycie",Girl Scouts of Silver Sage,206,83402<-->83709,False,0,None
-44,29,"Nielsen, Jaycie",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+44,29,"Nielsen, Jaycie",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 44,30,"Nielsen, Jaycie","Intermountain Blending & Filling, LLC",211,83402<-->83642,False,0,None
 44,31,"Nielsen, Jaycie",Boys & Girls Clubs of Magic Valley,142,83402<-->83301,True,0,None
 44,32,"Nielsen, Jaycie",Museum of Idaho,167,83402<-->83647,True,0,None
@@ -1656,13 +1656,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 45,20,"Dorrian, Cara Mia",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 45,21,"Dorrian, Cara Mia",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 45,22,"Dorrian, Cara Mia",Londr,16,83706<-->83616,True,0,None
-45,23,"Dorrian, Cara Mia",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+45,23,"Dorrian, Cara Mia",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 45,24,"Dorrian, Cara Mia",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 45,25,"Dorrian, Cara Mia",Exyte ,27,83706<-->83716,False,0,None
 45,26,"Dorrian, Cara Mia",Exyte,27,83706<-->83716,False,0,None
 45,27,"Dorrian, Cara Mia","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 45,28,"Dorrian, Cara Mia",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-45,29,"Dorrian, Cara Mia",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+45,29,"Dorrian, Cara Mia",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 45,30,"Dorrian, Cara Mia","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 45,31,"Dorrian, Cara Mia",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 45,32,"Dorrian, Cara Mia",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -1698,13 +1698,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 46,20,"McCormick, Michael",Idaho Division of Career Technical Education,33,83622<-->83702,True,0,None
 46,21,"McCormick, Michael",Idaho Division of Vocational Rehabilitation,37,83622<-->83720,False,0,None
 46,22,"McCormick, Michael",Londr,33,83622<-->83616,True,0,None
-46,23,"McCormick, Michael",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+46,23,"McCormick, Michael",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 46,24,"McCormick, Michael",Northwest Machining & Mfg Inc.,41,83622<-->83646,False,0,None
 46,25,"McCormick, Michael",Exyte ,32,83622<-->83716,False,0,None
 46,26,"McCormick, Michael",Exyte,32,83622<-->83716,False,0,None
 46,27,"McCormick, Michael","Western Aircraft, Inc.",41,83622<-->83705,False,0,None
 46,28,"McCormick, Michael",Girl Scouts of Silver Sage,43,83622<-->83709,False,0,None
-46,29,"McCormick, Michael",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+46,29,"McCormick, Michael",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 46,30,"McCormick, Michael","Intermountain Blending & Filling, LLC",44,83622<-->83642,False,0,None
 46,31,"McCormick, Michael",Boys & Girls Clubs of Magic Valley,136,83622<-->83301,True,0,None
 46,32,"McCormick, Michael",Museum of Idaho,52,83622<-->83647,True,0,None
@@ -1740,13 +1740,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 47,20,"Braswell, Janiece ",Idaho Division of Career Technical Education,23,83651<-->83702,False,0,None
 47,21,"Braswell, Janiece ",Idaho Division of Vocational Rehabilitation,21,83651<-->83720,False,0,None
 47,22,"Braswell, Janiece ",Londr,17,83651<-->83616,False,0,None
-47,23,"Braswell, Janiece ",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+47,23,"Braswell, Janiece ",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 47,24,"Braswell, Janiece ",Northwest Machining & Mfg Inc.,10,83651<-->83646,False,0,None
 47,25,"Braswell, Janiece ",Exyte ,49,83651<-->83716,False,0,None
 47,26,"Braswell, Janiece ",Exyte,49,83651<-->83716,False,0,None
 47,27,"Braswell, Janiece ","Western Aircraft, Inc.",20,83651<-->83705,False,0,None
 47,28,"Braswell, Janiece ",Girl Scouts of Silver Sage,17,83651<-->83709,False,0,None
-47,29,"Braswell, Janiece ",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+47,29,"Braswell, Janiece ",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 47,30,"Braswell, Janiece ","Intermountain Blending & Filling, LLC",11,83651<-->83642,False,0,None
 47,31,"Braswell, Janiece ",Boys & Girls Clubs of Magic Valley,134,83651<-->83301,False,0,None
 47,32,"Braswell, Janiece ",Museum of Idaho,57,83651<-->83647,False,0,None
@@ -1782,13 +1782,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 48,20,"Rivera, Lynnette",Idaho Division of Career Technical Education,120,83301<-->83702,True,0,None
 48,21,"Rivera, Lynnette",Idaho Division of Vocational Rehabilitation,119,83301<-->83720,False,0,None
 48,22,"Rivera, Lynnette",Londr,134,83301<-->83616,True,0,None
-48,23,"Rivera, Lynnette",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+48,23,"Rivera, Lynnette",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 48,24,"Rivera, Lynnette",Northwest Machining & Mfg Inc.,129,83301<-->83646,False,0,None
 48,25,"Rivera, Lynnette",Exyte ,105,83301<-->83716,False,0,None
 48,26,"Rivera, Lynnette",Exyte,105,83301<-->83716,False,0,None
 48,27,"Rivera, Lynnette","Western Aircraft, Inc.",117,83301<-->83705,False,0,None
 48,28,"Rivera, Lynnette",Girl Scouts of Silver Sage,119,83301<-->83709,False,0,None
-48,29,"Rivera, Lynnette",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+48,29,"Rivera, Lynnette",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 48,30,"Rivera, Lynnette","Intermountain Blending & Filling, LLC",125,83301<-->83642,False,0,None
 48,31,"Rivera, Lynnette",Boys & Girls Clubs of Magic Valley,0,83301<-->83301,True,0,None
 48,32,"Rivera, Lynnette",Museum of Idaho,85,83301<-->83647,True,0,None
@@ -1824,13 +1824,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 49,20,"Atwood, Linda",Idaho Division of Career Technical Education,200,83402<-->83702,True,0,None
 49,21,"Atwood, Linda",Idaho Division of Vocational Rehabilitation,201,83402<-->83720,False,0,None
 49,22,"Atwood, Linda",Londr,211,83402<-->83616,True,0,None
-49,23,"Atwood, Linda",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+49,23,"Atwood, Linda",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 49,24,"Atwood, Linda",Northwest Machining & Mfg Inc.,213,83402<-->83646,False,0,None
 49,25,"Atwood, Linda",Exyte ,174,83402<-->83716,False,0,None
 49,26,"Atwood, Linda",Exyte,174,83402<-->83716,False,0,None
 49,27,"Atwood, Linda","Western Aircraft, Inc.",202,83402<-->83705,False,0,None
 49,28,"Atwood, Linda",Girl Scouts of Silver Sage,206,83402<-->83709,False,0,None
-49,29,"Atwood, Linda",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+49,29,"Atwood, Linda",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 49,30,"Atwood, Linda","Intermountain Blending & Filling, LLC",211,83402<-->83642,False,0,None
 49,31,"Atwood, Linda",Boys & Girls Clubs of Magic Valley,142,83402<-->83301,True,0,None
 49,32,"Atwood, Linda",Museum of Idaho,167,83402<-->83647,True,0,None
@@ -1866,13 +1866,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 50,20,"Comstock, Hester",Idaho Division of Career Technical Education,5,83706<-->83702,False,0,None
 50,21,"Comstock, Hester",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 50,22,"Comstock, Hester",Londr,16,83706<-->83616,False,0,None
-50,23,"Comstock, Hester",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+50,23,"Comstock, Hester",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 50,24,"Comstock, Hester",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 50,25,"Comstock, Hester",Exyte ,27,83706<-->83716,False,0,None
 50,26,"Comstock, Hester",Exyte,27,83706<-->83716,False,0,None
 50,27,"Comstock, Hester","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 50,28,"Comstock, Hester",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-50,29,"Comstock, Hester",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+50,29,"Comstock, Hester",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 50,30,"Comstock, Hester","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 50,31,"Comstock, Hester",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,False,0,None
 50,32,"Comstock, Hester",Museum of Idaho,36,83706<-->83647,False,0,None
@@ -1908,13 +1908,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 51,20,"Shafter, Lynnea",Idaho Division of Career Technical Education,13,83646<-->83702,True,0,None
 51,21,"Shafter, Lynnea",Idaho Division of Vocational Rehabilitation,11,83646<-->83720,False,0,None
 51,22,"Shafter, Lynnea",Londr,9,83646<-->83616,True,0,None
-51,23,"Shafter, Lynnea",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+51,23,"Shafter, Lynnea",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 51,24,"Shafter, Lynnea",Northwest Machining & Mfg Inc.,0,83646<-->83646,False,0,None
 51,25,"Shafter, Lynnea",Exyte ,38,83646<-->83716,False,0,None
 51,26,"Shafter, Lynnea",Exyte,38,83646<-->83716,False,0,None
 51,27,"Shafter, Lynnea","Western Aircraft, Inc.",12,83646<-->83705,False,0,None
 51,28,"Shafter, Lynnea",Girl Scouts of Silver Sage,9,83646<-->83709,False,0,None
-51,29,"Shafter, Lynnea",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+51,29,"Shafter, Lynnea",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 51,30,"Shafter, Lynnea","Intermountain Blending & Filling, LLC",5,83646<-->83642,False,0,None
 51,31,"Shafter, Lynnea",Boys & Girls Clubs of Magic Valley,129,83646<-->83301,True,0,None
 51,32,"Shafter, Lynnea",Museum of Idaho,49,83646<-->83647,True,0,None
@@ -1950,13 +1950,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 52,20,"Wolf, Sara",Idaho Division of Career Technical Education,103,83638<-->83702,True,0,None
 52,21,"Wolf, Sara",Idaho Division of Vocational Rehabilitation,107,83638<-->83720,False,0,None
 52,22,"Wolf, Sara",Londr,98,83638<-->83616,True,0,None
-52,23,"Wolf, Sara",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+52,23,"Wolf, Sara",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 52,24,"Wolf, Sara",Northwest Machining & Mfg Inc.,107,83638<-->83646,False,0,None
 52,25,"Wolf, Sara",Exyte ,102,83638<-->83716,False,0,None
 52,26,"Wolf, Sara",Exyte,102,83638<-->83716,False,0,None
 52,27,"Wolf, Sara","Western Aircraft, Inc.",111,83638<-->83705,False,0,None
 52,28,"Wolf, Sara",Girl Scouts of Silver Sage,112,83638<-->83709,False,0,None
-52,29,"Wolf, Sara",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+52,29,"Wolf, Sara",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 52,30,"Wolf, Sara","Intermountain Blending & Filling, LLC",112,83638<-->83642,False,0,None
 52,31,"Wolf, Sara",Boys & Girls Clubs of Magic Valley,201,83638<-->83301,True,0,None
 52,32,"Wolf, Sara",Museum of Idaho,122,83638<-->83647,True,0,None
@@ -1992,13 +1992,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 54,20,"Green, Tyler",Idaho Division of Career Technical Education,24,83605<-->83702,True,0,None
 54,21,"Green, Tyler",Idaho Division of Vocational Rehabilitation,22,83605<-->83720,False,0,None
 54,22,"Green, Tyler",Londr,15,83605<-->83616,True,0,None
-54,23,"Green, Tyler",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+54,23,"Green, Tyler",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 54,24,"Green, Tyler",Northwest Machining & Mfg Inc.,11,83605<-->83646,False,0,None
 54,25,"Green, Tyler",Exyte ,49,83605<-->83716,False,0,None
 54,26,"Green, Tyler",Exyte,49,83605<-->83716,False,0,None
 54,27,"Green, Tyler","Western Aircraft, Inc.",22,83605<-->83705,False,0,None
 54,28,"Green, Tyler",Girl Scouts of Silver Sage,19,83605<-->83709,False,0,None
-54,29,"Green, Tyler",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+54,29,"Green, Tyler",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 54,30,"Green, Tyler","Intermountain Blending & Filling, LLC",14,83605<-->83642,False,0,None
 54,31,"Green, Tyler",Boys & Girls Clubs of Magic Valley,138,83605<-->83301,True,0,None
 54,32,"Green, Tyler",Museum of Idaho,60,83605<-->83647,True,0,None
@@ -2034,13 +2034,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 55,20,"Porchia, Sherise ",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 55,21,"Porchia, Sherise ",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 55,22,"Porchia, Sherise ",Londr,16,83706<-->83616,True,0,None
-55,23,"Porchia, Sherise ",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+55,23,"Porchia, Sherise ",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 55,24,"Porchia, Sherise ",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 55,25,"Porchia, Sherise ",Exyte ,27,83706<-->83716,False,0,None
 55,26,"Porchia, Sherise ",Exyte,27,83706<-->83716,False,0,None
 55,27,"Porchia, Sherise ","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 55,28,"Porchia, Sherise ",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-55,29,"Porchia, Sherise ",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+55,29,"Porchia, Sherise ",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 55,30,"Porchia, Sherise ","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 55,31,"Porchia, Sherise ",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 55,32,"Porchia, Sherise ",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -2076,13 +2076,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 56,20,"Dey, Chelsey",Idaho Division of Career Technical Education,200,83402<-->83702,True,0,None
 56,21,"Dey, Chelsey",Idaho Division of Vocational Rehabilitation,201,83402<-->83720,False,0,None
 56,22,"Dey, Chelsey",Londr,211,83402<-->83616,True,0,None
-56,23,"Dey, Chelsey",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+56,23,"Dey, Chelsey",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 56,24,"Dey, Chelsey",Northwest Machining & Mfg Inc.,213,83402<-->83646,False,0,None
 56,25,"Dey, Chelsey",Exyte ,174,83402<-->83716,False,0,None
 56,26,"Dey, Chelsey",Exyte,174,83402<-->83716,False,0,None
 56,27,"Dey, Chelsey","Western Aircraft, Inc.",202,83402<-->83705,False,0,None
 56,28,"Dey, Chelsey",Girl Scouts of Silver Sage,206,83402<-->83709,False,0,None
-56,29,"Dey, Chelsey",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+56,29,"Dey, Chelsey",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 56,30,"Dey, Chelsey","Intermountain Blending & Filling, LLC",211,83402<-->83642,False,0,None
 56,31,"Dey, Chelsey",Boys & Girls Clubs of Magic Valley,142,83402<-->83301,True,0,None
 56,32,"Dey, Chelsey",Museum of Idaho,167,83402<-->83647,True,0,None
@@ -2118,13 +2118,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 57,20,"Stoddard, Rick",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 57,21,"Stoddard, Rick",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 57,22,"Stoddard, Rick",Londr,16,83706<-->83616,True,0,None
-57,23,"Stoddard, Rick",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+57,23,"Stoddard, Rick",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 57,24,"Stoddard, Rick",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 57,25,"Stoddard, Rick",Exyte ,27,83706<-->83716,False,0,None
 57,26,"Stoddard, Rick",Exyte,27,83706<-->83716,False,0,None
 57,27,"Stoddard, Rick","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 57,28,"Stoddard, Rick",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-57,29,"Stoddard, Rick",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+57,29,"Stoddard, Rick",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 57,30,"Stoddard, Rick","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 57,31,"Stoddard, Rick",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 57,32,"Stoddard, Rick",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -2160,13 +2160,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 58,20,"Norland, Ian",Idaho Division of Career Technical Education,24,83605<-->83702,True,0,None
 58,21,"Norland, Ian",Idaho Division of Vocational Rehabilitation,22,83605<-->83720,False,0,None
 58,22,"Norland, Ian",Londr,15,83605<-->83616,True,0,None
-58,23,"Norland, Ian",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+58,23,"Norland, Ian",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 58,24,"Norland, Ian",Northwest Machining & Mfg Inc.,11,83605<-->83646,False,0,None
 58,25,"Norland, Ian",Exyte ,49,83605<-->83716,False,0,None
 58,26,"Norland, Ian",Exyte,49,83605<-->83716,False,0,None
 58,27,"Norland, Ian","Western Aircraft, Inc.",22,83605<-->83705,False,0,None
 58,28,"Norland, Ian",Girl Scouts of Silver Sage,19,83605<-->83709,False,0,None
-58,29,"Norland, Ian",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+58,29,"Norland, Ian",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 58,30,"Norland, Ian","Intermountain Blending & Filling, LLC",14,83605<-->83642,False,0,None
 58,31,"Norland, Ian",Boys & Girls Clubs of Magic Valley,138,83605<-->83301,True,0,None
 58,32,"Norland, Ian",Museum of Idaho,60,83605<-->83647,True,0,None
@@ -2202,13 +2202,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 60,20,"Northover, Heidi",Idaho Division of Career Technical Education,263,83254<-->83702,True,0,None
 60,21,"Northover, Heidi",Idaho Division of Vocational Rehabilitation,263,83254<-->83720,False,0,None
 60,22,"Northover, Heidi",Londr,276,83254<-->83616,True,0,None
-60,23,"Northover, Heidi",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+60,23,"Northover, Heidi",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 60,24,"Northover, Heidi",Northwest Machining & Mfg Inc.,275,83254<-->83646,False,0,None
 60,25,"Northover, Heidi",Exyte ,239,83254<-->83716,False,0,None
 60,26,"Northover, Heidi",Exyte,239,83254<-->83716,False,0,None
 60,27,"Northover, Heidi","Western Aircraft, Inc.",263,83254<-->83705,False,0,None
 60,28,"Northover, Heidi",Girl Scouts of Silver Sage,266,83254<-->83709,False,0,None
-60,29,"Northover, Heidi",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+60,29,"Northover, Heidi",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 60,30,"Northover, Heidi","Intermountain Blending & Filling, LLC",272,83254<-->83642,False,0,None
 60,31,"Northover, Heidi",Boys & Girls Clubs of Magic Valley,166,83254<-->83301,True,0,None
 60,32,"Northover, Heidi",Museum of Idaho,226,83254<-->83647,True,0,None
@@ -2244,13 +2244,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 61,20,"Kendall, Erik",Idaho Division of Career Technical Education,13,83646<-->83702,True,0,None
 61,21,"Kendall, Erik",Idaho Division of Vocational Rehabilitation,11,83646<-->83720,False,0,None
 61,22,"Kendall, Erik",Londr,9,83646<-->83616,True,0,None
-61,23,"Kendall, Erik",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+61,23,"Kendall, Erik",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 61,24,"Kendall, Erik",Northwest Machining & Mfg Inc.,0,83646<-->83646,False,0,None
 61,25,"Kendall, Erik",Exyte ,38,83646<-->83716,False,1,chem
 61,26,"Kendall, Erik",Exyte,38,83646<-->83716,False,0,None
 61,27,"Kendall, Erik","Western Aircraft, Inc.",12,83646<-->83705,False,0,None
 61,28,"Kendall, Erik",Girl Scouts of Silver Sage,9,83646<-->83709,False,0,None
-61,29,"Kendall, Erik",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+61,29,"Kendall, Erik",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 61,30,"Kendall, Erik","Intermountain Blending & Filling, LLC",5,83646<-->83642,False,1,chem
 61,31,"Kendall, Erik",Boys & Girls Clubs of Magic Valley,129,83646<-->83301,True,0,None
 61,32,"Kendall, Erik",Museum of Idaho,49,83646<-->83647,True,0,None
@@ -2286,13 +2286,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 62,20,"Shepherd, Trevor",Idaho Division of Career Technical Education,200,83402<-->83702,False,0,None
 62,21,"Shepherd, Trevor",Idaho Division of Vocational Rehabilitation,201,83402<-->83720,False,0,None
 62,22,"Shepherd, Trevor",Londr,211,83402<-->83616,False,0,None
-62,23,"Shepherd, Trevor",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+62,23,"Shepherd, Trevor",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 62,24,"Shepherd, Trevor",Northwest Machining & Mfg Inc.,213,83402<-->83646,False,0,None
 62,25,"Shepherd, Trevor",Exyte ,174,83402<-->83716,False,0,None
 62,26,"Shepherd, Trevor",Exyte,174,83402<-->83716,False,0,None
 62,27,"Shepherd, Trevor","Western Aircraft, Inc.",202,83402<-->83705,False,0,None
 62,28,"Shepherd, Trevor",Girl Scouts of Silver Sage,206,83402<-->83709,False,0,None
-62,29,"Shepherd, Trevor",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+62,29,"Shepherd, Trevor",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 62,30,"Shepherd, Trevor","Intermountain Blending & Filling, LLC",211,83402<-->83642,False,0,None
 62,31,"Shepherd, Trevor",Boys & Girls Clubs of Magic Valley,142,83402<-->83301,False,0,None
 62,32,"Shepherd, Trevor",Museum of Idaho,167,83402<-->83647,False,0,None
@@ -2328,13 +2328,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 63,20,"McKenzie, Jim",Idaho Division of Career Technical Education,5,83706<-->83702,False,0,None
 63,21,"McKenzie, Jim",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 63,22,"McKenzie, Jim",Londr,16,83706<-->83616,False,0,None
-63,23,"McKenzie, Jim",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+63,23,"McKenzie, Jim",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 63,24,"McKenzie, Jim",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 63,25,"McKenzie, Jim",Exyte ,27,83706<-->83716,False,0,None
 63,26,"McKenzie, Jim",Exyte,27,83706<-->83716,False,0,None
 63,27,"McKenzie, Jim","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 63,28,"McKenzie, Jim",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-63,29,"McKenzie, Jim",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+63,29,"McKenzie, Jim",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 63,30,"McKenzie, Jim","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 63,31,"McKenzie, Jim",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,False,0,None
 63,32,"McKenzie, Jim",Museum of Idaho,36,83706<-->83647,False,0,None
@@ -2370,13 +2370,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 64,20,"Coffey, Tiffiny",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 64,21,"Coffey, Tiffiny",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 64,22,"Coffey, Tiffiny",Londr,16,83706<-->83616,True,0,None
-64,23,"Coffey, Tiffiny",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+64,23,"Coffey, Tiffiny",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 64,24,"Coffey, Tiffiny",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 64,25,"Coffey, Tiffiny",Exyte ,27,83706<-->83716,False,0,None
 64,26,"Coffey, Tiffiny",Exyte,27,83706<-->83716,False,0,None
 64,27,"Coffey, Tiffiny","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 64,28,"Coffey, Tiffiny",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-64,29,"Coffey, Tiffiny",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+64,29,"Coffey, Tiffiny",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 64,30,"Coffey, Tiffiny","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 64,31,"Coffey, Tiffiny",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 64,32,"Coffey, Tiffiny",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -2412,13 +2412,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 65,20,"Smith, Madison",Idaho Division of Career Technical Education,24,83605<-->83702,True,0,None
 65,21,"Smith, Madison",Idaho Division of Vocational Rehabilitation,22,83605<-->83720,False,0,None
 65,22,"Smith, Madison",Londr,15,83605<-->83616,True,0,None
-65,23,"Smith, Madison",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+65,23,"Smith, Madison",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 65,24,"Smith, Madison",Northwest Machining & Mfg Inc.,11,83605<-->83646,False,0,None
 65,25,"Smith, Madison",Exyte ,49,83605<-->83716,False,0,None
 65,26,"Smith, Madison",Exyte,49,83605<-->83716,False,0,None
 65,27,"Smith, Madison","Western Aircraft, Inc.",22,83605<-->83705,False,0,None
 65,28,"Smith, Madison",Girl Scouts of Silver Sage,19,83605<-->83709,False,0,None
-65,29,"Smith, Madison",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+65,29,"Smith, Madison",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 65,30,"Smith, Madison","Intermountain Blending & Filling, LLC",14,83605<-->83642,False,0,None
 65,31,"Smith, Madison",Boys & Girls Clubs of Magic Valley,138,83605<-->83301,True,0,None
 65,32,"Smith, Madison",Museum of Idaho,60,83605<-->83647,True,0,None
@@ -2454,13 +2454,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 66,20,"McCoy, Molly",Idaho Division of Career Technical Education,193,83204<-->83702,False,0,None
 66,21,"McCoy, Molly",Idaho Division of Vocational Rehabilitation,193,83204<-->83720,False,0,None
 66,22,"McCoy, Molly",Londr,206,83204<-->83616,False,0,None
-66,23,"McCoy, Molly",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+66,23,"McCoy, Molly",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 66,24,"McCoy, Molly",Northwest Machining & Mfg Inc.,205,83204<-->83646,False,0,None
 66,25,"McCoy, Molly",Exyte ,169,83204<-->83716,False,0,None
 66,26,"McCoy, Molly",Exyte,169,83204<-->83716,False,0,None
 66,27,"McCoy, Molly","Western Aircraft, Inc.",193,83204<-->83705,False,0,None
 66,28,"McCoy, Molly",Girl Scouts of Silver Sage,197,83204<-->83709,False,0,None
-66,29,"McCoy, Molly",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+66,29,"McCoy, Molly",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 66,30,"McCoy, Molly","Intermountain Blending & Filling, LLC",202,83204<-->83642,False,0,None
 66,31,"McCoy, Molly",Boys & Girls Clubs of Magic Valley,105,83204<-->83301,False,0,None
 66,32,"McCoy, Molly",Museum of Idaho,156,83204<-->83647,False,0,None
@@ -2496,13 +2496,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 67,20,"Wilson, Leigh",Idaho Division of Career Technical Education,231,83855<-->83702,True,0,None
 67,21,"Wilson, Leigh",Idaho Division of Vocational Rehabilitation,234,83855<-->83720,False,0,None
 67,22,"Wilson, Leigh",Londr,222,83855<-->83616,True,0,None
-67,23,"Wilson, Leigh",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+67,23,"Wilson, Leigh",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 67,24,"Wilson, Leigh",Northwest Machining & Mfg Inc.,230,83855<-->83646,False,0,None
 67,25,"Wilson, Leigh",Exyte ,236,83855<-->83716,False,0,None
 67,26,"Wilson, Leigh",Exyte,236,83855<-->83716,False,0,None
 67,27,"Wilson, Leigh","Western Aircraft, Inc.",238,83855<-->83705,False,0,None
 67,28,"Wilson, Leigh",Girl Scouts of Silver Sage,238,83855<-->83709,False,0,None
-67,29,"Wilson, Leigh",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+67,29,"Wilson, Leigh",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 67,30,"Wilson, Leigh","Intermountain Blending & Filling, LLC",236,83855<-->83642,False,0,None
 67,31,"Wilson, Leigh",Boys & Girls Clubs of Magic Valley,337,83855<-->83301,True,0,None
 67,32,"Wilson, Leigh",Museum of Idaho,256,83855<-->83647,True,0,None
@@ -2538,13 +2538,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 68,20,"McMillan, Molly",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 68,21,"McMillan, Molly",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 68,22,"McMillan, Molly",Londr,16,83706<-->83616,True,0,None
-68,23,"McMillan, Molly",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+68,23,"McMillan, Molly",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 68,24,"McMillan, Molly",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 68,25,"McMillan, Molly",Exyte ,27,83706<-->83716,False,0,None
 68,26,"McMillan, Molly",Exyte,27,83706<-->83716,False,0,None
 68,27,"McMillan, Molly","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 68,28,"McMillan, Molly",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-68,29,"McMillan, Molly",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+68,29,"McMillan, Molly",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 68,30,"McMillan, Molly","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 68,31,"McMillan, Molly",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 68,32,"McMillan, Molly",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -2580,13 +2580,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 69,20,"Bluma, Stacy",Idaho Division of Career Technical Education,5,83706<-->83702,False,0,None
 69,21,"Bluma, Stacy",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 69,22,"Bluma, Stacy",Londr,16,83706<-->83616,False,0,None
-69,23,"Bluma, Stacy",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+69,23,"Bluma, Stacy",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 69,24,"Bluma, Stacy",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 69,25,"Bluma, Stacy",Exyte ,27,83706<-->83716,False,0,None
 69,26,"Bluma, Stacy",Exyte,27,83706<-->83716,False,0,None
 69,27,"Bluma, Stacy","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 69,28,"Bluma, Stacy",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-69,29,"Bluma, Stacy",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+69,29,"Bluma, Stacy",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 69,30,"Bluma, Stacy","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 69,31,"Bluma, Stacy",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,False,0,None
 69,32,"Bluma, Stacy",Museum of Idaho,36,83706<-->83647,False,0,None
@@ -2622,13 +2622,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 70,20,"Stefanakos, Jennifer",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 70,21,"Stefanakos, Jennifer",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 70,22,"Stefanakos, Jennifer",Londr,16,83706<-->83616,True,0,None
-70,23,"Stefanakos, Jennifer",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+70,23,"Stefanakos, Jennifer",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 70,24,"Stefanakos, Jennifer",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 70,25,"Stefanakos, Jennifer",Exyte ,27,83706<-->83716,False,0,None
 70,26,"Stefanakos, Jennifer",Exyte,27,83706<-->83716,False,0,None
 70,27,"Stefanakos, Jennifer","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 70,28,"Stefanakos, Jennifer",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-70,29,"Stefanakos, Jennifer",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+70,29,"Stefanakos, Jennifer",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 70,30,"Stefanakos, Jennifer","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 70,31,"Stefanakos, Jennifer",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 70,32,"Stefanakos, Jennifer",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -2664,13 +2664,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 71,20,"Stefanakos, Jennifer",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 71,21,"Stefanakos, Jennifer",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 71,22,"Stefanakos, Jennifer",Londr,16,83706<-->83616,True,0,None
-71,23,"Stefanakos, Jennifer",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+71,23,"Stefanakos, Jennifer",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 71,24,"Stefanakos, Jennifer",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 71,25,"Stefanakos, Jennifer",Exyte ,27,83706<-->83716,False,0,None
 71,26,"Stefanakos, Jennifer",Exyte,27,83706<-->83716,False,0,None
 71,27,"Stefanakos, Jennifer","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 71,28,"Stefanakos, Jennifer",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-71,29,"Stefanakos, Jennifer",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+71,29,"Stefanakos, Jennifer",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 71,30,"Stefanakos, Jennifer","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 71,31,"Stefanakos, Jennifer",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 71,32,"Stefanakos, Jennifer",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -2706,13 +2706,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 72,20,"Packer, Heather",Idaho Division of Career Technical Education,23,83651<-->83702,True,0,None
 72,21,"Packer, Heather",Idaho Division of Vocational Rehabilitation,21,83651<-->83720,False,0,None
 72,22,"Packer, Heather",Londr,17,83651<-->83616,True,0,None
-72,23,"Packer, Heather",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+72,23,"Packer, Heather",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 72,24,"Packer, Heather",Northwest Machining & Mfg Inc.,10,83651<-->83646,False,0,None
 72,25,"Packer, Heather",Exyte ,49,83651<-->83716,False,0,None
 72,26,"Packer, Heather",Exyte,49,83651<-->83716,False,0,None
 72,27,"Packer, Heather","Western Aircraft, Inc.",20,83651<-->83705,False,0,None
 72,28,"Packer, Heather",Girl Scouts of Silver Sage,17,83651<-->83709,False,0,None
-72,29,"Packer, Heather",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+72,29,"Packer, Heather",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 72,30,"Packer, Heather","Intermountain Blending & Filling, LLC",11,83651<-->83642,False,0,None
 72,31,"Packer, Heather",Boys & Girls Clubs of Magic Valley,134,83651<-->83301,True,0,None
 72,32,"Packer, Heather",Museum of Idaho,57,83651<-->83647,True,0,None
@@ -2748,13 +2748,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 73,20,"Daniels, Craig",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 73,21,"Daniels, Craig",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 73,22,"Daniels, Craig",Londr,16,83706<-->83616,True,0,None
-73,23,"Daniels, Craig",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+73,23,"Daniels, Craig",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 73,24,"Daniels, Craig",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 73,25,"Daniels, Craig",Exyte ,27,83706<-->83716,False,0,None
 73,26,"Daniels, Craig",Exyte,27,83706<-->83716,False,0,None
 73,27,"Daniels, Craig","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 73,28,"Daniels, Craig",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-73,29,"Daniels, Craig",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+73,29,"Daniels, Craig",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 73,30,"Daniels, Craig","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 73,31,"Daniels, Craig",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 73,32,"Daniels, Craig",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -2790,13 +2790,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 74,20,"Pluska, Heidi",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 74,21,"Pluska, Heidi",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 74,22,"Pluska, Heidi",Londr,16,83706<-->83616,True,0,None
-74,23,"Pluska, Heidi",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+74,23,"Pluska, Heidi",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 74,24,"Pluska, Heidi",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 74,25,"Pluska, Heidi",Exyte ,27,83706<-->83716,False,1,chem
 74,26,"Pluska, Heidi",Exyte,27,83706<-->83716,False,0,None
 74,27,"Pluska, Heidi","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 74,28,"Pluska, Heidi",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-74,29,"Pluska, Heidi",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+74,29,"Pluska, Heidi",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 74,30,"Pluska, Heidi","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,1,chem
 74,31,"Pluska, Heidi",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 74,32,"Pluska, Heidi",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -2832,13 +2832,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 75,20,"Stutzman, Erin",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 75,21,"Stutzman, Erin",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 75,22,"Stutzman, Erin",Londr,16,83706<-->83616,True,0,None
-75,23,"Stutzman, Erin",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+75,23,"Stutzman, Erin",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 75,24,"Stutzman, Erin",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 75,25,"Stutzman, Erin",Exyte ,27,83706<-->83716,False,0,None
 75,26,"Stutzman, Erin",Exyte,27,83706<-->83716,False,0,None
 75,27,"Stutzman, Erin","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 75,28,"Stutzman, Erin",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-75,29,"Stutzman, Erin",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+75,29,"Stutzman, Erin",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 75,30,"Stutzman, Erin","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 75,31,"Stutzman, Erin",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 75,32,"Stutzman, Erin",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -2874,13 +2874,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 77,20,"McKinney, Robin",Idaho Division of Career Technical Education,224,83857<-->83702,True,0,None
 77,21,"McKinney, Robin",Idaho Division of Vocational Rehabilitation,227,83857<-->83720,False,0,None
 77,22,"McKinney, Robin",Londr,215,83857<-->83616,True,0,None
-77,23,"McKinney, Robin",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+77,23,"McKinney, Robin",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 77,24,"McKinney, Robin",Northwest Machining & Mfg Inc.,224,83857<-->83646,False,0,None
 77,25,"McKinney, Robin",Exyte ,229,83857<-->83716,False,0,None
 77,26,"McKinney, Robin",Exyte,229,83857<-->83716,False,0,None
 77,27,"McKinney, Robin","Western Aircraft, Inc.",232,83857<-->83705,False,0,None
 77,28,"McKinney, Robin",Girl Scouts of Silver Sage,231,83857<-->83709,False,0,None
-77,29,"McKinney, Robin",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+77,29,"McKinney, Robin",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 77,30,"McKinney, Robin","Intermountain Blending & Filling, LLC",229,83857<-->83642,False,0,None
 77,31,"McKinney, Robin",Boys & Girls Clubs of Magic Valley,330,83857<-->83301,True,0,None
 77,32,"McKinney, Robin",Museum of Idaho,249,83857<-->83647,True,0,None
@@ -2916,13 +2916,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 78,20,"Chase, Vicki",Idaho Division of Career Technical Education,183,83221<-->83702,True,0,None
 78,21,"Chase, Vicki",Idaho Division of Vocational Rehabilitation,185,83221<-->83720,False,0,None
 78,22,"Chase, Vicki",Londr,195,83221<-->83616,True,0,None
-78,23,"Chase, Vicki",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+78,23,"Chase, Vicki",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 78,24,"Chase, Vicki",Northwest Machining & Mfg Inc.,196,83221<-->83646,False,0,None
 78,25,"Chase, Vicki",Exyte ,158,83221<-->83716,False,0,None
 78,26,"Chase, Vicki",Exyte,158,83221<-->83716,False,0,None
 78,27,"Chase, Vicki","Western Aircraft, Inc.",185,83221<-->83705,False,0,None
 78,28,"Chase, Vicki",Girl Scouts of Silver Sage,189,83221<-->83709,False,0,None
-78,29,"Chase, Vicki",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+78,29,"Chase, Vicki",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 78,30,"Chase, Vicki","Intermountain Blending & Filling, LLC",194,83221<-->83642,False,0,None
 78,31,"Chase, Vicki",Boys & Girls Clubs of Magic Valley,118,83221<-->83301,True,0,None
 78,32,"Chase, Vicki",Museum of Idaho,149,83221<-->83647,True,0,None
@@ -2958,13 +2958,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 79,20,"Baker, Cameron",Idaho Division of Career Technical Education,183,83221<-->83702,True,0,None
 79,21,"Baker, Cameron",Idaho Division of Vocational Rehabilitation,185,83221<-->83720,False,0,None
 79,22,"Baker, Cameron",Londr,195,83221<-->83616,True,0,None
-79,23,"Baker, Cameron",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+79,23,"Baker, Cameron",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 79,24,"Baker, Cameron",Northwest Machining & Mfg Inc.,196,83221<-->83646,False,0,None
 79,25,"Baker, Cameron",Exyte ,158,83221<-->83716,False,0,None
 79,26,"Baker, Cameron",Exyte,158,83221<-->83716,False,0,None
 79,27,"Baker, Cameron","Western Aircraft, Inc.",185,83221<-->83705,False,0,None
 79,28,"Baker, Cameron",Girl Scouts of Silver Sage,189,83221<-->83709,False,0,None
-79,29,"Baker, Cameron",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+79,29,"Baker, Cameron",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 79,30,"Baker, Cameron","Intermountain Blending & Filling, LLC",194,83221<-->83642,False,0,None
 79,31,"Baker, Cameron",Boys & Girls Clubs of Magic Valley,118,83221<-->83301,True,0,None
 79,32,"Baker, Cameron",Museum of Idaho,149,83221<-->83647,True,0,None
@@ -3000,13 +3000,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 80,20,"Fisher, Josephine",Idaho Division of Career Technical Education,23,83651<-->83702,True,0,None
 80,21,"Fisher, Josephine",Idaho Division of Vocational Rehabilitation,21,83651<-->83720,False,0,None
 80,22,"Fisher, Josephine",Londr,17,83651<-->83616,True,0,None
-80,23,"Fisher, Josephine",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+80,23,"Fisher, Josephine",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 80,24,"Fisher, Josephine",Northwest Machining & Mfg Inc.,10,83651<-->83646,False,0,None
 80,25,"Fisher, Josephine",Exyte ,49,83651<-->83716,False,0,None
 80,26,"Fisher, Josephine",Exyte,49,83651<-->83716,False,0,None
 80,27,"Fisher, Josephine","Western Aircraft, Inc.",20,83651<-->83705,False,0,None
 80,28,"Fisher, Josephine",Girl Scouts of Silver Sage,17,83651<-->83709,False,0,None
-80,29,"Fisher, Josephine",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+80,29,"Fisher, Josephine",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 80,30,"Fisher, Josephine","Intermountain Blending & Filling, LLC",11,83651<-->83642,False,0,None
 80,31,"Fisher, Josephine",Boys & Girls Clubs of Magic Valley,134,83651<-->83301,True,0,None
 80,32,"Fisher, Josephine",Museum of Idaho,57,83651<-->83647,True,0,None
@@ -3042,13 +3042,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 81,20,"Zickefoose, Gale",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 81,21,"Zickefoose, Gale",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 81,22,"Zickefoose, Gale",Londr,16,83706<-->83616,True,0,None
-81,23,"Zickefoose, Gale",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+81,23,"Zickefoose, Gale",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 81,24,"Zickefoose, Gale",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 81,25,"Zickefoose, Gale",Exyte ,27,83706<-->83716,False,0,None
 81,26,"Zickefoose, Gale",Exyte,27,83706<-->83716,False,0,None
 81,27,"Zickefoose, Gale","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 81,28,"Zickefoose, Gale",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-81,29,"Zickefoose, Gale",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+81,29,"Zickefoose, Gale",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 81,30,"Zickefoose, Gale","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 81,31,"Zickefoose, Gale",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 81,32,"Zickefoose, Gale",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -3084,13 +3084,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 82,20,"Eaton-Merkle, Anna",Idaho Division of Career Technical Education,13,83616<-->83702,True,0,None
 82,21,"Eaton-Merkle, Anna",Idaho Division of Vocational Rehabilitation,14,83616<-->83720,False,0,None
 82,22,"Eaton-Merkle, Anna",Londr,0,83616<-->83616,True,0,None
-82,23,"Eaton-Merkle, Anna",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+82,23,"Eaton-Merkle, Anna",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 82,24,"Eaton-Merkle, Anna",Northwest Machining & Mfg Inc.,9,83616<-->83646,False,0,None
 82,25,"Eaton-Merkle, Anna",Exyte ,37,83616<-->83716,False,0,None
 82,26,"Eaton-Merkle, Anna",Exyte,37,83616<-->83716,False,0,None
 82,27,"Eaton-Merkle, Anna","Western Aircraft, Inc.",17,83616<-->83705,False,0,None
 82,28,"Eaton-Merkle, Anna",Girl Scouts of Silver Sage,16,83616<-->83709,False,0,None
-82,29,"Eaton-Merkle, Anna",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+82,29,"Eaton-Merkle, Anna",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 82,30,"Eaton-Merkle, Anna","Intermountain Blending & Filling, LLC",14,83616<-->83642,False,0,None
 82,31,"Eaton-Merkle, Anna",Boys & Girls Clubs of Magic Valley,134,83616<-->83301,True,0,None
 82,32,"Eaton-Merkle, Anna",Museum of Idaho,51,83616<-->83647,True,0,None
@@ -3126,13 +3126,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 83,20,"Randolph, Julie",Idaho Division of Career Technical Education,24,83631<-->83702,True,0,None
 83,21,"Randolph, Julie",Idaho Division of Vocational Rehabilitation,28,83631<-->83720,False,0,None
 83,22,"Randolph, Julie",Londr,31,83631<-->83616,True,0,None
-83,23,"Randolph, Julie",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+83,23,"Randolph, Julie",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 83,24,"Randolph, Julie",Northwest Machining & Mfg Inc.,36,83631<-->83646,False,0,None
 83,25,"Randolph, Julie",Exyte ,15,83631<-->83716,False,0,None
 83,26,"Randolph, Julie",Exyte,15,83631<-->83716,False,0,None
 83,27,"Randolph, Julie","Western Aircraft, Inc.",31,83631<-->83705,False,0,None
 83,28,"Randolph, Julie",Girl Scouts of Silver Sage,34,83631<-->83709,False,0,None
-83,29,"Randolph, Julie",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+83,29,"Randolph, Julie",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 83,30,"Randolph, Julie","Intermountain Blending & Filling, LLC",38,83631<-->83642,False,0,None
 83,31,"Randolph, Julie",Boys & Girls Clubs of Magic Valley,120,83631<-->83301,True,0,None
 83,32,"Randolph, Julie",Museum of Idaho,36,83631<-->83647,True,0,None
@@ -3168,13 +3168,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 84,20,"Smith, Samual",Idaho Division of Career Technical Education,97,83316<-->83702,True,0,None
 84,21,"Smith, Samual",Idaho Division of Vocational Rehabilitation,96,83316<-->83720,False,0,None
 84,22,"Smith, Samual",Londr,110,83316<-->83616,True,0,None
-84,23,"Smith, Samual",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+84,23,"Smith, Samual",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 84,24,"Smith, Samual",Northwest Machining & Mfg Inc.,106,83316<-->83646,False,0,None
 84,25,"Smith, Samual",Exyte ,83,83316<-->83716,False,0,None
 84,26,"Smith, Samual",Exyte,83,83316<-->83716,False,0,None
 84,27,"Smith, Samual","Western Aircraft, Inc.",94,83316<-->83705,False,0,None
 84,28,"Smith, Samual",Girl Scouts of Silver Sage,96,83316<-->83709,False,0,None
-84,29,"Smith, Samual",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+84,29,"Smith, Samual",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 84,30,"Smith, Samual","Intermountain Blending & Filling, LLC",101,83316<-->83642,False,0,None
 84,31,"Smith, Samual",Boys & Girls Clubs of Magic Valley,23,83316<-->83301,True,0,None
 84,32,"Smith, Samual",Museum of Idaho,63,83316<-->83647,True,0,None
@@ -3210,13 +3210,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 85,20,"Prado Prado, Rodolfo ",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 85,21,"Prado Prado, Rodolfo ",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 85,22,"Prado Prado, Rodolfo ",Londr,16,83706<-->83616,True,0,None
-85,23,"Prado Prado, Rodolfo ",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+85,23,"Prado Prado, Rodolfo ",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 85,24,"Prado Prado, Rodolfo ",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 85,25,"Prado Prado, Rodolfo ",Exyte ,27,83706<-->83716,False,0,None
 85,26,"Prado Prado, Rodolfo ",Exyte,27,83706<-->83716,False,0,None
 85,27,"Prado Prado, Rodolfo ","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 85,28,"Prado Prado, Rodolfo ",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-85,29,"Prado Prado, Rodolfo ",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+85,29,"Prado Prado, Rodolfo ",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 85,30,"Prado Prado, Rodolfo ","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 85,31,"Prado Prado, Rodolfo ",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 85,32,"Prado Prado, Rodolfo ",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -3252,13 +3252,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 86,20,"Crain, Brandon",Idaho Division of Career Technical Education,204,83274<-->83702,True,0,None
 86,21,"Crain, Brandon",Idaho Division of Vocational Rehabilitation,206,83274<-->83720,False,0,None
 86,22,"Crain, Brandon",Londr,216,83274<-->83616,True,0,None
-86,23,"Crain, Brandon",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+86,23,"Crain, Brandon",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 86,24,"Crain, Brandon",Northwest Machining & Mfg Inc.,218,83274<-->83646,False,0,None
 86,25,"Crain, Brandon",Exyte ,179,83274<-->83716,False,0,None
 86,26,"Crain, Brandon",Exyte,179,83274<-->83716,False,0,None
 86,27,"Crain, Brandon","Western Aircraft, Inc.",207,83274<-->83705,False,0,None
 86,28,"Crain, Brandon",Girl Scouts of Silver Sage,210,83274<-->83709,False,0,None
-86,29,"Crain, Brandon",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+86,29,"Crain, Brandon",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 86,30,"Crain, Brandon","Intermountain Blending & Filling, LLC",216,83274<-->83642,False,0,None
 86,31,"Crain, Brandon",Boys & Girls Clubs of Magic Valley,139,83274<-->83301,True,0,None
 86,32,"Crain, Brandon",Museum of Idaho,171,83274<-->83647,True,0,None
@@ -3294,13 +3294,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 87,20,"Nielsen, Josh",Idaho Division of Career Technical Education,193,83204<-->83702,True,0,None
 87,21,"Nielsen, Josh",Idaho Division of Vocational Rehabilitation,193,83204<-->83720,False,0,None
 87,22,"Nielsen, Josh",Londr,206,83204<-->83616,True,0,None
-87,23,"Nielsen, Josh",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+87,23,"Nielsen, Josh",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 87,24,"Nielsen, Josh",Northwest Machining & Mfg Inc.,205,83204<-->83646,False,0,None
 87,25,"Nielsen, Josh",Exyte ,169,83204<-->83716,False,0,None
 87,26,"Nielsen, Josh",Exyte,169,83204<-->83716,False,0,None
 87,27,"Nielsen, Josh","Western Aircraft, Inc.",193,83204<-->83705,False,0,None
 87,28,"Nielsen, Josh",Girl Scouts of Silver Sage,197,83204<-->83709,False,0,None
-87,29,"Nielsen, Josh",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+87,29,"Nielsen, Josh",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 87,30,"Nielsen, Josh","Intermountain Blending & Filling, LLC",202,83204<-->83642,False,0,None
 87,31,"Nielsen, Josh",Boys & Girls Clubs of Magic Valley,105,83204<-->83301,True,0,None
 87,32,"Nielsen, Josh",Museum of Idaho,156,83204<-->83647,True,0,None
@@ -3336,13 +3336,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 88,20,"Coffey, Brian",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 88,21,"Coffey, Brian",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 88,22,"Coffey, Brian",Londr,16,83706<-->83616,True,0,None
-88,23,"Coffey, Brian",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+88,23,"Coffey, Brian",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 88,24,"Coffey, Brian",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 88,25,"Coffey, Brian",Exyte ,27,83706<-->83716,False,0,None
 88,26,"Coffey, Brian",Exyte,27,83706<-->83716,False,0,None
 88,27,"Coffey, Brian","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 88,28,"Coffey, Brian",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-88,29,"Coffey, Brian",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+88,29,"Coffey, Brian",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 88,30,"Coffey, Brian","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 88,31,"Coffey, Brian",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 88,32,"Coffey, Brian",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -3378,13 +3378,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 89,20,"Fielding, Alison",Idaho Division of Career Technical Education,5,83706<-->83702,False,0,None
 89,21,"Fielding, Alison",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 89,22,"Fielding, Alison",Londr,16,83706<-->83616,False,0,None
-89,23,"Fielding, Alison",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+89,23,"Fielding, Alison",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 89,24,"Fielding, Alison",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 89,25,"Fielding, Alison",Exyte ,27,83706<-->83716,False,0,None
 89,26,"Fielding, Alison",Exyte,27,83706<-->83716,False,0,None
 89,27,"Fielding, Alison","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 89,28,"Fielding, Alison",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-89,29,"Fielding, Alison",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+89,29,"Fielding, Alison",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 89,30,"Fielding, Alison","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 89,31,"Fielding, Alison",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,False,0,None
 89,32,"Fielding, Alison",Museum of Idaho,36,83706<-->83647,False,0,None
@@ -3420,13 +3420,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 90,20,"Zickefoose, Gale",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 90,21,"Zickefoose, Gale",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 90,22,"Zickefoose, Gale",Londr,16,83706<-->83616,True,0,None
-90,23,"Zickefoose, Gale",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+90,23,"Zickefoose, Gale",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 90,24,"Zickefoose, Gale",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 90,25,"Zickefoose, Gale",Exyte ,27,83706<-->83716,False,0,None
 90,26,"Zickefoose, Gale",Exyte,27,83706<-->83716,False,0,None
 90,27,"Zickefoose, Gale","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 90,28,"Zickefoose, Gale",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-90,29,"Zickefoose, Gale",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+90,29,"Zickefoose, Gale",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 90,30,"Zickefoose, Gale","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 90,31,"Zickefoose, Gale",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 90,32,"Zickefoose, Gale",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -3462,13 +3462,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 91,20,"Kalbfleisch , Charlyn ",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 91,21,"Kalbfleisch , Charlyn ",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 91,22,"Kalbfleisch , Charlyn ",Londr,16,83706<-->83616,True,0,None
-91,23,"Kalbfleisch , Charlyn ",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+91,23,"Kalbfleisch , Charlyn ",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 91,24,"Kalbfleisch , Charlyn ",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 91,25,"Kalbfleisch , Charlyn ",Exyte ,27,83706<-->83716,False,0,None
 91,26,"Kalbfleisch , Charlyn ",Exyte,27,83706<-->83716,False,0,None
 91,27,"Kalbfleisch , Charlyn ","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 91,28,"Kalbfleisch , Charlyn ",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-91,29,"Kalbfleisch , Charlyn ",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+91,29,"Kalbfleisch , Charlyn ",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 91,30,"Kalbfleisch , Charlyn ","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 91,31,"Kalbfleisch , Charlyn ",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 91,32,"Kalbfleisch , Charlyn ",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -3504,13 +3504,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 92,20,"Lucore, Timothy",Idaho Division of Career Technical Education,24,83605<-->83702,True,0,None
 92,21,"Lucore, Timothy",Idaho Division of Vocational Rehabilitation,22,83605<-->83720,False,0,None
 92,22,"Lucore, Timothy",Londr,15,83605<-->83616,True,0,None
-92,23,"Lucore, Timothy",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+92,23,"Lucore, Timothy",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 92,24,"Lucore, Timothy",Northwest Machining & Mfg Inc.,11,83605<-->83646,False,0,None
 92,25,"Lucore, Timothy",Exyte ,49,83605<-->83716,False,0,None
 92,26,"Lucore, Timothy",Exyte,49,83605<-->83716,False,0,None
 92,27,"Lucore, Timothy","Western Aircraft, Inc.",22,83605<-->83705,False,0,None
 92,28,"Lucore, Timothy",Girl Scouts of Silver Sage,19,83605<-->83709,False,0,None
-92,29,"Lucore, Timothy",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+92,29,"Lucore, Timothy",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 92,30,"Lucore, Timothy","Intermountain Blending & Filling, LLC",14,83605<-->83642,False,0,None
 92,31,"Lucore, Timothy",Boys & Girls Clubs of Magic Valley,138,83605<-->83301,True,0,None
 92,32,"Lucore, Timothy",Museum of Idaho,60,83605<-->83647,True,0,None
@@ -3546,13 +3546,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 93,20,"Eck, Katrina",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 93,21,"Eck, Katrina",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 93,22,"Eck, Katrina",Londr,16,83706<-->83616,True,0,None
-93,23,"Eck, Katrina",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+93,23,"Eck, Katrina",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 93,24,"Eck, Katrina",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 93,25,"Eck, Katrina",Exyte ,27,83706<-->83716,False,0,None
 93,26,"Eck, Katrina",Exyte,27,83706<-->83716,False,0,None
 93,27,"Eck, Katrina","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 93,28,"Eck, Katrina",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-93,29,"Eck, Katrina",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+93,29,"Eck, Katrina",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 93,30,"Eck, Katrina","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 93,31,"Eck, Katrina",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 93,32,"Eck, Katrina",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -3588,13 +3588,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 94,20,"Aguilera, Stephanie",Idaho Division of Career Technical Education,5,83706<-->83702,False,0,None
 94,21,"Aguilera, Stephanie",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 94,22,"Aguilera, Stephanie",Londr,16,83706<-->83616,False,0,None
-94,23,"Aguilera, Stephanie",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+94,23,"Aguilera, Stephanie",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 94,24,"Aguilera, Stephanie",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 94,25,"Aguilera, Stephanie",Exyte ,27,83706<-->83716,False,0,None
 94,26,"Aguilera, Stephanie",Exyte,27,83706<-->83716,False,0,None
 94,27,"Aguilera, Stephanie","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 94,28,"Aguilera, Stephanie",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-94,29,"Aguilera, Stephanie",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+94,29,"Aguilera, Stephanie",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 94,30,"Aguilera, Stephanie","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 94,31,"Aguilera, Stephanie",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,False,0,None
 94,32,"Aguilera, Stephanie",Museum of Idaho,36,83706<-->83647,False,0,None
@@ -3630,13 +3630,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 95,20,"Johnson, Lola",Idaho Division of Career Technical Education,13,83646<-->83702,True,0,None
 95,21,"Johnson, Lola",Idaho Division of Vocational Rehabilitation,11,83646<-->83720,False,0,None
 95,22,"Johnson, Lola",Londr,9,83646<-->83616,True,0,None
-95,23,"Johnson, Lola",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+95,23,"Johnson, Lola",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 95,24,"Johnson, Lola",Northwest Machining & Mfg Inc.,0,83646<-->83646,False,0,None
 95,25,"Johnson, Lola",Exyte ,38,83646<-->83716,False,0,None
 95,26,"Johnson, Lola",Exyte,38,83646<-->83716,False,0,None
 95,27,"Johnson, Lola","Western Aircraft, Inc.",12,83646<-->83705,False,0,None
 95,28,"Johnson, Lola",Girl Scouts of Silver Sage,9,83646<-->83709,False,0,None
-95,29,"Johnson, Lola",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+95,29,"Johnson, Lola",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 95,30,"Johnson, Lola","Intermountain Blending & Filling, LLC",5,83646<-->83642,False,0,None
 95,31,"Johnson, Lola",Boys & Girls Clubs of Magic Valley,129,83646<-->83301,True,0,None
 95,32,"Johnson, Lola",Museum of Idaho,49,83646<-->83647,True,0,None
@@ -3672,13 +3672,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 96,20,"Chaffin, Jill",Idaho Division of Career Technical Education,120,83301<-->83702,True,0,None
 96,21,"Chaffin, Jill",Idaho Division of Vocational Rehabilitation,119,83301<-->83720,False,0,None
 96,22,"Chaffin, Jill",Londr,134,83301<-->83616,True,0,None
-96,23,"Chaffin, Jill",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+96,23,"Chaffin, Jill",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 96,24,"Chaffin, Jill",Northwest Machining & Mfg Inc.,129,83301<-->83646,False,0,None
 96,25,"Chaffin, Jill",Exyte ,105,83301<-->83716,False,1,chem
 96,26,"Chaffin, Jill",Exyte,105,83301<-->83716,False,0,None
 96,27,"Chaffin, Jill","Western Aircraft, Inc.",117,83301<-->83705,False,0,None
 96,28,"Chaffin, Jill",Girl Scouts of Silver Sage,119,83301<-->83709,False,0,None
-96,29,"Chaffin, Jill",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+96,29,"Chaffin, Jill",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 96,30,"Chaffin, Jill","Intermountain Blending & Filling, LLC",125,83301<-->83642,False,1,chem
 96,31,"Chaffin, Jill",Boys & Girls Clubs of Magic Valley,0,83301<-->83301,True,0,None
 96,32,"Chaffin, Jill",Museum of Idaho,85,83301<-->83647,True,0,None
@@ -3714,13 +3714,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 97,20,"Pollard, Stacie",Idaho Division of Career Technical Education,57,83623<-->83702,True,0,None
 97,21,"Pollard, Stacie",Idaho Division of Vocational Rehabilitation,56,83623<-->83720,False,0,None
 97,22,"Pollard, Stacie",Londr,70,83623<-->83616,True,0,None
-97,23,"Pollard, Stacie",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+97,23,"Pollard, Stacie",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 97,24,"Pollard, Stacie",Northwest Machining & Mfg Inc.,66,83623<-->83646,False,0,None
 97,25,"Pollard, Stacie",Exyte ,45,83623<-->83716,False,0,None
 97,26,"Pollard, Stacie",Exyte,45,83623<-->83716,False,0,None
 97,27,"Pollard, Stacie","Western Aircraft, Inc.",54,83623<-->83705,False,0,None
 97,28,"Pollard, Stacie",Girl Scouts of Silver Sage,56,83623<-->83709,False,0,None
-97,29,"Pollard, Stacie",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+97,29,"Pollard, Stacie",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 97,30,"Pollard, Stacie","Intermountain Blending & Filling, LLC",62,83623<-->83642,False,0,None
 97,31,"Pollard, Stacie",Boys & Girls Clubs of Magic Valley,63,83623<-->83301,True,0,None
 97,32,"Pollard, Stacie",Museum of Idaho,24,83623<-->83647,True,0,None
@@ -3756,13 +3756,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 98,20,"Symons, Tonya",Idaho Division of Career Technical Education,13,83646<-->83702,True,0,None
 98,21,"Symons, Tonya",Idaho Division of Vocational Rehabilitation,11,83646<-->83720,False,0,None
 98,22,"Symons, Tonya",Londr,9,83646<-->83616,True,0,None
-98,23,"Symons, Tonya",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+98,23,"Symons, Tonya",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 98,24,"Symons, Tonya",Northwest Machining & Mfg Inc.,0,83646<-->83646,False,0,None
 98,25,"Symons, Tonya",Exyte ,38,83646<-->83716,False,1,chem
 98,26,"Symons, Tonya",Exyte,38,83646<-->83716,False,0,None
 98,27,"Symons, Tonya","Western Aircraft, Inc.",12,83646<-->83705,False,0,None
 98,28,"Symons, Tonya",Girl Scouts of Silver Sage,9,83646<-->83709,False,0,None
-98,29,"Symons, Tonya",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+98,29,"Symons, Tonya",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 98,30,"Symons, Tonya","Intermountain Blending & Filling, LLC",5,83646<-->83642,False,1,chem
 98,31,"Symons, Tonya",Boys & Girls Clubs of Magic Valley,129,83646<-->83301,True,0,None
 98,32,"Symons, Tonya",Museum of Idaho,49,83646<-->83647,True,0,None
@@ -3798,13 +3798,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 99,20,"Andrade, Shannon",Idaho Division of Career Technical Education,23,83651<-->83702,True,0,None
 99,21,"Andrade, Shannon",Idaho Division of Vocational Rehabilitation,21,83651<-->83720,False,0,None
 99,22,"Andrade, Shannon",Londr,17,83651<-->83616,True,0,None
-99,23,"Andrade, Shannon",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+99,23,"Andrade, Shannon",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 99,24,"Andrade, Shannon",Northwest Machining & Mfg Inc.,10,83651<-->83646,False,0,None
 99,25,"Andrade, Shannon",Exyte ,49,83651<-->83716,False,0,None
 99,26,"Andrade, Shannon",Exyte,49,83651<-->83716,False,0,None
 99,27,"Andrade, Shannon","Western Aircraft, Inc.",20,83651<-->83705,False,0,None
 99,28,"Andrade, Shannon",Girl Scouts of Silver Sage,17,83651<-->83709,False,0,None
-99,29,"Andrade, Shannon",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+99,29,"Andrade, Shannon",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 99,30,"Andrade, Shannon","Intermountain Blending & Filling, LLC",11,83651<-->83642,False,0,None
 99,31,"Andrade, Shannon",Boys & Girls Clubs of Magic Valley,134,83651<-->83301,True,0,None
 99,32,"Andrade, Shannon",Museum of Idaho,57,83651<-->83647,True,0,None
@@ -3840,13 +3840,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 100,20,"Dickson, Katherin",Idaho Division of Career Technical Education,129,83335<-->83702,True,0,None
 100,21,"Dickson, Katherin",Idaho Division of Vocational Rehabilitation,128,83335<-->83720,False,0,None
 100,22,"Dickson, Katherin",Londr,142,83335<-->83616,True,0,None
-100,23,"Dickson, Katherin",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+100,23,"Dickson, Katherin",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 100,24,"Dickson, Katherin",Northwest Machining & Mfg Inc.,139,83335<-->83646,False,0,None
 100,25,"Dickson, Katherin",Exyte ,109,83335<-->83716,False,0,None
 100,26,"Dickson, Katherin",Exyte,109,83335<-->83716,False,0,None
 100,27,"Dickson, Katherin","Western Aircraft, Inc.",127,83335<-->83705,False,0,None
 100,28,"Dickson, Katherin",Girl Scouts of Silver Sage,130,83335<-->83709,False,0,None
-100,29,"Dickson, Katherin",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+100,29,"Dickson, Katherin",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 100,30,"Dickson, Katherin","Intermountain Blending & Filling, LLC",135,83335<-->83642,False,0,None
 100,31,"Dickson, Katherin",Boys & Girls Clubs of Magic Valley,26,83335<-->83301,True,0,None
 100,32,"Dickson, Katherin",Museum of Idaho,91,83335<-->83647,True,0,None
@@ -3882,13 +3882,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 101,20,"Estlick , Kaitlyn ",Idaho Division of Career Technical Education,23,83651<-->83702,True,0,None
 101,21,"Estlick , Kaitlyn ",Idaho Division of Vocational Rehabilitation,21,83651<-->83720,False,0,None
 101,22,"Estlick , Kaitlyn ",Londr,17,83651<-->83616,True,0,None
-101,23,"Estlick , Kaitlyn ",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+101,23,"Estlick , Kaitlyn ",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 101,24,"Estlick , Kaitlyn ",Northwest Machining & Mfg Inc.,10,83651<-->83646,False,0,None
 101,25,"Estlick , Kaitlyn ",Exyte ,49,83651<-->83716,False,0,None
 101,26,"Estlick , Kaitlyn ",Exyte,49,83651<-->83716,False,0,None
 101,27,"Estlick , Kaitlyn ","Western Aircraft, Inc.",20,83651<-->83705,False,0,None
 101,28,"Estlick , Kaitlyn ",Girl Scouts of Silver Sage,17,83651<-->83709,False,0,None
-101,29,"Estlick , Kaitlyn ",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+101,29,"Estlick , Kaitlyn ",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 101,30,"Estlick , Kaitlyn ","Intermountain Blending & Filling, LLC",11,83651<-->83642,False,0,None
 101,31,"Estlick , Kaitlyn ",Boys & Girls Clubs of Magic Valley,134,83651<-->83301,True,0,None
 101,32,"Estlick , Kaitlyn ",Museum of Idaho,57,83651<-->83647,True,0,None
@@ -3924,13 +3924,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 102,20,"Adams, Heidi",Idaho Division of Career Technical Education,120,83301<-->83702,True,0,None
 102,21,"Adams, Heidi",Idaho Division of Vocational Rehabilitation,119,83301<-->83720,False,0,None
 102,22,"Adams, Heidi",Londr,134,83301<-->83616,True,0,None
-102,23,"Adams, Heidi",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+102,23,"Adams, Heidi",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 102,24,"Adams, Heidi",Northwest Machining & Mfg Inc.,129,83301<-->83646,False,0,None
 102,25,"Adams, Heidi",Exyte ,105,83301<-->83716,False,0,None
 102,26,"Adams, Heidi",Exyte,105,83301<-->83716,False,0,None
 102,27,"Adams, Heidi","Western Aircraft, Inc.",117,83301<-->83705,False,0,None
 102,28,"Adams, Heidi",Girl Scouts of Silver Sage,119,83301<-->83709,False,0,None
-102,29,"Adams, Heidi",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+102,29,"Adams, Heidi",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 102,30,"Adams, Heidi","Intermountain Blending & Filling, LLC",125,83301<-->83642,False,0,None
 102,31,"Adams, Heidi",Boys & Girls Clubs of Magic Valley,0,83301<-->83301,True,0,None
 102,32,"Adams, Heidi",Museum of Idaho,85,83301<-->83647,True,0,None
@@ -3966,13 +3966,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 103,20,"Emery, Esther",Idaho Division of Career Technical Education,25,83716<-->83702,True,0,None
 103,21,"Emery, Esther",Idaho Division of Vocational Rehabilitation,27,83716<-->83720,False,0,None
 103,22,"Emery, Esther",Londr,37,83716<-->83616,True,0,None
-103,23,"Emery, Esther",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+103,23,"Emery, Esther",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 103,24,"Emery, Esther",Northwest Machining & Mfg Inc.,38,83716<-->83646,False,0,None
 103,25,"Emery, Esther",Exyte ,0,83716<-->83716,False,0,None
 103,26,"Emery, Esther",Exyte,0,83716<-->83716,False,0,None
 103,27,"Emery, Esther","Western Aircraft, Inc.",29,83716<-->83705,False,0,None
 103,28,"Emery, Esther",Girl Scouts of Silver Sage,32,83716<-->83709,False,0,None
-103,29,"Emery, Esther",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+103,29,"Emery, Esther",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 103,30,"Emery, Esther","Intermountain Blending & Filling, LLC",37,83716<-->83642,False,0,None
 103,31,"Emery, Esther",Boys & Girls Clubs of Magic Valley,105,83716<-->83301,True,0,None
 103,32,"Emery, Esther",Museum of Idaho,20,83716<-->83647,True,0,None
@@ -4008,13 +4008,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 104,20,"Weaver, Matthew",Idaho Division of Career Technical Education,193,83204<-->83702,True,0,None
 104,21,"Weaver, Matthew",Idaho Division of Vocational Rehabilitation,193,83204<-->83720,False,0,None
 104,22,"Weaver, Matthew",Londr,206,83204<-->83616,True,0,None
-104,23,"Weaver, Matthew",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+104,23,"Weaver, Matthew",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 104,24,"Weaver, Matthew",Northwest Machining & Mfg Inc.,205,83204<-->83646,False,0,None
 104,25,"Weaver, Matthew",Exyte ,169,83204<-->83716,False,0,None
 104,26,"Weaver, Matthew",Exyte,169,83204<-->83716,False,0,None
 104,27,"Weaver, Matthew","Western Aircraft, Inc.",193,83204<-->83705,False,0,None
 104,28,"Weaver, Matthew",Girl Scouts of Silver Sage,197,83204<-->83709,False,0,None
-104,29,"Weaver, Matthew",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+104,29,"Weaver, Matthew",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 104,30,"Weaver, Matthew","Intermountain Blending & Filling, LLC",202,83204<-->83642,False,0,None
 104,31,"Weaver, Matthew",Boys & Girls Clubs of Magic Valley,105,83204<-->83301,True,0,None
 104,32,"Weaver, Matthew",Museum of Idaho,156,83204<-->83647,True,0,None
@@ -4050,13 +4050,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 105,20,"Bingham, Laura",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 105,21,"Bingham, Laura",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 105,22,"Bingham, Laura",Londr,16,83706<-->83616,True,0,None
-105,23,"Bingham, Laura",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+105,23,"Bingham, Laura",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 105,24,"Bingham, Laura",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 105,25,"Bingham, Laura",Exyte ,27,83706<-->83716,False,0,None
 105,26,"Bingham, Laura",Exyte,27,83706<-->83716,False,0,None
 105,27,"Bingham, Laura","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 105,28,"Bingham, Laura",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-105,29,"Bingham, Laura",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+105,29,"Bingham, Laura",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 105,30,"Bingham, Laura","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 105,31,"Bingham, Laura",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 105,32,"Bingham, Laura",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -4092,13 +4092,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 106,20,"Hansen, Emily",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 106,21,"Hansen, Emily",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 106,22,"Hansen, Emily",Londr,16,83706<-->83616,True,0,None
-106,23,"Hansen, Emily",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+106,23,"Hansen, Emily",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 106,24,"Hansen, Emily",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 106,25,"Hansen, Emily",Exyte ,27,83706<-->83716,False,1,chem
 106,26,"Hansen, Emily",Exyte,27,83706<-->83716,False,0,None
 106,27,"Hansen, Emily","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 106,28,"Hansen, Emily",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-106,29,"Hansen, Emily",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+106,29,"Hansen, Emily",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 106,30,"Hansen, Emily","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,1,chem
 106,31,"Hansen, Emily",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 106,32,"Hansen, Emily",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -4134,13 +4134,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 107,20,"Grimm, Joseph",Idaho Division of Career Technical Education,237,83232<-->83702,True,0,None
 107,21,"Grimm, Joseph",Idaho Division of Vocational Rehabilitation,237,83232<-->83720,False,0,None
 107,22,"Grimm, Joseph",Londr,250,83232<-->83616,True,0,None
-107,23,"Grimm, Joseph",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+107,23,"Grimm, Joseph",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 107,24,"Grimm, Joseph",Northwest Machining & Mfg Inc.,248,83232<-->83646,False,0,None
 107,25,"Grimm, Joseph",Exyte ,214,83232<-->83716,False,0,None
 107,26,"Grimm, Joseph",Exyte,214,83232<-->83716,False,0,None
 107,27,"Grimm, Joseph","Western Aircraft, Inc.",236,83232<-->83705,False,0,None
 107,28,"Grimm, Joseph",Girl Scouts of Silver Sage,239,83232<-->83709,False,0,None
-107,29,"Grimm, Joseph",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+107,29,"Grimm, Joseph",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 107,30,"Grimm, Joseph","Intermountain Blending & Filling, LLC",245,83232<-->83642,False,0,None
 107,31,"Grimm, Joseph",Boys & Girls Clubs of Magic Valley,131,83232<-->83301,True,0,None
 107,32,"Grimm, Joseph",Museum of Idaho,199,83232<-->83647,True,0,None
@@ -4176,13 +4176,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 108,20,"Telford, Neva",Idaho Division of Career Technical Education,222,83448<-->83702,False,0,None
 108,21,"Telford, Neva",Idaho Division of Vocational Rehabilitation,224,83448<-->83720,False,0,None
 108,22,"Telford, Neva",Londr,233,83448<-->83616,False,0,None
-108,23,"Telford, Neva",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+108,23,"Telford, Neva",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 108,24,"Telford, Neva",Northwest Machining & Mfg Inc.,236,83448<-->83646,False,0,None
 108,25,"Telford, Neva",Exyte ,197,83448<-->83716,False,0,None
 108,26,"Telford, Neva",Exyte,197,83448<-->83716,False,0,None
 108,27,"Telford, Neva","Western Aircraft, Inc.",226,83448<-->83705,False,0,None
 108,28,"Telford, Neva",Girl Scouts of Silver Sage,229,83448<-->83709,False,0,None
-108,29,"Telford, Neva",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+108,29,"Telford, Neva",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 108,30,"Telford, Neva","Intermountain Blending & Filling, LLC",235,83448<-->83642,False,0,None
 108,31,"Telford, Neva",Boys & Girls Clubs of Magic Valley,174,83448<-->83301,False,0,None
 108,32,"Telford, Neva",Museum of Idaho,192,83448<-->83647,False,0,None
@@ -4218,13 +4218,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 109,20,"Fisher, Michael",Idaho Division of Career Technical Education,23,83651<-->83702,True,0,None
 109,21,"Fisher, Michael",Idaho Division of Vocational Rehabilitation,21,83651<-->83720,False,0,None
 109,22,"Fisher, Michael",Londr,17,83651<-->83616,True,0,None
-109,23,"Fisher, Michael",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+109,23,"Fisher, Michael",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 109,24,"Fisher, Michael",Northwest Machining & Mfg Inc.,10,83651<-->83646,False,0,None
 109,25,"Fisher, Michael",Exyte ,49,83651<-->83716,False,1,chem
 109,26,"Fisher, Michael",Exyte,49,83651<-->83716,False,0,None
 109,27,"Fisher, Michael","Western Aircraft, Inc.",20,83651<-->83705,False,0,None
 109,28,"Fisher, Michael",Girl Scouts of Silver Sage,17,83651<-->83709,False,0,None
-109,29,"Fisher, Michael",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+109,29,"Fisher, Michael",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 109,30,"Fisher, Michael","Intermountain Blending & Filling, LLC",11,83651<-->83642,False,1,chem
 109,31,"Fisher, Michael",Boys & Girls Clubs of Magic Valley,134,83651<-->83301,True,0,None
 109,32,"Fisher, Michael",Museum of Idaho,57,83651<-->83647,True,0,None
@@ -4260,13 +4260,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 110,20,"Sweley, Shea",Idaho Division of Career Technical Education,13,83646<-->83702,False,0,None
 110,21,"Sweley, Shea",Idaho Division of Vocational Rehabilitation,11,83646<-->83720,False,0,None
 110,22,"Sweley, Shea",Londr,9,83646<-->83616,False,0,None
-110,23,"Sweley, Shea",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+110,23,"Sweley, Shea",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 110,24,"Sweley, Shea",Northwest Machining & Mfg Inc.,0,83646<-->83646,False,0,None
 110,25,"Sweley, Shea",Exyte ,38,83646<-->83716,False,0,None
 110,26,"Sweley, Shea",Exyte,38,83646<-->83716,False,0,None
 110,27,"Sweley, Shea","Western Aircraft, Inc.",12,83646<-->83705,False,0,None
 110,28,"Sweley, Shea",Girl Scouts of Silver Sage,9,83646<-->83709,False,0,None
-110,29,"Sweley, Shea",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+110,29,"Sweley, Shea",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 110,30,"Sweley, Shea","Intermountain Blending & Filling, LLC",5,83646<-->83642,False,0,None
 110,31,"Sweley, Shea",Boys & Girls Clubs of Magic Valley,129,83646<-->83301,False,0,None
 110,32,"Sweley, Shea",Museum of Idaho,49,83646<-->83647,False,0,None
@@ -4302,13 +4302,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 111,20,"Wattles, Amy",Idaho Division of Career Technical Education,13,83646<-->83702,True,0,None
 111,21,"Wattles, Amy",Idaho Division of Vocational Rehabilitation,11,83646<-->83720,False,0,None
 111,22,"Wattles, Amy",Londr,9,83646<-->83616,True,0,None
-111,23,"Wattles, Amy",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+111,23,"Wattles, Amy",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 111,24,"Wattles, Amy",Northwest Machining & Mfg Inc.,0,83646<-->83646,False,0,None
 111,25,"Wattles, Amy",Exyte ,38,83646<-->83716,False,0,None
 111,26,"Wattles, Amy",Exyte,38,83646<-->83716,False,0,None
 111,27,"Wattles, Amy","Western Aircraft, Inc.",12,83646<-->83705,False,0,None
 111,28,"Wattles, Amy",Girl Scouts of Silver Sage,9,83646<-->83709,False,0,None
-111,29,"Wattles, Amy",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+111,29,"Wattles, Amy",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 111,30,"Wattles, Amy","Intermountain Blending & Filling, LLC",5,83646<-->83642,False,0,None
 111,31,"Wattles, Amy",Boys & Girls Clubs of Magic Valley,129,83646<-->83301,True,0,None
 111,32,"Wattles, Amy",Museum of Idaho,49,83646<-->83647,True,0,None
@@ -4344,13 +4344,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 112,20,"Markham, Karlene",Idaho Division of Career Technical Education,193,83204<-->83702,True,0,None
 112,21,"Markham, Karlene",Idaho Division of Vocational Rehabilitation,193,83204<-->83720,False,0,None
 112,22,"Markham, Karlene",Londr,206,83204<-->83616,True,0,None
-112,23,"Markham, Karlene",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+112,23,"Markham, Karlene",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 112,24,"Markham, Karlene",Northwest Machining & Mfg Inc.,205,83204<-->83646,False,0,None
 112,25,"Markham, Karlene",Exyte ,169,83204<-->83716,False,0,None
 112,26,"Markham, Karlene",Exyte,169,83204<-->83716,False,0,None
 112,27,"Markham, Karlene","Western Aircraft, Inc.",193,83204<-->83705,False,0,None
 112,28,"Markham, Karlene",Girl Scouts of Silver Sage,197,83204<-->83709,False,0,None
-112,29,"Markham, Karlene",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+112,29,"Markham, Karlene",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 112,30,"Markham, Karlene","Intermountain Blending & Filling, LLC",202,83204<-->83642,False,0,None
 112,31,"Markham, Karlene",Boys & Girls Clubs of Magic Valley,105,83204<-->83301,True,0,None
 112,32,"Markham, Karlene",Museum of Idaho,156,83204<-->83647,True,0,None
@@ -4386,13 +4386,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 113,20,"Hammond, Virginia",Idaho Division of Career Technical Education,300,83869<-->83702,False,0,None
 113,21,"Hammond, Virginia",Idaho Division of Vocational Rehabilitation,303,83869<-->83720,False,0,None
 113,22,"Hammond, Virginia",Londr,291,83869<-->83616,False,0,None
-113,23,"Hammond, Virginia",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+113,23,"Hammond, Virginia",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 113,24,"Hammond, Virginia",Northwest Machining & Mfg Inc.,300,83869<-->83646,False,0,None
 113,25,"Hammond, Virginia",Exyte ,303,83869<-->83716,False,0,None
 113,26,"Hammond, Virginia",Exyte,303,83869<-->83716,False,0,None
 113,27,"Hammond, Virginia","Western Aircraft, Inc.",307,83869<-->83705,False,0,None
 113,28,"Hammond, Virginia",Girl Scouts of Silver Sage,307,83869<-->83709,False,0,None
-113,29,"Hammond, Virginia",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+113,29,"Hammond, Virginia",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 113,30,"Hammond, Virginia","Intermountain Blending & Filling, LLC",305,83869<-->83642,False,0,None
 113,31,"Hammond, Virginia",Boys & Girls Clubs of Magic Valley,402,83869<-->83301,False,0,None
 113,32,"Hammond, Virginia",Museum of Idaho,323,83869<-->83647,False,0,None
@@ -4428,13 +4428,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 114,20,"Duncan, Sara",Idaho Division of Career Technical Education,145,83318<-->83702,True,0,None
 114,21,"Duncan, Sara",Idaho Division of Vocational Rehabilitation,145,83318<-->83720,False,0,None
 114,22,"Duncan, Sara",Londr,159,83318<-->83616,True,0,None
-114,23,"Duncan, Sara",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+114,23,"Duncan, Sara",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 114,24,"Duncan, Sara",Northwest Machining & Mfg Inc.,156,83318<-->83646,False,0,None
 114,25,"Duncan, Sara",Exyte ,126,83318<-->83716,False,0,None
 114,26,"Duncan, Sara",Exyte,126,83318<-->83716,False,0,None
 114,27,"Duncan, Sara","Western Aircraft, Inc.",143,83318<-->83705,False,0,None
 114,28,"Duncan, Sara",Girl Scouts of Silver Sage,146,83318<-->83709,False,0,None
-114,29,"Duncan, Sara",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+114,29,"Duncan, Sara",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 114,30,"Duncan, Sara","Intermountain Blending & Filling, LLC",152,83318<-->83642,False,0,None
 114,31,"Duncan, Sara",Boys & Girls Clubs of Magic Valley,35,83318<-->83301,True,0,None
 114,32,"Duncan, Sara",Museum of Idaho,108,83318<-->83647,True,0,None
@@ -4470,13 +4470,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 115,20,"Martin, Christopher",Idaho Division of Career Technical Education,200,83402<-->83702,False,0,None
 115,21,"Martin, Christopher",Idaho Division of Vocational Rehabilitation,201,83402<-->83720,False,0,None
 115,22,"Martin, Christopher",Londr,211,83402<-->83616,False,0,None
-115,23,"Martin, Christopher",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+115,23,"Martin, Christopher",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 115,24,"Martin, Christopher",Northwest Machining & Mfg Inc.,213,83402<-->83646,False,1,trade
 115,25,"Martin, Christopher",Exyte ,174,83402<-->83716,False,0,None
 115,26,"Martin, Christopher",Exyte,174,83402<-->83716,False,0,None
 115,27,"Martin, Christopher","Western Aircraft, Inc.",202,83402<-->83705,False,1,trade
 115,28,"Martin, Christopher",Girl Scouts of Silver Sage,206,83402<-->83709,False,0,None
-115,29,"Martin, Christopher",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+115,29,"Martin, Christopher",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 115,30,"Martin, Christopher","Intermountain Blending & Filling, LLC",211,83402<-->83642,False,0,None
 115,31,"Martin, Christopher",Boys & Girls Clubs of Magic Valley,142,83402<-->83301,False,0,None
 115,32,"Martin, Christopher",Museum of Idaho,167,83402<-->83647,False,0,None
@@ -4512,13 +4512,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 116,20,"Anderson, Michelle",Idaho Division of Career Technical Education,216,83442<-->83702,True,0,None
 116,21,"Anderson, Michelle",Idaho Division of Vocational Rehabilitation,218,83442<-->83720,False,0,None
 116,22,"Anderson, Michelle",Londr,228,83442<-->83616,True,0,None
-116,23,"Anderson, Michelle",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+116,23,"Anderson, Michelle",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 116,24,"Anderson, Michelle",Northwest Machining & Mfg Inc.,230,83442<-->83646,False,0,None
 116,25,"Anderson, Michelle",Exyte ,191,83442<-->83716,False,0,None
 116,26,"Anderson, Michelle",Exyte,191,83442<-->83716,False,0,None
 116,27,"Anderson, Michelle","Western Aircraft, Inc.",219,83442<-->83705,False,0,None
 116,28,"Anderson, Michelle",Girl Scouts of Silver Sage,223,83442<-->83709,False,0,None
-116,29,"Anderson, Michelle",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+116,29,"Anderson, Michelle",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 116,30,"Anderson, Michelle","Intermountain Blending & Filling, LLC",228,83442<-->83642,False,0,None
 116,31,"Anderson, Michelle",Boys & Girls Clubs of Magic Valley,160,83442<-->83301,True,0,None
 116,32,"Anderson, Michelle",Museum of Idaho,185,83442<-->83647,True,0,None
@@ -4554,13 +4554,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 117,20,"Despain, Betsy ",Idaho Division of Career Technical Education,245,83263<-->83702,False,0,None
 117,21,"Despain, Betsy ",Idaho Division of Vocational Rehabilitation,245,83263<-->83720,False,0,None
 117,22,"Despain, Betsy ",Londr,258,83263<-->83616,False,0,None
-117,23,"Despain, Betsy ",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+117,23,"Despain, Betsy ",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 117,24,"Despain, Betsy ",Northwest Machining & Mfg Inc.,257,83263<-->83646,False,0,None
 117,25,"Despain, Betsy ",Exyte ,222,83263<-->83716,False,0,None
 117,26,"Despain, Betsy ",Exyte,222,83263<-->83716,False,0,None
 117,27,"Despain, Betsy ","Western Aircraft, Inc.",245,83263<-->83705,False,0,None
 117,28,"Despain, Betsy ",Girl Scouts of Silver Sage,248,83263<-->83709,False,0,None
-117,29,"Despain, Betsy ",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+117,29,"Despain, Betsy ",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 117,30,"Despain, Betsy ","Intermountain Blending & Filling, LLC",253,83263<-->83642,False,0,None
 117,31,"Despain, Betsy ",Boys & Girls Clubs of Magic Valley,141,83263<-->83301,False,0,None
 117,32,"Despain, Betsy ",Museum of Idaho,207,83263<-->83647,False,0,None
@@ -4596,13 +4596,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 118,20,"Barnes, Jared",Idaho Division of Career Technical Education,120,83301<-->83702,True,0,None
 118,21,"Barnes, Jared",Idaho Division of Vocational Rehabilitation,119,83301<-->83720,False,0,None
 118,22,"Barnes, Jared",Londr,134,83301<-->83616,True,0,None
-118,23,"Barnes, Jared",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+118,23,"Barnes, Jared",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 118,24,"Barnes, Jared",Northwest Machining & Mfg Inc.,129,83301<-->83646,False,0,None
 118,25,"Barnes, Jared",Exyte ,105,83301<-->83716,False,1,chem
 118,26,"Barnes, Jared",Exyte,105,83301<-->83716,False,0,None
 118,27,"Barnes, Jared","Western Aircraft, Inc.",117,83301<-->83705,False,0,None
 118,28,"Barnes, Jared",Girl Scouts of Silver Sage,119,83301<-->83709,False,0,None
-118,29,"Barnes, Jared",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+118,29,"Barnes, Jared",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 118,30,"Barnes, Jared","Intermountain Blending & Filling, LLC",125,83301<-->83642,False,1,chem
 118,31,"Barnes, Jared",Boys & Girls Clubs of Magic Valley,0,83301<-->83301,True,0,None
 118,32,"Barnes, Jared",Museum of Idaho,85,83301<-->83647,True,0,None
@@ -4638,13 +4638,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 119,20,"Gross, Kim",Idaho Division of Career Technical Education,23,83651<-->83702,True,0,None
 119,21,"Gross, Kim",Idaho Division of Vocational Rehabilitation,21,83651<-->83720,False,0,None
 119,22,"Gross, Kim",Londr,17,83651<-->83616,True,0,None
-119,23,"Gross, Kim",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+119,23,"Gross, Kim",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 119,24,"Gross, Kim",Northwest Machining & Mfg Inc.,10,83651<-->83646,False,0,None
 119,25,"Gross, Kim",Exyte ,49,83651<-->83716,False,0,None
 119,26,"Gross, Kim",Exyte,49,83651<-->83716,False,0,None
 119,27,"Gross, Kim","Western Aircraft, Inc.",20,83651<-->83705,False,0,None
 119,28,"Gross, Kim",Girl Scouts of Silver Sage,17,83651<-->83709,False,0,None
-119,29,"Gross, Kim",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+119,29,"Gross, Kim",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 119,30,"Gross, Kim","Intermountain Blending & Filling, LLC",11,83651<-->83642,False,0,None
 119,31,"Gross, Kim",Boys & Girls Clubs of Magic Valley,134,83651<-->83301,True,0,None
 119,32,"Gross, Kim",Museum of Idaho,57,83651<-->83647,True,0,None
@@ -4680,13 +4680,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 120,20,"Shaw, Steven ",Idaho Division of Career Technical Education,110,83324<-->83702,True,0,None
 120,21,"Shaw, Steven ",Idaho Division of Vocational Rehabilitation,110,83324<-->83720,False,0,None
 120,22,"Shaw, Steven ",Londr,123,83324<-->83616,True,0,None
-120,23,"Shaw, Steven ",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+120,23,"Shaw, Steven ",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 120,24,"Shaw, Steven ",Northwest Machining & Mfg Inc.,121,83324<-->83646,False,0,None
 120,25,"Shaw, Steven ",Exyte ,89,83324<-->83716,False,0,None
 120,26,"Shaw, Steven ",Exyte,89,83324<-->83716,False,0,None
 120,27,"Shaw, Steven ","Western Aircraft, Inc.",109,83324<-->83705,False,0,None
 120,28,"Shaw, Steven ",Girl Scouts of Silver Sage,112,83324<-->83709,False,0,None
-120,29,"Shaw, Steven ",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+120,29,"Shaw, Steven ",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 120,30,"Shaw, Steven ","Intermountain Blending & Filling, LLC",117,83324<-->83642,False,0,None
 120,31,"Shaw, Steven ",Boys & Girls Clubs of Magic Valley,35,83324<-->83301,True,0,None
 120,32,"Shaw, Steven ",Museum of Idaho,72,83324<-->83647,True,0,None
@@ -4722,13 +4722,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 121,20,"Fogdall, Todd",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 121,21,"Fogdall, Todd",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 121,22,"Fogdall, Todd",Londr,16,83706<-->83616,True,0,None
-121,23,"Fogdall, Todd",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+121,23,"Fogdall, Todd",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 121,24,"Fogdall, Todd",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 121,25,"Fogdall, Todd",Exyte ,27,83706<-->83716,False,0,None
 121,26,"Fogdall, Todd",Exyte,27,83706<-->83716,False,0,None
 121,27,"Fogdall, Todd","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 121,28,"Fogdall, Todd",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-121,29,"Fogdall, Todd",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+121,29,"Fogdall, Todd",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 121,30,"Fogdall, Todd","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 121,31,"Fogdall, Todd",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 121,32,"Fogdall, Todd",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -4764,13 +4764,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 122,20,"Ashby, Kendria",Idaho Division of Career Technical Education,13,83642<-->83702,True,0,None
 122,21,"Ashby, Kendria",Idaho Division of Vocational Rehabilitation,10,83642<-->83720,False,0,None
 122,22,"Ashby, Kendria",Londr,14,83642<-->83616,True,0,None
-122,23,"Ashby, Kendria",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+122,23,"Ashby, Kendria",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 122,24,"Ashby, Kendria",Northwest Machining & Mfg Inc.,5,83642<-->83646,False,0,None
 122,25,"Ashby, Kendria",Exyte ,37,83642<-->83716,False,0,None
 122,26,"Ashby, Kendria",Exyte,37,83642<-->83716,False,0,None
 122,27,"Ashby, Kendria","Western Aircraft, Inc.",9,83642<-->83705,False,0,None
 122,28,"Ashby, Kendria",Girl Scouts of Silver Sage,5,83642<-->83709,False,0,None
-122,29,"Ashby, Kendria",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+122,29,"Ashby, Kendria",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 122,30,"Ashby, Kendria","Intermountain Blending & Filling, LLC",0,83642<-->83642,False,0,None
 122,31,"Ashby, Kendria",Boys & Girls Clubs of Magic Valley,125,83642<-->83301,True,0,None
 122,32,"Ashby, Kendria",Museum of Idaho,46,83642<-->83647,True,0,None
@@ -4806,13 +4806,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 123,20,"Whitworth, Alaysha",Idaho Division of Career Technical Education,200,83402<-->83702,True,0,None
 123,21,"Whitworth, Alaysha",Idaho Division of Vocational Rehabilitation,201,83402<-->83720,False,0,None
 123,22,"Whitworth, Alaysha",Londr,211,83402<-->83616,True,0,None
-123,23,"Whitworth, Alaysha",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+123,23,"Whitworth, Alaysha",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 123,24,"Whitworth, Alaysha",Northwest Machining & Mfg Inc.,213,83402<-->83646,False,0,None
 123,25,"Whitworth, Alaysha",Exyte ,174,83402<-->83716,False,0,None
 123,26,"Whitworth, Alaysha",Exyte,174,83402<-->83716,False,0,None
 123,27,"Whitworth, Alaysha","Western Aircraft, Inc.",202,83402<-->83705,False,0,None
 123,28,"Whitworth, Alaysha",Girl Scouts of Silver Sage,206,83402<-->83709,False,0,None
-123,29,"Whitworth, Alaysha",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+123,29,"Whitworth, Alaysha",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 123,30,"Whitworth, Alaysha","Intermountain Blending & Filling, LLC",211,83402<-->83642,False,0,None
 123,31,"Whitworth, Alaysha",Boys & Girls Clubs of Magic Valley,142,83402<-->83301,True,0,None
 123,32,"Whitworth, Alaysha",Museum of Idaho,167,83402<-->83647,True,0,None
@@ -4848,13 +4848,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 124,20,"Albor, Leslie",Idaho Division of Career Technical Education,13,83646<-->83702,False,0,None
 124,21,"Albor, Leslie",Idaho Division of Vocational Rehabilitation,11,83646<-->83720,False,0,None
 124,22,"Albor, Leslie",Londr,9,83646<-->83616,False,0,None
-124,23,"Albor, Leslie",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+124,23,"Albor, Leslie",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 124,24,"Albor, Leslie",Northwest Machining & Mfg Inc.,0,83646<-->83646,False,0,None
 124,25,"Albor, Leslie",Exyte ,38,83646<-->83716,False,0,None
 124,26,"Albor, Leslie",Exyte,38,83646<-->83716,False,0,None
 124,27,"Albor, Leslie","Western Aircraft, Inc.",12,83646<-->83705,False,0,None
 124,28,"Albor, Leslie",Girl Scouts of Silver Sage,9,83646<-->83709,False,0,None
-124,29,"Albor, Leslie",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+124,29,"Albor, Leslie",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 124,30,"Albor, Leslie","Intermountain Blending & Filling, LLC",5,83646<-->83642,False,0,None
 124,31,"Albor, Leslie",Boys & Girls Clubs of Magic Valley,129,83646<-->83301,False,0,None
 124,32,"Albor, Leslie",Museum of Idaho,49,83646<-->83647,False,0,None
@@ -4890,13 +4890,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 125,20,"Nigon, Renee",Idaho Division of Career Technical Education,329,83864<-->83702,True,0,None
 125,21,"Nigon, Renee",Idaho Division of Vocational Rehabilitation,333,83864<-->83720,False,0,None
 125,22,"Nigon, Renee",Londr,321,83864<-->83616,True,0,None
-125,23,"Nigon, Renee",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+125,23,"Nigon, Renee",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 125,24,"Nigon, Renee",Northwest Machining & Mfg Inc.,330,83864<-->83646,False,0,None
 125,25,"Nigon, Renee",Exyte ,331,83864<-->83716,False,0,None
 125,26,"Nigon, Renee",Exyte,331,83864<-->83716,False,0,None
 125,27,"Nigon, Renee","Western Aircraft, Inc.",337,83864<-->83705,False,0,None
 125,28,"Nigon, Renee",Girl Scouts of Silver Sage,337,83864<-->83709,False,0,None
-125,29,"Nigon, Renee",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+125,29,"Nigon, Renee",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 125,30,"Nigon, Renee","Intermountain Blending & Filling, LLC",335,83864<-->83642,False,0,None
 125,31,"Nigon, Renee",Boys & Girls Clubs of Magic Valley,428,83864<-->83301,True,0,None
 125,32,"Nigon, Renee",Museum of Idaho,351,83864<-->83647,True,0,None
@@ -4932,13 +4932,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 126,20,"Stefanakos, Robert",Idaho Division of Career Technical Education,5,83706<-->83702,True,0,None
 126,21,"Stefanakos, Robert",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 126,22,"Stefanakos, Robert",Londr,16,83706<-->83616,True,0,None
-126,23,"Stefanakos, Robert",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+126,23,"Stefanakos, Robert",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 126,24,"Stefanakos, Robert",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 126,25,"Stefanakos, Robert",Exyte ,27,83706<-->83716,False,0,None
 126,26,"Stefanakos, Robert",Exyte,27,83706<-->83716,False,0,None
 126,27,"Stefanakos, Robert","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 126,28,"Stefanakos, Robert",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-126,29,"Stefanakos, Robert",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+126,29,"Stefanakos, Robert",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 126,30,"Stefanakos, Robert","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 126,31,"Stefanakos, Robert",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,True,0,None
 126,32,"Stefanakos, Robert",Museum of Idaho,36,83706<-->83647,True,0,None
@@ -4974,13 +4974,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 127,20,"Sanchez, Brittany",Idaho Division of Career Technical Education,13,83646<-->83702,True,0,None
 127,21,"Sanchez, Brittany",Idaho Division of Vocational Rehabilitation,11,83646<-->83720,False,0,None
 127,22,"Sanchez, Brittany",Londr,9,83646<-->83616,True,0,None
-127,23,"Sanchez, Brittany",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',True,0,None
+127,23,"Sanchez, Brittany",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',True,0,None
 127,24,"Sanchez, Brittany",Northwest Machining & Mfg Inc.,0,83646<-->83646,False,0,None
 127,25,"Sanchez, Brittany",Exyte ,38,83646<-->83716,False,1,chem
 127,26,"Sanchez, Brittany",Exyte,38,83646<-->83716,False,0,None
 127,27,"Sanchez, Brittany","Western Aircraft, Inc.",12,83646<-->83705,False,0,None
 127,28,"Sanchez, Brittany",Girl Scouts of Silver Sage,9,83646<-->83709,False,0,None
-127,29,"Sanchez, Brittany",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',True,0,None
+127,29,"Sanchez, Brittany",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',True,0,None
 127,30,"Sanchez, Brittany","Intermountain Blending & Filling, LLC",5,83646<-->83642,False,1,chem
 127,31,"Sanchez, Brittany",Boys & Girls Clubs of Magic Valley,129,83646<-->83301,True,0,None
 127,32,"Sanchez, Brittany",Museum of Idaho,49,83646<-->83647,True,0,None
@@ -5016,13 +5016,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 128,20,"McSweeney, Theresa",Idaho Division of Career Technical Education,5,83706<-->83702,False,0,None
 128,21,"McSweeney, Theresa",Idaho Division of Vocational Rehabilitation,1,83706<-->83720,False,0,None
 128,22,"McSweeney, Theresa",Londr,16,83706<-->83616,False,0,None
-128,23,"McSweeney, Theresa",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+128,23,"McSweeney, Theresa",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 128,24,"McSweeney, Theresa",Northwest Machining & Mfg Inc.,12,83706<-->83646,False,0,None
 128,25,"McSweeney, Theresa",Exyte ,27,83706<-->83716,False,0,None
 128,26,"McSweeney, Theresa",Exyte,27,83706<-->83716,False,0,None
 128,27,"McSweeney, Theresa","Western Aircraft, Inc.",2,83706<-->83705,False,0,None
 128,28,"McSweeney, Theresa",Girl Scouts of Silver Sage,5,83706<-->83709,False,0,None
-128,29,"McSweeney, Theresa",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+128,29,"McSweeney, Theresa",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 128,30,"McSweeney, Theresa","Intermountain Blending & Filling, LLC",10,83706<-->83642,False,0,None
 128,31,"McSweeney, Theresa",Boys & Girls Clubs of Magic Valley,118,83706<-->83301,False,0,None
 128,32,"McSweeney, Theresa",Museum of Idaho,36,83706<-->83647,False,0,None
@@ -5058,13 +5058,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 129,20,"Graham, Kenneth",Idaho Division of Career Technical Education,200,83402<-->83702,False,0,None
 129,21,"Graham, Kenneth",Idaho Division of Vocational Rehabilitation,201,83402<-->83720,False,0,None
 129,22,"Graham, Kenneth",Londr,211,83402<-->83616,False,0,None
-129,23,"Graham, Kenneth",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+129,23,"Graham, Kenneth",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 129,24,"Graham, Kenneth",Northwest Machining & Mfg Inc.,213,83402<-->83646,False,0,None
 129,25,"Graham, Kenneth",Exyte ,174,83402<-->83716,False,0,None
 129,26,"Graham, Kenneth",Exyte,174,83402<-->83716,False,0,None
 129,27,"Graham, Kenneth","Western Aircraft, Inc.",202,83402<-->83705,False,0,None
 129,28,"Graham, Kenneth",Girl Scouts of Silver Sage,206,83402<-->83709,False,0,None
-129,29,"Graham, Kenneth",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+129,29,"Graham, Kenneth",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 129,30,"Graham, Kenneth","Intermountain Blending & Filling, LLC",211,83402<-->83642,False,0,None
 129,31,"Graham, Kenneth",Boys & Girls Clubs of Magic Valley,142,83402<-->83301,False,0,None
 129,32,"Graham, Kenneth",Museum of Idaho,167,83402<-->83647,False,0,None
@@ -5100,13 +5100,13 @@ Extern ID,Host ID,EXTERN,HOST,DISTANCE,DISTANCE NOTES,REMOTE MATCH,STEM experien
 130,20,"Sharkey, Julia",Idaho Division of Career Technical Education,23,83651<-->83702,False,0,None
 130,21,"Sharkey, Julia",Idaho Division of Vocational Rehabilitation,21,83651<-->83720,False,0,None
 130,22,"Sharkey, Julia",Londr,17,83651<-->83616,False,0,None
-130,23,"Sharkey, Julia",Apprenticeship Idaho at Idaho Department of Labor,0,host zip is 'remote',False,0,None
+130,23,"Sharkey, Julia",Apprenticeship Idaho at Idaho Department of Labor,n/a,host zip is 'remote',False,0,None
 130,24,"Sharkey, Julia",Northwest Machining & Mfg Inc.,10,83651<-->83646,False,0,None
 130,25,"Sharkey, Julia",Exyte ,49,83651<-->83716,False,0,None
 130,26,"Sharkey, Julia",Exyte,49,83651<-->83716,False,0,None
 130,27,"Sharkey, Julia","Western Aircraft, Inc.",20,83651<-->83705,False,0,None
 130,28,"Sharkey, Julia",Girl Scouts of Silver Sage,17,83651<-->83709,False,0,None
-130,29,"Sharkey, Julia",Idaho Veterans Chamber of Commerce,0,host zip is 'remote',False,0,None
+130,29,"Sharkey, Julia",Idaho Veterans Chamber of Commerce,n/a,host zip is 'remote',False,0,None
 130,30,"Sharkey, Julia","Intermountain Blending & Filling, LLC",11,83651<-->83642,False,0,None
 130,31,"Sharkey, Julia",Boys & Girls Clubs of Magic Valley,134,83651<-->83301,False,0,None
 130,32,"Sharkey, Julia",Museum of Idaho,57,83651<-->83647,False,0,None

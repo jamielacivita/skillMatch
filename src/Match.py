@@ -105,7 +105,7 @@ class Match():
         else:
             # if you are here the dictionary lookup has failed.
             if host_zip == "remote":
-                self.distance = 0
+                self.distance = "n/a"
                 self.set_distance_notes("host zip is 'remote'")
             else:
                 self.distance = 9999
