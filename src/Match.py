@@ -13,8 +13,11 @@ class Match():
         self.host_obj = host_obj
 
         self.key = (extern_obj.get_id(), host_obj.get_id())
+        self.host_id = f"{host_obj.get_id()}"
         self.host_name = f"{self.host_obj.get_organization_name()}"
+        self.extern_id = f"{extern_obj.get_id()}"
         self.extern_name = f"{self.extern_obj.get_last_name()}, {self.extern_obj.get_first_name()}"
+
 
         ## Perform Matching on Skills
         self.stem_experience_match_score = 0
@@ -151,6 +154,12 @@ class Match():
 
     def get_host_name(self):
         return self.host_name
+
+    def get_host_id(self):
+        return self.host_id
+
+    def get_extern_id(self):
+        return self.extern_id
 
     def get_distance(self):
         return self.distance
