@@ -189,7 +189,7 @@ class Extern(AttributeSet):
         self.set_email_administrative_software(row_data_tuple[EMAIL_ADMINISTRATIVE_SOFTWARE_COL].value)
         self.set_zip(city_zip[self.city_you_live_in])
 
-
+        self.set_skills()
 
 
     def set_ID(self, ID):
@@ -305,6 +305,37 @@ class Extern(AttributeSet):
 
     def set_email_administrative_software(self, email_administrative_software):
         self.email_administrative_software = email_administrative_software
+
+    def set_skills(self):
+        extern_list = self.get_stem_domains()
+
+
+        if "No special interest - anything goes" in extern_list:
+            self.skills.set_stemexp_na(True)
+        if ("Life Science / Biology") in extern_list:
+            self.skills.set_stemexp_lifesci(True)
+        if "Chemistry" in extern_list:
+            self.skills.set_stemexp_chem(True)
+        if "Physics" in extern_list:
+            self.skills.set_stemexp_phys(True)
+        if "Math" in extern_list:
+            self.skills.set_stemexp_math(True)
+        if "Computer Science" in extern_list:
+            self.skills.set_stemexp_compsci(True)
+        if "Information & communication technology" in extern_list:
+            self.skills.set_stemexp_it(True)
+        if "Agriculture, Food, Natural Resources" in extern_list:
+            self.skills.set_stemexp_ag(True)
+        if "Engineering & Technology" in extern_list:
+            self.skills.set_stemexp_eng(True)
+        if "Health Professions" in extern_list:
+            self.skills.set_stemexp_health(True)
+        if "Trades & Industry" in extern_list:
+            self.skills.set_stemexp_trade(True)
+        if "Earth & Environmental Science" in extern_list:
+            self.skills.set_stemexp_env(True)
+
+        return None
 
     def get_id(self):
         return self.ID

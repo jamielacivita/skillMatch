@@ -1,4 +1,5 @@
 import pickle
+import Skills as Skills
 
 # Load in the dictionary that holds in the distances between zipcodes.
 with open('/home/jamie/PycharmProjects/skillMatch/data/distance_miles.pickle', 'rb') as distance:
@@ -15,16 +16,71 @@ class Match():
         self.host_name = f"{self.host_obj.get_organization_name()}"
         self.extern_name = f"{self.extern_obj.get_last_name()}, {self.extern_obj.get_first_name()}"
 
-        self.curriculum_design_match = False
-        self.instruction_adult_match = False
-        self.instruction_elementary_match = False
-        self.instruction_secondary_match = False
-        self.project_management_match = False
-        self.public_speaking_match = False
-        self.software_email_match = False
-        self.software_presentation_match = False
-        self.software_spreadsheet_match = False
-        self.software_wordprocessing_match = False
+        ## Perform Matching on Skills
+        self.stem_experience_match_score = 0
+        self.skills = Skills.Skills()
+        extern_skills = self.extern_obj.skills
+        host_skills = self.host_obj.skills
+
+        #stemexp_na - don't match on this.
+        #stemexp_lifesci
+        if (extern_skills.stemexp_lifesci and host_skills.stemexp_lifesci):
+            self.skills.set_stemexp_lifesci(True)
+            self.skills.set_stemexp_notes("lifesci")
+            self.stem_experience_match_score = self.stem_experience_match_score + 1
+        #stemexp_chem
+        if (extern_skills.stemexp_chem and host_skills.stemexp_chem):
+            self.skills.set_stemexp_chem(True)
+            self.skills.set_stemexp_notes("chem")
+            self.stem_experience_match_score = self.stem_experience_match_score + 1
+        #stemexp_phys
+        if (extern_skills.stemexp_phys and host_skills.stemexp_phys):
+            self.skills.set_stemexp_phys(True)
+            self.skills.set_stemexp_notes("phys")
+            self.stem_experience_match_score = self.stem_experience_match_score + 1
+        #stemexp_math
+        if (extern_skills.stemexp_math and host_skills.stemexp_math):
+            self.skills.set_stemexp_math(True)
+            self.skills.set_stemexp_notes("math")
+            self.stem_experience_match_score = self.stem_experience_match_score + 1
+        #stemexp_compsci
+        if (extern_skills.stemexp_compsci and host_skills.stemexp_compsci):
+            self.skills.set_stemexp_compsci(True)
+            self.skills.set_stemexp_notes("compsci")
+            self.stem_experience_match_score = self.stem_experience_match_score + 1
+        #stemexp_it
+        if (extern_skills.stemexp_it and host_skills.stemexp_it):
+            self.skills.set_stemexp_it(True)
+            self.skills.set_stemexp_notes("it")
+            self.stem_experience_match_score = self.stem_experience_match_score + 1
+        #stemexp_ag
+        if (extern_skills.stemexp_ag and host_skills.stemexp_ag):
+            self.skills.set_stemexp_ag(True)
+            self.skills.set_stemexp_notes("ag")
+            self.stem_experience_match_score = self.stem_experience_match_score + 1
+        #stemexp_eng
+        if (extern_skills.stemexp_eng and host_skills.stemexp_eng):
+            self.skills.set_stemexp_eng(True)
+            self.skills.set_stemexp_notes("eng")
+            self.stem_experience_match_score = self.stem_experience_match_score + 1
+        #stemexp_health
+        if (extern_skills.stemexp_health and host_skills.stemexp_health):
+            self.skills.set_stemexp_health(True)
+            self.skills.set_stemexp_notes("health")
+            self.stem_experience_match_score = self.stem_experience_match_score + 1
+        #stemexp_trade
+        if (extern_skills.stemexp_trade and host_skills.stemexp_trade):
+            self.skills.set_stemexp_trade(True)
+            self.skills.set_stemexp_notes("trade")
+            self.stem_experience_match_score = self.stem_experience_match_score + 1
+        #stemexp_env
+        if (extern_skills.stemexp_env and host_skills.stemexp_env):
+            self.skills.set_stemexp_env(True)
+            self.skills.set_stemexp_notes("env")
+            self.stem_experience_match_score = self.stem_experience_match_score + 1
+        #stemexp_other - don't match on this.
+
+
 
         #self.extern_zip = extern_obj.get_zip()
         #self.host_zip = host_obj.get_zip()
@@ -111,3 +167,8 @@ class Match():
     def get_remote_match(self):
         return self.remote_match
 
+    def get_stem_experience_match_score(self):
+        return self.stem_experience_match_score
+
+    def get_stem_experience_match_notes(self):
+        return self.skills.get_stemexp_notes()

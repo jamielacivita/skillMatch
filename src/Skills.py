@@ -15,6 +15,7 @@ class Skills():
         self.stemexp_trade = None
         self.stemexp_env = None
         self.stemexp_other = None
+        self.stemexp_notes = None
 
         ## Biz skills Match
         self.skills_biz_na = None
@@ -43,6 +44,70 @@ class Skills():
         self.style_structured = None
         self.style_teamlead = None
         self.style_other = None
+
+    def set_stemexp_na(self, stemexp_na):
+        self.stemexp_na = stemexp_na
+        return None
+
+    def set_stemexp_lifesci(self, stemexp_lifesci):
+        self.stemexp_lifesci = stemexp_lifesci
+        return None
+
+    def set_stemexp_chem(self, stemexp_chem):
+        self.stemexp_chem = stemexp_chem
+        return None
+
+    def set_stemexp_phys(self, stemexp_phys):
+        self.stemexp_phys = stemexp_phys
+        return None
+
+    def set_stemexp_math(self, stemexp_math):
+        self.stemexp_math = stemexp_math
+        return None
+
+    def set_stemexp_compsci(self, stemexp_compsci):
+        self.stemexp_compsci = stemexp_compsci
+        return None
+
+    def set_stemexp_it(self, stemexp_it):
+        self.stemexp_it = stemexp_it
+        return None
+
+    def set_stemexp_ag(self, stemexp_ag):
+        self.stemexp_ag = stemexp_ag
+        return None
+
+    def set_stemexp_eng(self, stemexp_eng):
+        self.stemexp_eng = stemexp_eng
+        return None
+
+    def set_stemexp_health(self, stemexp_health):
+        self.stemexp_health = stemexp_health
+        return None
+
+    def set_stemexp_trade(self, stemexp_trade):
+        self.stemexp_trade = stemexp_trade
+        return None
+
+    def set_stemexp_env(self, stemexp_env):
+        self.stemexp_env = stemexp_env
+        return None
+
+    def set_stemexp_other(self, stemexp_other):
+        self.stemexp_other = stemexp_other
+        return None
+
+    def set_stemexp_notes(self, stemexp_notes):
+        if self.stemexp_notes is None:
+            self.stemexp_notes = ""
+        self.stemexp_notes = self.stemexp_notes + ":" + stemexp_notes
+        return None
+
+    def get_stemexp_notes(self):
+        if self.stemexp_notes is None:
+            return self.stemexp_notes
+        else:
+            return self.stemexp_notes[1:]
 
     def __str__(self):
         out_str = ""
@@ -89,5 +154,7 @@ class Skills():
         out_str = out_str + f"{self.style_other}"
 
         return out_str
+
+
 
 

@@ -169,6 +169,8 @@ class Host(AttributeSet):
         self.set_anything_else(row_data_tuple[ANYTHING_ELSE_COL].value)
         self.set_zip(row_data_tuple[ZIP_COL].value)
 
+        self.set_skills()
+
 
 
 
@@ -321,7 +323,49 @@ class Host(AttributeSet):
     def get_how_many_externs(self):
         return self.how_many_externs
 
-    def set_skills(self,skills):
+    def set_skills(self):
+
+        host_list = self.get_looking_for_experience()
+
+        if "No, experience in a specific STEM domain isn't necessary" in host_list:
+            self.skills.set_stemexp_na(True)
+
+        if "Life science / biology" in host_list:
+            self.skills.set_stemexp_lifesci(True)
+
+        if "Chemistry" in host_list:
+            self.skills.set_stemexp_chem(True)
+
+        if "Physics" in host_list:
+            self.skills.set_stemexp_phys(True)
+
+        if "Math" in host_list:
+            self.skills.set_stemexp_math(True)
+
+        if "Computer Science" in host_list:
+            self.skills.set_stemexp_compsci(True)
+
+        if "Information & communication technology" in host_list:
+            self.skills.set_stemexp_it(True)
+
+        if "Agriculture, Food, Natural Resources" in host_list:
+            self.skills.set_stemexp_ag(True)
+
+        if "Engineering & Technology" in host_list:
+            self.skills.set_stemexp_eng(True)
+
+        if "Health Professions" in host_list:
+            self.skills.set_stemexp_health(True)
+
+        if "Trades & Industry" in host_list:
+            self.skills.set_stemexp_trade(True)
+
+        if "Earth & Environmental" in host_list:
+            self.skills.set_stemexp_env(True)
+
+        # Todo : Figure out what to do about stemexp_other catagory.
+
+
         return self.skills
 
     def get_skills(self):
