@@ -15,8 +15,11 @@ class Match():
         self.key = (extern_obj.get_id(), host_obj.get_id())
         self.host_id = f"{host_obj.get_id()}"
         self.host_name = f"{self.host_obj.get_organization_name()}"
+        self.host_city = f"{self.host_obj.get_location_of_organization()}"
+
         self.extern_id = f"{extern_obj.get_id()}"
         self.extern_name = f"{self.extern_obj.get_last_name()}, {self.extern_obj.get_first_name()}"
+        self.extern_city = f"{self.extern_obj.get_city_you_live_in()}"
 
 
         ## Perform Matching on Skills
@@ -158,8 +161,14 @@ class Match():
     def get_host_id(self):
         return self.host_id
 
+    def get_host_city(self):
+        return self.host_city
+
     def get_extern_id(self):
         return self.extern_id
+
+    def get_extern_city(self):
+        return self.extern_city
 
     def get_distance(self):
         return self.distance
