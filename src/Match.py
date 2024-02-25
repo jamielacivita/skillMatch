@@ -34,17 +34,6 @@ class Match():
 
         self.match_score = 0
 
-        ## Set Matching Values ##
-        # check for curriculum_design_match
-        if self.extern_obj.skills.curriculum_design and self.host_obj.skills.curriculum_design:
-            self.curriculum_design_match = True
-            self.match_score = self.match_score + 1
-
-        # check for instruction_adult_match
-        if self.extern_obj.skills.instruction_adult and self.host_obj.skills.instruction_adult:
-            self.instruction_adult_match = True
-            self.match_score = self.match_score + 1
-
         ## Calculate Distance (self.distance) ##
         # we find distance by using a dictionary which stores the distances in miles between zipcodes.
         extern_zip = self.extern_obj.get_zip()

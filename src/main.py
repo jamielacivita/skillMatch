@@ -40,11 +40,8 @@ if __name__ == "__main__":
     #match_set_object.print_extern_city()
     #match_set_object.save_match_chart_csv()
 
-    extern_lst = match_set_object.extern_obj_lst
-    for extern in extern_lst:
-        #extern.print_dossier()
-        #extern.save_dossier()
-        pass
+
+
 
 
 

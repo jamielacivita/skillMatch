@@ -88,7 +88,7 @@ class Extern(AttributeSet):
         self.what_work_locations = None
         self.open_to_travelling = None
         self.grade_levels = None                    ## X
-        self.stem_domains = None
+        self.stem_domains = None                    ## Y
         self.spreadsheet_software = None                ## Z
         self.word_processings_software = None
         self.presentation_software = None
@@ -189,112 +189,8 @@ class Extern(AttributeSet):
         self.set_email_administrative_software(row_data_tuple[EMAIL_ADMINISTRATIVE_SOFTWARE_COL].value)
         self.set_zip(city_zip[self.city_you_live_in])
 
-        ## Run the function to set the skills.
-        self.set_skills()
-    def set_skills(self):
-        # curriculum_design (AD)
-        if self.curriculum_design == "Beginner":
-            self.skills.set_curriculum_design(True)
-        if self.curriculum_design == "Intermediate":
-            self.skills.set_curriculum_design(True)
-        if self.curriculum_design == "Expert":
-            self.skills.set_curriculum_design(True)
-        else:
-            pass
-
-        # instruction_adult (AJ)
-        if self.adult_education_training == "Beginner":
-            self.skills.set_instruction_adult(True)
-        if self.adult_education_training == "Intermediate":
-            self.skills.set_instruction_adult(True)
-        if self.adult_education_training == "Expert":
-            self.skills.set_instruction_adult(True)
-        else:
-            pass
-
-        # instruction_elementary (AC)
-        if self.elementary_level_instruction == "Beginner":
-            self.skills.set_instruction_elementary(True)
-        if self.elementary_level_instruction == "Intermediate":
-            self.skills.set_instruction_elementary(True)
-        if self.elementary_level_instruction == "Expert":
-            self.skills.set_instruction_elementary(True)
-        else:
-            pass
 
 
-        # instruction_secondary (AF)
-        if self.secondary_level_instruction == "Beginner":
-            self.skills.set_instruction_secondary(True)
-        if self.secondary_level_instruction == "Intermediate":
-            self.skills.set_instruction_secondary(True)
-        if self.secondary_level_instruction == "Expert":
-            self.skills.set_instruction_secondary(True)
-        else:
-            pass
-
-        # project_management (AE)
-        if self.project_management == "Beginner":
-            self.skills.set_project_management(True)
-        if self.project_management == "Intermediate":
-            self.skills.set_project_management(True)
-        if self.project_management == "Expert":
-            self.skills.set_project_management(True)
-        else:
-            pass
-
-        # public_speaking (AK)
-        if self.public_speaking == "Beginner":
-            self.skills.set_public_speaking(True)
-        if self.public_speaking == "Intermediate":
-            self.skills.set_public_speaking(True)
-        if self.public_speaking == "Expert":
-            self.skills.set_public_speaking(True)
-        else:
-            pass
-
-        # software_email (AL)
-        if self.email_administrative_software == "Beginner":
-            self.skills.set_software_email(True)
-        if self.email_administrative_software == "Intermediate":
-            self.skills.set_software_email(True)
-        if self.email_administrative_software == "Expert":
-            self.skills.set_software_email(True)
-        else:
-            pass
-
-
-
-        # software_presentation (AB)
-        if self.presentation_software == "Beginner":
-            self.skills.set_software_presentation(True)
-        if self.presentation_software == "Intermediate":
-            self.skills.set_software_presentation(True)
-        if self.presentation_software == "Expert":
-            self.skills.set_software_presentation(True)
-        else:
-            pass
-
-        # software_spreadsheet (Z)
-        if self.spreadsheet_software == "Beginner":
-            self.skills.set_software_spreadsheet(True)
-        if self.spreadsheet_software == "Intermediate":
-            self.skills.set_software_spreadsheet(True)
-        if self.spreadsheet_software == "Expert":
-            self.skills.set_software_spreadsheet(True)
-        else:
-            pass
-
-
-        # software_wordprocessing (AA)
-        if self.word_processings_software == "Beginner":
-            self.skills.set_software_wordprocessing(True)
-        if self.word_processings_software == "Intermediate":
-            self.skills.set_software_wordprocessing(True)
-        if self.word_processings_software == "Expert":
-            self.skills.set_software_wordprocessing(True)
-        else:
-            pass
 
     def set_ID(self, ID):
         self.ID = ID

@@ -1,115 +1,93 @@
 class Skills():
     def __init__(self, selections_lst = None):
-        self.curriculum_design = False          #AD
-        self.instruction_adult = False          #AJ
-        self.instruction_elementary = False     #AC
-        self.instruction_secondary = False      #AF
-        self.project_management = False         #AE
-        self.public_speaking = False            #AK
-        self.software_email = False             #AL
-        self.software_presentation = False      #AB
-        self.software_spreadsheet = False       ##Z
-        self.software_wordprocessing = False    #AA
+
+        ## STEM experience match
+        self.stemexp_na = None
+        self.stemexp_lifesci = None
+        self.stemexp_chem = None
+        self.stemexp_phys = None
+        self.stemexp_math = None
+        self.stemexp_compsci = None
+        self.stemexp_it = None
+        self.stemexp_ag = None
+        self.stemexp_eng = None
+        self.stemexp_health = None
+        self.stemexp_trade = None
+        self.stemexp_env = None
+        self.stemexp_other = None
+
+        ## Biz skills Match
+        self.skills_biz_na = None
+        self.skills_biz_sheets = None
+        self.skills_biz_word = None
+        self.skills_biz_slides = None
+        self.skills_biz_pm = None
+        self.skills_biz_speaking = None
+        self.skills_biz_email = None
+        self.skills_ed_secondary = None
+        self.skills_ed_adult = None
+        self.skills_ed_elem = None
+        self.skills_ed_curriculum = None
+        self.skills_other = None
+
+        ## Work Style Match
+        self.style_driven = None
+        self.style_collab = None
+        self.style_creative = None
+        self.style_investigate = None
+        self.style_task = None
+        self.style_ambiguity = None
+        self.style_organized = None
+        self.style_direction = None
+        self.style_networker = None
+        self.style_structured = None
+        self.style_teamlead = None
+        self.style_other = None
 
     def __str__(self):
         out_str = ""
+        out_str = out_str + f"{self.stemexp_na}"
+        out_str = out_str + f"{self.stemexp_lifesci}"
+        out_str = out_str + f"{self.stemexp_chem}"
+        out_str = out_str + f"{self.stemexp_phys}"
+        out_str = out_str + f"{self.stemexp_math}"
+        out_str = out_str + f"{self.stemexp_compsci}"
+        out_str = out_str + f"{self.stemexp_it}"
+        out_str = out_str + f"{self.stemexp_ag}"
+        out_str = out_str + f"{self.stemexp_eng}"
+        out_str = out_str + f"{self.stemexp_health}"
+        out_str = out_str + f"{self.stemexp_trade}"
+        out_str = out_str + f"{self.stemexp_env}"
+        out_str = out_str + f"{self.stemexp_other}"
 
-        out_str = out_str + f"curriculum_design :       {self.curriculum_design}\n"
-        out_str = out_str + f"instruction_adult :       {self.instruction_adult}\n"
-        out_str = out_str + f"instruction_elementary :  {self.instruction_elementary}\n"
-        out_str = out_str + f"instruction_secondary :   {self.instruction_secondary}\n"
-        out_str = out_str + f"project_management :      {self.project_management}\n"
-        out_str = out_str + f"public_speaking :         {self.public_speaking}\n"
-        out_str = out_str + f"software_email :          {self.software_email}\n"
-        out_str = out_str + f"software_presentation :   {self.software_presentation}\n"
-        out_str = out_str + f"software_spreadsheet :    {self.software_spreadsheet}\n"
-        out_str = out_str + f"software_wordprocessing : {self.software_wordprocessing}\n"
+
+        out_str = out_str + f"{self.skills_biz_na}"
+        out_str = out_str + f"{self.skills_biz_sheets}"
+        out_str = out_str + f"{self.skills_biz_word}"
+        out_str = out_str + f"{self.skills_biz_slides}"
+        out_str = out_str + f"{self.skills_biz_pm}"
+        out_str = out_str + f"{self.skills_biz_speaking}"
+        out_str = out_str + f"{self.skills_biz_email}"
+        out_str = out_str + f"{self.skills_ed_secondary}"
+        out_str = out_str + f"{self.skills_ed_adult}"
+        out_str = out_str + f"{self.skills_ed_elem}"
+        out_str = out_str + f"{self.skills_ed_curriculum}"
+        out_str = out_str + f"{self.skills_other}"
+
+
+        out_str = out_str + f"{self.style_driven}"
+        out_str = out_str + f"{self.style_collab}"
+        out_str = out_str + f"{self.style_creative}"
+        out_str = out_str + f"{self.style_investigate}"
+        out_str = out_str + f"{self.style_task}"
+        out_str = out_str + f"{self.style_ambiguity}"
+        out_str = out_str + f"{self.style_organized}"
+        out_str = out_str + f"{self.style_direction}"
+        out_str = out_str + f"{self.style_networker}"
+        out_str = out_str + f"{self.style_structured}"
+        out_str = out_str + f"{self.style_teamlead}"
+        out_str = out_str + f"{self.style_other}"
 
         return out_str
 
-    def set_curriculum_design(self, value):
-        if ((value == True) or (value == False)):
-            self.curriculum_design = value
-            return self.curriculum_design
-        else:
-            self.curriculum_design = "ERROR!"
-            return None
 
-    def set_instruction_adult(self, value):
-        if ((value == True) or (value == False)):
-            self.instruction_adult = value
-            return self.instruction_adult
-        else:
-            self.instruction_adult = "ERROR!"
-            return None
-
-
-    def set_instruction_elementary(self, value):
-        if ((value == True) or (value == False)):
-            self.instruction_elementary = value
-            return self.instruction_elementary
-        else:
-            self.instruction_elementary = "ERROR!"
-            return None
-
-    def set_instruction_secondary(self, value):
-        if ((value == True) or (value == False)):
-            self.instruction_secondary = value
-            return self.instruction_secondary
-        else:
-            self.instruction_secondary = "ERROR!"
-            return None
-
-
-    def set_project_management(self, value):
-        if ((value == True) or (value == False)):
-            self.project_management = value
-            return self.project_management
-        else:
-            self.project_management = "ERROR!"
-            return None
-
-
-    def set_public_speaking(self, value):
-        if ((value == True) or (value == False)):
-            self.public_speaking = value
-            return self.public_speaking
-        else:
-            self.public_speaking = "ERROR!"
-            return None
-
-
-    def set_software_email(self, value):
-        if ((value == True) or (value == False)):
-            self.software_email = value
-            return self.software_email
-        else:
-            self.software_email = "ERROR!"
-            return None
-
-
-    def set_software_presentation(self, value):
-        if ((value == True) or (value == False)):
-            self.software_presentation = value
-            return self.software_presentation
-        else:
-            self.software_presentation = "ERROR!"
-            return None
-
-
-    def set_software_spreadsheet(self, value):
-        if ((value == True) or (value == False)):
-            self.software_spreadsheet = value
-            return self.software_spreadsheet
-        else:
-            self.software_spreadsheet = "ERROR!"
-            return None
-
-
-    def set_software_wordprocessing(self, value):
-        if ((value == True) or (value == False)):
-            self.software_wordprocessing = value
-            return self.software_wordprocessing
-        else:
-            self.software_wordprocessing = "ERROR!"
-            return None

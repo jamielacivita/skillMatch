@@ -169,80 +169,9 @@ class Host(AttributeSet):
         self.set_anything_else(row_data_tuple[ANYTHING_ELSE_COL].value)
         self.set_zip(row_data_tuple[ZIP_COL].value)
 
-        ## Run the function to fill out the siklls object.
-        self.set_skills_values()
 
-    def set_skills_values(self):
 
-        # curriculum_design (AH)
-        # considered a match if the (AH) string contains 'Curriculum Design'
-        if "Curriculum Design" in self.business_education_skills:
-            self.skills.set_curriculum_design(True)
-        else :
-            pass
 
-        # instruction_adult (AH)
-        # considered a match if the (AH) string contains 'Adult Education / Training'
-        if "Adult Education / Training" in self.business_education_skills:
-            self.skills.set_instruction_adult(True)
-        else :
-            pass
-
-        # instruction_elementary (AH)
-        # considered a match if the (AH) string contains 'Adult Education / Training'
-        if "Elementary-Level Instructional experience" in self.business_education_skills:
-            self.skills.set_instruction_elementary(True)
-        else :
-            pass
-
-        # instruction_secondary (AH)
-        # considered a match if the (AH) string contains 'Secondary-Level Instructional Experience"'
-        if "Secondary-Level Instructional Experience" in self.business_education_skills:
-            self.skills.set_instruction_secondary(True)
-        else :
-            pass
-
-        # project_management (AH)
-        # considered a match if the (AH) string contains 'Project Management'
-        if "Project Management" in self.business_education_skills:
-            self.skills.set_project_management(True)
-        else :
-            pass
-
-        # public_speaking (AH)
-        # considered a match if the (AH) string contains 'Public Speaking / Group Presentation'
-        if "Public Speaking / Group Presentation" in self.business_education_skills:
-            self.skills.set_public_speaking(True)
-        else :
-            pass
-
-        # software_email (AH)
-        # considered a match if the (AH) string contains 'Email & Administrative Software'
-        if "Email & Administrative Software" in self.business_education_skills:
-            self.skills.set_software_email(True)
-        else :
-            pass
-
-        # software_presentation (AH)
-        # considered a match if the (AH) string contains 'Presentation Software'
-        if "Presentation Software" in self.business_education_skills:
-            self.skills.set_software_presentation(True)
-        else :
-            pass
-
-        # software_spreadsheet (AH)
-        # considered a match if the (AH) string contains 'Spreadsheet Software'
-        if "Spreadsheet Software" in self.business_education_skills:
-            self.skills.set_software_spreadsheet(True)
-        else :
-            pass
-
-        # software_wordprocessing (AH)
-        # considered a match if the (AH) string contains 'Word Processing'
-        if "Word Processing" in self.business_education_skills:
-            self.skills.set_software_wordprocessing(True)
-        else :
-            pass
 
     def set_id(self, id):
         self.id = id
@@ -402,6 +331,14 @@ class Host(AttributeSet):
 
     def get_looking_for_experience(self):
         return self.looking_for_experience
+
+    def get_looking_for_experience_printable_list(self):
+        out_txt = ""
+        lfe_lst = self.get_looking_for_experience().split(";")
+        for l in lfe_lst[0:-1]:
+            out_txt = out_txt + f"\t* {l}\n"
+        return out_txt
+
     def set_type_of_person(self,type_of_person):
         self.type_of_person = type_of_person
 
