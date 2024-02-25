@@ -1,5 +1,5 @@
-import DataPool
-import pickle
+
+import time
 
 
 
@@ -38,7 +38,8 @@ if __name__ == "__main__":
     print(f"Number of matches : {match_set_object.get_number_matches()}")
 
     #match_set_object.print_extern_city()
-    #match_set_object.save_match_chart_csv()
+    match_set_object.save_match_chart_csv()
+
 
 
 

@@ -1,5 +1,6 @@
 import openpyxl
 import csv
+import time
 
 import Host as Host
 import Extern as Extern
@@ -135,8 +136,10 @@ class MatchSet():
         """
         :return: None - effect is to save the match chart data to a CSV.
         """
-        filename = f"/home/jamie/PycharmProjects/skillMatch/data/out.csv"
-        with open(filename, "w", newline='') as csvfile:
+        path = f"/home/jamie/PycharmProjects/skillMatch/data/"
+        filename = f"{time.strftime('%Y%m%d-%H%M%S')}_out.csv"
+        path_to_file = path + filename
+        with open(path_to_file, "w", newline='') as csvfile:
             match_chart_write = csv.writer(csvfile)
             match_chart_write.writerow(self.get_match_chart_header_row())
             for row in self.get_match_chart_data_rows():

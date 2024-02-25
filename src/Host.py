@@ -333,7 +333,7 @@ class Host(AttributeSet):
 
         if ("No, experience in a specific STEM domain isn't necessary".capitalize()) in host_list:
             self.skills.set_stemexp_na(True)
-            log.debug(f"host {self.get_id()} matched on set_stemexp_na")
+            #log.debug(f"host {self.get_id()} matched on set_stemexp_na")
 
         if ("Life science / biology".capitalize()) in host_list:
             self.skills.set_stemexp_lifesci(True)
