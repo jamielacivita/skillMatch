@@ -70,6 +70,9 @@ class Host(AttributeSet):
         #append a skills object to hold data for skills matches.
         self.skills = Skills.Skills()
 
+
+
+
         ID_COL = 0                              ## A
         START_TIME_COL = 1                      ## B
         COMPLETION_TIME_COL = 2                 ## C
@@ -330,7 +333,7 @@ class Host(AttributeSet):
 
         if ("No, experience in a specific STEM domain isn't necessary".capitalize()) in host_list:
             self.skills.set_stemexp_na(True)
-            #log.debug("host matched on set_stemexp_na")
+            log.debug(f"host {self.get_id()} matched on set_stemexp_na")
 
         if ("Life science / biology".capitalize()) in host_list:
             self.skills.set_stemexp_lifesci(True)
@@ -354,7 +357,7 @@ class Host(AttributeSet):
 
         if ("Information & communication technology".capitalize()) in host_list:
             self.skills.set_stemexp_it(True)
-            log.debug("host matched on set_stemexp_it")
+            #log.debug("host matched on set_stemexp_it")
 
         if ("Agriculture, Food, Natural Resources".capitalize()) in host_list:
             self.skills.set_stemexp_ag(True)
@@ -562,6 +565,12 @@ class Host(AttributeSet):
 
     def get_anything_else(self):
         return self.anything_else
+
+    def get_no_skills_needed(self):
+        if (self.skills.stemexp_na):
+            return True
+        else:
+            return False
 
     def __str__(self):
         out_str = ""

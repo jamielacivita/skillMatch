@@ -16,6 +16,7 @@ class Match():
         self.host_id = f"{host_obj.get_id()}"
         self.host_name = f"{self.host_obj.get_organization_name()}"
         self.host_city = f"{self.host_obj.get_location_of_organization()}"
+        self.host_no_skills_needed = f"{self.host_obj.get_no_skills_needed()}"
 
         self.extern_id = f"{extern_obj.get_id()}"
         self.extern_name = f"{self.extern_obj.get_last_name()}, {self.extern_obj.get_first_name()}"
@@ -190,3 +191,6 @@ class Match():
 
     def get_stem_experience_match_notes(self):
         return self.skills.get_stemexp_notes()
+
+    def get_host_no_skills_needed(self):
+        return self.host_no_skills_needed
