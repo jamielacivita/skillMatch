@@ -308,42 +308,53 @@ class Extern(AttributeSet):
 
     def set_skills(self):
         extern_list = self.get_stem_domains()
-        extern_list = extern_list.capitalize()
+        extern_list = extern_list.upper()
 
-        if ("No special interest - anything goes".capitalize()) in extern_list:
+        if "No special interest - anything goes".upper() in extern_list:
             #log.debug("Matched on 'No special Interest'")
             self.skills.set_stemexp_na(True)
-        if ("Life Science / Biology".capitalize()) in extern_list:
+
+        if "Life Science / Biology".upper() in extern_list:
             #log.debug("Extern Matched on set_stemexp_lifesci.")
             self.skills.set_stemexp_lifesci(True)
-        if ("Chemistry".capitalize()) in extern_list:
+
+        if "Chemistry".upper() in extern_list:
             #log.debug("Extern Matched on set_stemexp_chem.")
             self.skills.set_stemexp_chem(True)
-        if ("Physics".capitalize()) in extern_list:
+
+        if "Physics".upper() in extern_list:
             #log.debug("Extern Matched on set_stemexp_phys.")
             self.skills.set_stemexp_phys(True)
-        if ("Math".capitalize()) in extern_list:
+
+        if "Math".upper() in extern_list:
             #log.debug("Extern Matched on set_stemexp_math.")
             self.skills.set_stemexp_math(True)
-        if ("Computer Science".capitalize()) in extern_list:
+
+        if "Computer Science".upper() in extern_list:
             #log.debug("Extern Matched on set_stemexp_compsci.")
             self.skills.set_stemexp_compsci(True)
-        if ("Information & communication Technology".capitalize()) in extern_list:
-            log.debug("Extern Matched on set_stemexp_it.")
+
+        if "Information & communication Technology".upper() in extern_list:
+            #log.debug("Extern Matched on set_stemexp_it.")
             self.skills.set_stemexp_it(True)
-        if ("Agriculture, Food, Natural Resources".capitalize()) in extern_list:
+
+        if "Agriculture, Food, Natural Resources".upper() in extern_list:
             #log.debug("Extern Matched on set_stemexp_ag.")
             self.skills.set_stemexp_ag(True)
-        if ("Engineering & Technology".capitalize()) in extern_list:
+
+        if "Engineering & Technology".upper() in extern_list:
             #log.debug("Extern Matched on set_stemexp_eng.")
             self.skills.set_stemexp_eng(True)
-        if ("Health Professions".capitalize()) in extern_list:
+
+        if "Health Professions".upper() in extern_list:
             #log.debug("Extern Matched on set_stemexp_health.")
             self.skills.set_stemexp_health(True)
-        if ("Trades & Industry".capitalize()) in extern_list:
+
+        if "Trades & Industry".upper() in extern_list:
             #log.debug("Extern Matched on set_stemexp_trade.")
             self.skills.set_stemexp_trade(True)
-        if ("Earth & Environmental Science".capitalize()) in extern_list:
+
+        if "Earth & Environmental Science".upper() in extern_list:
             #log.debug("Extern Matched on set_stemexp_env.")
             self.skills.set_stemexp_env(True)
 

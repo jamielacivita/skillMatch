@@ -26,6 +26,7 @@ class Match():
         ## Perform Matching on Skills
         self.stem_experience_match_score = 0
         self.skills = Skills.Skills()
+
         extern_skills = self.extern_obj.skills
         host_skills = self.host_obj.skills
 

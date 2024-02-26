@@ -329,53 +329,53 @@ class Host(AttributeSet):
     def set_skills(self):
 
         host_list = self.get_looking_for_experience()
-        host_list = host_list.capitalize()
+        host_list = host_list.upper()
 
-        if ("No, experience in a specific STEM domain isn't necessary".capitalize()) in host_list:
+        if "No, experience in a specific STEM domain isn't necessary".upper() in host_list:
             self.skills.set_stemexp_na(True)
             #log.debug(f"host {self.get_id()} matched on set_stemexp_na")
 
-        if ("Life science / biology".capitalize()) in host_list:
+        if "Life science / biology".upper() in host_list:
             self.skills.set_stemexp_lifesci(True)
             #log.debug("host matched on set_stemexp_lifesci")
 
-        if ("Chemistry".capitalize()) in host_list:
+        if "Chemistry".upper() in host_list:
             self.skills.set_stemexp_chem(True)
             #log.debug("host matched on set_stemexp_chem")
 
-        if ("Physics".capitalize()) in host_list:
+        if "Physics".upper() in host_list:
             self.skills.set_stemexp_phys(True)
             #log.debug("host matched on set_stemexp_phys")
 
-        if ("Math".capitalize()) in host_list:
+        if "Math".upper() in host_list:
             self.skills.set_stemexp_math(True)
             #log.debug("host matched on set_stemexp_math")
 
-        if ("Computer Science".capitalize()) in host_list:
+        if "Computer Science".upper() in host_list:
             self.skills.set_stemexp_compsci(True)
             #log.debug("host matched on set_stemexp_compsci")
 
-        if ("Information & communication technology".capitalize()) in host_list:
+        if "Information & communication technology".upper() in host_list:
             self.skills.set_stemexp_it(True)
             #log.debug("host matched on set_stemexp_it")
 
-        if ("Agriculture, Food, Natural Resources".capitalize()) in host_list:
+        if "Agriculture, Food, Natural Resources".upper() in host_list:
             self.skills.set_stemexp_ag(True)
             #log.debug("host matched on set_stemexp_ag")
 
-        if ("Engineering & Technology".capitalize()) in host_list:
+        if "Engineering & Technology".upper() in host_list:
             self.skills.set_stemexp_eng(True)
             #log.debug("host matched on set_stemexp_eng")
 
-        if ("Health Professions".capitalize()) in host_list:
+        if "Health Professions".upper() in host_list:
             self.skills.set_stemexp_health(True)
             #log.debug("host matched on set_stemexp_health")
 
-        if ("Trades & Industry".capitalize()) in host_list:
+        if "Trades & Industry".upper() in host_list:
             self.skills.set_stemexp_trade(True)
             #log.debug("host matched on set_stemexp_trade")
 
-        if ("Earth & Environmental".capitalize()) in host_list:
+        if "Earth & Environmental".upper() in host_list:
             self.skills.set_stemexp_env(True)
             #log.debug("host matched on set_stemexp_env")
 
