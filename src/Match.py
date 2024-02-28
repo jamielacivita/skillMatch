@@ -21,6 +21,7 @@ class Match():
         self.extern_id = f"{extern_obj.get_id()}"
         self.extern_name = f"{self.extern_obj.get_last_name()}, {self.extern_obj.get_first_name()}"
         self.extern_city = f"{self.extern_obj.get_city_you_live_in()}"
+        self.extern_remote_only = f"{self.extern_obj.get_remote_only()}"
 
 
         ## Perform Matching on Skills
@@ -195,3 +196,6 @@ class Match():
 
     def get_host_no_skills_needed(self):
         return self.host_no_skills_needed
+
+    def get_extern_remote_only(self):
+        return self.extern_remote_only

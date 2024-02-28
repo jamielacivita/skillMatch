@@ -30,15 +30,15 @@ if __name__ == "__main__":
 
     match_set_object = MatchSet.MatchSet()
 
-    #match_set_object.print_match_chart()
+    match_set_object.print_match_chart()
 
 
     print(f"Number of externs : {match_set_object.get_number_externs()}")
     print(f"Number of hosts : {match_set_object.get_number_hosts()}")
     print(f"Number of matches : {match_set_object.get_number_matches()}")
 
-    #match_set_object.print_extern_city()
-    match_set_object.save_match_chart_csv()
+
+    #match_set_object.save_match_chart_csv()
 
     print("Done.")
 

@@ -27,7 +27,7 @@ city_zip["Glenns Ferry"] = 83623
 city_zip["Hailey"] = 83333
 city_zip["Hazelton, ID"] = 83335
 city_zip["Idaho City"] = 83631
-city_zip["Idaho Falls"]= 83402
+city_zip["Idaho Falls"] = 83402
 city_zip["Idaho Falls "] = 83402
 city_zip["Idaho Falls, Idaho "] = 83402
 city_zip["Inkom"] = 83245
@@ -103,10 +103,13 @@ class Extern(AttributeSet):
         #self.group_presentation = None
         self.email_administrative_software = None
         self.zip = None # This is a synthetic property -- needs conversion from City Live In to a zip.
-        self.remote_only + None  # This is a synthetic property -- If extern ONLY indicated “remote” in column V, True
+        self.remote_only = None  # This is a synthetic property -- If extern ONLY indicated “remote” in column V, True
 
         #append a skills object to hold data for skills matches.
         self.skills = Skills.Skills()
+        # set the synthetic remote only property
+        self.set_remote_only()
+
 
         ID_COL = 0                              # A
         START_TIME_COL = 1                      # B
@@ -191,7 +194,7 @@ class Extern(AttributeSet):
         self.set_zip(city_zip[self.city_you_live_in])
 
         self.set_skills()
-
+        self.set_remote_only()
 
     def set_ID(self, ID):
         self.ID = ID
@@ -258,6 +261,17 @@ class Extern(AttributeSet):
 
     def set_what_work_locations(self, what_work_locations):
         self.what_work_locations = what_work_locations
+
+    def set_remote_only(self):
+        #log.debug(f"what work locations : {self.what_work_locations}")
+        if self.what_work_locations == "Remote;":
+            self.remote_only = True
+        else:
+            self.remote_only = False
+        return None
+
+    def get_remote_only(self):
+        return self.remote_only
 
     def set_open_to_travelling(self, open_to_travelling):
         self.open_to_travelling = open_to_travelling
