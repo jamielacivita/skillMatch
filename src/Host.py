@@ -383,13 +383,74 @@ class Host(AttributeSet):
         host_list_business = self.get_business_education_skills()
         host_list_business = host_list.upper()
 
+        #
         if "No specific skills needed".upper() in host_list_business:
             self.skills.set_skills_biz_na(True)
         else:
             self.skills.set_skills_biz_na(False)
 
+        #skills_biz_sheets
+        if "Spreadsheet Software".upper() in host_list_business:
+            self.skills.set_skills_biz_sheets(True)
+        else:
+            self.skills.set_skills_biz_sheets(False)
+
+        #skills_biz_word
+        if "Spreadsheet Software".upper() in host_list_business:
+            self.skills.set_skills_biz_sheets(True)
+        else:
+            self.skills.set_skills_biz_sheets(False)
+
+        #skills_biz_slides
+        if "Word Processing Software".upper() in host_list_business:
+            self.skills.set_skills_biz_word(True)
+        else:
+            self.skills.set_skills_biz_word(False)
+
+        #skills_biz_pm
+        if "Project Management".upper() in host_list_business:
+            self.skills.set_skills_biz_pm(True)
+        else:
+            self.skills.set_skills_biz_pm(False)
+
+        #skills_biz_speaking
+        if "Public Speaking".upper() in host_list_business:
+            self.skills.set_skills_biz_speaking(True)
+        else:
+            self.skills.set_skills_biz_speaking(False)
+
+        #skills_biz_email
+        if "Administrative Software".upper() in host_list_business:
+            self.skills.set_skills_biz_email(True)
+        else:
+            self.skills.set_skills_biz_email(False)
 
 
+        #skills_ed_secondary
+        if "Secondary-Level Instruction".upper() in host_list_business:
+            self.skills.set_skills_ed_secondary(True)
+        else:
+            self.skills.set_skills_ed_secondary(False)
+
+        #skills_ed_adult
+        if "Adult Education".upper() in host_list_business:
+            self.skills.set_skills_ed_adult(True)
+        else:
+            self.skills.set_skills_ed_adult(False)
+
+        #skills_ed_elem
+        if "Elementary-Level Instruction".upper() in host_list_business:
+            self.skills.set_skills_ed_elem(True)
+        else:
+            self.skills.set_skills_ed_elem(False)
+
+        #skills_ed_curriculum
+        if "Curriculum Design".upper() in host_list_business:
+            self.skills.set_skills_ed_curriculum(True)
+        else:
+            self.skills.set_skills_ed_curriculum(False)
+
+        #skills_other - Not performing any matching on this property.
 
         return self.skills
 
