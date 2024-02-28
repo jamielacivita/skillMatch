@@ -379,6 +379,15 @@ class Host(AttributeSet):
             self.skills.set_stemexp_env(True)
             #log.debug("host matched on set_stemexp_env")
 
+        ## Business Skill Section ##
+        host_list_business = self.get_business_education_skills()
+        host_list_business = host_list.upper()
+
+        if "No specific skills needed".upper() in host_list_business:
+            self.skills.set_skills_biz_na(True)
+        else:
+            self.skills.set_skills_biz_na(False)
+
 
 
 

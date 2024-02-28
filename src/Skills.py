@@ -109,6 +109,94 @@ class Skills():
         else:
             return self.stemexp_notes[1:]
 
+
+    def set_skills_biz_na(self, skills_biz_na):
+        self.skills_biz_na = skills_biz_na
+        return None
+
+    def get_skills_biz_na(self):
+        return self.skills_biz_na
+
+    def set_skills_biz_sheets(self, skills_biz_sheets):
+        self.skills_biz_sheets = skills_biz_sheets
+        return None
+
+    def get_skills_biz_sheets(self):
+        return self.skills_biz_sheets
+
+    def set_skills_biz_word(self, skills_biz_word):
+        self.skills_biz_word = skills_biz_word
+        return None
+
+    def get_skills_biz_word(self):
+        return self.skills_biz_word
+
+    def set_skills_biz_slides(self, skills_biz_slides):
+        self.skills_biz_slides = skills_biz_slides
+        return None
+
+    def get_skills_biz_slides(self):
+        return self.skills_biz_slides
+
+    def set_skills_biz_pm(self, skills_biz_pm):
+        self.skills_biz_pm = skills_biz_pm
+        return None
+
+    def get_skills_biz_pm(self):
+        return self.skills_biz_pm
+
+    def set_skills_biz_speaking(self,skills_biz_speaking):
+        self.skills_biz_speaking = skills_biz_speaking
+        return None
+
+    def get_skills_biz_speaking(self):
+        return self.skills_biz_speaking
+
+    def set_skills_biz_email(self, skills_biz_email):
+        self.skills_biz_email = skills_biz_email
+        return None
+
+    def get_skills_biz_email(self):
+        return self.skills_biz_email
+
+
+    def set_skills_ed_secondary(self, skills_ed_secondary):
+        self.skills_ed_secondary = skills_ed_secondary
+        return None
+
+    def get_skills_ed_secondary(self):
+        return self.skills_ed_secondary
+
+    def set_skills_ed_adult(self, skills_ed_adult):
+        self.skills_ed_adult =skills_ed_adult
+        return None
+
+    def get_skills_ed_adult(self):
+        return self.skills_ed_adult
+
+    def set_skills_ed_elem(self, skills_ed_elem):
+        self.skills_ed_elem = skills_ed_elem
+        return None
+
+    def get_skills_ed_elem(self):
+        return self.skills_ed_elem
+
+    def set_skills_ed_curriculum(self, skills_ed_curriculum):
+        self.skills_ed_curriculum = skills_ed_curriculum
+        return None
+
+    def get_skills_ed_curriculum(self):
+        return self.skills_ed_curriculum
+
+    def set_skills_other(self, skills_other):
+        self.skills_other = skills_other
+        return None
+
+    def get_skills_other(self):
+        return self.skills_other
+
+
+
     def __str__(self):
         out_str = ""
         out_str = out_str + f"{self.stemexp_na}"

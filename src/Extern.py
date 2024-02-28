@@ -322,6 +322,7 @@ class Extern(AttributeSet):
         self.email_administrative_software = email_administrative_software
 
     def set_skills(self):
+        ### STEM Experience Match ###
         extern_list = self.get_stem_domains()
         extern_list = extern_list.upper()
 
@@ -372,6 +373,89 @@ class Extern(AttributeSet):
         if "Earth & Environmental Science".upper() in extern_list:
             #log.debug("Extern Matched on set_stemexp_env.")
             self.skills.set_stemexp_env(True)
+
+        ### Set Business Skills ###
+        #  (Z thru AF; AJ thru AL)
+
+        #skills_biz_na -- no match is perfored on this criteria.
+        #skills_biz_sheets (Z)
+        if self.get_spreadsheet_software() != "No Experience":
+            self.skills.set_skills_biz_sheets(True)
+        else:
+            self.skills.set_skills_biz_sheets(False)
+
+        #skills_biz_word
+        if self.get_word_processings_software() != "No Experience":
+            self.skills.set_skills_biz_word(True)
+        else:
+            self.skills.set_skills_biz_word(False)
+
+        #skills_biz_slides
+        if self.get_presentation_software() != "No Experience":
+            self.skills.set_skills_biz_slides(True)
+        else:
+            self.skills.set_skills_biz_slides(False)
+
+        #skills_biz_pm
+        if self.get_project_management() != "No Experience":
+            self.skills.set_skills_biz_pm(True)
+        else:
+            self.skills.set_skills_biz_pm(False)
+
+
+        #skills_biz_speaking
+        if self.get_public_speaking() != "No Experience":
+            self.skills.set_skills_biz_speaking(True)
+        else:
+            self.skills.set_skills_biz_speaking(True)
+
+        #skills_biz_email
+        if self.get_email_administrative_software() != "No Experience":
+            self.skills.set_skills_biz_email(True)
+        else:
+            self.skills.set_skills_biz_email(False)
+
+
+        #skills_ed_secondary
+        if self.get_secondary_level_instruction() != "No Experience":
+            self.skills.set_skills_ed_secondary(True)
+        else:
+            self.skills.set_skills_ed_secondary(False)
+
+
+        #skills_ed_adult
+        if self.get_adult_education_training() != "No Experience":
+            self.skills.set_skills_ed_adult(True)
+        else:
+            self.skills.set_skills_ed_adult(False)
+
+
+        #skills_ed_elem
+        if self.get_elementary_level_instruction() != "No Experience":
+            self.skills.set_skills_ed_elem(True)
+        else:
+            self.skills.set_skills_ed_elem(False)
+
+        #skills_ed_curriculum
+        if self.get_curriculum_design() != "No Experience":
+            self.skills.set_skills_ed_curriculum(True)
+        else:
+            self.skills.set_skills_ed_curriculum(False)
+
+
+        #skills_other -- no match is performed on this criteria.
+
+
+        
+
+
+
+
+
+
+
+
+
 
         return None
 
