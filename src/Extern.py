@@ -103,6 +103,7 @@ class Extern(AttributeSet):
         #self.group_presentation = None
         self.email_administrative_software = None
         self.zip = None # This is a synthetic property -- needs conversion from City Live In to a zip.
+        self.remote_only + None  # This is a synthetic property -- If extern ONLY indicated “remote” in column V, True
 
         #append a skills object to hold data for skills matches.
         self.skills = Skills.Skills()
