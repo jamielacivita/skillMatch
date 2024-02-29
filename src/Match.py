@@ -160,22 +160,77 @@ class Match():
             self.skills.set_skills_biz_notes("curriculum")
             self.biz_skills_match_score = self.biz_skills_match_score + 1
 
-        #skills_other
+        # skills_other
 
+        # Work Style Matches
 
-        ### Work Style Matches
-        #style_driven
-        #style_collab
-        #style_creative
-        #style_investigate
-        #style_task
-        #style_ambiguity
-        #style_organized
-        #style_direction
-        #style_networker
-        #style_structured
-        #style_teamlead
-        #style_other
+        # style_driven
+        if extern_skills.style_driven and host_skills.style_driven:
+            self.skills.set_style_driven(True)
+            self.skills.set_style_notes("driven")
+            self.work_style_match_score = self.work_style_match_score + 1
+
+        # style_collab
+        if extern_skills.style_collab and host_skills.style_collab:
+            self.skills.set_style_collab(True)
+            self.skills.set_style_notes("collab")
+            self.work_style_match_score = self.work_style_match_score + 1
+
+        # style_creative
+        if extern_skills.style_creative and host_skills.style_creative:
+            self.skills.set_style_creative(True)
+            self.skills.set_style_notes("creative")
+            self.work_style_match_score = self.work_style_match_score + 1
+
+        # style_investigate
+        if extern_skills.style_investigate and host_skills.style_investigate:
+            self.skills.set_style_investigate(True)
+            self.skills.set_style_notes("investigate")
+            self.work_style_match_score = self.work_style_match_score + 1
+
+        # style_task
+        if extern_skills.style_task and host_skills.style_task:
+            self.skills.set_style_task(True)
+            self.skills.set_style_notes("task")
+            self.work_style_match_score = self.work_style_match_score + 1
+
+        # style_ambiguity
+        if extern_skills.style_ambiguity and host_skills.style_ambiguity:
+            self.skills.set_style_ambiguity(True)
+            self.skills.set_style_notes("ambiguity")
+            self.work_style_match_score = self.work_style_match_score + 1
+
+        # style_organized
+        if extern_skills.style_organized and host_skills.style_organized:
+            self.skills.set_style_organized(True)
+            self.skills.set_style_notes("organized")
+            self.work_style_match_score = self.work_style_match_score + 1
+
+        # style_direction
+        if extern_skills.style_direction and host_skills.style_direction:
+            self.skills.set_style_direction(True)
+            self.skills.set_style_notes("direction")
+            self.work_style_match_score = self.work_style_match_score + 1
+
+        # style_networker
+        if extern_skills.style_networker and host_skills.style_networker:
+            self.skills.set_style_networker(True)
+            self.skills.set_style_notes("networker")
+            self.work_style_match_score = self.work_style_match_score + 1
+
+        # style_structured
+        if extern_skills.style_structured and host_skills.style_structured:
+            self.skills.set_style_structured(True)
+            self.skills.set_style_notes("structured")
+            self.work_style_match_score = self.work_style_match_score + 1
+
+        # style_teamlead
+        if extern_skills.style_teamlead and host_skills.style_teamlead:
+            self.skills.set_style_teamlead(True)
+            self.skills.set_style_notes("teamlead")
+            self.work_style_match_score = self.work_style_match_score + 1
+
+        # style_other
 
 
 

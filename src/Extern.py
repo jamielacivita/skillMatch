@@ -512,7 +512,7 @@ class Extern(AttributeSet):
             self.skills.set_style_structured(False)
 
         #style_teamlead : Has the opportunity for you to lead a small team
-        if "Has the opportunity for you to lead a small team".upper in extern_flavor_of_work_list:
+        if "Has the opportunity for you to lead a small team".upper() in extern_flavor_of_work_list:
             self.skills.set_style_teamlead(True)
         else:
             self.skills.set_style_teamlead(False)

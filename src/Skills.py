@@ -283,7 +283,7 @@ class Skills():
         return self.style_other
 
     def set_style_notes(self, style_notes):
-        if self.stemexp_notes is None:
+        if self.style_notes is None:
             self.style_notes = ""
         self.style_notes = self.style_notes + ":" + style_notes
         return None
