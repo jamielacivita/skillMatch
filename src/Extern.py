@@ -443,24 +443,81 @@ class Extern(AttributeSet):
             self.skills.set_skills_ed_curriculum(False)
 
 
-        ### Set this extern's Work Style Match Skills.
-
-
-
-
         #skills_other -- no match is performed on this criteria.
 
 
-        
 
+        ### Set this extern's Work Style Match Skills.
+        extern_flavor_of_work_list = self.get_flavor_of_work()
+        extern_flavor_of_work_list = extern_flavor_of_work_list.upper()
 
+        #style_driven : Expect workers to be self-driven
+        if "Expect workers to be self-driven".upper() in extern_flavor_of_work_list:
+            self.skills.set_style_driven(True)
+        else:
+            self.skills.set_style_driven(False)
 
+        #style_collab : Collaborative work
+        if "Collaborative work".upper() in extern_flavor_of_work_list:
+            self.skills.set_style_collab(True)
+        else:
+            self.skills.set_style_collab(False)
 
+        #style_creative : Creative work
+        if "Creative work".upper() in extern_flavor_of_work_list:
+            self.skills.set_style_creative(True)
+        else:
+            self.skills.set_style_creative(True)
 
+        #style_investigate : Research or investigative work
+        if "Research or investigative work".upper() in extern_flavor_of_work_list:
+            self.skills.set_style_investigate(True)
+        else:
+            self.skills.set_style_investigate(False)
 
+        #style_task : Task-oriented work
+        if "Task-oriented work".upper() in extern_flavor_of_work_list:
+            self.skills.set_style_task(True)
+        else:
+            self.skills.set_style_task(False)
 
+        #style_ambiguity : Comfort with ambiguity needed
+        if "Comfort with ambiguity needed".upper() in extern_flavor_of_work_list:
+            self.skills.set_style_ambiguity(True)
+        else:
+            self.skills.set_style_ambiguity(False)
 
+        #style_organized : High level of organization needed
+        if "High level of organization needed".upper() in extern_flavor_of_work_list:
+            self.skills.set_style_organized(True)
+        else:
+            self.skills.set_style_organized(False)
 
+        #style_direction : Directive in nature
+        if "Directive in nature".upper() in extern_flavor_of_work_list:
+            self.skills.set_style_direction(True)
+        else:
+            self.skills.set_style_direction(False)
+
+        #style_networker : Strong appetite for networking & outreach needed
+        if "Strong appetite for networking & outreach needed".upper() in extern_flavor_of_work_list:
+            self.skills.set_style_networker(True)
+        else:
+            self.skills.set_style_networker(False)
+
+        #style_structured : Has a structured environment
+        if "Has a structured environment".upper() in extern_flavor_of_work_list:
+            self.skills.set_style_structured(True)
+        else:
+            self.skills.set_style_structured(False)
+
+        #style_teamlead : Has the opportunity for you to lead a small team
+        if "Has the opportunity for you to lead a small team".upper in extern_flavor_of_work_list:
+            self.skills.set_style_teamlead(True)
+        else:
+            self.skills.set_style_teamlead(False)
+
+        #style_other : - don't match on this.
 
         return None
 
