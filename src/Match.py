@@ -96,68 +96,68 @@ class Match():
         #skills_biz_na
         if extern_skills.skills_biz_na and host_skills.skills_biz_na:
             self.skills.set_skills_biz_na(True)
-            # self.skills.set_stemexp_notes("env")
+            self.skills.set_skills_biz_notes("na")
             self.biz_skills_match_score = self.biz_skills_match_score + 1
 
         #skills_biz_sheets
         if extern_skills.skills_biz_sheets and host_skills.skills_biz_sheets:
             self.skills.set_skills_biz_sheets(True)
-            # self.skills.set_stemexp_notes("env")
+            self.skills.set_skills_biz_notes("sheets")
             self.biz_skills_match_score = self.biz_skills_match_score + 1
 
         #skills_biz_word
         if extern_skills.skills_biz_word and host_skills.skills_biz_word:
             self.skills.set_skills_biz_word(True)
-            # self.skills.set_stemexp_notes("env")
+            self.skills.set_skills_biz_notes("word")
             self.biz_skills_match_score = self.biz_skills_match_score + 1
 
 
         #skills_biz_slides
         if extern_skills.skills_biz_slides and host_skills.skills_biz_slides:
             self.skills.set_skills_biz_slides(True)
-            # self.skills.set_stemexp_notes("env")
+            self.skills.set_skills_biz_notes("slides")
             self.biz_skills_match_score = self.biz_skills_match_score + 1
 
         #skills_biz_pm
         if extern_skills.skills_biz_pm and host_skills.skills_biz_pm:
             self.skills.set_skills_biz_pm(True)
-            # self.skills.set_stemexp_notes("env")
+            self.skills.set_skills_biz_notes("pm")
             self.biz_skills_match_score = self.biz_skills_match_score + 1
 
         #skills_biz_speaking
         if extern_skills.skills_biz_speaking and host_skills.skills_biz_speaking:
             self.skills.set_skills_biz_speaking(True)
-            # self.skills.set_stemexp_notes("env")
+            self.skills.set_skills_biz_notes("speaking")
             self.biz_skills_match_score = self.biz_skills_match_score + 1
 
         #skills_biz_email
         if extern_skills.skills_biz_email and host_skills.skills_biz_email:
             self.skills.set_skills_biz_email(True)
-            # self.skills.set_stemexp_notes("env")
+            self.skills.set_skills_biz_notes("email")
             self.biz_skills_match_score = self.biz_skills_match_score + 1
 
         #skills_ed_secondary
         if extern_skills.skills_ed_secondary and host_skills.skills_ed_secondary:
             self.skills.set_skills_ed_secondary(True)
-            # self.skills.set_stemexp_notes("env")
+            self.skills.set_skills_biz_notes("secondary")
             self.biz_skills_match_score = self.biz_skills_match_score + 1
 
         #skills_ed_adult
         if extern_skills.skills_ed_adult and host_skills.skills_ed_adult:
             self.skills.set_skills_ed_adult(True)
-            # self.skills.set_stemexp_notes("env")
+            self.skills.set_skills_biz_notes("adult")
             self.biz_skills_match_score = self.biz_skills_match_score + 1
 
         #skills_ed_elem
         if extern_skills.skills_ed_elem and host_skills.skills_ed_elem:
             self.skills.set_skills_ed_elem(True)
-            # self.skills.set_stemexp_notes("env")
+            self.skills.set_skills_biz_notes("elem")
             self.biz_skills_match_score = self.biz_skills_match_score + 1
 
         #skills_ed_curriculum
         if extern_skills.skills_ed_curriculum and host_skills.skills_ed_curriculum:
             self.skills.set_skills_ed_curriculum(True)
-            # self.skills.set_stemexp_notes("env")
+            self.skills.set_skills_biz_notes("curriculum")
             self.biz_skills_match_score = self.biz_skills_match_score + 1
 
         #skills_other
@@ -275,3 +275,9 @@ class Match():
 
     def get_extern_remote_only(self):
         return self.extern_remote_only
+
+    def get_biz_skills_match_score(self):
+        return self.biz_skills_match_score
+
+    def get_biz_skills_match_notes(self):
+        return self.skills.get_skills_biz_notes()

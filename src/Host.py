@@ -381,9 +381,9 @@ class Host(AttributeSet):
 
         ## Business Skill Section ##
         host_list_business = self.get_business_education_skills()
-        host_list_business = host_list.upper()
+        host_list_business = host_list_business.upper()
 
-        #
+        #skills_biz_na
         if "No specific skills needed".upper() in host_list_business:
             self.skills.set_skills_biz_na(True)
         else:
@@ -396,16 +396,16 @@ class Host(AttributeSet):
             self.skills.set_skills_biz_sheets(False)
 
         #skills_biz_word
-        if "Spreadsheet Software".upper() in host_list_business:
-            self.skills.set_skills_biz_sheets(True)
-        else:
-            self.skills.set_skills_biz_sheets(False)
-
-        #skills_biz_slides
         if "Word Processing Software".upper() in host_list_business:
             self.skills.set_skills_biz_word(True)
         else:
             self.skills.set_skills_biz_word(False)
+
+        #skills_biz_slides
+        if "Presentation Software".upper() in host_list_business:
+            self.skills.set_skills_biz_slides(True)
+        else:
+            self.skills.set_skills_biz_slides(False)
 
         #skills_biz_pm
         if "Project Management".upper() in host_list_business:

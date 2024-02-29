@@ -30,6 +30,7 @@ class Skills():
         self.skills_ed_elem = None
         self.skills_ed_curriculum = None
         self.skills_other = None
+        self.skills_biz_notes = None
 
         ## Work Style Match
         self.style_driven = None
@@ -194,6 +195,19 @@ class Skills():
 
     def get_skills_other(self):
         return self.skills_other
+
+    def set_skills_biz_notes(self, skills_biz_notes):
+        if self.skills_biz_notes is None:
+            self.skills_biz_notes = ""
+        self.skills_biz_notes = self.skills_biz_notes + ":" + skills_biz_notes
+        return None
+
+
+    def get_skills_biz_notes(self):
+        if self.skills_biz_notes is None:
+            return self.skills_biz_notes
+        else:
+            return self.skills_biz_notes[1:]
 
 
 
