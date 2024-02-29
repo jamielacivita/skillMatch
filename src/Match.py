@@ -163,7 +163,19 @@ class Match():
         #skills_other
 
 
-
+        ### Work Style Matches
+        #style_driven
+        #style_collab
+        #style_creative
+        #style_investigate
+        #style_task
+        #style_ambiguity
+        #style_organized
+        #style_direction
+        #style_networker
+        #style_structured
+        #style_teamlead
+        #style_other
 
 
 

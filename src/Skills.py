@@ -45,6 +45,7 @@ class Skills():
         self.style_structured = None
         self.style_teamlead = None
         self.style_other = None
+        self.style_notes = None
 
     def set_stemexp_na(self, stemexp_na):
         self.stemexp_na = stemexp_na
@@ -209,7 +210,89 @@ class Skills():
         else:
             return self.skills_biz_notes[1:]
 
+    def set_style_driven(self, style_driven):
+        self.style_driven = style_driven
 
+    def get_style_driven(self):
+        return self.style_driven
+
+    def set_style_collab(self, style_collab):
+        self.style_collab = style_collab
+
+    def get_style_collab(self):
+        return self.style_collab
+
+    def set_style_creative(self, style_creative):
+        self.style_creative = style_creative
+
+    def get_style_creative(self):
+        return self.style_creative
+
+    def set_style_investigate(self, style_investigate):
+        self.style_investigate = style_investigate
+
+    def get_style_investigate(self):
+        return self.style_investigate
+
+    def set_style_task(self, style_task):
+        self.style_task = style_task
+
+    def get_style_task(self):
+        return self.style_task
+
+    def set_style_ambiguity(self, style_ambiguity):
+        self.style_ambiguity = style_ambiguity
+
+    def get_style_ambiguity(self):
+        return self.style_ambiguity
+
+    def set_style_organized(self, style_organized):
+        self.style_organized = style_organized
+
+    def get_style_organized(self):
+        return self.style_organized
+
+    def set_style_direction(self, style_direction):
+        self.style_direction = style_direction
+
+    def get_style_direction(self):
+        return self.style_direction
+
+    def set_style_networker(self, style_networker):
+        self.style_networker = style_networker
+
+    def get_style_networker(self):
+        return self.style_networker
+
+    def set_style_structured(self, style_structured):
+        self.style_structured = style_structured
+
+    def get_style_structured(self):
+        return self.style_structured
+
+    def set_style_teamlead(self, style_teamlead):
+        self.style_teamlead = style_teamlead
+
+    def get_style_teamlead(self):
+        return self.style_teamlead
+
+    def set_style_other(self, style_other):
+        self.style_other = style_other
+
+    def get_style_other(self):
+        return self.style_other
+
+    def set_style_notes(self, style_notes):
+        if self.stemexp_notes is None:
+            self.style_notes = ""
+        self.style_notes = self.style_notes + ":" + style_notes
+        return None
+
+    def get_style_notes(self):
+        if self.style_notes is None:
+            return self.style_notes
+        else:
+            return self.style_notes[1:]
 
     def __str__(self):
         out_str = ""

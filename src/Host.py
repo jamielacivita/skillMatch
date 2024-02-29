@@ -452,6 +452,80 @@ class Host(AttributeSet):
 
         #skills_other - Not performing any matching on this property.
 
+
+        ### Set this Host's Work Style Match Skills
+
+        host_list_workstyle = self.get_type_of_person()
+        host_list_workstyle = host_list_workstyle.upper()
+
+        # style_driven : Self driven
+        if "Self driven".upper() in host_list_workstyle:
+            self.skills.set_style_driven(True)
+        else:
+            self.skills.set_style_driven(False)
+
+        #style_collab : Collaborator
+        if "Collaborator".upper() in host_list_workstyle:
+            self.skills.set_style_collab(True)
+        else:
+            self.skills.set_style_collab(False)
+
+        #style_creative : Creative
+        if "Creative".upper() in host_list_workstyle:
+            self.skills.set_style_creative(True)
+        else:
+            self.skills.set_style_creative(False)
+
+        #style_investigate : Investigator
+        if "Investigator".upper() in host_list_workstyle:
+            self.skills.set_style_investigate(True)
+        else:
+            self.skills.set_style_investigate(False)
+
+        #style_task : Task oriented
+        if "Task oriented".upper() in host_list_workstyle:
+            self.skills.set_style_task(True)
+        else:
+            self.skills.set_style_task(False)
+
+        #style_ambiguity : Comfortable with ambiguity
+        if "Comfortable with ambiguity".upper() in host_list_workstyle:
+            self.skills.set_style_ambiguity(True)
+        else:
+            self.skills.set_style_ambiguity(False)
+
+        #style_organized : Organized
+        if "Organized".upper() in host_list_workstyle:
+            self.skills.set_style_organized(True)
+        else:
+            self.skills.set_style_organized(False)
+
+        #style_direction : Takes direction well
+        if "Takes direction well".upper() in host_list_workstyle:
+            self.skills.set_style_direction(True)
+        else:
+            self.skills.set_style_direction(False)
+
+        #style_networker : Networker
+        if "Networker".upper() in host_list_workstyle:
+            self.skills.set_style_networker(True)
+        else:
+            self.skills.set_style_networker(False)
+
+        #style_structured : Structured
+        if "Structured".upper() in host_list_workstyle:
+            self.skills.set_style_structured(True)
+        else:
+            self.skills.set_style_structured(False)
+
+        #style_teamlead : Team driver
+        if "Team driver".upper() in host_list_workstyle:
+            self.skills.set_style_teamlead(True)
+        else:
+            self.skills.set_style_teamlead(False)
+
+        #style_other -- don't match on this.
+
         return self.skills
 
     def get_skills(self):

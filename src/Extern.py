@@ -443,6 +443,11 @@ class Extern(AttributeSet):
             self.skills.set_skills_ed_curriculum(False)
 
 
+        ### Set this extern's Work Style Match Skills.
+
+
+
+
         #skills_other -- no match is performed on this criteria.
 
 
