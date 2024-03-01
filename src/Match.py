@@ -1,3 +1,4 @@
+import logging
 import pickle
 import Skills as Skills
 
@@ -23,6 +24,8 @@ class Match():
         self.extern_city = f"{self.extern_obj.get_city_you_live_in()}"
         self.extern_remote_only = f"{self.extern_obj.get_remote_only()}"
 
+        # Teaching Needs Match Data #
+        self.teaching_needs_match = None
 
         ## Perform Matching on Skills
         self.stem_experience_match_score = 0
@@ -232,6 +235,40 @@ class Match():
 
         # style_other
 
+        # Set Teaching Needs Match
+        # If Host is requesting elementary or secondary instruction in col AH and extern col R is a match set to "Y"
+        # If Host is requesting elementary or secondary instruction in col AH and extern col R is NOT a match set to "N"
+        # If host does not need elementary or secondary instruction set to "N/A"
+
+        host_business_education_skills = self.host_obj.get_business_education_skills()
+        host_requires_education = None
+        if "Secondary-Level Instructional Experience" in host_business_education_skills:
+            host_requires_education = True
+        elif "Elementary-Level Instructional experience" in host_business_education_skills:
+            host_requires_education = True
+        else:
+            host_requires_education = False
+
+
+
+        extern_open_to_teach = self.extern_obj.get_open_to_teaching()
+        extern_has_education = None
+        if "Yes" in extern_open_to_teach:
+            extern_has_education = True
+        else:
+            extern_has_education = False
+
+        if host_requires_education and extern_has_education:
+            self.set_teaching_needs_match("Y")
+        if host_requires_education and not extern_has_education:
+            self.set_teaching_needs_match("N")
+        if not host_requires_education:
+            self.set_teaching_needs_match("N/A")
+
+
+
+
+
 
 
         #self.extern_zip = extern_obj.get_zip()
@@ -354,4 +391,11 @@ class Match():
 
     def get_work_style_match_notes(self):
         return self.skills.get_style_notes()
+
+    def set_teaching_needs_match(self, teaching_needs_match):
+        self.teaching_needs_match = teaching_needs_match
+
+    def get_teaching_needs_match(self):
+        return self.teaching_needs_match
+
 
