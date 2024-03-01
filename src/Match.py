@@ -32,6 +32,7 @@ class Match():
         self.stem_experience_match_score = 0
         self.biz_skills_match_score = 0
         self.work_style_match_score = 0
+        self.total_score = 0
 
         self.skills = Skills.Skills()
 
@@ -321,6 +322,8 @@ class Match():
         else:
             self.set_remote_match(False)
 
+        # Set total score
+        self.set_total_score()
 
     def __str__(self):
         out_str = ""
@@ -417,4 +420,11 @@ class Match():
     def get_curriculum_design_match(self):
         return self.curriculum_design_match
 
+    def get_total_score(self):
+        return self.total_score
+
+    def set_total_score(self):
+        out_score = self.get_stem_experience_match_score() + self.get_biz_skills_match_score() + self.get_work_style_match_score()
+        self.total_score = out_score
+        return out_score
 
