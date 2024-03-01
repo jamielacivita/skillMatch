@@ -29,8 +29,8 @@ def host_generate_field_headings(filename="/home/jamie/PycharmProjects/skillMatc
 if __name__ == "__main__":
 
     match_set_object = MatchSet.MatchSet()
-
-    match_set_object.print_match_chart()
+    match_set_object.print_host_dossiers()
+    #match_set_object.print_match_chart()
 
 
     print(f"Number of externs : {match_set_object.get_number_externs()}")

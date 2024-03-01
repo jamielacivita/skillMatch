@@ -156,3 +156,8 @@ class MatchSet():
                 match_chart_write.writerow(row)
         csvfile.close()
         return None
+
+    def print_host_dossiers(self):
+        for host in self.get_host_objects_lst():
+            host.save_dossier()
+

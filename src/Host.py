@@ -1,5 +1,7 @@
 from AttributeSet import AttributeSet
 import Skills as Skills
+import sys
+import re
 
 
 import logging
@@ -246,6 +248,11 @@ class Host(AttributeSet):
 
     def get_organization_name(self):
         return self.organization_name
+
+    def get_organization_name_filesafe(self):
+        id = self.get_id()
+        name = re.sub(r'\W+', '', self.organization_name)
+        return f"{id}_{name}"
 
 
     def set_location_of_organization(self, location_of_organization):
@@ -779,3 +786,39 @@ class Host(AttributeSet):
         out_str = out_str + f"{self.skills}"
 
         return out_str
+
+    def save_dossier(self, to_file=False):
+        origional_stdout = sys.stdout
+        filename = f"{self.get_organization_name_filesafe()}"
+        filepath = f"/home/jamie/PycharmProjects/skillMatch/data/dossier/{filename}.txt"
+        with open(filepath, 'a') as f:
+            sys.stdout = f
+            #sys.stdout = origional_stdout #(uncomment this to print to the screen).
+
+            print(f"Organization: {self.get_organization_name()}")
+            print(f"Contact: {self.get_last_name()}, {self.get_first_name()}")
+            print(f"Email: {self.get_email_address()}")
+            print(f"Location: {self.get_location_of_organization()}")
+            print(f"Remote Possible: {self.get_work_done_remotely()}")
+
+            print(f"ABOUT THE ORGANIZATION")
+            print(f"\t{self.get_overview_of_organization()}")
+
+            print(f"ABOUT THE PROJECT")
+            print(f"Name:")
+            print(f"\t{self.get_project_name()}")
+            print(f"Objectives:")
+            print(f"{self.get_project_objectives()}")
+            print(f"Description and day-to-day tasks")
+            print(f"\t{self.get_description().strip()}")
+            print(f"Meaningful learning about STEM careers")
+            print(f"\t{self.get_meaningful_learning()}")
+            print(f"Network growth")
+            print(f"\t{self.get_network_growth()}")
+            print(f"Skills desired")
+            print(f"{self.get_business_education_skills()}")
+            print(f"STEM domain experience desired")
+            print(f"{self.get_looking_for_experience()}")
+            print(f"\n\n")
+        # Return standard out back to origonal configuration.
+        sys.stdout = origional_stdout

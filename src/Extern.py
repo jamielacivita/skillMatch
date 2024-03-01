@@ -445,9 +445,7 @@ class Extern(AttributeSet):
 
         #skills_other -- no match is performed on this criteria.
 
-
-
-        ### Set this extern's Work Style Match Skills.
+        # Set this extern's Work Style Match Skills.
         extern_flavor_of_work_list = self.get_flavor_of_work()
         extern_flavor_of_work_list = extern_flavor_of_work_list.upper()
 
