@@ -24,13 +24,15 @@ class Match():
         self.extern_city = f"{self.extern_obj.get_city_you_live_in()}"
         self.extern_remote_only = f"{self.extern_obj.get_remote_only()}"
 
-        # Teaching Needs Match Data #
+        # Teaching/Curriculum Needs Match Data #
         self.teaching_needs_match = None
+        self.curriculum_design_match = None
 
         ## Perform Matching on Skills
         self.stem_experience_match_score = 0
         self.biz_skills_match_score = 0
         self.work_style_match_score = 0
+
         self.skills = Skills.Skills()
 
         extern_skills = self.extern_obj.skills
@@ -249,8 +251,6 @@ class Match():
         else:
             host_requires_education = False
 
-
-
         extern_open_to_teach = self.extern_obj.get_open_to_teaching()
         extern_has_education = None
         if "Yes" in extern_open_to_teach:
@@ -265,14 +265,27 @@ class Match():
         if not host_requires_education:
             self.set_teaching_needs_match("N/A")
 
+        # set curriculum_design_match
+        host_business_education_skills = self.host_obj.get_business_education_skills()
+        host_requires_curriculum_design = None
+        if "Curriculum Design" in host_business_education_skills:
+            host_requires_curriculum_design = True
+        else:
+            host_requires_curriculum_design = False
 
+        extern_open_to_curriculum = self.extern_obj.get_open_to_curriculum_design()
+        if "Yes" in extern_open_to_curriculum:
+            extern_has_curriculum = True
+        else:
+            extern_has_curriculum  = False
 
+        if host_requires_curriculum_design and extern_has_curriculum:
+            self.set_curriculum_design_match("Y")
+        elif host_requires_curriculum_design and not extern_has_curriculum:
+            self.set_curriculum_design_match("N")
+        else:
+            self.set_curriculum_design_match("N/A")
 
-
-
-
-        #self.extern_zip = extern_obj.get_zip()
-        #self.host_zip = host_obj.get_zip()
         self.distance = None
         self.distance_notes = ""
         self.remote_match = None
@@ -397,5 +410,11 @@ class Match():
 
     def get_teaching_needs_match(self):
         return self.teaching_needs_match
+
+    def set_curriculum_design_match(self, curriculum_design_match):
+        self.curriculum_design_match = curriculum_design_match
+
+    def get_curriculum_design_match(self):
+        return self.curriculum_design_match
 
 
