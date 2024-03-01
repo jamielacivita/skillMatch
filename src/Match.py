@@ -348,3 +348,10 @@ class Match():
 
     def get_biz_skills_match_notes(self):
         return self.skills.get_skills_biz_notes()
+
+    def get_work_style_match_score(self):
+        return self.work_style_match_score
+
+    def get_work_style_match_notes(self):
+        return self.skills.get_style_notes()
+
