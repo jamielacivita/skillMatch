@@ -1,9 +1,11 @@
 
 import pickle
 import Skills as Skills
-from prettytable import PrettyTable as pt
+from prettytable import PrettyTable as PrettyTable
 import logging
 log = logging.getLogger(__name__)
+# set level to 10 to enable debugging.
+
 
 # Load in the dictionary that holds in the distances between zipcodes.
 with open('/home/jamie/PycharmProjects/skillMatch/data/distance_miles.pickle', 'rb') as distance:
@@ -14,7 +16,7 @@ class Match:
 
     def __init__(self, extern_obj, host_obj):
         log.debug("\n")
-        log.debug("Creating a match object")
+        log.info("Creating a match object")
         self.extern_obj = extern_obj
         self.host_obj = host_obj
 
@@ -57,9 +59,9 @@ class Match:
         self.calculate_remote_match()
         self.set_total_score()
 
-        #if log.level == logging.DEBUG:
-        self.print_skill_chart()
-        print("foo.")
+        if log.level <= logging.DEBUG:
+            self.print_skill_chart()
+            print("foo.")
 
     def perform_matching_for_stemexp(self, extern_skills, host_skills):
         # calculate matching for stemexp
@@ -405,31 +407,65 @@ class Match:
         out_str = out_str + f"{self.host_obj.skills}\n"
         out_str = out_str + "-- extern object skills --\n"
         out_str = out_str + f"{self.extern_obj.skills}\n"
-        #out_str = out_str + self.print_skill_chart()
+        # out_str = out_str + self.print_skill_chart()
         out_str = out_str + "\n"
         return out_str
 
     def print_skill_chart(self):
-        out_table = pt()
-        out_table.field_names = ["Skill","Extern","Host"]
+        out_table = PrettyTable()
+        out_table.field_names = ["Skill", "Extern", "Host"]
 
         skill = "stemexp_lifesci"
         extern_value = self.extern_obj.skills.get_stemexp_lifesci()
         host_value = self.host_obj.skills.get_stemexp_lifesci()
-        out_table.add_row([skill,extern_value,host_value])
+        out_table.add_row([skill, extern_value, host_value])
 
         skill = "stemexp_chem"
         extern_value = self.extern_obj.skills.get_stemexp_chem()
         host_value = self.host_obj.skills.get_stemexp_chem()
-        out_table.add_row([skill,extern_value,host_value])
+        out_table.add_row([skill, extern_value, host_value])
 
         skill = "stemexp_phys"
         extern_value = self.extern_obj.skills.get_stemexp_phys()
         host_value = self.host_obj.skills.get_stemexp_phys()
-        out_table.add_row([skill,extern_value,host_value])
+        out_table.add_row([skill, extern_value, host_value])
 
+        # stemexp_math
+        skill = "stemexp_math"
+        extern_value = self.extern_obj.skills.get_stemexp_math()
+        host_value = self.host_obj.skills.get_stemexp_math()
+        out_table.add_row([skill, extern_value, host_value])
 
-        out_table.add_row(["4","5","6"])
+        # stemexp_compsci
+        skill = "stemexp_compsci"
+        extern_value = self.extern_obj.skills.get_stemexp_compsci()
+        host_value = self.host_obj.skills.get_stemexp_compsci()
+        out_table.add_row([skill, extern_value, host_value])
+
+        # stemexp_it
+        skill = "stemexp_it"
+        extern_value = self.extern_obj.skills.get_stemexp_it()
+        host_value = self.host_obj.skills.get_stemexp_it()
+        out_table.add_row([skill, extern_value, host_value])
+
+        # stemexp_ag
+        skill = "stemexp_ag"
+        extern_value = self.extern_obj.skills.get_stemexp_ag()
+        host_value = self.host_obj.skills.get_stemexp_ag()
+        out_table.add_row([skill, extern_value, host_value])
+
+        # stemexp_eng
+        skill = "stemexp_eng"
+        extern_value = self.extern_obj.skills.get_stemexp_eng()
+        host_value = self.host_obj.skills.get_stemexp_eng()
+        out_table.add_row([skill, extern_value, host_value])
+
+        # stemexp_health
+        # stemexp_trade
+        # stemexp_env
+        # stemexp_other
+
+        out_table.add_row(["4", "5", "6"])
 
         print(out_table)
         return None

@@ -5,7 +5,7 @@ import Skills as Skills
 
 import logging
 log = logging.getLogger(__name__)
-print(log)
+
 
 city_zip = {}
 city_zip["Ada County"] = 83706

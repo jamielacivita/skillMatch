@@ -77,37 +77,64 @@ class Skills():
         self.stemexp_math = stemexp_math
         return None
 
+    def get_stemexp_math(self):
+        return self.stemexp_math
+
     def set_stemexp_compsci(self, stemexp_compsci):
         self.stemexp_compsci = stemexp_compsci
         return None
+
+    def get_stemexp_compsci(self):
+        return self.stemexp_compsci
 
     def set_stemexp_it(self, stemexp_it):
         self.stemexp_it = stemexp_it
         return None
 
+    def get_stemexp_it(self):
+        return self.stemexp_it
+
     def set_stemexp_ag(self, stemexp_ag):
         self.stemexp_ag = stemexp_ag
         return None
+
+    def get_stemexp_ag(self):
+        return self.stemexp_ag
 
     def set_stemexp_eng(self, stemexp_eng):
         self.stemexp_eng = stemexp_eng
         return None
 
+    def get_stemexp_eng(self):
+        return self.stemexp_ag
+
     def set_stemexp_health(self, stemexp_health):
         self.stemexp_health = stemexp_health
         return None
+
+    def get_stemexp_health(self):
+        return self.stemexp_health
 
     def set_stemexp_trade(self, stemexp_trade):
         self.stemexp_trade = stemexp_trade
         return None
 
+    def get_stemexp_trade(self):
+        return self.stemexp_trade
+
     def set_stemexp_env(self, stemexp_env):
         self.stemexp_env = stemexp_env
         return None
 
+    def get_stemexp_env(self):
+        return self.stemexp_env
+
     def set_stemexp_other(self, stemexp_other):
         self.stemexp_other = stemexp_other
         return None
+
+    def get_stemexp_other(self):
+        return self.stemexp_other
 
     def set_stemexp_notes(self, stemexp_notes):
         if self.stemexp_notes is None:
