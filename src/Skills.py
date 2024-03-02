@@ -55,13 +55,23 @@ class Skills():
         self.stemexp_lifesci = stemexp_lifesci
         return None
 
+    def get_stemexp_lifesci(self):
+        return self.stemexp_lifesci
+
     def set_stemexp_chem(self, stemexp_chem):
         self.stemexp_chem = stemexp_chem
         return None
 
+    def get_stemexp_chem(self):
+        return self.stemexp_chem
+
+
     def set_stemexp_phys(self, stemexp_phys):
         self.stemexp_phys = stemexp_phys
         return None
+
+    def get_stemexp_phys(self):
+        return self.stemexp_phys
 
     def set_stemexp_math(self, stemexp_math):
         self.stemexp_math = stemexp_math

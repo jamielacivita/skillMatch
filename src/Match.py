@@ -1,7 +1,7 @@
 
 import pickle
 import Skills as Skills
-
+from prettytable import PrettyTable as pt
 import logging
 log = logging.getLogger(__name__)
 
@@ -56,6 +56,10 @@ class Match:
         self.calculate_distance()
         self.calculate_remote_match()
         self.set_total_score()
+
+        #if log.level == logging.DEBUG:
+        self.print_skill_chart()
+        print("foo.")
 
     def perform_matching_for_stemexp(self, extern_skills, host_skills):
         # calculate matching for stemexp
@@ -401,18 +405,34 @@ class Match:
         out_str = out_str + f"{self.host_obj.skills}\n"
         out_str = out_str + "-- extern object skills --\n"
         out_str = out_str + f"{self.extern_obj.skills}\n"
-        out_str = out_str + self.print_skill_chart()
+        #out_str = out_str + self.print_skill_chart()
         out_str = out_str + "\n"
         return out_str
 
     def print_skill_chart(self):
-        out_str = ""
+        out_table = pt()
+        out_table.field_names = ["Skill","Extern","Host"]
 
-        out_str = out_str + f"curriculum design : "
-        out_str = out_str + f"{self.extern_obj.skills.curriculum_design} :"
-        out_str = out_str + f"{self.host_obj.skills.curriculum_design}\n"
+        skill = "stemexp_lifesci"
+        extern_value = self.extern_obj.skills.get_stemexp_lifesci()
+        host_value = self.host_obj.skills.get_stemexp_lifesci()
+        out_table.add_row([skill,extern_value,host_value])
 
-        return out_str
+        skill = "stemexp_chem"
+        extern_value = self.extern_obj.skills.get_stemexp_chem()
+        host_value = self.host_obj.skills.get_stemexp_chem()
+        out_table.add_row([skill,extern_value,host_value])
+
+        skill = "stemexp_phys"
+        extern_value = self.extern_obj.skills.get_stemexp_phys()
+        host_value = self.host_obj.skills.get_stemexp_phys()
+        out_table.add_row([skill,extern_value,host_value])
+
+
+        out_table.add_row(["4","5","6"])
+
+        print(out_table)
+        return None
 
     def get_key(self):
         return self.key
