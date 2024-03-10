@@ -3,6 +3,7 @@ Contact: Bessey, Francesca
 Email: francesca@gizmo-cda.org
 Location: Coeur d'Alene ID
 Remote Possible: No
+
 ABOUT THE ORGANIZATION:
 Gizmo is North Idaho's premier non-profit makerspace offering 12,000 square feet of creative tools, materials, machinery and fabrication technology. Our mission is to build creative confidence and curiosity by providing all people access to tools, technology and mentors.
 

@@ -25,11 +25,11 @@ if __name__ == "__main__":
 
     match_set_object = MatchSet.MatchSet()
 
-    # match_set_object.print_host_dossiers()
-    # match_set_object.print_extern_dossiers()
+    match_set_object.print_host_dossiers()
+    match_set_object.print_extern_dossiers()
 
-    match_set_object.print_match_chart()
-    # match_set_object.save_match_chart_csv()
+    # match_set_object.print_match_chart()
+    match_set_object.save_match_chart_csv()
 
     log.info(f"Number of externs : {match_set_object.get_number_externs()}")
     log.info(f"Number of hosts : {match_set_object.get_number_hosts()}")

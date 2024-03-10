@@ -3,6 +3,7 @@ Contact: Meyer, Jennifer
 Email: jennifer@londr.com
 Location: Eagle, ID
 Remote Possible: Yes
+
 ABOUT THE ORGANIZATION:
 We are an app based, on-demand laundry service marketplace with customers across the U.S. For STEM careers, this would apply to people who want to learn more about how software companies are built and grow. It includes learning about the technology, the operations, marketing and finance of Londr. 
 
