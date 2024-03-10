@@ -1,11 +1,11 @@
 Applicant : Wolf, Sara
 School (district) : Barbara Morgan Elementary School (McCall Donnelly Joint School District)
-Roles : Special Education Teacher;Upper Elementary Teacher (3rd+);
+Role(s) : Special Education Teacher;Upper Elementary Teacher (3rd+);
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I am interested in learning about careers in STEM that don't require a 4 year degree. STEM careers are highly rewarding and can provide meaningful work out of high school, trade school, or associate degree programs. I work with upper elementary special education students and I'd love to expose them to STEM career options that would motivate and guide their middle and high school experience. 
+	* I am interested in learning about careers in STEM that don't require a 4 year degree. STEM careers are highly rewarding and can provide meaningful work out of high school, trade school, or associate degree programs. I work with upper elementary special education students and I'd love to expose them to STEM career options that would motivate and guide their middle and high school experience. 
 This applicant likes work environments that are:
 	* Research or investigative work
 	* Task-oriented work
@@ -49,3 +49,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : McCall
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : swolf@mdsd.org
+	* Secondary Email : sara.lynd@gmail.com

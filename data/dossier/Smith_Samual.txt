@@ -1,11 +1,11 @@
 Applicant : Smith, Samual
 School (district) : Canyon Ridge High School (Twin Falls School District)
-Roles : High School Teacher;
+Role(s) : High School Teacher;
 LinkedIn Profile : www.linkedin.com/in/samual-smith-jameson
 
 INTERESTS
 Why they want to be a part of this program:
-I want to gain some insightful experiences within a job that applies scientific principles. I have found that when I have personal connection to the content, whether it be through application or research, that teaching becomes much more enjoyable for the students. It tends to spark their curiosity and drives them to ask questions.
+	* I want to gain some insightful experiences within a job that applies scientific principles. I have found that when I have personal connection to the content, whether it be through application or research, that teaching becomes much more enjoyable for the students. It tends to spark their curiosity and drives them to ask questions.
 
 I am sure that this program will allow me to gain knowledge and skills that would benefit my practice.
 This applicant likes work environments that are:
@@ -65,3 +65,14 @@ Business software & skills:
 Other interesting experience:
 The list of work and volunteer experience go in the chronological order of: lifeguarding and swim teaching, teaching assistant at post-secondary level, volunteer research assistant within genetics, CNA (Certified Nursing Assistant), medical-shadowing, door-to-door sales, agricultural logistics manager for greenhouses, secondary math teacher (6 years), secondary science teacher (4 years), and CPT (Certified Personal Trainer).
 
+LOGISTICS
+Residence : Buhl
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : samual.jameson.smith@outlook.com
+	* Secondary Email : arailioussignus@hotmail.com

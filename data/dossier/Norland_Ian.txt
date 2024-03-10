@@ -1,11 +1,11 @@
 Applicant : Norland, Ian
 School (district) : Sage International Middleton campus (Sage International Schools of Idaho)
-Roles : High School Teacher;Middle School Teacher;
+Role(s) : High School Teacher;Middle School Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I am excited to bring this drone and robotics programming to a more supportive and technologically ready to benefit district.
+	* I am excited to bring this drone and robotics programming to a more supportive and technologically ready to benefit district.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -68,3 +68,14 @@ Business software & skills:
 Other interesting experience:
 Ultimate frisbee, disc-golf, hiking. I'll use this space to request consideration by the iDrone program and Dr. Jae Ryu. 
 
+LOGISTICS
+Residence : Caldwell
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : iannorland@gmail.com
+	* Secondary Email : ian.norland@sageintl.org

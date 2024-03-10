@@ -1,11 +1,11 @@
 Applicant : Smith, Madison
 School (district) : Middleton Middle School (Middleton School District)
-Roles : Middle School Teacher;
+Role(s) : Middle School Teacher;
 LinkedIn Profile : https://www.linkedin.com/in/madisonsmith23
 
 INTERESTS
 Why they want to be a part of this program:
-Having actively participated in the program last year, I enjoyed the experience and found it important to participate again. The knowledge I acquired allowed me to bring back new STEM experiences for my students, as well as improve the technology they had access to. I personally would like to increase my technology experience as I bring new hands-on projects to my social studies students.  I also aim to increase my experience with instructional design, business operations, and industry in general as I am currently studying this.  Furthermore, I appreciated and enjoyed making new connections and would like to continue doing so this year. 
+	* Having actively participated in the program last year, I enjoyed the experience and found it important to participate again. The knowledge I acquired allowed me to bring back new STEM experiences for my students, as well as improve the technology they had access to. I personally would like to increase my technology experience as I bring new hands-on projects to my social studies students.  I also aim to increase my experience with instructional design, business operations, and industry in general as I am currently studying this.  Furthermore, I appreciated and enjoyed making new connections and would like to continue doing so this year. 
 This applicant likes work environments that are:
 	* Collaborative work
 	* Research or investigative work
@@ -70,3 +70,14 @@ Idaho State University Honors Director Envoy
 
 
 
+LOGISTICS
+Residence : Caldwell
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Yes
+
+CONTACT
+	* Primary Email : s_madison@outlook.com
+	* Secondary Email : masmith@msd134.org

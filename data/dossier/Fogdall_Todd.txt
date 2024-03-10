@@ -1,11 +1,11 @@
 Applicant : Fogdall, Todd
 School (district) : Eagle High School (Joint School District #2 (West Ada))
-Roles : High School Teacher;
+Role(s) : High School Teacher;
 LinkedIn Profile : www.linkedin.com/in/todd-fogdall
 
 INTERESTS
 Why they want to be a part of this program:
-I am always surprised to find that current K-12 students, despite growing up in a world infused with technology, don't understand how STEM has deeply changed a wide range of career fields, including those not traditionally associated with STEM. My students have occasionally expressed interest in my short stint as a developer at Clearwater Analytics, but I actually think that sharing that experience serves to reinforce the view that STEM is only affecting tech. My hope is that the program will provide opportunities to better understand how these academic subjects are impacting the day-to-day operations in other fields. Students need to see these realities firsthand in order to see how important it is to develop those knowledge bases and skillsets if they want to participate in the future economy.
+	* I am always surprised to find that current K-12 students, despite growing up in a world infused with technology, don't understand how STEM has deeply changed a wide range of career fields, including those not traditionally associated with STEM. My students have occasionally expressed interest in my short stint as a developer at Clearwater Analytics, but I actually think that sharing that experience serves to reinforce the view that STEM is only affecting tech. My hope is that the program will provide opportunities to better understand how these academic subjects are impacting the day-to-day operations in other fields. Students need to see these realities firsthand in order to see how important it is to develop those knowledge bases and skillsets if they want to participate in the future economy.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -54,3 +54,14 @@ Business software & skills:
 Other interesting experience:
 I spent three months working in a team of software developers at Clearwater. I had considered transitioning to that industry but ultimately found the work less engaging than teaching. I also spent a year working in concurrent enrollment administration and teaching in the math department at Boise State. My role also involved teaching calculus and statistics courses on campus to better understand equivalency with high school concurrent enrollment courses administered by the university.
 
+LOGISTICS
+Residence : Boise, Idaho
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : todd.fogdall@gmail.com
+	* Secondary Email : fogdall.todd@westada.org

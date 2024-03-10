@@ -1,11 +1,11 @@
 Applicant : Kendall, Erik
 School (district) : Caldwell High School (Caldwell School District)
-Roles : High School Teacher;
+Role(s) : High School Teacher;
 LinkedIn Profile : https://www.linkedin.com/in/erikmkendall/
 
 INTERESTS
 Why they want to be a part of this program:
-I am a Career Technical Educator in Cybersecurity & Computer Science. I feel like I have two primary responsibilities to my students: Make sure they have opportunities to gain current, reverent skills, and connect them with employers who are interested in individuals with these skills.
+	* I am a Career Technical Educator in Cybersecurity & Computer Science. I feel like I have two primary responsibilities to my students: Make sure they have opportunities to gain current, reverent skills, and connect them with employers who are interested in individuals with these skills.
 
 By participating in this externship I am able to become better at fulfilling these responsibilities for my students.
 This applicant likes work environments that are:
@@ -55,3 +55,14 @@ Business software & skills:
 Other interesting experience:
 Tabletop games.
 
+LOGISTICS
+Residence : Meridian
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : ekendall@caldwellschools.org
+	* Secondary Email : mrc3h5n3o9@gmail.com

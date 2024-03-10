@@ -1,11 +1,11 @@
 Applicant : Atwood, Linda
 School (district) : Blackfoot High  (Blackfoot)
-Roles : High School Teacher;
+Role(s) : High School Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-A coworker did this last summer and had so many amazing ideas to bring back to the classroom, I look forward to the opportunity to do the same if selected.
+	* A coworker did this last summer and had so many amazing ideas to bring back to the classroom, I look forward to the opportunity to do the same if selected.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -50,3 +50,14 @@ Business software & skills:
 Other interesting experience:
 I help with ayso soccer and have helped a math ged class for adults in the past.
 
+LOGISTICS
+Residence : Idaho Falls
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : teacheratwood@gmail.com
+	* Secondary Email : raynmker@gmail.com

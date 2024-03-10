@@ -1,11 +1,11 @@
 Applicant : Aguilera, Stephanie
 School (district) : Idaho Future Ready Academy (Wilder School District #133)
-Roles : Middle School Teacher;High School Teacher;
+Role(s) : Middle School Teacher;High School Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-This year, I am determined to enhance my teaching by exploring the many uses of technology. Since transitioning to online teaching, I have realized the immense potential technology holds, but I am unfamiliar with what is available and how to effectively utilize it all. For example, I would like to learn how to use AI, create an app, or design a website.
+	* This year, I am determined to enhance my teaching by exploring the many uses of technology. Since transitioning to online teaching, I have realized the immense potential technology holds, but I am unfamiliar with what is available and how to effectively utilize it all. For example, I would like to learn how to use AI, create an app, or design a website.
 I think that any newfound knowledge I can gain will enable me to better engage and connect with my students.
 This applicant likes work environments that are:
 	* Collaborative work
@@ -54,3 +54,14 @@ In my previous experiences, I have enjoyed taking charge and training others. Wh
 I enjoyed working in environments that have well-defined goals, clear communication, guidance from a mentor, and I like being involved in decision-making processes.
 
 
+LOGISTICS
+Residence : Ada County
+Open to Remote?
+	* No
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : aguilerasteph28@gmail.com
+	* Secondary Email : saguilera@wilderschools.org

@@ -1,11 +1,11 @@
 Applicant : Baughman, Lauren
 School (district) : Hayden Canyon Charter (Hayden Canyon Charter)
-Roles : Early Elementary Teacher (K-2nd);
+Role(s) : Early Elementary Teacher (K-2nd);
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I did this externship last year. I found that it gave me a chance to round out my teaching and lesson development skills. Because I was able to teach with many different ages. I would like that experience again and to be able to bring this experience to more children.
+	* I did this externship last year. I found that it gave me a chance to round out my teaching and lesson development skills. Because I was able to teach with many different ages. I would like that experience again and to be able to bring this experience to more children.
 This applicant likes work environments that are:
 	* Expect workers to be self-driven
 	* High level of organization needed
@@ -46,3 +46,14 @@ Business software & skills:
 Other interesting experience:
 I like sewing. I am not great at it, but I make baby quilts a couple of times a year. I used to do food science before developing food intolerances. I love all types of music. I like paddleboarding in the summer when our weather is nice enough. 
 
+LOGISTICS
+Residence : Rathdrum
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : lbuech91@msn.com
+	* Secondary Email : lbaughman@haydencanyoncharter.org

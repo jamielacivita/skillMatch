@@ -1,11 +1,11 @@
 Applicant : Stoddard, Rick
 School (district) : Galileo STEM Academy  (Joint School District #2 (West Ada))
-Roles : Middle School Teacher;
+Role(s) : Middle School Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I'm interested in learning more about CNC machining and manufacturing and ways to incorporate design and modeling into my classroom.  
+	* I'm interested in learning more about CNC machining and manufacturing and ways to incorporate design and modeling into my classroom.  
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -49,3 +49,14 @@ Business software & skills:
 Other interesting experience:
 I have coached a competitive rocket team for the past 16 years and I would love to learn more or grow my knowledge in rocketry. 
 
+LOGISTICS
+Residence : Boise
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Yes
+
+CONTACT
+	* Primary Email : rickstoddard@hotmail.com
+	* Secondary Email : stoddard.rick@westada.org

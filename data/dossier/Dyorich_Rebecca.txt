@@ -1,11 +1,11 @@
 Applicant : Dyorich, Rebecca
 School (district) : Ririe Elementary School (Ririe School District 252)
-Roles : Upper Elementary Teacher (3rd+);
+Role(s) : Upper Elementary Teacher (3rd+);
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I hope to learn more about STEM in action, in businesses in our area. I would love to bring back experience to excite my 6th graders. It would be amazing to develop relationships with people would would later come interact with my students and help them see options for their futures.  Continuing my education and trying new, even hard things would be inspirational to my students. 
+	* I hope to learn more about STEM in action, in businesses in our area. I would love to bring back experience to excite my 6th graders. It would be amazing to develop relationships with people would would later come interact with my students and help them see options for their futures.  Continuing my education and trying new, even hard things would be inspirational to my students. 
 This applicant likes work environments that are:
 	* Collaborative work
 	* Research or investigative work
@@ -40,3 +40,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : Ririe
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : rdyorich@ririe252.org
+	* Secondary Email : dyorichherd@gmail.com

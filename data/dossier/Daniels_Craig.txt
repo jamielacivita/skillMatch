@@ -1,11 +1,11 @@
 Applicant : Daniels, Craig
 School (district) : Treasure Valley Mathematics and Science Center (Boise Independent School District)
-Roles : High School Teacher;
+Role(s) : High School Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I would like to participate in an externship in computer science. I would like insight into the industry so I can adjust my courses to better prepare my students for careers in computer science. I would also like to do an externship to help me work towards getting a Career Technical Education certificate in Computer Science so I can expand the computer science courses I can teach for my school. Expanding course offerings at my high school will allow my students to get more exposure to computer science topics to see if it is something they would want to major in at the post-secondary level. 
+	* I would like to participate in an externship in computer science. I would like insight into the industry so I can adjust my courses to better prepare my students for careers in computer science. I would also like to do an externship to help me work towards getting a Career Technical Education certificate in Computer Science so I can expand the computer science courses I can teach for my school. Expanding course offerings at my high school will allow my students to get more exposure to computer science topics to see if it is something they would want to major in at the post-secondary level. 
 This applicant likes work environments that are:
 	* Collaborative work
 	* Task-oriented work
@@ -47,3 +47,14 @@ Other interesting experience:
 For the last few years I have helped facilitate a Cybersecurity camp with Boise State University for secondary teachers to take a PD to implement cybersecurity lessons in all content areas.  Here is a link to the program. 
 https://www.boisestate.edu/coen-cs/gencyber/
 
+LOGISTICS
+Residence : Boise
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : craig.daniels@boiseschools.org
+	* Secondary Email : craigdaniels8091@gmail.com

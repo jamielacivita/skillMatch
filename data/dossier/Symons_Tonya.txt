@@ -1,11 +1,11 @@
 Applicant : Symons, Tonya
 School (district) : Victory Middle School (West Ada School District)
-Roles : Middle School Special Education Instructional Paraprofessional;
+Role(s) : Middle School Special Education Instructional Paraprofessional;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-My participation in the Idaho STEM Externship Program will benefit me as an educator because it will give me real-world experience in different career areas. I will share with my students the details of my personal experiences and how middle school class curriculum and social/emotional learning can help them prepare for their own future careers of interest.
+	* My participation in the Idaho STEM Externship Program will benefit me as an educator because it will give me real-world experience in different career areas. I will share with my students the details of my personal experiences and how middle school class curriculum and social/emotional learning can help them prepare for their own future careers of interest.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Research or investigative work
@@ -50,3 +50,14 @@ Business software & skills:
 Other interesting experience:
 I enjoy helping other and have experience with being a companion, caregiver, behavior support, and teaching in my church and community. I was a chemist before going back to school for my degree in secondary education in chemistry and math. I was also a medical transcriptionist for several years. I enjoy participating in community book clubs and going for walks in good weather. 
 
+LOGISTICS
+Residence : Meridian
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : tonyarsymons@gmail.com
+	* Secondary Email : symons.tonya@westada.org

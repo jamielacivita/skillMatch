@@ -1,11 +1,11 @@
 Applicant : Weaver, Megan
 School (district) : Potlatch Elementary School (Potlatch School District)
-Roles : Upper Elementary Teacher (3rd+);
+Role(s) : Upper Elementary Teacher (3rd+);
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-This is a great opportunity for me to increase in my professional growth by learning new skills and information in the science and technology fields. It allows me to bring what I learn first-hand back to my students to share with them.
+	* This is a great opportunity for me to increase in my professional growth by learning new skills and information in the science and technology fields. It allows me to bring what I learn first-hand back to my students to share with them.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -46,3 +46,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : Potlatch
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : megan.weaver@psd285.org
+	* Secondary Email : megnnow@hotmail.com

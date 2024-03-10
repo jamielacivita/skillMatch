@@ -1,11 +1,11 @@
 Applicant : Crain, Brandon
 School (district) : Hobbs Middle School (shelley school dist #60)
-Roles : Gifted and Talented teacher;Middle School Teacher;
+Role(s) : Gifted and Talented teacher;Middle School Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I am a STEM teacher in our district and I am always looking for opportunities to expand my STEM knowledge. I would love to find STEM careers in the area. I want to show students the different careers that fall in the STEM fields. I like to integrate as much hands on learning that I can in my classroom. I think kids can benefit from real world experience over theoretical. I want to add to my program for my students. I feel that having real empierce in a STEM field will help me transfer my understanding and knowledge to my students in our classes. 
+	* I am a STEM teacher in our district and I am always looking for opportunities to expand my STEM knowledge. I would love to find STEM careers in the area. I want to show students the different careers that fall in the STEM fields. I like to integrate as much hands on learning that I can in my classroom. I think kids can benefit from real world experience over theoretical. I want to add to my program for my students. I feel that having real empierce in a STEM field will help me transfer my understanding and knowledge to my students in our classes. 
 This applicant likes work environments that are:
 	* Creative work
 	* Research or investigative work
@@ -60,3 +60,14 @@ Business software & skills:
 Other interesting experience:
 I have experience in welding and construction from my jobs before education. I have a few hobbies that I love. I enjoy the outdoors where I hunt and fish or just explore. I have had a green thumb for most of my life. In the past couple years I have been growing giant pumpkins. I am trying to break the Idaho record of 1400 lbs. Last season my largest pumpkin was 1207 lbs. I hope to grow them even bigger this coming year. I have been 3D printing for a few years and teach my students about 3D design and then printing their creations. I love to learn and tend to be project based. I try and have a couple of summer projects to keep me out of trouble. 
 
+LOGISTICS
+Residence : Shelley
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : bcrain1235@gmail.com
+	* Secondary Email : bcrain@shelleyschools.org

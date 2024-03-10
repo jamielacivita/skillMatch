@@ -1,11 +1,11 @@
 Applicant : Martin, Christopher
 School (district) : Career Technical Education  (Idaho Falls School District #91)
-Roles : Law Enforcement Instructor ;
+Role(s) : Law Enforcement Instructor ;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I worked in the program last summer in 2023 and loved working with the students. It was a fantastic experience that I would enjoy to repeat again. 
+	* I worked in the program last summer in 2023 and loved working with the students. It was a fantastic experience that I would enjoy to repeat again. 
 This applicant likes work environments that are:
 	* Creative work
 	* Task-oriented work
@@ -41,3 +41,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : Idaho Falls
+Open to Remote?
+	* No
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : ten2tactical@gmail.com
+	* Secondary Email : martchri1@sd91.org

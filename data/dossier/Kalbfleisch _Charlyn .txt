@@ -1,11 +1,11 @@
 Applicant : Kalbfleisch , Charlyn 
 School (district) : Spalding Stem Academy  (West Ada School District )
-Roles : Early Elementary Teacher (K-2nd);
+Role(s) : Early Elementary Teacher (K-2nd);
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I would like to be able to connect with businesses in the area.  To network with businesses that I can bring into my classroom to show my student how their learning, skills, and how it will impact their future.  
+	* I would like to be able to connect with businesses in the area.  To network with businesses that I can bring into my classroom to show my student how their learning, skills, and how it will impact their future.  
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -59,3 +59,14 @@ Business software & skills:
 Other interesting experience:
 Pto, iStem, curriculum design, hospital volunteer as a student, church class for K-5
 
+LOGISTICS
+Residence : Boise
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : Kalbfleisch.char@westada.org
+	* Secondary Email : Kckalbfleisch@msn.com

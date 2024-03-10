@@ -1,11 +1,11 @@
 Applicant : Albor, Leslie
 School (district) : Wilder School District (Wilder School District)
-Roles : School Counselor;
+Role(s) : School Counselor;
 LinkedIn Profile : www.linkedin.com/in/leslie-albor-23565b1ba
 
 INTERESTS
 Why they want to be a part of this program:
-During the past two years, I have honed my skills and expanded my knowledge through valuable externship experiences. Engaging with professionals in the STEM industry has not only provided me with networking opportunities but also equipped me with insights to better support my students. By witnessing firsthand the challenges faced by companies in recruitment and retention, I am able to prepare my students effectively for the demands of the workforce. These encounters have not only enhanced my abilities but have also enriched my capacity to offer practical examples to guide students in their career paths. Collaborating with diverse organizations during my externships has empowered me to introduce my students to a wide array of potential career opportunities. Assuming leadership roles in various projects has further developed my confidence in leading within my field.
+	* During the past two years, I have honed my skills and expanded my knowledge through valuable externship experiences. Engaging with professionals in the STEM industry has not only provided me with networking opportunities but also equipped me with insights to better support my students. By witnessing firsthand the challenges faced by companies in recruitment and retention, I am able to prepare my students effectively for the demands of the workforce. These encounters have not only enhanced my abilities but have also enriched my capacity to offer practical examples to guide students in their career paths. Collaborating with diverse organizations during my externships has empowered me to introduce my students to a wide array of potential career opportunities. Assuming leadership roles in various projects has further developed my confidence in leading within my field.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Task-oriented work
@@ -60,3 +60,14 @@ Business software & skills:
 Other interesting experience:
 I have really enjoyed volunteering and giving back to others in my community. It is something that aligns very closely with my profession and something I wish I could do more often. I have also enjoyed working in different environments such as being outdoors and working in agriculture & in a fast-paced restaurant.
 
+LOGISTICS
+Residence : Meridian
+Open to Remote?
+	* No
+
+Open to temporary relocation?
+	* Yes
+
+CONTACT
+	* Primary Email : albolesl@isu.edu
+	* Secondary Email : lalbor@wilderschools.org

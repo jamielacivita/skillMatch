@@ -1,11 +1,11 @@
 Applicant : Gibson, Marilyn
 School (district) : Mountain View Elementary (Marsh Valley School District)
-Roles : Upper Elementary Teacher (3rd+);
+Role(s) : Upper Elementary Teacher (3rd+);
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I want to be part of a program that can providing real-world industry insights, and help myself to stay current with industry trends, and enhancing my professional development. This firsthand experience will allow me to bring practical knowledge into the classroom, make lessons more relevant and engaging for students. It fosters a dynamic learning environment and prepares students for the practical aspects of their future careers.
+	* I want to be part of a program that can providing real-world industry insights, and help myself to stay current with industry trends, and enhancing my professional development. This firsthand experience will allow me to bring practical knowledge into the classroom, make lessons more relevant and engaging for students. It fosters a dynamic learning environment and prepares students for the practical aspects of their future careers.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -44,3 +44,14 @@ Business software & skills:
 Other interesting experience:
 I volunteer for the community Thanksgiving meal, in planning, prepping, decorating and serving.  I also volunteer with the youth at our local church in activity planning 
 
+LOGISTICS
+Residence : McCammon
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : mgibson@mvsd21.org
+	* Secondary Email : gibberjm@hotmail.com

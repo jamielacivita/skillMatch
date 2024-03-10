@@ -1,11 +1,11 @@
 Applicant : Andrade, Shannon
 School (district) : Iowa Elementary School (Nampa School District)
-Roles : Instructional Coach;
+Role(s) : Instructional Coach;
 LinkedIn Profile : www.linkedin.com/in/shannon-andrade-804aa7108
 
 INTERESTS
 Why they want to be a part of this program:
-Having previously participated in the extern program's inaugural year, I am excited to reapply. My initial experience was transformative, providing insights into career preparation. Through my participation in the extern program, I gained valuable insights into diverse pathways to the workforce, for example apprenticeships, college education, trade schools, and on-the-job training. Additionally, I deepened my understanding of the essential skills that employers seek in their future employees. This knowledge has significantly enriched my approach to education and inspired me to share these insights with both peers and students.
+	* Having previously participated in the extern program's inaugural year, I am excited to reapply. My initial experience was transformative, providing insights into career preparation. Through my participation in the extern program, I gained valuable insights into diverse pathways to the workforce, for example apprenticeships, college education, trade schools, and on-the-job training. Additionally, I deepened my understanding of the essential skills that employers seek in their future employees. This knowledge has significantly enriched my approach to education and inspired me to share these insights with both peers and students.
  I am eager to continue learning, staying updated on emerging trends, and refining my strategies. By rejoining the extern program, I aim to share these insights with my peers and students, fostering a learning environment that empowers our students to navigate their career paths with confidence.
 
 This applicant likes work environments that are:
@@ -54,3 +54,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : Nampa
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : shannonandrade95@gmail.com
+	* Secondary Email : sandrade@nsd131.org

@@ -1,11 +1,11 @@
 Applicant : Weaver, Matthew
 School (district) : Idaho State University  (Idaho State University )
-Roles : Postsecondary Instructor;
+Role(s) : Postsecondary Instructor;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I really enjoy teaching others about aviation, for me aviation in more then a job it is a passion 
+	* I really enjoy teaching others about aviation, for me aviation in more then a job it is a passion 
 This applicant likes work environments that are:
 	* Research or investigative work
 	* Collaborative work
@@ -39,3 +39,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : Pocatello, Idaho 
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Yes
+
+CONTACT
+	* Primary Email : matthewweaver@isu.edu
+	* Secondary Email : amaviationservicesllc@gmail.com

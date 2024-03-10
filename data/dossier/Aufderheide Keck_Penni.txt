@@ -1,11 +1,11 @@
 Applicant : Aufderheide Keck, Penni
 School (district) : Jerome High School (Jerome School District)
-Roles : High School Teacher;
+Role(s) : High School Teacher;
 LinkedIn Profile : @penniaufderheide
 
 INTERESTS
 Why they want to be a part of this program:
-Purpose Statement: Applying for Externship Program
+	* Purpose Statement: Applying for Externship Program
 Purpose Statement: Applying for Externship Program
 
 I am deeply motivated to participate in the externship program as I am dedicated to continuously improving my pedagogical skills and enriching the educational experiences of my students. By engaging in this program, I aspire to gain practical, real-world insights that will enhance my effectiveness as an educator. Additionally, I am working towards obtaining my CTE endorsement, and the externship hours are essential for this pursuit.
@@ -67,3 +67,14 @@ These multifaceted experiences have endowed me with a versatile skill set, enabl
 
 Beyond my professional endeavors, I find solace in the tranquility of the outdoors, with a particular fondness for camping and navigating the rugged terrain of the mountains on my razor. These experiences invigorate my spirit and fortify my commitment to fostering a robust and prosperous future for the residents of Idaho.
 
+LOGISTICS
+Residence : Twin Falls
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Yes
+
+CONTACT
+	* Primary Email : penni.aufderheide@jeromeschools.org
+	* Secondary Email : piccolopenni@gmail.com

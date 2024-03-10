@@ -1,11 +1,11 @@
 Applicant : Sharkey, Julia
 School (district) : Kuna High School (Kuna School District)
-Roles : High School Teacher;
+Role(s) : High School Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I completed an externship last summer with CBS2 News and learned so much while having a great time. Through the externship I've made invaluable industry connections and furthered my technical knowledge with hands-on experience. I look forward to doing it again.
+	* I completed an externship last summer with CBS2 News and learned so much while having a great time. Through the externship I've made invaluable industry connections and furthered my technical knowledge with hands-on experience. I look forward to doing it again.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -46,3 +46,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : Nampa, ID
+Open to Remote?
+	* No
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : jcsharkey@kunaschools.org
+	* Secondary Email : julia.sharkey@gmail.com

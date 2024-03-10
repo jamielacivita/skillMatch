@@ -1,11 +1,11 @@
 Applicant : Graham, Kenneth
 School (district) : A.H. Bush Elementary School  (School District 91)
-Roles : Upper Elementary Teacher (3rd+);
+Role(s) : Upper Elementary Teacher (3rd+);
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I really want to expand my horizons and find more creative ways to reach my students. I've also realized the more I experience, I can bring it back to them in learning situations. 
+	* I really want to expand my horizons and find more creative ways to reach my students. I've also realized the more I experience, I can bring it back to them in learning situations. 
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -60,3 +60,14 @@ Business software & skills:
 Other interesting experience:
 I really love everything that has to do with the outdoors. Cross country skiing, hiking, just to name a few. I also have a love for sports and play whenever I can. 
 
+LOGISTICS
+Residence : Idaho Falls, Idaho 
+Open to Remote?
+	* No
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : jensengraham.ken@gmail.com 
+	* Secondary Email : grahkenn@sd91.org

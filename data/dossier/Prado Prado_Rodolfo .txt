@@ -1,11 +1,11 @@
 Applicant : Prado Prado, Rodolfo 
 School (district) : Boise State University (Boise, Idaho)
-Roles : Postsecondary Instructor;
+Role(s) : Postsecondary Instructor;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-Bring more skills to teach my classes
+	* Bring more skills to teach my classes
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -52,3 +52,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : Boise
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Yes
+
+CONTACT
+	* Primary Email : rodolfoprado@boisestate.edu
+	* Secondary Email : rodolfoprado@u.boisestate.edu

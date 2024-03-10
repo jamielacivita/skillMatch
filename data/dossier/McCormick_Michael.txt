@@ -1,11 +1,11 @@
 Applicant : McCormick, Michael
 School (district) : Garden Valley High School (Garden Valley School District)
-Roles : High School Teacher;Postsecondary Instructor;
+Role(s) : High School Teacher;Postsecondary Instructor;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-Learning real-world applications in STEM and being able to share what I learn with students. Hoping to help students find STEM pathways and fields they would like to eventually work in.
+	* Learning real-world applications in STEM and being able to share what I learn with students. Hoping to help students find STEM pathways and fields they would like to eventually work in.
 This applicant likes work environments that are:
 	* Has the opportunity for you to lead a small team
 	* Creative work
@@ -47,3 +47,14 @@ Business software & skills:
 Other interesting experience:
 Photography, especially of things microscopic in nature. Raptor, fungal, and aquatic insect ecology-based field and lab work, basic statistics in R. Middle school activities coordinator. Beaver Dam analog/meadow restoration, stream temperature monitoring and analysis, and post-fire soil monitoring. Research coordinator.
 
+LOGISTICS
+Residence : Garden Valley
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : mmccormick@gvsd.net
+	* Secondary Email : mikemccormick@u.boisestate.edu

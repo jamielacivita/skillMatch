@@ -1,11 +1,11 @@
 Applicant : Fielding, Alison
 School (district) : Centennial High School (Westada)
-Roles : High School Teacher;Dual credit instructor for BSU;
+Role(s) : High School Teacher;Dual credit instructor for BSU;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-In the last 10 years, I have been involved in Research Experience for Teachers in Materials Science, and a Murdock Partner in Science. My favorite part about both programs was the industry field trips I got to experience through both programs. I get to tell my students about the cool stuff going on right in town!
+	* In the last 10 years, I have been involved in Research Experience for Teachers in Materials Science, and a Murdock Partner in Science. My favorite part about both programs was the industry field trips I got to experience through both programs. I get to tell my students about the cool stuff going on right in town!
 This applicant likes work environments that are:
 	* Research or investigative work
 	* Collaborative work
@@ -49,3 +49,14 @@ Business software & skills:
 Other interesting experience:
 I am a driven adventurer and love to learn new things! All my volunteering is centered around school though. I run Science Bowl, Quiz Bowl, Academic Decathlon, and our famous ski team!
 
+LOGISTICS
+Residence : Boise
+Open to Remote?
+	* No
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : fielding.alison@westada.org
+	* Secondary Email : chemcrazytrekfan@gmail.com

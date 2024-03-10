@@ -1,11 +1,11 @@
 Applicant : Anderson, Lyndsey 
 School (district) : Filer High School (Filer School District)
-Roles : High School Teacher;
+Role(s) : High School Teacher;
 LinkedIn Profile : https://www.linkedin.com/in/lyndsey-anderson-b5957abb/ 
 
 INTERESTS
 Why they want to be a part of this program:
-I am always on the look out for new experiences to give me new ideas for my classes. Having the opportunity to be a part of this program to gain some industry experience will really give me the chance to gain some first hand knowledge. This in turn will allow me to relate my experience and new ideas into my classroom and to my students. 
+	* I am always on the look out for new experiences to give me new ideas for my classes. Having the opportunity to be a part of this program to gain some industry experience will really give me the chance to gain some first hand knowledge. This in turn will allow me to relate my experience and new ideas into my classroom and to my students. 
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -47,3 +47,14 @@ Business software & skills:
 Other interesting experience:
 Resume is six pages long with many different experiences. Will provide if requested. 
 
+LOGISTICS
+Residence : Twin Falls
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : louandrob99@gmail.com
+	* Secondary Email : landerson@filerschools.org

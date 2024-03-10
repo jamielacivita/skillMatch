@@ -1,11 +1,11 @@
 Applicant : Coles, Andrea
 School (district) : Blackfoot High School (Blackfoot School District 55)
-Roles : High School Teacher;
+Role(s) : High School Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-Spending time out in the workforce helps me to make my math lessons more applicable to my students by being able to apply it to real life jobs and situations.  It also establishes relationships between the workforce and education.    
+	* Spending time out in the workforce helps me to make my math lessons more applicable to my students by being able to apply it to real life jobs and situations.  It also establishes relationships between the workforce and education.    
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -48,3 +48,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : Blackfoot
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : coleandr@d55.k12.id.us
+	* Secondary Email : apcoles23@gmail.com

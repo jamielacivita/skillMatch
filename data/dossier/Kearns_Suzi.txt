@@ -1,11 +1,11 @@
 Applicant : Kearns, Suzi
 School (district) : Edgemont Elementary (Idaho Falls School District 91)
-Roles : Early Elementary Teacher (K-2nd);
+Role(s) : Early Elementary Teacher (K-2nd);
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I was part of this program last year and enjoyed the experience. I have implemented STEM more in my classroom and built a great community of partners that have made my professional work better. It will also aid my students now and in the future to understand that their teacher knows what she is talking about and how to incorporate something I am not an expert in, but that I am learning along with them.
+	* I was part of this program last year and enjoyed the experience. I have implemented STEM more in my classroom and built a great community of partners that have made my professional work better. It will also aid my students now and in the future to understand that their teacher knows what she is talking about and how to incorporate something I am not an expert in, but that I am learning along with them.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Research or investigative work
@@ -42,3 +42,14 @@ Business software & skills:
 Other interesting experience:
 I worked for INL last year teaching the STEM camps to the students during the summer. I have also been working on my Master's degree which allows me to coach other teachers and collaborate on the work that we are doing.
 
+LOGISTICS
+Residence : Rexburg
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : suzikennamae8@gmail.com
+	* Secondary Email : richsuzi@sd91.org

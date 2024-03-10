@@ -1,11 +1,11 @@
 Applicant : Shepherd, Trevor
 School (district) : Idaho Falls Career and Technical Education Center (Idaho Falls School District 91)
-Roles : High School Teacher;
+Role(s) : High School Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-This Externship will provide me with training on current jobs out in industry. This will help me better help my students with planning their training/career path.
+	* This Externship will provide me with training on current jobs out in industry. This will help me better help my students with planning their training/career path.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Strong appetite for networking & outreach needed
@@ -42,3 +42,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : Idaho Falls
+Open to Remote?
+	* No
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : sheptrev@sd91.org
+	* Secondary Email : tjshep3@gmail.com

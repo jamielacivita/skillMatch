@@ -1,11 +1,11 @@
 Applicant : Eaton-Merkle, Anna
 School (district) : Eagle High School (WestAda School District #2)
-Roles : High School Teacher;
+Role(s) : High School Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I am retiring this year and curious about what other ways I might be able to use my particular skills to contribute to the world outside of education.
+	* I am retiring this year and curious about what other ways I might be able to use my particular skills to contribute to the world outside of education.
 This applicant likes work environments that are:
 	* Creative work
 	* Task-oriented work
@@ -41,3 +41,14 @@ Business software & skills:
 Other interesting experience:
 I ran a small business operating a non-profit creative learning center from 2006 - 2013 or so.  I guess that is sort of related to education, but there was also considerable management and marketing involved.  
 
+LOGISTICS
+Residence : Eagle, Idaho
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : eaton-merkle.anna@westada.org
+	* Secondary Email : akaaem@gmail.com

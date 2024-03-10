@@ -1,11 +1,11 @@
 Applicant : Coffey, Tiffiny
 School (district) : Liberty Elementary  (Boise School District)
-Roles : Upper Elementary Teacher (3rd+);
+Role(s) : Upper Elementary Teacher (3rd+);
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I am interested in learning how the science I teach to my 4th, 5th and 6th graders is being used in the "real" world in order to provide context for my students. I want them to know that what we are doing is relevant to their lives and their futures. 
+	* I am interested in learning how the science I teach to my 4th, 5th and 6th graders is being used in the "real" world in order to provide context for my students. I want them to know that what we are doing is relevant to their lives and their futures. 
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -60,3 +60,14 @@ Business software & skills:
 Other interesting experience:
 I spent four summers working collaboratively with other educators to create and implement professional development opportunities around the state of Idaho. 
 
+LOGISTICS
+Residence : Boise
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : btcoffey5@gmail.com
+	* Secondary Email : tiffiny.coffey@boiseschools.org

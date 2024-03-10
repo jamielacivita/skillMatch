@@ -1,11 +1,11 @@
 Applicant : Rivera, Lynnette
 School (district) : Wilder School (Wilder School District #133)
-Roles : Middle School Teacher;ELL coordinator, Federal Programs Director;
+Role(s) : Middle School Teacher;ELL coordinator, Federal Programs Director;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-As an educator, I am excited about the opportunity to participate in CHIP Camp this summer. This program will allow me to further develop my skills in STEM education and hands-on learning. Through workshops and collaborating with other teachers, I will gain new ideas, methods, and confidence for teaching engineering and technology concepts in engaging ways.
+	* As an educator, I am excited about the opportunity to participate in CHIP Camp this summer. This program will allow me to further develop my skills in STEM education and hands-on learning. Through workshops and collaborating with other teachers, I will gain new ideas, methods, and confidence for teaching engineering and technology concepts in engaging ways.
 
 My participation in CHIP Camp will directly translate to benefits for the students I work with. I will be able to bring back a variety of activities and lesson plans that promote problem-solving, teamwork, and design thinking. With the training I receive at camp, I will be better equipped to teach STEM principles in an interactive manner that resonates with today's learners. Students will have the chance to take part in building, programming, and innovating - opportunities that get them actively involved in learning.
 
@@ -63,3 +63,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : Wilder
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Yes
+
+CONTACT
+	* Primary Email : lyrivera@wilderschools.org
+	* Secondary Email : lynnetterivera69@gmail.com

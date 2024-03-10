@@ -1,11 +1,11 @@
 Applicant : McKenzie, Jim
 School (district) : Dennis Technical Education Center (Boise School Dist.)
-Roles : Welding Instructor;
+Role(s) : Welding Instructor;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I am hope to gain an understanding of what the employers in the area are looking for in an entry level employee so that I can help guide my students in the path to employment.  
+	* I am hope to gain an understanding of what the employers in the area are looking for in an entry level employee so that I can help guide my students in the path to employment.  
 This applicant likes work environments that are:
 	* Creative work
 	* Has a structured environment
@@ -42,3 +42,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : Boise
+Open to Remote?
+	* No
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : jim.mckenzie@boiseschools.org
+	* Secondary Email : teachu2weld@gmail.com

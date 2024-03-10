@@ -1,11 +1,11 @@
 Applicant : Stutzman, Erin
 School (district) : Horizon Elementary (Boise)
-Roles : Upper Elementary Teacher (3rd+);
+Role(s) : Upper Elementary Teacher (3rd+);
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I am a very creative and driven STEM educator who is constantly trying to improve herself for the benefit of my students.
+	* I am a very creative and driven STEM educator who is constantly trying to improve herself for the benefit of my students.
 Real world experience outside the classroom has made the educator I am today.
 This applicant likes work environments that are:
 	* Collaborative work
@@ -63,3 +63,14 @@ Other interesting experience:
 I was a Murdock Fellow and conducted field research- I studied carbon cycling in forest soils pre and post wildfire. 
 I was a STEM Ambassador for the National Center for Science Education (NCSE). 
 
+LOGISTICS
+Residence : Boise
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : Estutz76@gmail.com
+	* Secondary Email : Erin.stutzman@boiseschools.org

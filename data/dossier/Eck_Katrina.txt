@@ -1,11 +1,11 @@
 Applicant : Eck, Katrina
 School (district) : River Valley Elementary (Westada)
-Roles : Early Elementary Teacher (K-2nd);
+Role(s) : Early Elementary Teacher (K-2nd);
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I hope to explore the opportunities our community has to offer the students I work with.  I hope to be able to make STEM more accessible to my young students to better prepare them for future STEM careers.
+	* I hope to explore the opportunities our community has to offer the students I work with.  I hope to be able to make STEM more accessible to my young students to better prepare them for future STEM careers.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Task-oriented work
@@ -47,3 +47,14 @@ Business software & skills:
 Other interesting experience:
 None
 
+LOGISTICS
+Residence : Boise
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : knitastorm@gmail.com
+	* Secondary Email : eck.katrina@westada.org

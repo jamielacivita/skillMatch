@@ -1,11 +1,11 @@
 Applicant : Ashby, Kendria
 School (district) : Kuna High School (Kuna School District)
-Roles : High School Library Media Specialist;
+Role(s) : High School Library Media Specialist;
 LinkedIn Profile : https://www.linkedin.com/in/kendria-ashby-4a70702b0/
 
 INTERESTS
 Why they want to be a part of this program:
-I want to have a learning experience over the summer and feel productive. I want to help my community. I want to earn extra income over the summer months. 
+	* I want to have a learning experience over the summer and feel productive. I want to help my community. I want to earn extra income over the summer months. 
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -46,3 +46,14 @@ Business software & skills:
 Other interesting experience:
 I enjoy theatre and design. I am very creative and enjoy being around people. I am organized and have done lots of stage management and directing. I enjoy data management and Power BI report design. 
 
+LOGISTICS
+Residence : Kuna, Idaho
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : keprice@kunaschools.org
+	* Secondary Email : kendria.price@yahoo.com

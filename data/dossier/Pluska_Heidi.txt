@@ -1,11 +1,11 @@
 Applicant : Pluska, Heidi
 School (district) : Timberline High School (Boise School District)
-Roles : High School Teacher;
+Role(s) : High School Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I participated in this program last year and had a great experience.  I learned new skills (ArcGIS) that have translated into meaningful lessons in my classroom.  This year, I am hoping to work with Life Outdoors as I know the organization is need of ArcGIS work and is also applying to be an externship host.  Working with Life Outdoors would enable me to expand my ArcGIS skillset while supporting this non-profit's goals.  
+	* I participated in this program last year and had a great experience.  I learned new skills (ArcGIS) that have translated into meaningful lessons in my classroom.  This year, I am hoping to work with Life Outdoors as I know the organization is need of ArcGIS work and is also applying to be an externship host.  Working with Life Outdoors would enable me to expand my ArcGIS skillset while supporting this non-profit's goals.  
 This applicant likes work environments that are:
 	* Creative work
 	* Research or investigative work
@@ -57,3 +57,14 @@ Business software & skills:
 Other interesting experience:
 When I am not teaching or writing code, I love the outdoors.  Currently I am the ski/snowboard team advisor for Timberline High School.  
 
+LOGISTICS
+Residence : Boise
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : heidi.pluska@boiseschools.org
+	* Secondary Email : heidi.pluska@gmail.com

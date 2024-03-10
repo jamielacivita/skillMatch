@@ -1,11 +1,11 @@
 Applicant : Hammond, Virginia
 School (district) : Coeur d'Alene Charter Academy (Coeur d'Alene Charter Academy)
-Roles : Middle School Teacher;High School Teacher;Administrator;
+Role(s) : Middle School Teacher;High School Teacher;Administrator;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I've been a mathematics educator for 28 years.  I know the arithmetic and Algebra involved with what I teach, but I lack experience in the practical applications of much of what I teach.  I would like to gain that experience. 
+	* I've been a mathematics educator for 28 years.  I know the arithmetic and Algebra involved with what I teach, but I lack experience in the practical applications of much of what I teach.  I would like to gain that experience. 
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -46,3 +46,14 @@ Business software & skills:
 Other interesting experience:
 I've volunteered as a Sunday School teacher and an AWANA substitute leader. Last summer, I helped a company design an inventory system, then catalog inventory, for roughly 300 different inventory items.  I was the accounts payable person for a motel and assisted with hotel management when the managers went on vacation. 
 
+LOGISTICS
+Residence : Spirit Lake, Idaho but I commute to Coeur d'Alene daily. 
+Open to Remote?
+	* No
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : vhammond@cdacharter.org
+	* Secondary Email : vlrhammond@gmail.com

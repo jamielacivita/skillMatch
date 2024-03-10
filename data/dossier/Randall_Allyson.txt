@@ -1,11 +1,11 @@
 Applicant : Randall, Allyson
 School (district) : East Valley Middle School (Nampa School District)
-Roles : Middle School Teacher;
+Role(s) : Middle School Teacher;
 LinkedIn Profile : https://www.linkedin.com/in/allyson-randall-aa571817b/
 
 INTERESTS
 Why they want to be a part of this program:
-I got to participate last year and it was a very meaningful experience. Particularly (something I didn't know at the time I applied) in my career explorations class I now teach after the state legislature passed their bill requiring a career explorations course for all middle school students before they leave 8th grade. This has helped with my perspective in that course and talking with students about my experiences outside of teaching.
+	* I got to participate last year and it was a very meaningful experience. Particularly (something I didn't know at the time I applied) in my career explorations class I now teach after the state legislature passed their bill requiring a career explorations course for all middle school students before they leave 8th grade. This has helped with my perspective in that course and talking with students about my experiences outside of teaching.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Task-oriented work
@@ -46,3 +46,14 @@ Business software & skills:
 Other interesting experience:
 I enjoy coaching rock climbing, cross country and track and field, my geoscience master's program, and being a Guardian ad Litem for foster youth.
 
+LOGISTICS
+Residence : Boise
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Yes
+
+CONTACT
+	* Primary Email : allysonrandall@u.boisestate.edu
+	* Secondary Email : ally799@gmail.com

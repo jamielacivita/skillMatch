@@ -604,6 +604,12 @@ class Extern(AttributeSet):
     def get_what_work_locations(self):
         return self.what_work_locations
 
+    def get_open_to_remeote_printable(self):
+        if "Remote" in self.what_work_locations:
+            return "Yes"
+        else:
+            return "No"
+
     def get_open_to_travelling(self):
         return self.open_to_travelling
 
@@ -767,12 +773,12 @@ class Extern(AttributeSet):
 
             print(f"Applicant : {self.get_printable_name()}")
             print(f"School (district) : {self.get_school_where_you_work()} ({self.get_district_where_you_work()})")
-            print(f"Roles : {self.current_roles}")
+            print(f"Role(s) : {self.current_roles}")
             print(f"LinkedIn Profile : {self.get_linkedin_profile()}")
             print(f"")
             print(f"INTERESTS")
             print(f"Why they want to be a part of this program:")
-            print(f"{self.get_why_part_of_program()}")
+            print(f"\t* {self.get_why_part_of_program()}")
             print(f"This applicant likes work environments that are:")
             print(f"{self.get_flavor_of_work_printable_list()}")
             print("STEM fields they are particularly interested in learning more about:")
@@ -791,6 +797,18 @@ class Extern(AttributeSet):
             print("Other interesting experience:")
             print(f"{self.get_experiences_or_interests()}")
             print(f"")
+            print(f"LOGISTICS")
+            print(f"Residence : {self.get_city_you_live_in()}") # Column N
+            print(f"Open to Remote?")
+            print(f"\t* {self.get_open_to_remeote_printable()}")
+            print(f"")
+            print(f"Open to temporary relocation?")
+            print(f"\t* {self.get_open_to_travelling()}")
+            print(f"")
+            print(f"CONTACT")
+            print(f"\t* Primary Email : {self.get_primary_email()}") # I
+            print(f"\t* Secondary Email : {self.get_backup_email()}") # J
+
 
 
         # Return standard out back to origonal configuration.

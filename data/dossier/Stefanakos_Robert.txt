@@ -1,11 +1,11 @@
 Applicant : Stefanakos, Robert
 School (district) : Les Bois Junior High School (Boise School District)
-Roles : Middle School Teacher;Special Education Teacher;
+Role(s) : Middle School Teacher;Special Education Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I'm talented in helping young people with science, technology, engineering, and math. I would like to gain experience outside of the classroom. 
+	* I'm talented in helping young people with science, technology, engineering, and math. I would like to gain experience outside of the classroom. 
 This applicant likes work environments that are:
 	* Collaborative work
 	* Task-oriented work
@@ -47,3 +47,14 @@ Business software & skills:
 Other interesting experience:
 Before teaching, I was in sales for 10+ years with 6 years of technology sales experience. 
 
+LOGISTICS
+Residence : Boise
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : robert.stefanakos@boiseschools.org
+	* Secondary Email : rstefanakos@gmail.com

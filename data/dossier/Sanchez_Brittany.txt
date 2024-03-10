@@ -1,11 +1,11 @@
 Applicant : Sanchez, Brittany
 School (district) : Kuna High School (Kuna School District)
-Roles : High School Teacher;Postsecondary Instructor;
+Role(s) : High School Teacher;Postsecondary Instructor;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I want to expand my experience with chemistry in the workplace. I primarily teach chemistry and I enjoy being able to discuss my real world experiences with students. Being able to share the relevance of what students are learning helps keep them engaged. As I start teaching more post-secondary courses, I want to be better able to advise students of what to expect in the workplace. I also enjoy being able to contribute to scientific advancements outside of the classroom. 
+	* I want to expand my experience with chemistry in the workplace. I primarily teach chemistry and I enjoy being able to discuss my real world experiences with students. Being able to share the relevance of what students are learning helps keep them engaged. As I start teaching more post-secondary courses, I want to be better able to advise students of what to expect in the workplace. I also enjoy being able to contribute to scientific advancements outside of the classroom. 
 This applicant likes work environments that are:
 	* Research or investigative work
 	* Task-oriented work
@@ -47,3 +47,14 @@ Business software & skills:
 Other interesting experience:
 Before teaching, I was the primary laboratory technician researching the effects of certain cytokines on prostate cancer growth. For several summers while teaching, I worked as a lab tech assisting in research into the relationship between the glycolysis pathway and infertility in mink and human uterine cells in vitro. 
 
+LOGISTICS
+Residence : Meridian
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Maybe - if the fit is right
+
+CONTACT
+	* Primary Email : Bsanchez@kunaschools.org
+	* Secondary Email : Brittany.Cotner@gmail.com

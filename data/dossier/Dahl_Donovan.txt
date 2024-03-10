@@ -1,11 +1,11 @@
 Applicant : Dahl, Donovan
 School (district) : Buhl Middle School (Buhl Joint School District)
-Roles : Middle School Teacher;Administrator;
+Role(s) : Middle School Teacher;Administrator;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-As I stated last year, I'm looking to work with other STEM career fields, learning new ideas to bring to my STEM class each year.  At this time, there is no real curriculum for a STEM class so collaborating with other STEM minds would be very useful in building a STEM curriculum, activities, and challenges to my district.
+	* As I stated last year, I'm looking to work with other STEM career fields, learning new ideas to bring to my STEM class each year.  At this time, there is no real curriculum for a STEM class so collaborating with other STEM minds would be very useful in building a STEM curriculum, activities, and challenges to my district.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -53,3 +53,14 @@ Business software & skills:
 Other interesting experience:
 I have worked closely with Law Enforcement in Loss Prevention.  I just love collaborating with others to pick up ideas and techniques of things.  
 
+LOGISTICS
+Residence : Twin Falls
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* Yes
+
+CONTACT
+	* Primary Email : donovan.dahl@buhlschools.org
+	* Secondary Email : donovand5@yahoo.com

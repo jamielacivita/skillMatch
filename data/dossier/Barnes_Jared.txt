@@ -1,11 +1,11 @@
 Applicant : Barnes, Jared
 School (district) : Robert Stuart Middle School (Twin Falls School District)
-Roles : Middle School Teacher;
+Role(s) : Middle School Teacher;
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-I am always seeking the opportunity to improve myself as a science educator and improve the learning opportunities for my students.
+	* I am always seeking the opportunity to improve myself as a science educator and improve the learning opportunities for my students.
 This applicant likes work environments that are:
 	* Collaborative work
 	* Creative work
@@ -52,3 +52,14 @@ Business software & skills:
 Other interesting experience:
 Prior career experience within the US Forest Service and US Fish and Wildlife
 
+LOGISTICS
+Residence : Twin Falls
+Open to Remote?
+	* Yes
+
+Open to temporary relocation?
+	* No
+
+CONTACT
+	* Primary Email : barnesja@tfsd.org
+	* Secondary Email : barnes.jared@gmail.com
