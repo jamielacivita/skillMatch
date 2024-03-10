@@ -543,5 +543,9 @@ class Match:
     def get_curriculum_design_match(self):
         return self.curriculum_design_match
 
+    def get_how_many_externs(self):
+        return self.host_obj.get_how_many_externs()
+
+
     def get_total_score(self):
         return self.total_score
