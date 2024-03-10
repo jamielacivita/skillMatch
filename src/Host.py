@@ -800,24 +800,39 @@ class Host(AttributeSet):
             print(f"Email: {self.get_email_address()}")
             print(f"Location: {self.get_location_of_organization()}")
             print(f"Remote Possible: {self.get_work_done_remotely()}")
+            print(f"")
 
             print(f"ABOUT THE ORGANIZATION:")
             print(f"{self.get_overview_of_organization()}")
+            print(f"")
 
             print(f"ABOUT THE PROJECT")
-            print(f"Name: {self.get_project_name()}")
-            print(f"Objectives:")
-            print(f"{self.get_project_objectives()}")
+            print(f"Name")
+            print(f"\t* {self.get_project_name()}")
+            print(f"")
+
+            print(f"Objectives")
+            print(f"\t* {self.get_project_objectives()}")
+            print(f"")
+
             print(f"Description and day-to-day tasks:")
-            print(f"{self.get_description().strip()}")
+            print(f"\t* {self.get_description().strip()}")
+            print(f"")
+
             print(f"Meaningful learning about STEM careers:")
-            print(f"{self.get_meaningful_learning()}")
+            print(f"\t* {self.get_meaningful_learning()}")
+            print(f"")
+
             print(f"Network growth:")
-            print(f"{self.get_network_growth()}")
+            print(f"\t* {self.get_network_growth()}")
+            print(f"")
+
             print(f"Skills desired:")
-            print(f"{self.get_business_education_skills()}")
+            print(f"\t*{self.get_business_education_skills()}")
+            print(f"")
+
             print(f"STEM domain experience desired:")
-            print(f"{self.get_looking_for_experience()}")
-            print(f"\n\n")
+            print(f"\t* {self.get_looking_for_experience()}")
+            print(f"\n")
         # Return standard out back to origonal configuration.
         sys.stdout = origional_stdout
