@@ -546,6 +546,11 @@ class Match:
     def get_how_many_externs(self):
         return self.host_obj.get_how_many_externs()
 
+    def get_min_externs(self):
+        return self.host_obj.get_min_externs()
+
+    def get_max_externs(self):
+        return self.host_obj.get_max_externs()
 
     def get_total_score(self):
         return self.total_score

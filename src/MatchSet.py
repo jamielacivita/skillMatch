@@ -29,7 +29,7 @@ class MatchSet():
 
     def get_extern_dataframe(self):
         print("in get_extern_dataframe")
-        filename = r"/home/jamie/PycharmProjects/skillMatch/data/240312-041028_EducatorApplication_Modified.xlsx"
+        filename = r"/home/jamie/PycharmProjects/skillMatch/data/240312-045757_EducatorApplication_Modified.xlsx"
 
         dataframe = openpyxl.load_workbook(filename)
         dataframe1 = dataframe.active
@@ -92,7 +92,7 @@ class MatchSet():
         return len(self.match_obj_lst)
 
     def get_match_chart_header_row(self):
-        return ["Extern ID", "Host ID", "EXTERN", "EXTERN CITY", "HOST", "HOST CITY","HOST NO EXP NEEDED", "DISTANCE", "DISTANCE NOTES", "REMOTE MATCH", "REMOTE ONLY", "STEM experience match", "STEM experience matched on", "Biz Skills Score", "Biz Skills Match", "Work Style Score", "Work Style Notes", "Teaching Needs Match", "Curriculum Needs Match", "Total Experience Match", "How Many Externs"]
+        return ["Extern ID", "Host ID", "EXTERN", "EXTERN CITY", "HOST", "HOST CITY","HOST NO EXP NEEDED", "DISTANCE", "DISTANCE NOTES", "REMOTE MATCH", "REMOTE ONLY", "STEM experience match", "STEM experience matched on", "Biz Skills Score", "Biz Skills Match", "Work Style Score", "Work Style Notes", "Teaching Needs Match", "Curriculum Needs Match", "Total Experience Match", "Min Interns", "Max Interns"]
 
     def get_match_chart_data_rows(self, extern_id = None):
         out_rows = []
@@ -120,7 +120,8 @@ class MatchSet():
             out_row.append(f"{match.get_teaching_needs_match()}")
             out_row.append(f"{match.get_curriculum_design_match()}")
             out_row.append(f"{match.get_total_score()}")
-            out_row.append(f"{match.get_how_many_externs()}")
+            out_row.append(f"{match.get_min_externs()}")
+            out_row.append(f"{match.get_max_externs()}")
 
             out_rows.append(out_row)
 

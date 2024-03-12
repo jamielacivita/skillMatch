@@ -68,6 +68,8 @@ class Host(AttributeSet):
         self.who_responsible_onboarding = None
         self.how_many_hours_onboarding = None
         self.anything_else = None
+        self.min_externs = None
+        self.max_externs = None
 
         #append a skills object to hold data for skills matches.
         self.skills = Skills.Skills()
@@ -123,6 +125,8 @@ class Host(AttributeSet):
         WHO_RESPONSIBLE_ONBOARDING_COL = 45     ## AT
         HOW_MANY_HOURS_ONBOARDING_COL = 46      ## AU
         ANYTHING_ELSE_COL = 47                  ## AV
+        MIN_EXTERNS = 48                        ## AW
+        MAX_EXTERNS = 49                        ## Ax
 
 
         self.set_id(row_data_tuple[ID_COL].value)
@@ -173,6 +177,8 @@ class Host(AttributeSet):
         self.set_how_many_hours_onboarding(row_data_tuple[HOW_MANY_HOURS_ONBOARDING_COL].value)
         self.set_anything_else(row_data_tuple[ANYTHING_ELSE_COL].value)
         self.set_zip(row_data_tuple[ZIP_COL].value)
+        self.set_min_externs(row_data_tuple[MIN_EXTERNS].value)
+        self.set_max_externs(row_data_tuple[MAX_EXTERNS].value)
 
         self.set_skills()
 
@@ -332,6 +338,19 @@ class Host(AttributeSet):
 
     def get_how_many_externs(self):
         return self.how_many_externs
+
+    def set_min_externs(self, min_externs):
+        self.min_externs = min_externs
+
+    def get_min_externs(self):
+        return self.min_externs
+
+    def set_max_externs(self, max_externs):
+        self.max_externs = max_externs
+
+    def get_max_externs(self):
+        return self.max_externs
+
 
     def set_skills(self):
 
