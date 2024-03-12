@@ -74,7 +74,7 @@ Network growth:
 	* Externs will interact with a diverse range of professionals, gaining a holistic understanding of different roles and functions within the STEM field. The extern will have the freedom to schedule one-on-one meetings with division leads to gain comprehensive knowledge of their roles. One goal is for the extern to have a good understanding of how all three levels of the career ladder support the workforce development industry.  
 
 Skills desired:
-	*Project Management;Adult Education / Training;Email & Administrative Software;Presentation Software (MS Powerpoint or Google Slides);Word Processing Software (MS Word or Google Docs);Spreadsheet Software (MS Excel or Google Sheets);Research;
+	* Project Management;Adult Education / Training;Email & Administrative Software;Presentation Software (MS Powerpoint or Google Slides);Word Processing Software (MS Word or Google Docs);Spreadsheet Software (MS Excel or Google Sheets);Research;
 
 STEM domain experience desired:
 	* No, experience in a specific STEM domain isn't necessary;

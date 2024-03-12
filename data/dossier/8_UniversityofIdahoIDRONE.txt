@@ -24,7 +24,7 @@ Network growth:
 	* The extern will interact with IDRONE Staff, including undergraduate students, graduate students, and the previous externs to share knowledge and experience to solidify their application in formal classrooms by experiencing interdisciplinary and collaborative learning in the rapidly evolving field of drone technology.
 
 Skills desired:
-	*Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Secondary-Level Instructional Experience;Elementary-Level Instructional experience;Curriculum Design;
+	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Secondary-Level Instructional Experience;Elementary-Level Instructional experience;Curriculum Design;
 
 STEM domain experience desired:
 	* Life Science / Biology;Physics;Earth & Environmental Science;Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources;Engineering & Technology;Trades & Industry (e.g. manufacturing, automotive, construction, etc.);

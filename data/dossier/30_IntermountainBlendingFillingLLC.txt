@@ -24,7 +24,7 @@ Network growth:
 	* We would schedule time in and out of the laboratory to interact with departments, including Compounding, Quality Assurance, Supply Chain, and Sales to see how the role impacts and supports those areas.
 
 Skills desired:
-	*Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Project Management;Email & Administrative Software;
+	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Project Management;Email & Administrative Software;
 
 STEM domain experience desired:
 	* Chemistry;

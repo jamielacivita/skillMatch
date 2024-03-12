@@ -30,7 +30,7 @@ Network growth:
 	* Working in a makerspace, the extern will interact with a variety of professionals, tinkerers and hobbyists who represent the broad spectrum of real world engagement with STEM. 	
 
 Skills desired:
-	*Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Project Management;Email & Administrative Software;Willing to get their hands dirty!;
+	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Project Management;Email & Administrative Software;Willing to get their hands dirty!;
 
 STEM domain experience desired:
 	* No, experience in a specific STEM domain isn't necessary;

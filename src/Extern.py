@@ -35,6 +35,7 @@ city_zip["Kuna, Idaho"] = 83642
 city_zip["McCall"] = 83638
 city_zip["McCammon"] = 83250
 city_zip["Meridian"] = 83646
+city_zip["Meridian, Idaho"] = 83646
 city_zip["Montpelier"] = 83254
 city_zip["Mountain Home"] = 83647
 city_zip["Nampa"] = 83651

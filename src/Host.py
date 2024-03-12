@@ -828,7 +828,7 @@ class Host(AttributeSet):
             print(f"")
 
             print(f"Skills desired:")
-            print(f"\t*{self.get_business_education_skills()}")
+            print(f"\t* {self.get_business_education_skills()}")
             print(f"")
 
             print(f"STEM domain experience desired:")

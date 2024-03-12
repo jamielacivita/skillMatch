@@ -29,7 +29,7 @@ Network growth:
 	* As part of their role, externs will be encouraged to reach out to members of the makerspace and broader community with relevant expertise for the camp projects/themes.  They will also work alongside the experts and volunteers Gizmo has identified.	
 
 Skills desired:
-	*Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Curriculum Design;Project Management;Email & Administrative Software;Public Speaking / Group Presentation;Willing to get their hands dirty!;
+	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Curriculum Design;Project Management;Email & Administrative Software;Public Speaking / Group Presentation;Willing to get their hands dirty!;
 
 STEM domain experience desired:
 	* No, experience in a specific STEM domain isn't necessary;

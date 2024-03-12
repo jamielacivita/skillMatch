@@ -1,46 +1,50 @@
-Applicant : Weaver, Matthew
-School (district) : Idaho State University  (Idaho State University )
-Role(s) : Postsecondary Instructor;
+Applicant : Harrop , Shelly 
+School (district) : Harwood Elementary  (Jefferson Joint School District 251)
+Role(s) : Upper Elementary Teacher (3rd+);
 LinkedIn Profile : None
 
 INTERESTS
 Why they want to be a part of this program:
-	* I really enjoy teaching others about aviation, for me aviation in more then a job it is a passion 
+	* I want to participate in the externship so that I can work with my host to become more knowledgeable about drones and design a PBL unit for 5th graders.
 This applicant likes work environments that are:
-	* Research or investigative work
 	* Collaborative work
-	* Expect workers to be self-driven
+	* Creative work
+	* Research or investigative work
+	* Directive in nature
 	* Strong appetite for networking & outreach needed
 	* Has the opportunity for you to lead a small team
 
 STEM fields they are particularly interested in learning more about:
-	* Aviation
+	* No specific preference - anything goes!
 
 EXPERIENCE
 Grade Levels: 
-	* Postsecondary
+	* 2
+	* 4
+	* 5
+	* 6
 
 
 Instructional Experience:
+	* Elementary: Expert
 	* Secondary:  No Experience
-	* Adult:      Expert
+
 
 STEM Domain Experience
-	* Aviation maintenance
+	* Drone technology 
 
 Business software & skills:
 	* spreadsheet software:        Intermediate
 	* word processing:             Intermediate
 	* presentation software:       Intermediate
-	* project management software: Beginner
-	* administrative software:       Intermediate
-	* public speaking:             Intermediate
+	* project management software: Intermediate
+	* public speaking:             Beginner
 
 Other interesting experience:
-None
+Gardening and livestock care
 
 LOGISTICS
-Residence : Pocatello, Idaho 
+Residence : Rigby
 Open to Remote?
 	* Yes
 
@@ -48,5 +52,5 @@ Open to temporary relocation?
 	* Yes
 
 CONTACT
-	* Primary Email : matthewweaver@isu.edu
-	* Secondary Email : amaviationservicesllc@gmail.com
+	* Primary Email : Shellyaharrop@gmail.com
+	* Secondary Email : Sharrop@sd251.org
