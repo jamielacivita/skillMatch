@@ -809,7 +809,8 @@ class Host(AttributeSet):
     def save_dossier(self, to_file=False):
         origional_stdout = sys.stdout
         filename = f"{self.get_organization_name_filesafe()}"
-        filepath = f"/home/jamie/PycharmProjects/skillMatch/data/dossier/{filename}.txt"
+        # filepath = f"/home/jamie/PycharmProjects/skillMatch/data/dossier/{filename}.txt"
+        filepath = f"/home/jamie/Source/Python/skillMatch/data/dossier{filename}.txt"
         with open(filepath, 'a') as f:
             sys.stdout = f
             #sys.stdout = origional_stdout #(uncomment this to print to the screen).

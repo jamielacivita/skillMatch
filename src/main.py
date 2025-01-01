@@ -2,7 +2,7 @@ import MatchSet as MatchSet
 
 import logging.config
 # logging.config.fileConfig("/home/jamie/source/python/skillMatch/src/logging_config.ini")
-logging.config.fileConfig("/home/jamie/PycharmProjects/skillMatch/src/logging_config.ini")
+logging.config.fileConfig("/home/jamie/Source/Python/skillMatch/src/logging_config.ini")
 log = logging.getLogger(__name__)
 
 

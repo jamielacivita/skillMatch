@@ -27,9 +27,11 @@ class MatchSet():
 
         return out_lst
 
+
     def get_extern_dataframe(self):
         print("in get_extern_dataframe")
-        filename = r"/home/jamie/PycharmProjects/skillMatch/data/240312-045757_EducatorApplication_Modified.xlsx"
+        #filename = r"/home/jamie/PycharmProjects/skillMatch/data/240312-045757_EducatorApplication_Modified.xlsx"
+        filename = r"/home/jamie/Source/Python/skillMatch/data/240312-045757_EducatorApplication_Modified.xlsx"
 
         dataframe = openpyxl.load_workbook(filename)
         dataframe1 = dataframe.active
@@ -71,6 +73,7 @@ class MatchSet():
         Given a path to a host file return a dataframe records.
         :return:
         """
+        host_filename = "/home/jamie/Source/Python/skillMatch/data/240314-025428_HostApplication_Final.xlsx"
         dataframe = openpyxl.load_workbook(host_filename)
         dataframe1 = dataframe.active
 
@@ -149,6 +152,7 @@ class MatchSet():
         :return: None - effect is to save the match chart data to a CSV.
         """
         path = f"/home/jamie/PycharmProjects/skillMatch/data/"
+        path = f"/home/jamie/Source/Python/skillMatch/data"
         filename = f"{time.strftime('%Y%m%d-%H%M%S')}_out.csv"
         path_to_file = path + filename
         with open(path_to_file, "w", newline='') as csvfile:
