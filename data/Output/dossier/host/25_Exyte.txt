@@ -1,0 +1,32 @@
+Organization: Exyte 
+Contact: Miller, Chelsea
+Email: chelsea.miller@exyte.net
+Location: Boise, Idaho
+Remote Possible: No
+
+ABOUT THE ORGANIZATION:
+Exyte is a global design, engineering, and construction company specializing in high-tech, sustainable, ultra-clean facilities within the semiconductor, battery, biosciences and life sciences, and data center industries. 
+
+ABOUT THE PROJECT
+Name
+	* Offsite Manufacturing Modelling Verification
+
+Objectives
+	* This project will support the implementation of Offsite Manufacturing (OSM) for construction. OSM will begin in full-strength at the start of summer. At that time, there will be a lot of demand for staff to review submittals from OSM suppliers against the design models to ensure they line up for validation. This will be a critical need that will allow the design team to continue to perform their work at a high level while also supporting the construction timeline. 
+
+Description and day-to-day tasks:
+	* The day to day tasks will include doing shop drawing reviews, looking at the Virtual Engineering and Construction (VEC)/ Building Integration Modelling (BIM), reviewing pipe stress, and participating in meetings related to this work. They will be invited to listen in to design review meetings, and other meetings that will provide a well-rounded experience related to design.
+
+Meaningful learning about STEM careers:
+	* This is true hands on learning. The extern will get to review shop drawings and design models in addition to seeing the results in the shop or field. This is a great way to see some of the work engineers do within the design and construction industry. 
+
+Network growth:
+	* Externs will have an opportunity to participate in team meetings and client interactions. Externs will also have weekly meetings with other departments to get to know the other functions of the company. Externs will also get to tour machine shops and see the assembly of parts. 
+
+Skills desired:
+	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Project Management;Email & Administrative Software;
+
+STEM domain experience desired:
+	* Chemistry;Physics;Math;Engineering & Technology;Trades & Industry (e.g. manufacturing, automotive, construction, etc.);Virtual Design/BIM;
+
+
