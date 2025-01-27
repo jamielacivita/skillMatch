@@ -219,8 +219,8 @@ class Extern(AttributeSet):
         SECONDARY_LEVEL_INSTRUCTION_COL = 31    # AF
         EXPERIENCES_OR_INTERESTS_COL = 32       # AG
         RESUME_COL = 33                         # AH - This column is blank and not used in our data set.
-        LINKEDIN_PROFILE_COL = 34               # AI
-        ADULT_EDUCATION_TRAINING_COL = 35       # AJ
+        LINKEDIN_PROFILE_COL = 35               # AJ
+        ADULT_EDUCATION_TRAINING_COL = 34       # AJ (removed to fix linked in profile).
         PUBLIC_SPEAKING_COL = 36                # AK
         GROUP_PRESENTATION_COL = 0
         EMAIL_ADMINISTRATIVE_SOFTWARE_COL = 37  # AL

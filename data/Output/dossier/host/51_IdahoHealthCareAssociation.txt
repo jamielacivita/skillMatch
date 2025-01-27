@@ -46,3 +46,51 @@ STEM domain experience desired:
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.);
 
 
+Organization: Idaho Health Care Association
+Contact: Vande Merwe, Robert
+Email: robert@idhca.org
+Location: Boise, ID
+Remote Possible: Yes
+
+ABOUT THE ORGANIZATION:
+The Idaho Health Care Association is a 501c-6 trade association that represents skilled nursing facilities, assisted living facilities, intermediate care facilities for the intellectually disabled, home health agencies, hospice agencies and personal care agencies.  We have more than 250 member agencies or facilities and just two full-time employees. We provide education to our members virtually and in person. The education is health care related and most of our attendees have a technical background/education. 
+
+ABOUT THE PROJECT
+Name
+	* Idaho STEM Externship Program at Idaho Health Care Association
+
+Objectives
+	* We have a website that needs to be updated.  We would love to have an extern with basic web design experience. 
+
+We changed our membership database software last year. We have not fully implemented/customized this software. 
+
+We have a large in-person convention in July.  We would love to have an extern to help with all facets of a large convention, including automating the registration process and providing certificates of attendance. A person with a technical education in health care would be able to help plan the education as well.  But a health care education is not required for this externship. 
+
+
+Description and day-to-day tasks:
+	* Help us fully implement our memberships database. The help desk is helpful and we also have a local IT contractor who can help the extern.
+
+Help us to automate our convention registration and certificate of attendance features in the database.  
+
+Assist in organizing presentations at our annual convention 
+
+Assist with A/V needs at the convention
+
+Meaningful learning about STEM careers:
+	* Become familiar with a membership database (MemberClicks) that serves associations, nonprofit organizations, chambers of commerce etc,. 
+
+Working with us and our IT consultants the extern will learn about creating online training programs and the payment processes associated with our online programs. 
+
+Teh extern will help us plan and conduct our annual convention where we anticipate 400-500 attendees and more than 50 different breakout sessions.   
+
+
+Network growth:
+	* Important networking opportunities are available. The extern will participate in our annual board meeting, golf tournament and annual convention at the Boise Centre on July 16-18.  
+
+Skills desired:
+	* general knowledge of web design and data base management;
+
+STEM domain experience desired:
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.);
+
+
