@@ -369,7 +369,7 @@ class Match:
                 self.set_distance_notes("host zip is 'remote'")
             else:
                 self.distance = 9999
-                print(f"ext:{self.extern_obj.get_id()} zip: {extern_zip} host:{self.host_obj.get_id()} zip:{host_zip}")
+                log.debug(f"ext:{self.extern_obj.get_id()} zip: {extern_zip} host:{self.host_obj.get_id()} zip:{host_zip}")
 
         return None
 

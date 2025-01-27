@@ -43,12 +43,12 @@ class MatchSet():
         """
         filename = data_config.EdApplicationPath
         if (".xlsx" in filename):
-            log.debug("This is an XLSX file.")
+            # log.debug("This is an XLSX file.")
             dataframe = openpyxl.load_workbook(filename)
             dataframe1 = dataframe.active
 
         elif (".csv" in filename):
-            log.debug("This is a CSV file.")
+            #log.debug("This is a CSV file.")
             dataframe1 = []
             with open(filename, encoding='latin-1') as csvfile:
                 spamreader = csv.reader(csvfile)
@@ -65,7 +65,7 @@ class MatchSet():
 
         if (dataframe is not None):
             # using a xlsxdataframe
-            log.debug("using an xlsx dataframe.")
+            # log.debug("using an xlsx dataframe.")
             FIRST_DATA_ROW = 2
             for row in dataframe.iter_rows(FIRST_DATA_ROW, dataframe.max_row):
                 extern_obj = Extern.Extern(row)
@@ -73,7 +73,7 @@ class MatchSet():
 
         # using a csvdataframe
         elif (dataframecsv is not None):
-            log.debug("using a csv dataframe.")
+            # log.debug("using a csv dataframe.")
             FIRST_DATA_ROW = 1
             LAST_DATA_ROW = len(dataframecsv)
 

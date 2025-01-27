@@ -137,7 +137,7 @@ city_zip[""] = 99999
 
 class Extern(AttributeSet):
     def __init__(self, row_data_tuple):
-        log.debug(f"type of row_data_tuple : {type(row_data_tuple)}")
+        # log.debug(f"type of row_data_tuple : {type(row_data_tuple)}")
         self.ID = None                              ## A
         self.start_time = None
         self.completion_time = None
