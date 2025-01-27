@@ -658,7 +658,7 @@ class Extern(AttributeSet):
         return self.who_are_you
 
     def get_first_name(self):
-        return self.first_name
+        return self.first_name.strip()
 
     def get_last_name(self):
         return self.last_name
@@ -887,7 +887,8 @@ class Extern(AttributeSet):
         origional_stdout = sys.stdout
         filename = f"{self.get_last_name()}_{self.get_first_name()}"
         # filepath = f"/home/jamie/PycharmProjects/skillMatch/data/dossier/{filename}.txt"
-        filepath = f"/home/jamie/Source/Python/skillMatch/data/dossier{filename}.txt"
+        filepath = f"/home/jamie/Source/Python/skillMatch/data/Output/dossier/extern/{filename}.txt"
+        log.debug(f"writing file : {filepath}")
 
         with open(filepath, 'a') as f:
             sys.stdout = f
