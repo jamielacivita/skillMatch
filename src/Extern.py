@@ -178,115 +178,227 @@ class Extern(AttributeSet):
         self.email_administrative_software = None
         self.zip = None # This is a synthetic property -- needs conversion from City Live In to a zip.
         self.remote_only = None  # This is a synthetic property -- If extern ONLY indicated “remote” in column V, True
+        self.phone = None # column AL (new in 2025)
+        self.communication_and_availability = None # Column AN (new in 2025)
+        self.open_to = None # column U (new in 2025)
+        self.business_software_and_skills = None # column AW (revised in 2025)
+
 
         #append a skills object to hold data for skills matches.
         self.skills = Skills.Skills()
         # set the synthetic remote only property
         self.set_remote_only()
 
+        #extern column mapping dictionary
+        extern_column = {}
+        extern_column["A"] = 0
+        extern_column["ID"] = 0
+        extern_column["B"] = 1
+        extern_column["Start time"] = 1
+        extern_column["C"] = 2
+        extern_column["Completion time"] = 2
+        extern_column["D"] = 3
+        extern_column["Email"] = 3
+        extern_column["E"] = 4
+        extern_column["Name"] = 4
 
-        ID_COL = 0                              # A
-        START_TIME_COL = 1                      # B
-        COMPLETION_TIME_COL = 2                 # C
-        EMAIL_COL = 3                           # D
-        NAME_COL = 4                            # E
-        WHO_ARE_YOU_COL = 5                     # F
-        FIRST_NAME_COL = 6                      # G
-        LAST_NAME_COL = 7                       # H
-        PRIMARY_EMAIL_COL = 8                   # I
-        BACKUP_EMAIL_COL = 9                    # J
-        SCHOOL_WHERE_YOU_WORK_COL = 10          # K
-        DISTRICT_WHERE_YOU_WORK_COL = 11        # L
-        CURRENT_ROLES_COL = 12                  # M
-        CITY_YOU_LIVE_IN_COL = 13               # N
-        WHY_PART_OF_PROGRAM_COL = 14            # O
-        FLAVOR_OF_WORK_COL = 15                 # P
-        WHY_MOST_INTERESTING_COL = 16           # Q
-        OPEN_TO_TEACHING_COL = 17               # R
-        OPEN_TO_CURRICULUM_DESIGN_COL = 18      # S
-        OPEN_TO_CAMP_COUNSELOR_COL = 19         # T
-        PARTICULAR_STEM_FIELDS_COL = 20         # U
-        WHAT_WORK_LOCATIONS_COL = 21            # V
-        OPEN_TO_TRAVELLING_COL = 22             # W
-        GRADE_LEVELS_COL = 23                   # X
-        STEM_DOMAINS_COL = 24                   # Y
-        SPREADSHEET_SOFTWARE_COL = 25           # Z
-        WORD_PROCESSINGS_SOFTWARE_COL = 26      # AA
-        PRESENTATION_SOFTWARE_COL = 27          # AB
-        ELEMENTARY_LEVEL_INSTRUCTION_COL = 28   # AC
-        CURRICULUM_DESIGN_COL = 29              # AD
-        PROJECT_MANAGEMENT_COL = 30             # AE
-        SECONDARY_LEVEL_INSTRUCTION_COL = 31    # AF
-        EXPERIENCES_OR_INTERESTS_COL = 32       # AG
-        RESUME_COL = 33                         # AH - This column is blank and not used in our data set.
-        LINKEDIN_PROFILE_COL = 35               # AJ
-        ADULT_EDUCATION_TRAINING_COL = 34       # AJ (removed to fix linked in profile).
-        PUBLIC_SPEAKING_COL = 36                # AK
-        GROUP_PRESENTATION_COL = 0
-        EMAIL_ADMINISTRATIVE_SOFTWARE_COL = 37  # AL
+        extern_column["F"] = 5
+        extern_column["Who are you?"] = 5
+        extern_column["G"] = 6
+        extern_column["FIRST name:"] = 6
+        extern_column["H"] = 7
+        extern_column["LAST name:"] = 7
+        extern_column["I"] = 8
+        extern_column["Primary EMAIL address:"] = 8
+        extern_column["J"] = 8
+        extern_column["BACKUP EMAIL address::"] = 8
+
+        extern_column["K"] = 9
+        extern_column["Name of the SCHOOL where you work:"] = 9
+        extern_column["L"] = 10
+        extern_column["Name the DISTRICT where you work:"] = 10
+        extern_column["M"] = 11
+        extern_column["What are your CURRENT ROLE(S) at your school?"] = 11
+        extern_column["N"] = 12
+        extern_column["What city do you live in?"] = 12
+        extern_column["O"] = 13
+        extern_column["Why do you want to be a part of this program?"] = 13
+
+        extern_column["P"]=14
+        extern_column["We also want to match you with the right flavor of work for you."]=14
+        extern_column["Q"]=15
+        extern_column["Open to teaching elementary school kids?"]=15
+        extern_column["R"]=16
+        extern_column["Open to curriculum design?"]=16
+        extern_column["S"]=17
+        extern_column["Column1"]=17
+        extern_column["T"]=18
+        extern_column["Are there particular STEM fields you are interested in learning more about this summer?"]=18
+
+        extern_column["U"] = 19
+        extern_column["What work location(s) are you open to?"] = 19
+        extern_column["V"] = 20
+        extern_column["Are you open to travelling / temporary relocation for the externship?"] = 20
+        extern_column["W"] = 21
+        extern_column["What grade levels do you have experience working with?"] = 21
+        extern_column["X"] = 22
+        extern_column["Projects don't typically require any prior STEM domain experience, but occasionally it helps."] = 22
+        extern_column["Y"] = 23
+        extern_column["Spreadsheet Software (MS Excel or Google Sheets)"] = 23
+
+        extern_column["Z"] = 24
+        extern_column["Word Processing Software (MS Word or Google Docs)"] = 24
+        extern_column["AA"] = 25
+        extern_column["Presentation Software (MS Powerpoint or Google Slides)"] = 25
+        extern_column["AB"] = 26
+        extern_column["Elementary-Level Instruction"] = 26
+        extern_column["AC"] = 27
+        extern_column["Curriculum Design"] = 27
+        extern_column["AD"] = 28
+        extern_column["Project Management"] = 28
+
+        extern_column["AE"] = 29
+        extern_column["Secondary-Level Instruction"] = 29
+        extern_column["AF"] = 30
+        extern_column["Adult Education / Training"] = 30
+        extern_column["AG"] = 31
+        extern_column["Public Speaking / Group Presentation"] = 31
+        extern_column["AH"] = 32
+        extern_column["Email & Administrative Software"] = 32
+        extern_column["AI"] = 33
+        extern_column["Many hosts are interested in knowing about what experiences educators have enjoyed outside the classroom."] = 33
+
+        extern_column["AJ"] = 34
+        extern_column["If you have a LinkedIn profile, please share:"] = 34
+        extern_column["AK"] = 35
+        extern_column["Phone number:"] = 35
+        extern_column["AL"] = 36
+        extern_column["Phone number:"] = 36
+        extern_column["AM"] = 37
+        extern_column["Host sites will be reaching out via phone calls, emails, and/or text messaging. What is the best time of day for them to reach you?"] = 37
+        extern_column["AN"] = 38
+        extern_column["Communication & Availability"] = 38
+
+        extern_column["AO"] = 39
+        extern_column["I feel comfortable and confident in telling my students about how STEM skills show up in multiple types of careers."] = 39
+        extern_column["AP"] = 40
+        extern_column["ZIP code where you live?"] = 40
+        extern_column["AQ"] = 41
+        extern_column["Open to teaching secondary school kids?"] = 41
+        extern_column["AR"] = 42
+        extern_column["Open to teaching adults?"] = 42
+
+        extern_column["AS"] = 43
+        extern_column["Open to being a camp counselor?"] = 43
+        extern_column["AT"] = 44
+        extern_column["Open to curriculum design?"] = 44
+        extern_column["AU"] = 45
+        extern_column["Question"] = 45
+        extern_column["AV"] = 46
+        extern_column["While the typical externship is $5000 for 200 hours, some hosts may have opportunities for 100 hour externships at a reduced stipend of $2500."] = 46
+        extern_column["AW"] = 47
+        extern_column["occasionally hosts do look for a specific skill"] = 47
+
+        extern_column["AX"] = 48
+        extern_column["Have you participated in the Externship Program before?"] = 48
 
         blanktuple = (("x","y"))
         blanklist = []
         if type(row_data_tuple) == type(blanktuple):
-            self.set_ID(row_data_tuple[ID_COL].value)
-            self.set_start_time(row_data_tuple[START_TIME_COL].value)
-            self.set_completion_time(row_data_tuple[COMPLETION_TIME_COL].value)
-            self.set_email(row_data_tuple[EMAIL_COL].value)
-            self.set_name(row_data_tuple[NAME_COL].value)
-            self.set_who_are_you(row_data_tuple[WHO_ARE_YOU_COL].value)
-            self.set_first_name(row_data_tuple[FIRST_NAME_COL].value)
-            self.set_last_name(row_data_tuple[LAST_NAME_COL].value)
-            self.set_primary_email(row_data_tuple[PRIMARY_EMAIL_COL].value)
-            self.set_backup_email(row_data_tuple[BACKUP_EMAIL_COL].value)
-            self.set_school_where_you_work(row_data_tuple[SCHOOL_WHERE_YOU_WORK_COL].value)
-            self.set_district_where_you_work(row_data_tuple[DISTRICT_WHERE_YOU_WORK_COL].value)
-            self.set_current_roles(row_data_tuple[CURRENT_ROLES_COL].value)
-            self.set_city_you_live_in(row_data_tuple[CITY_YOU_LIVE_IN_COL].value)
-            self.set_why_part_of_program(row_data_tuple[WHY_PART_OF_PROGRAM_COL].value)
-            self.set_flavor_of_work(row_data_tuple[FLAVOR_OF_WORK_COL].value)
+
+            self.set_ID(row_data_tuple[extern_column["ID"]].value)
+            self.set_start_time(row_data_tuple[extern_column["B"]].value)
+            self.set_completion_time(row_data_tuple[extern_column["C"]].value)
+            self.set_email(row_data_tuple[extern_column["D"]].value)
+            self.set_name(row_data_tuple[extern_column["E"]].value)
+
+            self.set_who_are_you(row_data_tuple[extern_column["F"]].value)
+            self.set_first_name(row_data_tuple[extern_column["G"]].value)
+            self.set_last_name(row_data_tuple[extern_column["H"]].value)
+            self.set_primary_email(row_data_tuple[extern_column["I"]].value)
+            self.set_backup_email(row_data_tuple[extern_column["J"]].value)
+
+            self.set_school_where_you_work(row_data_tuple[extern_column["K"]].value)
+            self.set_district_where_you_work(row_data_tuple[extern_column["L"]].value)
+            self.set_current_roles(row_data_tuple[extern_column["M"]].value)
+            self.set_city_you_live_in(row_data_tuple[extern_column["N"]].value)
+            self.set_why_part_of_program(row_data_tuple[extern_column["O"]].value)
+
+            self.set_flavor_of_work(row_data_tuple[extern_column["P"]].value)
+            self.set_elementary_level_instruction(row_data_tuple[extern_column["Q"]].value)
+            self.set_open_to_curriculum_design(row_data_tuple[extern_column["R"]].value)
+            self.set_particular_stem_fields(row_data_tuple[extern_column["T"]].value)
+            self.set_what_work_locations(row_data_tuple[extern_column["U"]].value)
+
+            self.set_open_to_travelling(row_data_tuple[extern_column["V"]].value)
+            self.set_grade_levels(row_data_tuple[extern_column["W"]].value)
+            self.set_stem_domains(row_data_tuple[extern_column["X"]].value)
+            self.set_spreadsheet_software(row_data_tuple[extern_column["Y"]].value)
+            self.set_word_processings_software(row_data_tuple[extern_column["Z"]].value)
+
+            self.set_presentation_software(row_data_tuple[extern_column["AA"]].value)
+            # Column AB - elementary level instruction goes here.  No data in chart.
+            self.set_curriculum_design(row_data_tuple[extern_column["AC"]].value)
+            self.set_project_management(row_data_tuple[extern_column["AD"]].value)
+            self.set_secondary_level_instruction(row_data_tuple[extern_column["AE"]].value)
+
+            self.set_adult_education_training(row_data_tuple[extern_column["AF"]].value)
+            self.set_public_speaking(row_data_tuple[extern_column["AG"]].value)
+            self.set_email_administrative_software(row_data_tuple[extern_column["AH"]].value)
+            self.set_experiences_or_interests(row_data_tuple[extern_column["AI"]].value)
+            self.set_linkedin_profile(row_data_tuple[extern_column["AJ"]].value)
+
+            self.set_phone(row_data_tuple[extern_column["AK"]].value)
+            self.set_phone(row_data_tuple[extern_column["AL"]].value)
+
+            # best tine of day to reach you (column AM) goes here
+            self.set_communication_and_availability(row_data_tuple[extern_column["AN"]].value)
+            self.set_business_software_and_skills(row_data_tuple[extern_column["AW"]])
+            # comfortable and confident (column AO) goes here
+
+            self.open_to(row_data_tuple[extern_column["U"]])
+            # zip code where you live goes here (column AP)
+            # open to teaching secondary school (column AQ) goes here.
+            # open to teaching adults (column AR) goes here.
+            self.set_Open_to_camp_counselor(row_data_tuple[extern_column["AS"]].value)
+            # open to curriculum design goes here (column AT)
+
+            # Question (column AU) goes here.
+            # While the typical externship is $5000 for 200 hours (column AV) goes here
+            # Particapted in program before (column AX) goes here.
+
             self.set_why_most_interesting(row_data_tuple[WHY_MOST_INTERESTING_COL].value)
             self.set_open_to_teaching(row_data_tuple[OPEN_TO_TEACHING_COL].value)
-            self.set_open_to_curriculum_design(row_data_tuple[OPEN_TO_CURRICULUM_DESIGN_COL].value)
-            self.set_Open_to_camp_counselor(row_data_tuple[OPEN_TO_CAMP_COUNSELOR_COL].value)
-            self.set_particular_stem_fields(row_data_tuple[PARTICULAR_STEM_FIELDS_COL].value)
-            self.set_what_work_locations(row_data_tuple[WHAT_WORK_LOCATIONS_COL].value)
-            self.set_open_to_travelling(row_data_tuple[OPEN_TO_TRAVELLING_COL].value)
-            self.set_grade_levels(row_data_tuple[GRADE_LEVELS_COL].value)
-            self.set_stem_domains(row_data_tuple[STEM_DOMAINS_COL].value)
-            self.set_spreadsheet_software(row_data_tuple[SPREADSHEET_SOFTWARE_COL].value)
-            self.set_word_processings_software(row_data_tuple[WORD_PROCESSINGS_SOFTWARE_COL].value)
-            self.set_presentation_software(row_data_tuple[PRESENTATION_SOFTWARE_COL].value)
-            self.set_elementary_level_instruction(row_data_tuple[ELEMENTARY_LEVEL_INSTRUCTION_COL].value)
-            self.set_curriculum_design(row_data_tuple[CURRICULUM_DESIGN_COL].value)
-            self.set_project_management(row_data_tuple[PROJECT_MANAGEMENT_COL].value)
-            self.set_secondary_level_instruction(row_data_tuple[SECONDARY_LEVEL_INSTRUCTION_COL].value)
-            self.set_experiences_or_interests(row_data_tuple[EXPERIENCES_OR_INTERESTS_COL].value)
-            self.set_linkedin_profile(row_data_tuple[LINKEDIN_PROFILE_COL].value)
-            self.set_adult_education_training(row_data_tuple[ADULT_EDUCATION_TRAINING_COL].value)
-            self.set_public_speaking(row_data_tuple[PUBLIC_SPEAKING_COL].value)
-            #self.set_group_presentation(row_data_tuple[GROUP_PRESENTATION_COL].value)
-            self.set_email_administrative_software(row_data_tuple[EMAIL_ADMINISTRATIVE_SOFTWARE_COL].value)
-            self.set_zip(city_zip[self.city_you_live_in])
 
+
+
+
+
+            #self.set_group_presentation(row_data_tuple[GROUP_PRESENTATION_COL].value)
+            self.set_zip(city_zip[self.city_you_live_in])
             self.set_skills()
             self.set_remote_only()
 
         if type(row_data_tuple) == type(blanklist):
-            self.set_ID(row_data_tuple[ID_COL])
-            self.set_start_time(row_data_tuple[START_TIME_COL])
-            self.set_completion_time(row_data_tuple[COMPLETION_TIME_COL])
-            self.set_email(row_data_tuple[EMAIL_COL])
-            self.set_name(row_data_tuple[NAME_COL])
-            self.set_who_are_you(row_data_tuple[WHO_ARE_YOU_COL])
-            self.set_first_name(row_data_tuple[FIRST_NAME_COL])
-            self.set_last_name(row_data_tuple[LAST_NAME_COL])
-            self.set_primary_email(row_data_tuple[PRIMARY_EMAIL_COL])
-            self.set_backup_email(row_data_tuple[BACKUP_EMAIL_COL])
-            self.set_school_where_you_work(row_data_tuple[SCHOOL_WHERE_YOU_WORK_COL])
-            self.set_district_where_you_work(row_data_tuple[DISTRICT_WHERE_YOU_WORK_COL])
-            self.set_current_roles(row_data_tuple[CURRENT_ROLES_COL])
-            self.set_city_you_live_in(row_data_tuple[CITY_YOU_LIVE_IN_COL])
-            self.set_why_part_of_program(row_data_tuple[WHY_PART_OF_PROGRAM_COL])
+
+            self.set_ID(row_data_tuple[extern_column["ID"]])
+            self.set_start_time(row_data_tuple[extern_column["B"]])
+            self.set_completion_time(row_data_tuple[extern_column["C"]])
+            self.set_email(row_data_tuple[extern_column["D"]])
+            self.set_name(row_data_tuple[extern_column["Name"]])
+
+            self.set_who_are_you(row_data_tuple[extern_column["F"]])
+            self.set_first_name(row_data_tuple[extern_column["G"]])
+            self.set_last_name(row_data_tuple[extern_column["H"]])
+            self.set_primary_email(row_data_tuple[extern_column["I"]])
+            self.set_backup_email(row_data_tuple[extern_column["J"]])
+
+            self.set_school_where_you_work(row_data_tuple[extern_column["K"]])
+            self.set_district_where_you_work(row_data_tuple[extern_column["L"]])
+            self.set_current_roles(row_data_tuple[extern_column["M"]])
+            self.set_city_you_live_in(row_data_tuple[extern_column["N"]])
+            self.set_why_part_of_program(row_data_tuple[extern_column["O"]])
+
             self.set_flavor_of_work(row_data_tuple[FLAVOR_OF_WORK_COL])
             self.set_why_most_interesting(row_data_tuple[WHY_MOST_INTERESTING_COL])
             self.set_open_to_teaching(row_data_tuple[OPEN_TO_TEACHING_COL])
@@ -440,6 +552,18 @@ class Extern(AttributeSet):
 
     def set_email_administrative_software(self, email_administrative_software):
         self.email_administrative_software = email_administrative_software
+
+    def set_phone(self, phone):
+        self.phone = phone
+
+    def set_communication_and_availability(self, communication_and_availability):
+        self.communication_and_availability = communication_and_availability
+
+    def set_business_software_and_skills(self, business_software_and_skills):
+        self.business_software_and_skills = business_software_and_skills
+
+    def set_open_to(self, open_to):
+        self.open_to = open_to
 
     def set_skills(self):
         ### STEM Experience Match ###
@@ -765,19 +889,20 @@ class Extern(AttributeSet):
 
     def get_business_software_skills_printable_list(self):
         out_txt = ""
-        if self.get_spreadsheet_software() != "No Experience":
-            out_txt = out_txt + f"\t* spreadsheet software:        {self.get_spreadsheet_software()}\n"
-        if self.get_word_processings_software() != "No Experience":
-            out_text = out_txt + f"\t* word processing:             {self.get_word_processings_software()}\n"
-        if self.get_presentation_software() != "No Experience":
-            out_txt = out_text + f"\t* presentation software:       {self.get_presentation_software()}\n"
-        if self.get_project_management() != "No Experience":
-            out_txt = out_txt + f"\t* project management software: {self.get_project_management()}\n"
-        if self.get_email_administrative_software() != "No Experience":
-            out_txt = out_txt + f"\t* administrative software:       {self.get_email_administrative_software()}\n"
-        if self.get_public_speaking() != "No Experience":
-            out_txt = out_txt + f"\t* public speaking:             {self.get_public_speaking()}\n"
-
+        #if self.get_spreadsheet_software() != "No Experience":
+            #out_txt = out_txt + f"\t* spreadsheet software:        {self.get_spreadsheet_software()}\n"
+        #if self.get_word_processings_software() != "No Experience":
+            #out_text = out_txt + f"\t* word processing:             {self.get_word_processings_software()}\n"
+        #if self.get_presentation_software() != "No Experience":
+            #out_txt = out_text + f"\t* presentation software:       {self.get_presentation_software()}\n"
+        #if self.get_project_management() != "No Experience":
+            #out_txt = out_txt + f"\t* project management software: {self.get_project_management()}\n"
+        #if self.get_email_administrative_software() != "No Experience":
+            #out_txt = out_txt + f"\t* administrative software:       {self.get_email_administrative_software()}\n"
+        #if self.get_public_speaking() != "No Experience":
+            #out_txt = out_txt + f"\t* public speaking:             {self.get_public_speaking()}\n"
+        for skill in self.get_business_software_and_skills().split(";"):
+            out_txt = out_txt + f"\t* {skill}"
 
         return out_txt
 
@@ -820,6 +945,25 @@ class Extern(AttributeSet):
 
     def get_email_administrative_software(self):
         return self.email_administrative_software
+
+    def get_business_software_and_skills(self):
+        return self.business_software_and_skills
+
+    def get_phone(self):
+        return self.phone
+
+    def get_communication_and_availability(self):
+        return self.communication_and_availability
+
+    def get_open_to(self):
+        return self.open_to
+
+    def get_open_to_printable_list(self):
+        out_text = ""
+        selection_lst = self.get_open_to().split(";")
+        for s in selection_lst:
+            out_text = out_text + f"\t* {s}"
+        return out_text
 
     def set_zip(self, zip):
         if zip == 83606:
@@ -902,35 +1046,51 @@ class Extern(AttributeSet):
             print(f"INTERESTS")
             print(f"Why they want to be a part of this program:")
             print(f"\t* {self.get_why_part_of_program()}")
-            print(f"This applicant likes work environments that are:")
-            print(f"{self.get_flavor_of_work_printable_list()}")
+            # print(f"This applicant likes work environments that are:")
+            # print(f"{self.get_flavor_of_work_printable_list()}")
             print("STEM fields they are particularly interested in learning more about:")
             print(f"{self.get_particular_stem_fields_printable_list()}")
             print(f"EXPERIENCE")
             print(f"Grade Levels: ")    #From column X
             print(f"{self.get_grade_levels_printable_list()}")
             print(f"")
-            print("Instructional Experience:")
-            print(f"{self.get_instructional_experience_printable_list()}")
+            # print("Instructional Experience:")
+            # print(f"{self.get_instructional_experience_printable_list()}")
             print(f"")
             print("STEM Domain Experience")
             print(f"{self.get_stem_domains_printable_list()}")
             print("Business software & skills:")
             print(f"{self.get_business_software_skills_printable_list()}")
+
+            print("Instructional work they are open to during externship:")
+            # Uses colums Q, AQ, AR, AS and AT.
+            #todo: start here.
+
+            print("Externship durations they are available for:")
+            # uses colum AV
+            #todo: need a printable function for this data.
+
             print("Other interesting experience:")
             print(f"{self.get_experiences_or_interests()}")
             print(f"")
             print(f"LOGISTICS")
             print(f"Residence : {self.get_city_you_live_in()}") # Column N
-            print(f"Open to Remote?")
-            print(f"\t* {self.get_open_to_remeote_printable()}")
+            # print(f"Open to Remote?")
+            # print(f"\t* {self.get_open_to_remeote_printable()}")
+            print(f"Open to:")
+            print(self.get_open_to_printable_list())
+            #print(f"\t* {self.get_open_to_remeote_printable()}")
             print(f"")
-            print(f"Open to temporary relocation?")
-            print(f"\t* {self.get_open_to_travelling()}")
+            # print(f"Open to temporary relocation?")
+            # print(f"\t* {self.get_open_to_travelling()}")
             print(f"")
             print(f"CONTACT")
             print(f"\t* Primary Email : {self.get_primary_email()}") # I
             print(f"\t* Secondary Email : {self.get_backup_email()}") # J
+            print(f"\t* Phone : {self.get_phone()}") # J
+            print(f"\t* Communication & Availability : {self.get_communication_and_availability()}") # AN
+
+
 
 
 

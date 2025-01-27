@@ -4,170 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="Added functionalty to deal with CSV files.">
-      <change beforePath="$PROJECT_DIR$/data/dossier/11_USFSBoiseNationalForest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/13_MicronGives.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/15_IdahoRegionalOpticalNetworkIRON.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/16_EasternIdahoPlumbersandPipefittersJointApprenticeshipandTrainingCommitteeEIJATC.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/17_ChildrensMuseumofIdaho.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/18_CityofBoiseTheWaterShed.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/19_STEAMWorld.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/20_IdahoDivisionofCareerTechnicalEducation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/21_IdahoDivisionofVocationalRehabilitation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/22_Londr.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/23_ApprenticeshipIdahoatIdahoDepartmentofLabor.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/24_NorthwestMachiningMfgInc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/25_Exyte.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/26_Exyte.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/27_WesternAircraftInc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/28_GirlScoutsofSilverSage.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/29_IdahoVeteransChamberofCommerce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/30_IntermountainBlendingFillingLLC.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/31_BoysGirlsClubsofMagicValley.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/32_MuseumofIdaho.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/33_GlanbiaNutritionals.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/34_ThreeIslandCrossingStatePark.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/35_GirlScoutsofSilverSage.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/36_IdahoBusinessforEducation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/37_BoiseUrbanGardenSchool.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/38_EngineeredStructuresInc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/39_MicronTechnology.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/3_FranzWitteLandscapeContractingInc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/40_LincolnCountyYouthCenter.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/41_InternationalRescueCommittee.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/42_MicronTechnology.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/43_GizmoCdAInc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/44_GizmoCdAInc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/45_IdahoNationalLaboratory.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/46_ConservationConnectionFoundation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/47_CobblestoneLandscapingLLC.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/48_MicronTechnology.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/4_IdahoCentralCreditUnion.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/51_IdahoHealthCareAssociation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/52_IdahoDivisionofHumanResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/54_GlobalBoundLLC.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/55_IdahoWorkforceDevelopmentCouncil.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/57_Micron.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/58_Coast2CoastCloudConsulting.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/59_IdahoFallsZoo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/5_IdahoPower.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/61_UnitedStatesForestService.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/62_GuardRailz.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/63_BoiseStateUniversityOnrampProgram.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/64_IdahoStateAFLCIO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/66_BoysGirlsClubofCoeurdAlene.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/67_CollegeofEngineeringUniversityofIdaho.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/6_DiscoveryCenterofIdaho.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/70_McMillenInc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/71_InternationalRescueCommittee.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/72_InternationalRescueCommittee.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/7_CityofBoiseFoothillsLearningCenter.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/8_UniversityofIdahoIDRONE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Adams_Heidi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Aguilera_Stephanie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Albor_Leslie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Anderson_Lyndsey .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Anderson_Michelle.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Andrade_Shannon.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Ashby_Kendria.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Atwood_Linda.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Aufderheide Keck_Penni.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Baker_Cameron.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Barnes_Jared.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Biehl_Kurt.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Bingham_Laura.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Bluma_Stacy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Braswell_Janiece .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Bynum_Alicia.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Castronova_Mary.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Chaffin_Jill.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Chase_Vicki.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Coffey_Brian.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Coffey_Tiffiny.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Comstock_Hester.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Crain_Brandon.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Dahl_Donovan.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Daniels_Craig.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Dey_Chelsey.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Dickson_Katherin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Dorrian_Cara Mia.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Duncan_Sara.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Dyorich_Matthew.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Dyorich_Rebecca.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Dyorich_Tober.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Eaton-Merkle_Anna.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Eck_Katrina.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Emery_Esther.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Estlick _Kaitlyn .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Fabis_Carolyn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Fielding_Alison.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Fisher_Josephine.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Fisher_Michael.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Fogdall_Todd.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Green_Tyler.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Grimm_Joseph.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Gross_Kim.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Hammond_Virginia.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Hansen_Emily.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Harris_Jolene.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Harrop _Shelly .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Harry_Rachel.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Jensen_Rachel.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/John_Joanna .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Johnson_Lola.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Jones_Kristin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Kalbfleisch _Charlyn .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Kearns_Suzi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Kendall_Erik.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Loera_Maria.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Lucore_Autney .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Lucore_Timothy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Maggio_Amber .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Markham_Karlene.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Martin_Chris.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Martin_Christopher.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Martinez_Kelli.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/McCoy_Molly.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/McKenzie_Brenda.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/McKenzie_Jim.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/McKinney_Robin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/McMillan_Molly.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/McSweeney_Theresa.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Nai_Lawrance.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Nielsen_Jaycie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Nielsen_Josh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Nigon_Renee.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Norland_Ian.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Northover_Heidi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Onishi_Cherydan.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Packer_Heather.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Palmer_Suzy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Prado Prado_Rodolfo .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Randall_Allyson.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Randolph_Julie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Roope_Natalie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Sanchez_Brittany.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Shafter_Lynnea.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Shaw_Steven .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Shepherd_Trevor.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Smith_Madison.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Smith_Samual.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Stefanakos_Jennifer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Stefanakos_Robert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Sweley_Shea.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Symons_Tonya.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Telford_Neva.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Terhune_Diane.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Walker_Colton.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Wallaert_Kristopher .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Wattles_Amy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Whitworth_Alaysha.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Wilson_Leigh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Wohlwend_Keith.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dossier/Zickefoose_Gale.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data20241231-194747_out.csv" beforeDir="false" />
+    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="250127-1118_dataRun">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Extern.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Host.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Host.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +56,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "updateExternDictionary",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -251,7 +90,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737999611370</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated location of saving dossiers.">
+      <option name="closed" value="true" />
+      <created>1738001374401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738001374401</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added in data location.">
+      <option name="closed" value="true" />
+      <created>1738001527201</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738001527201</updated>
+    </task>
+    <task id="LOCAL-00004" summary="250127-1118_dataRun">
+      <option name="closed" value="true" />
+      <created>1738001946916</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738001946916</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +130,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added functionalty to deal with CSV files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added functionalty to deal with CSV files." />
+    <MESSAGE value="Updated location of saving dossiers." />
+    <MESSAGE value="Added in data location." />
+    <MESSAGE value="250127-1118_dataRun" />
+    <option name="LAST_COMMIT_MESSAGE" value="250127-1118_dataRun" />
   </component>
 </project>
