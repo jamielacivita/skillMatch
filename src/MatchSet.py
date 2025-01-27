@@ -1,11 +1,19 @@
 import openpyxl
 import csv
 import time
+import sys
 
 import Host as Host
 import Extern as Extern
 import Match as Match
 from prettytable import PrettyTable as pt
+import data_config
+
+import logging.config
+# logging.config.fileConfig("/home/jamie/source/python/skillMatch/src/logging_config.ini")
+logging.config.fileConfig("/home/jamie/Source/Python/skillMatch/src/logging_config.ini")
+log = logging.getLogger(__name__)
+
 
 class MatchSet():
 
@@ -29,21 +37,49 @@ class MatchSet():
 
 
     def get_extern_dataframe(self):
-        print("in get_extern_dataframe")
-        #filename = r"/home/jamie/PycharmProjects/skillMatch/data/240312-045757_EducatorApplication_Modified.xlsx"
-        filename = r"/home/jamie/Source/Python/skillMatch/data/240312-045757_EducatorApplication_Modified.xlsx"
+        """
+        requires a path to the xlsx file with the educator (teacher) information.
+        :return: an openpyxl.worksheet.worksheet.Worksheet object.
+        """
+        filename = data_config.EdApplicationPath
+        if (".xlsx" in filename):
+            log.debug("This is an XLSX file.")
+            dataframe = openpyxl.load_workbook(filename)
+            dataframe1 = dataframe.active
 
-        dataframe = openpyxl.load_workbook(filename)
-        dataframe1 = dataframe.active
+        elif (".csv" in filename):
+            log.debug("This is a CSV file.")
+            dataframe1 = []
+            with open(filename, encoding='latin-1') as csvfile:
+                spamreader = csv.reader(csvfile)
+                for row in spamreader:
+                    dataframe1.append(row)
 
         return dataframe1
 
-    def parse_extern_dataframe(self, dataframe):
+    def parse_extern_dataframe(self, dataframe=None, dataframecsv=None):
+        """
+        Given a set of data return a list of extern objects.
+        """
         out_lst = []
-        FIRST_DATA_ROW = 2
-        for row in dataframe.iter_rows(FIRST_DATA_ROW, dataframe.max_row):
-            extern_obj = Extern.Extern(row)
-            out_lst.append(extern_obj)
+
+        if (dataframe is not None):
+            # using a xlsxdataframe
+            log.debug("using an xlsx dataframe.")
+            FIRST_DATA_ROW = 2
+            for row in dataframe.iter_rows(FIRST_DATA_ROW, dataframe.max_row):
+                extern_obj = Extern.Extern(row)
+                out_lst.append(extern_obj)
+
+        # using a csvdataframe
+        elif (dataframecsv is not None):
+            log.debug("using a csv dataframe.")
+            FIRST_DATA_ROW = 1
+            LAST_DATA_ROW = len(dataframecsv)
+
+            for row in dataframecsv[FIRST_DATA_ROW:LAST_DATA_ROW]:
+                extern_obj = Extern.Extern(row)
+                out_lst.append(extern_obj)
 
         return out_lst
 
@@ -54,7 +90,8 @@ class MatchSet():
 
     def get_extern_obj_lst(self):
         extern_dataframe = self.get_extern_dataframe()
-        extern_objects_lst = self.parse_extern_dataframe(extern_dataframe)
+        #extern_objects_lst = self.parse_extern_dataframe(extern_dataframe)
+        extern_objects_lst = self.parse_extern_dataframe(dataframecsv=extern_dataframe)
         return extern_objects_lst
 
     def get_match_object_lst(self):
@@ -73,16 +110,21 @@ class MatchSet():
         Given a path to a host file return a dataframe records.
         :return:
         """
-        host_filename = "/home/jamie/Source/Python/skillMatch/data/240314-025428_HostApplication_Final.xlsx"
+        #host_filename = "/data/Input/240314-025428_HostApplication_Final.xlsx"
+        host_filename = data_config.HostApplicationPath
         dataframe = openpyxl.load_workbook(host_filename)
         dataframe1 = dataframe.active
 
         return dataframe1
 
     def __init__(self):
+        log.debug("250127 : Generating a Matchset Object.")
         self.extern_obj_lst = self.get_extern_obj_lst()
+        log.debug(f"length of extern_obj_list : {len(self.extern_obj_lst)}")
         self.host_obj_lst = self.get_host_objects_lst()
+        log.debug(f"length of host_obj_list : {len(self.host_obj_lst)}")
         self.match_obj_lst = self.get_match_object_lst()
+        log.debug(f"length of match_obj_list : {len(self.match_obj_lst)}")
 
     def get_number_hosts(self):
         return len(self.host_obj_lst)

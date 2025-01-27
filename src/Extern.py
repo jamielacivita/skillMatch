@@ -9,62 +9,135 @@ log = logging.getLogger(__name__)
 
 city_zip = {}
 city_zip["Ada County"] = 83706
+city_zip["Ammon "] = 83406
+city_zip["Arco"] = 83213
+city_zip["Bellevue"] = 83313
 city_zip["Blackfoot "] = 83221
 city_zip["Blackfoot"] = 83221
 city_zip["Boise"] = 83706
+city_zip["Boise "] = 83706
 city_zip["Boise, ID"] = 83706
 city_zip["Boise, Idaho"] = 83706
+city_zip["Gooding, Idaho, but I have a residence in Boise, ID that I can stay at during summer break if needed. "] = 83706
 city_zip["Boise County, halfway between Idaho City and Boise"] = 83716
 city_zip["Buhl"] = 83316
 city_zip["Burley"] = 83318
+city_zip["Burley, ID"] = 83318
 city_zip["Caldwell"] = 83606
+city_zip["Caldwell "] = 83606
+city_zip["Caldwell, ID"] = 83606
+city_zip["Carey"] = 83320
+city_zip["Chubbuck"] = 83202
+city_zip["Clarkston"] = 99403
+city_zip["Coeur d'Alene"] = 83815
+city_zip["Coeur d' Alene"] = 83815
+city_zip["Coeur d'Alene "] = 83815
+city_zip["Coeur d\"Alene"] = 83815
+city_zip["Coeur d Alene"] = 83815
+city_zip["Craigmont"] = 83523
 city_zip["Dayton"] = 83232
 city_zip["Dietrich "] = 83324
+city_zip["Driggs, ID"] = 83422
+city_zip["Driggs"] = 83422
 city_zip["Eagle"] = 83616
+city_zip["Eagle, ID"] = 83616
 city_zip["Eagle, Idaho"] = 83616
+city_zip["Emmett"] = 83617
 city_zip["Garden Valley"] = 83622
 city_zip["Glenns Ferry"] = 83623
+city_zip["Gooding"] = 83330
+city_zip["Grace"] = 83241
+city_zip["Grand View"] = 83624
 city_zip["Hailey"] = 83333
+city_zip["Hailey, ID"] = 83333
+city_zip["Heyburn"] = 83336
+city_zip["Heyburn (moving to Idaho Falls area this summer)  83401"] = 83401
+city_zip["Hayden Id"] = 83335
 city_zip["Hazelton, ID"] = 83335
+city_zip["Hazelton"] = 83335
+city_zip["Jerome"] = 83338
 city_zip["Idaho City"] = 83631
 city_zip["Idaho Falls"] = 83402
 city_zip["Idaho Falls "] = 83402
+city_zip["Idaho falls "] = 83402
+city_zip["Idaho Falls, ID"] = 83402
 city_zip["Idaho Falls, Idaho "] = 83402
 city_zip["Inkom"] = 83245
+city_zip["Kellogg"] = 83868
 city_zip["Kuna, Idaho"] = 83642
+city_zip["Kuna"] = 83642
+city_zip["Lewiston"] = 83501
+city_zip["Lewiston, ID"] = 83501
+city_zip["Malta"] = 83342
 city_zip["McCall"] = 83638
 city_zip["McCammon"] = 83250
+city_zip["McCammon, Idaho"] = 83250
+city_zip["Melba"] = 83641
 city_zip["Meridian"] = 83646
 city_zip["Meridian, Idaho"] = 83646
+city_zip["Meridian and Garden Valley"] = 83646
+city_zip["Meridian (Near Roaring Springs Water Park)"] = 83646
+city_zip["Middleton"] = 83646
+city_zip["Middleton "] = 83646
+city_zip["Midvale "] = 83645
 city_zip["Montpelier"] = 83254
+city_zip["moscow "] = 83843
+city_zip["Moscow"] = 83843
 city_zip["Mountain Home"] = 83647
+city_zip["Mountain Home "] = 83647
+city_zip["mountain home"] = 83647
 city_zip["Nampa"] = 83651
 city_zip["Nampa "] = 83651
 city_zip["Nampa, ID"] = 83651
+city_zip["Nezperce"] = 83543
+city_zip["Oakley"] = 83346
+city_zip["Palouse, WA"] = 99161
+city_zip["Parma Idaho"] = 83660
+city_zip["Parker, Idaho- live; work in Rexburg, Idaho "] = 83438
+city_zip["Paul"] = 83347
 city_zip["Pocatello"] = 83205
 city_zip["Pocatello, ID"] = 83205
 city_zip["Pocatello, Idaho "] = 83205
 city_zip["Pocatello Idaho"] = 83205
+city_zip["Post Falls"] = 83854
 city_zip["Potlatch"] = 83855
 city_zip["Preston"] = 83263
 city_zip["Princeton, Idaho"] = 83857
 city_zip["Rathdrum"] = 83858
+city_zip["Rathdrum, ID"] = 83858
 city_zip["Rexburg"] = 83440
+city_zip["Rexburg "] = 83440
+city_zip["Rexburg, ID"] = 83440
+city_zip["Rexburg, Idaho"] = 83440
 city_zip["Richfield"] = 83349
+city_zip["Richfield, Idaho"] = 83349
+city_zip["Richfield, ID"] = 83349
 city_zip["Rigby"] = 83442
+city_zip["Riggins"] = 83549
 city_zip["Ririe"] = 83443
+city_zip["Ririe/Idaho Falls"] = 83443
 city_zip["Rupert"] = 83350
+city_zip["St. Anthony"] = 83445
+city_zip["Saint anthony"] = 83445
+city_zip["St Anthony Idaho"] = 83445
 city_zip["Sandpoint"] = 83864
+city_zip["Sandpoint "] = 83864
 city_zip["Shelley"] = 83274
+city_zip["Shoshone "] = 83352
 city_zip["Spirit Lake, Idaho but I commute to Coeur d'Alene daily. "] = 83869
+city_zip["Star"] = 83646
+city_zip["Spokane Valley, WA"] = 99212
 city_zip["Sugar City Idaho"] = 83448
 city_zip["Twin Falls"] = 83301
+city_zip["Twin Falls, Idaho"] = 83301
+city_zip["Wallace, Id"] = 83873
 city_zip["Wilder"] = 83303
+city_zip[""] = 99999
 
 
 class Extern(AttributeSet):
     def __init__(self, row_data_tuple):
-
+        log.debug(f"type of row_data_tuple : {type(row_data_tuple)}")
         self.ID = None                              ## A
         self.start_time = None
         self.completion_time = None
@@ -152,50 +225,96 @@ class Extern(AttributeSet):
         GROUP_PRESENTATION_COL = 0
         EMAIL_ADMINISTRATIVE_SOFTWARE_COL = 37  # AL
 
+        blanktuple = (("x","y"))
+        blanklist = []
+        if type(row_data_tuple) == type(blanktuple):
+            self.set_ID(row_data_tuple[ID_COL].value)
+            self.set_start_time(row_data_tuple[START_TIME_COL].value)
+            self.set_completion_time(row_data_tuple[COMPLETION_TIME_COL].value)
+            self.set_email(row_data_tuple[EMAIL_COL].value)
+            self.set_name(row_data_tuple[NAME_COL].value)
+            self.set_who_are_you(row_data_tuple[WHO_ARE_YOU_COL].value)
+            self.set_first_name(row_data_tuple[FIRST_NAME_COL].value)
+            self.set_last_name(row_data_tuple[LAST_NAME_COL].value)
+            self.set_primary_email(row_data_tuple[PRIMARY_EMAIL_COL].value)
+            self.set_backup_email(row_data_tuple[BACKUP_EMAIL_COL].value)
+            self.set_school_where_you_work(row_data_tuple[SCHOOL_WHERE_YOU_WORK_COL].value)
+            self.set_district_where_you_work(row_data_tuple[DISTRICT_WHERE_YOU_WORK_COL].value)
+            self.set_current_roles(row_data_tuple[CURRENT_ROLES_COL].value)
+            self.set_city_you_live_in(row_data_tuple[CITY_YOU_LIVE_IN_COL].value)
+            self.set_why_part_of_program(row_data_tuple[WHY_PART_OF_PROGRAM_COL].value)
+            self.set_flavor_of_work(row_data_tuple[FLAVOR_OF_WORK_COL].value)
+            self.set_why_most_interesting(row_data_tuple[WHY_MOST_INTERESTING_COL].value)
+            self.set_open_to_teaching(row_data_tuple[OPEN_TO_TEACHING_COL].value)
+            self.set_open_to_curriculum_design(row_data_tuple[OPEN_TO_CURRICULUM_DESIGN_COL].value)
+            self.set_Open_to_camp_counselor(row_data_tuple[OPEN_TO_CAMP_COUNSELOR_COL].value)
+            self.set_particular_stem_fields(row_data_tuple[PARTICULAR_STEM_FIELDS_COL].value)
+            self.set_what_work_locations(row_data_tuple[WHAT_WORK_LOCATIONS_COL].value)
+            self.set_open_to_travelling(row_data_tuple[OPEN_TO_TRAVELLING_COL].value)
+            self.set_grade_levels(row_data_tuple[GRADE_LEVELS_COL].value)
+            self.set_stem_domains(row_data_tuple[STEM_DOMAINS_COL].value)
+            self.set_spreadsheet_software(row_data_tuple[SPREADSHEET_SOFTWARE_COL].value)
+            self.set_word_processings_software(row_data_tuple[WORD_PROCESSINGS_SOFTWARE_COL].value)
+            self.set_presentation_software(row_data_tuple[PRESENTATION_SOFTWARE_COL].value)
+            self.set_elementary_level_instruction(row_data_tuple[ELEMENTARY_LEVEL_INSTRUCTION_COL].value)
+            self.set_curriculum_design(row_data_tuple[CURRICULUM_DESIGN_COL].value)
+            self.set_project_management(row_data_tuple[PROJECT_MANAGEMENT_COL].value)
+            self.set_secondary_level_instruction(row_data_tuple[SECONDARY_LEVEL_INSTRUCTION_COL].value)
+            self.set_experiences_or_interests(row_data_tuple[EXPERIENCES_OR_INTERESTS_COL].value)
+            self.set_linkedin_profile(row_data_tuple[LINKEDIN_PROFILE_COL].value)
+            self.set_adult_education_training(row_data_tuple[ADULT_EDUCATION_TRAINING_COL].value)
+            self.set_public_speaking(row_data_tuple[PUBLIC_SPEAKING_COL].value)
+            #self.set_group_presentation(row_data_tuple[GROUP_PRESENTATION_COL].value)
+            self.set_email_administrative_software(row_data_tuple[EMAIL_ADMINISTRATIVE_SOFTWARE_COL].value)
+            self.set_zip(city_zip[self.city_you_live_in])
 
+            self.set_skills()
+            self.set_remote_only()
 
-        self.set_ID(row_data_tuple[ID_COL].value)
-        self.set_start_time(row_data_tuple[START_TIME_COL].value)
-        self.set_completion_time(row_data_tuple[COMPLETION_TIME_COL].value)
-        self.set_email(row_data_tuple[EMAIL_COL].value)
-        self.set_name(row_data_tuple[NAME_COL].value)
-        self.set_who_are_you(row_data_tuple[WHO_ARE_YOU_COL].value)
-        self.set_first_name(row_data_tuple[FIRST_NAME_COL].value)
-        self.set_last_name(row_data_tuple[LAST_NAME_COL].value)
-        self.set_primary_email(row_data_tuple[PRIMARY_EMAIL_COL].value)
-        self.set_backup_email(row_data_tuple[BACKUP_EMAIL_COL].value)
-        self.set_school_where_you_work(row_data_tuple[SCHOOL_WHERE_YOU_WORK_COL].value)
-        self.set_district_where_you_work(row_data_tuple[DISTRICT_WHERE_YOU_WORK_COL].value)
-        self.set_current_roles(row_data_tuple[CURRENT_ROLES_COL].value)
-        self.set_city_you_live_in(row_data_tuple[CITY_YOU_LIVE_IN_COL].value)
-        self.set_why_part_of_program(row_data_tuple[WHY_PART_OF_PROGRAM_COL].value)
-        self.set_flavor_of_work(row_data_tuple[FLAVOR_OF_WORK_COL].value)
-        self.set_why_most_interesting(row_data_tuple[WHY_MOST_INTERESTING_COL].value)
-        self.set_open_to_teaching(row_data_tuple[OPEN_TO_TEACHING_COL].value)
-        self.set_open_to_curriculum_design(row_data_tuple[OPEN_TO_CURRICULUM_DESIGN_COL].value)
-        self.set_Open_to_camp_counselor(row_data_tuple[OPEN_TO_CAMP_COUNSELOR_COL].value)
-        self.set_particular_stem_fields(row_data_tuple[PARTICULAR_STEM_FIELDS_COL].value)
-        self.set_what_work_locations(row_data_tuple[WHAT_WORK_LOCATIONS_COL].value)
-        self.set_open_to_travelling(row_data_tuple[OPEN_TO_TRAVELLING_COL].value)
-        self.set_grade_levels(row_data_tuple[GRADE_LEVELS_COL].value)
-        self.set_stem_domains(row_data_tuple[STEM_DOMAINS_COL].value)
-        self.set_spreadsheet_software(row_data_tuple[SPREADSHEET_SOFTWARE_COL].value)
-        self.set_word_processings_software(row_data_tuple[WORD_PROCESSINGS_SOFTWARE_COL].value)
-        self.set_presentation_software(row_data_tuple[PRESENTATION_SOFTWARE_COL].value)
-        self.set_elementary_level_instruction(row_data_tuple[ELEMENTARY_LEVEL_INSTRUCTION_COL].value)
-        self.set_curriculum_design(row_data_tuple[CURRICULUM_DESIGN_COL].value)
-        self.set_project_management(row_data_tuple[PROJECT_MANAGEMENT_COL].value)
-        self.set_secondary_level_instruction(row_data_tuple[SECONDARY_LEVEL_INSTRUCTION_COL].value)
-        self.set_experiences_or_interests(row_data_tuple[EXPERIENCES_OR_INTERESTS_COL].value)
-        self.set_linkedin_profile(row_data_tuple[LINKEDIN_PROFILE_COL].value)
-        self.set_adult_education_training(row_data_tuple[ADULT_EDUCATION_TRAINING_COL].value)
-        self.set_public_speaking(row_data_tuple[PUBLIC_SPEAKING_COL].value)
-        #self.set_group_presentation(row_data_tuple[GROUP_PRESENTATION_COL].value)
-        self.set_email_administrative_software(row_data_tuple[EMAIL_ADMINISTRATIVE_SOFTWARE_COL].value)
-        self.set_zip(city_zip[self.city_you_live_in])
+        if type(row_data_tuple) == type(blanklist):
+            self.set_ID(row_data_tuple[ID_COL])
+            self.set_start_time(row_data_tuple[START_TIME_COL])
+            self.set_completion_time(row_data_tuple[COMPLETION_TIME_COL])
+            self.set_email(row_data_tuple[EMAIL_COL])
+            self.set_name(row_data_tuple[NAME_COL])
+            self.set_who_are_you(row_data_tuple[WHO_ARE_YOU_COL])
+            self.set_first_name(row_data_tuple[FIRST_NAME_COL])
+            self.set_last_name(row_data_tuple[LAST_NAME_COL])
+            self.set_primary_email(row_data_tuple[PRIMARY_EMAIL_COL])
+            self.set_backup_email(row_data_tuple[BACKUP_EMAIL_COL])
+            self.set_school_where_you_work(row_data_tuple[SCHOOL_WHERE_YOU_WORK_COL])
+            self.set_district_where_you_work(row_data_tuple[DISTRICT_WHERE_YOU_WORK_COL])
+            self.set_current_roles(row_data_tuple[CURRENT_ROLES_COL])
+            self.set_city_you_live_in(row_data_tuple[CITY_YOU_LIVE_IN_COL])
+            self.set_why_part_of_program(row_data_tuple[WHY_PART_OF_PROGRAM_COL])
+            self.set_flavor_of_work(row_data_tuple[FLAVOR_OF_WORK_COL])
+            self.set_why_most_interesting(row_data_tuple[WHY_MOST_INTERESTING_COL])
+            self.set_open_to_teaching(row_data_tuple[OPEN_TO_TEACHING_COL])
+            self.set_open_to_curriculum_design(row_data_tuple[OPEN_TO_CURRICULUM_DESIGN_COL])
+            self.set_Open_to_camp_counselor(row_data_tuple[OPEN_TO_CAMP_COUNSELOR_COL])
+            self.set_particular_stem_fields(row_data_tuple[PARTICULAR_STEM_FIELDS_COL])
+            self.set_what_work_locations(row_data_tuple[WHAT_WORK_LOCATIONS_COL])
+            self.set_open_to_travelling(row_data_tuple[OPEN_TO_TRAVELLING_COL])
+            self.set_grade_levels(row_data_tuple[GRADE_LEVELS_COL])
+            self.set_stem_domains(row_data_tuple[STEM_DOMAINS_COL])
+            self.set_spreadsheet_software(row_data_tuple[SPREADSHEET_SOFTWARE_COL])
+            self.set_word_processings_software(row_data_tuple[WORD_PROCESSINGS_SOFTWARE_COL])
+            self.set_presentation_software(row_data_tuple[PRESENTATION_SOFTWARE_COL])
+            self.set_elementary_level_instruction(row_data_tuple[ELEMENTARY_LEVEL_INSTRUCTION_COL])
+            self.set_curriculum_design(row_data_tuple[CURRICULUM_DESIGN_COL])
+            self.set_project_management(row_data_tuple[PROJECT_MANAGEMENT_COL])
+            self.set_secondary_level_instruction(row_data_tuple[SECONDARY_LEVEL_INSTRUCTION_COL])
+            self.set_experiences_or_interests(row_data_tuple[EXPERIENCES_OR_INTERESTS_COL])
+            self.set_linkedin_profile(row_data_tuple[LINKEDIN_PROFILE_COL])
+            self.set_adult_education_training(row_data_tuple[ADULT_EDUCATION_TRAINING_COL])
+            self.set_public_speaking(row_data_tuple[PUBLIC_SPEAKING_COL])
+            #self.set_group_presentation(row_data_tuple[GROUP_PRESENTATION_COL])
+            self.set_email_administrative_software(row_data_tuple[EMAIL_ADMINISTRATIVE_SOFTWARE_COL])
+            self.set_zip(city_zip[self.city_you_live_in])
 
-        self.set_skills()
-        self.set_remote_only()
+            self.set_skills()
+            self.set_remote_only()
+
 
     def set_ID(self, ID):
         self.ID = ID

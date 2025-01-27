@@ -8,7 +8,7 @@ log = logging.getLogger(__name__)
 
 
 # Load in the dictionary that holds in the distances between zipcodes.
-with open('/home/jamie/Source/Python/skillMatch/data/distance_miles.pickle', 'rb') as distance:
+with open('/home/jamie/Source/Python/skillMatch/data/Input/distance_miles.pickle', 'rb') as distance:
     distance_dict = pickle.load(distance)
 
 
