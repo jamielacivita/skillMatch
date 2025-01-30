@@ -163,7 +163,7 @@ class Extern(AttributeSet):
         self.open_to_travelling = None
         self.grade_levels = None                    ## X
         self.stem_domains = None                    ## Y
-        self.spreadsheet_software = None                ## Z
+        self.spreadsheet_software = None            ## Z
         self.word_processings_software = None
         self.presentation_software = None
         self.elementary_level_instruction = None
@@ -182,7 +182,10 @@ class Extern(AttributeSet):
         self.communication_and_availability = None # Column AN (new in 2025)
         self.open_to = None # column U (new in 2025)
         self.business_software_and_skills = None # column AW (revised in 2025)
-
+        self.comfortable_and_confident = None # column AO
+        self.open_to_secondary_teaching = None #(new in 2025) ## AQ
+        self.open_to_adult_teaching = None #(new in 2025) ## AR
+        self.externship_durations = None #(New in 2025) #AV
 
         #append a skills object to hold data for skills matches.
         self.skills = Skills.Skills()
@@ -326,7 +329,7 @@ class Extern(AttributeSet):
 
             self.set_flavor_of_work(row_data_tuple[extern_column["P"]].value)
             self.set_elementary_level_instruction(row_data_tuple[extern_column["Q"]].value)
-            self.set_open_to_curriculum_design(row_data_tuple[extern_column["R"]].value)
+            self.set_open_to_curriculum_design(row_data_tuple[extern_column["AT"]].value) #was R before.
             self.set_particular_stem_fields(row_data_tuple[extern_column["T"]].value)
             self.set_what_work_locations(row_data_tuple[extern_column["U"]].value)
 
@@ -351,21 +354,22 @@ class Extern(AttributeSet):
             self.set_phone(row_data_tuple[extern_column["AK"]].value)
             self.set_phone(row_data_tuple[extern_column["AL"]].value)
 
-            # best tine of day to reach you (column AM) goes here
+            # best time of day to reach you (column AM) goes here - No data in chart.
             self.set_communication_and_availability(row_data_tuple[extern_column["AN"]].value)
             self.set_business_software_and_skills(row_data_tuple[extern_column["AW"]])
-            # comfortable and confident (column AO) goes here
+            #todo : comfortable and confident (column AO) goes here
 
             self.open_to(row_data_tuple[extern_column["U"]])
-            # zip code where you live goes here (column AP)
-            # open to teaching secondary school (column AQ) goes here.
-            # open to teaching adults (column AR) goes here.
+            #todo :  zip code where you live goes here (column AP)
+            self.open_to_secondary_teaching(row_data_tuple[extern_column["AQ"]])
+            self.open_to_adult_teaching(row_data_tuple[extern_column["AR"]])
             self.set_Open_to_camp_counselor(row_data_tuple[extern_column["AS"]].value)
-            # open to curriculum design goes here (column AT)
+            #todo : open to curriculum design goes here (column AT)
 
-            # Question (column AU) goes here.
-            # While the typical externship is $5000 for 200 hours (column AV) goes here
-            # Particapted in program before (column AX) goes here.
+            #todo : Question (column AU) goes here.
+            self.externship_durations(row_data_tuple[extern_column["AV"]].value)
+
+            #todo :  Particapted in program before (column AX) goes here.
 
             self.set_why_most_interesting(row_data_tuple[WHY_MOST_INTERESTING_COL].value)
             self.set_open_to_teaching(row_data_tuple[OPEN_TO_TEACHING_COL].value)
@@ -564,6 +568,15 @@ class Extern(AttributeSet):
 
     def set_open_to(self, open_to):
         self.open_to = open_to
+
+    def set_open_to_secondary_teaching(self, open_to_secondary):
+        self.open_to_secondary_teaching = open_to_secondary
+
+    def set_open_to_adult_teaching(self, open_to_adult_teaching):
+        self.open_to_adult_teaching = open_to_adult_teaching
+
+    def set_externship_durations(self, externship_durations):
+        self.externship_durations = externship_durations
 
     def set_skills(self):
         ### STEM Experience Match ###
@@ -965,6 +978,13 @@ class Extern(AttributeSet):
             out_text = out_text + f"\t* {s}"
         return out_text
 
+    def get_externship_durations_printable_list(self):
+        out_text = ""
+        selection_lst = self.get_.split(";")  # here.
+        for s in selection_lst:
+            out_text = out_text + f"\t* {s}"
+        return out_text
+
     def set_zip(self, zip):
         if zip == 83606:
             self.zip = 83605
@@ -977,6 +997,15 @@ class Extern(AttributeSet):
 
     def get_zip(self):
         return str(self.zip)
+
+    def get_open_to_secondary_teaching(self):
+        return self.open_to_secondary_teaching
+
+    def get_open_to_adult_teaching(self):
+        return self.open_to_adult_teaching
+
+    def get_externship_durations(self):
+        return self.externship_durations
 
     def __str__(self):
         out_str = ""
@@ -1064,7 +1093,11 @@ class Extern(AttributeSet):
 
             print("Instructional work they are open to during externship:")
             # Uses colums Q, AQ, AR, AS and AT.
-            #todo: start here.
+            print(f"Elementary teaching : {self.get_elementary_level_instruction()}") #Q
+            print(f"Secondary Teaching : {self.get_open_to_secondary_teaching()}") #AQ
+            print(f"Adult Teaching : {self.get_open_to_adult_teaching()}") #AR
+            print(f"Camp counselor : {self.get_Open_to_camp_counselor()}") #AS
+            print(f"Curriculum design : {self.get_open_to_curriculum_design()}") #AT
 
             print("Externship durations they are available for:")
             # uses colum AV

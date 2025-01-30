@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="250127-1118_dataRun">
+    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="continuing to update extern reference and extern dossier.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Extern.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extern.py" afterDir="false" />
     </list>
@@ -114,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738001946916</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="continuing to update extern reference and extern dossier.">
+      <option name="closed" value="true" />
+      <created>1738018555011</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738018555011</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +141,7 @@
     <MESSAGE value="Updated location of saving dossiers." />
     <MESSAGE value="Added in data location." />
     <MESSAGE value="250127-1118_dataRun" />
-    <option name="LAST_COMMIT_MESSAGE" value="250127-1118_dataRun" />
+    <MESSAGE value="continuing to update extern reference and extern dossier." />
+    <option name="LAST_COMMIT_MESSAGE" value="continuing to update extern reference and extern dossier." />
   </component>
 </project>
