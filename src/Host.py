@@ -107,12 +107,22 @@ class Host(AttributeSet):
         host_column["set_zip"] = 40
 
         host_column["AP"] = 41
+        host_column["set_travel_rerquired"] = 41
         host_column["AQ"] = 42
+        host_column["set_travel_rerquired_description"] = 42
         host_column["AR"] = 43
+        host_column["set_how_hours_spent"] = 43
         host_column["AS"] = 44
+        host_column["set_onboarding_and_training"] = 44
         host_column["AT"] = 45
+        host_column["set_who_responsible_onboarding"] = 45
+
         host_column["AU"] = 46
+        host_column["set_how_many_hours_onboarding"] = 46
         host_column["AV"] = 47
+        host_column["set_anything_else"] = 47
+
+
         host_column["AW"] = 48
         host_column["AX"] = 49
         host_column["AY"] = 50
@@ -280,7 +290,7 @@ class Host(AttributeSet):
         self.set_continuing_relationship(row_data_tuple[host_column["set_continuing_relationship"]]) #V
         # Column W is skipped - no data.
         self.set_how_many_externs(row_data_tuple[host_column["set_how_many_externs"]]) #X
-        self.set_project_name(row_data_tuple[host_column["set_project_name"]].value) #Y
+        self.set_project_name(row_data_tuple[host_column["set_project_name"]]) #Y
         self.set_project_objectives(row_data_tuple[host_column["set_project_objectives"]]) #Z
 
         self.set_description(row_data_tuple[host_column["set_description"]]) #AA
@@ -290,7 +300,7 @@ class Host(AttributeSet):
         self.set_set_up_success(row_data_tuple[host_column["set_set_up_success"]]) #AE
 
         self.set_what_type_learning(row_data_tuple[host_column["set_what_type_learning"]]) #AF
-        self.set_learn_the_things(row_data_tuple[host_column["set_learn_the_things"]].value) #AG
+        self.set_learn_the_things(row_data_tuple[host_column["set_learn_the_things"]]) #AG
         self.set_business_education_skills(row_data_tuple[host_column["set_business_education_skills"]]) #AH
         self.set_looking_for_experience(row_data_tuple[host_column["set_looking_for_experience"]]) #AI
         self.set_type_of_person(row_data_tuple[host_column["set_type_of_person"]]) #AJ
@@ -302,16 +312,25 @@ class Host(AttributeSet):
         self.set_work_done_remotely(row_data_tuple[host_column["set_work_done_remotely"]]) #AN
         self.set_zip(row_data_tuple[host_column["set_zip"]]) #AO
 
-        self.set_travel_rerquired(row_data_tuple[TRAVEL_RERQUIRED_COL].value)
-        self.set_travel_rerquired_description(row_data_tuple[TRAVEL_RERQUIRED_DESCRIPTION_COL].value)
-        self.set_how_hours_spent(row_data_tuple[HOW_HOURS_SPENT_COL].value)
-        self.set_onboarding_and_training(row_data_tuple[ONBOARDING_AND_TRAINING_COL].value)
-        self.set_who_responsible_onboarding(row_data_tuple[WHO_RESPONSIBLE_ONBOARDING_COL].value)
-        self.set_how_many_hours_onboarding(row_data_tuple[HOW_MANY_HOURS_ONBOARDING_COL].value)
-        self.set_anything_else(row_data_tuple[ANYTHING_ELSE_COL].value)
+        self.set_travel_rerquired(row_data_tuple[host_column["set_travel_rerquired"]]) #AP
+        self.set_travel_rerquired_description(row_data_tuple[host_column["set_travel_rerquired_description"]]) #AQ
+        self.set_how_hours_spent(row_data_tuple[host_column["set_how_hours_spent"]]) #AR
+        self.set_onboarding_and_training(row_data_tuple[host_column["set_onboarding_and_training"]]) #AS
+        self.set_who_responsible_onboarding(row_data_tuple[host_column["set_who_responsible_onboarding"]]) #AT
 
-        self.set_min_externs(row_data_tuple[MIN_EXTERNS].value)
-        self.set_max_externs(row_data_tuple[MAX_EXTERNS].value)
+        self.set_how_many_hours_onboarding(row_data_tuple[host_column["set_how_many_hours_onboarding"]]) #AU
+        self.set_anything_else(row_data_tuple[host_column["set_anything_else"]]) #AV
+
+        # Making a connection - column AW goes here.
+        # Work 100 hours - collumn AX goes here.
+        # Location of orgnization state - column AY goes here.
+        # Zip code or orgnization - column #AZ goes here.
+        # committment to continued relatinship - column BA goes here.
+        # maintianing a connecton - Column BB goes here.
+        # education student skills - column BC goes here.
+
+        #self.set_min_externs(row_data_tuple[MIN_EXTERNS].value)
+        #self.set_max_externs(row_data_tuple[MAX_EXTERNS].value)
 
         self.set_skills()
 
