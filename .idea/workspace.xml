@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="Host.py is now able to ingest .csv files.">
+    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="Adding new matching logic.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/Output/dossier/extern/Abrams_Carissa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/extern/Abrams_Carissa.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/Output/dossier/extern/Alonzo_Dana.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/extern/Alonzo_Dana.txt" afterDir="false" />
@@ -202,12 +202,9 @@
       <change beforePath="$PROJECT_DIR$/data/Output/dossier/extern/bowman_christopher.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/extern/bowman_christopher.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/Output/dossier/extern/nilsen_amy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/extern/nilsen_amy.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/Output/dossier/extern/valencia_gabriela.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/extern/valencia_gabriela.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Extern.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Host.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Host.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Match.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MatchSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatchSet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/logging_config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/src/logging_config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,8 +249,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Extern.executor": "Run",
-    "Python.Host.executor": "Run",
-    "Python.Match.executor": "Debug",
+    "Python.Host.executor": "Debug",
+    "Python.Match.executor": "Run",
     "Python.MatchSet.executor": "Debug",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -356,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738336162745</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adding new matching logic.">
+      <option name="closed" value="true" />
+      <created>1738341924159</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738341924159</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,17 +383,7 @@
     <MESSAGE value="continuing to update extern reference and extern dossier." />
     <MESSAGE value="In progress on updates to Host.py to ingest .csv files." />
     <MESSAGE value="Host.py is now able to ingest .csv files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Host.py is now able to ingest .csv files." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/Match.py</url>
-          <line>74</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Adding new matching logic." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new matching logic." />
   </component>
 </project>

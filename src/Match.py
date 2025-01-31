@@ -1,9 +1,13 @@
 
 import pickle
+
+from OpenGL.wrapper import none_or_pass
+
 import Skills as Skills
 from prettytable import PrettyTable as PrettyTable
 import logging
 log = logging.getLogger(__name__)
+filelog = logging.getLogger("FileLogger")
 # set level to 10 to enable debugging.
 
 
@@ -23,6 +27,11 @@ class Match:
         self.distance_notes = None
         self.arson = None # used to store 1st Filter - location result.
         self.basin = None # used to store 2nd Filter - location Host AN / Extern U
+        self.career = None # used to store teaching openness filter result.
+        self.defend = None # used to store business skills match
+        self.endorse = None # used to store STEM skills match.
+        self.fortify = None # used to store STEM intrest match.
+        self.gavel = None # Used to store Hours Match
 
         self.extern_obj = extern_obj
         self.host_obj = host_obj
@@ -69,8 +78,12 @@ class Match:
         # Added Matching Logic 2025
         self.set_arson()
         #log.debug(f"arson : {self.get_arson()}")
-        self.set_basin()
-        log.debug(f"basin: {self.basin}")
+        #self.set_basin()
+        #self.set_career()
+        #self.set_defend()
+        #self.set_endorse()
+        #self.set_fortify()
+        self.set_gavel()
 
         if log.level <= logging.DEBUG:
             self.print_skill_chart()
@@ -595,19 +608,22 @@ class Match:
         return self.basin
 
     def set_basin(self):
-        log.debug("In Basin")
+        filelog.info(f"In Basin {self.get_key()}")
         host_an = self.host_obj.work_done_remotely
         ext_u = self.extern_obj.what_work_locations
-        log.debug(f"host_an : {host_an}")
-        log.debug(f"ext_u : {ext_u}")
+        filelog.info(f"host_an : {host_an}")
+        filelog.info(f"ext_u : {ext_u}")
 
-        host_remote = None
-        host_hybrid = None
-        host_inperson = None
-        extern_remote = None
-        extern_hybrid = None
-        extern_inperson = None
+        host_remote = False
+        host_hybrid = False
+        host_inperson = False
+        extern_remote = False
+        extern_hybrid = False
+        extern_inperson = False
+        # set default value for basin
+        self.basin = "POOR"
 
+        # indentify host status:
         if "remote" in host_an:
             host_remote = True
         if "Hybrid" in host_an:
@@ -615,9 +631,233 @@ class Match:
         if "office" in host_an:
             host_inperson = True
 
-        #todo : start here by writing logic to set status of inten based on value in table.
+        # identify extern status:
+        # options In-Person;Remote;Hybrid;
+        if "In-Person" in ext_u:
+            extern_inperson = True
+
+        if "Remote" in ext_u:
+            extern_remote = True
+
+        if "Hybrid" in ext_u:
+            extern_hybrid = True
+
+        # Both Remote
+        if host_remote and extern_remote:
+            self.basin = "GOOD"
+
+        # Both (in-person or Hybrid) and Distance = GOOD
+        if ((host_inperson and extern_inperson) or (host_hybrid and extern_hybrid)) and self.arson == "GOOD":
+            self.basin = "GOOD"
+
+        # Both (in-person or Hybrid) and Distance = IFFY
+        if ((host_inperson and extern_inperson) or (host_hybrid and extern_hybrid)) and self.arson == "IFFY":
+            self.basin = "GOOD"
+
+        # One remobe ONLY, other in person or Hybrid only -- logic not added defaulting to poor.
+
+        filelog.info(f"basin : {self.basin}\n")
+
+    def get_carrear(self):
+        return self.career
+
+    def set_career(self):
+        filelog.debug(f"In Career {self.get_key()}")
+
+        host_column = self.host_obj.education_student_skills
+        extern_elementary = self.extern_obj.get_elementary_level_instruction() #Q
+        extern_secondary = self.extern_obj.get_open_to_secondary_teaching()
+        extern_adult = self.extern_obj.get_open_to_adult_teaching()
+        extern_camp = self.extern_obj.get_Open_to_camp_counselor()
+        extern_curriculum = self.extern_obj.get_open_to_curriculum_design()
+
+        #filelog.debug(f"host_column : {host_column}")
+
+        #filelog.debug(f"extern_elementary : {extern_elementary}")
+        #filelog.debug(f"extern_secondary : {extern_secondary}")
+        #filelog.debug(f"extern_adult : {extern_adult}")
+        #filelog.debug(f"extern_camp : {extern_camp}")
+        #filelog.debug(f"extern_curriculum : {extern_curriculum}")
+
+        #deafult value
+        self.career = "FINE"
+
+        if "Elementary" in host_column and extern_elementary == "No":
+            self.career = "POOR"
+            #filelog.debug("Poor for Elementary")
+
+        if "Secondary" in host_column and extern_secondary == "No":
+            self.career = "POOR"
+            #filelog.debug("Poor for Secondary")
+
+
+        if "counselor" in host_column and extern_camp == "No":
+            self.career = "POOR"
+            #filelog.debug("Poor for Conselor")
+
+        if "Curriculum" in host_column and extern_curriculum == "No":
+            self.career = "POOR"
+            #filelog.debug("Poor for Curriculum")
+
+        if "adult" in host_column and extern_adult == "No":
+            self.career = "POOR"
+            #filelog.debug("Poor for Adult")
+
+        #filelog.debug(f"{self.get_carrear()}\n")
+
+    def get_defend(self):
+        return self.defend
+
+    def set_defend(self):
+        filelog.debug(f"Defend {self.get_key()}")
+        host_column = self.host_obj.get_business_education_skills()
+        extern_colum = self.extern_obj.get_business_software_and_skills()
+        host_column_lst = host_column.split(";")
+        extern_column_lst = extern_colum.split(";")
+
+        host_column_lst.remove("")
+        extern_column_lst.remove("")
+
+        common = set(host_column_lst) & set(extern_column_lst)
+        number_common = len(common)
+
+        filelog.debug(f"host column : {host_column_lst}")
+        filelog.debug(f"extern column: {extern_column_lst}")
+        filelog.debug(f"common: {common}")
+        filelog.debug(f"number in common: {number_common}")
+
+        if number_common <= 1:
+            self.defend = "IFFY"
+
+        if (number_common >= 2) and (number_common <= 4):
+            self.defend = "GOOD"
+
+        if (number_common >= 5) and (number_common <= 7):
+            self.defend = "STRONG"
+
+        if "No specific skills needed" in host_column:
+            self.defend = "FINE"
+
+        filelog.debug(f"{self.get_defend()}\n")
+
+    def get_endorse(self):
+        return self.endorse
+
+    def set_endorse(self):
+        filelog.debug(f"Endorse {self.get_key()}")
+
+        host_ai = self.host_obj.get_looking_for_experience()
+        extern_x = self.extern_obj.get_stem_domains()
+
+        host_ai_lst = host_ai.split(";")
+        extern_x_lst_raw = extern_x.split(";")
+        extern_x_lst = []
+        for n in extern_x_lst_raw:
+            extern_x_lst.append(n.strip())
+
+        host_ai_lst.remove("")
+        extern_x_lst.remove("")
+
+        common = set(host_ai_lst) & set(extern_x_lst)
+        number_common = len(common)
+
+        filelog.debug(f"host_ai : {host_ai}")
+        filelog.debug(f"extern_x : {extern_x}")
+        filelog.debug(f"common : {common}")
+        filelog.debug(f"number common : {number_common}")
+
+        self.endorse = "FINE" # Default Value
+        if number_common == 1:
+            self.endorse = "GOOD"
+
+        if number_common > 1:
+            self.endorse = "STRONG"
+
+        filelog.debug(f"endorse : {self.get_endorse()}\n")
+
+    def get_fortify(self):
+        return self.fortify
+
+    def set_fortify(self):
+        filelog.debug(f"Fortify {self.get_key()}")
+        self.fortify = "IFFY"
+
+        host_ai = self.host_obj.get_looking_for_experience()
+        extern_t = self.extern_obj.get_particular_stem_fields()
+
+        host_ai_lst = host_ai.split(";")
+        extern_t_lst = extern_t.split("'")
+
+        host_ai_lst.remove("")
+        if "" in extern_t_lst:
+            extern_t_lst.remove("")
+
+        common = set(host_ai_lst) & set(extern_t_lst)
+        number_common = len(common)
+
+        filelog.debug(f"host_ai : {host_ai}")
+        filelog.debug(f"extern_t : {extern_t}")
+        filelog.debug(f"common : {common}")
+        filelog.debug(f"number common : {number_common}")
+
+        if number_common >= 1:
+            self.fortify = "GOOD"
+
+        filelog.debug(f"fortify : {self.get_fortify()}\n")
+
+    def get_gavel(self):
+        return self.gavel
+
+    def set_gavel(self):
+        filelog.debug(f"Gavel : {self.get_key()}")
+
+        host_hours_lst = []
+        extern_hours_lst = []
+
+        host_ax = self.host_obj.get_one_hundred_hours()
+        # ax is No for 200 only
+        # ax is Yes for 100 or 200.
+        extern_av = self.extern_obj.get_externship_durations()
+        extern_av_lst = extern_av.split(";")
+
+        for n in extern_av_lst:
+            if "100" in n:
+                extern_hours_lst.append("100")
+            if "200" in n:
+                extern_hours_lst.append("200")
+
+        if host_ax == "Yes":
+            host_hours_lst.append("100")
+            host_hours_lst.append("200")
+        else:
+            host_hours_lst.append("200")
+
+        common = set(host_hours_lst) & set(extern_hours_lst)
+        number_common = len(common)
+
+        filelog.debug(f"host ax : {host_ax}")
+        filelog.debug(f"extern av : {extern_av}")
+
+        filelog.debug(f"host_hours_lst : {host_hours_lst}")
+        filelog.debug(f"extern_hours_lst : {extern_hours_lst}")
+
+        filelog.debug(f"common : {common}")
+        filelog.debug(f"{number_common}")
+
+        if number_common >= 1:
+            self.gavel = "GOOD"
+        else:
+            self.gavel = "IFFY"
+
+        filelog.debug(f"{self.get_gavel()}")
 
 
 
 
-        self.basin = "JWTO"
+
+
+
+
+
+
+

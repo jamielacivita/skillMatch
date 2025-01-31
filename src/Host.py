@@ -81,9 +81,6 @@ class Host(AttributeSet):
         host_column["AE"] = 30
         host_column["set_set_up_success"] = 30
 
-
-
-
         host_column["AF"] = 31
         host_column["set_what_type_learning"] = 31
         host_column["AG"] = 32
@@ -122,15 +119,16 @@ class Host(AttributeSet):
         host_column["AV"] = 47
         host_column["set_anything_else"] = 47
 
-
         host_column["AW"] = 48
         host_column["AX"] = 49
+        host_column["set_one_hundred_hours"] = 49
         host_column["AY"] = 50
         host_column["AZ"] = 51
 
         host_column["BA"] = 52
         host_column["BB"] = 53
         host_column["BC"] = 54
+        host_column["education_student_skills"] = 54
 
         self.id = None #A
         self.start_time = None #B
@@ -201,66 +199,10 @@ class Host(AttributeSet):
         self.maintain_connection_continued = None #BB
         self.education_student_skills = None #BC
 
-
         #append a skills object to hold data for skills matches.
         self.skills = Skills.Skills()
 
 
-
-
-
-        #ID_COL = 0                              ## A
-        #START_TIME_COL = 1                      ## B
-        #COMPLETION_TIME_COL = 2                 ## C
-        #EMAIL_COL = 3                           ## D
-        #NAME_COL = 4                            ## E
-        #LAST_MODIFIED_TIME_COL = 5              ## F
-        #COMPLETED_WORK_PROPOSAL_COL = 6         ## G
-        #FIRST_NAME_COL = 7                      ## H
-        #LAST_NAME_COL = 8                       ## I
-        #EMAIL_ADDRESS_COL = 9                   ## J
-        #ORGANIZATION_NAME_COL = 10              ## K
-        #LOCATION_OF_ORGANIZATION_COL = 11       ## L
-        #OVERVIEW_OF_ORGANIZATION_COL = 12       ## M
-        #TITLE_ROLE_COL = 13                     ## N
-        #SPECIFIC_EDUCATOR_COL = 14              ## O
-        #PRIMARY_CONTACT_COL = 15                ## P
-        #POC_FIRST_NAME_COL = 16                 ## Q
-        #POC_LAST_NAME_COL  = 17                 ## R
-        #POC_EMAIL_COL = 18                      ## S
-        #POC_TITLE_ROLE_COL = 19                 ## T
-        #WHY_PART_COL = 20                       ## U
-        #HOURS_PER_WEEK_COL = 21                 ## V
-        #CONTINUING_RELATIONSHIP_COL = 22        ## W
-        #HOW_MANY_EXTERNS_COL = 23               ## X
-        #PROJECT_NAME_COL = 24                   ## y
-        #PROJECT_OBJECTIVES_COL = 25             ## Z
-        #DESCRIPTION_COL = 26                    ## AA
-        #MEANINGFUL_LEARNING_COL = 27            ## AB
-        #NETWORK_GROWTH_COL = 28                 ## AC
-        #PROFESSIONAL_LEVEL_WORK_COL = 29        ## AD
-        #SET_UP_SUCCESS_COL = 30                 ## AE
-        #WHAT_TYPE_LEARNING_COL = 31             ## AF
-        #LEARN_THE_THINGS_COL = 32               ## AG
-        #BUSINESS_EDUCATION_SKILLS_COL = 33      ## AH
-        #LOOKING_FOR_EXPERIENCE_COL = 34         ## AI
-        #TYPE_OF_PERSON_COL = 35                 ## AJ
-        #REPORT_TO_NAME_COL = 36                 ## AK
-        #REPORT_TO_EMAIL_COL = 37                ## AL
-        #OTHER_TEAMS_COL = 38                    ## AM
-        #WORK_DONE_REMOTELY_COL = 39             ## AN
-        #ZIP_COL = 40                            ## AO
-        #TRAVEL_RERQUIRED_COL = 41               ## AP
-        #TRAVEL_RERQUIRED_DESCRIPTION_COL = 42   ## AQ
-        #HOW_HOURS_SPENT_COL = 43                ## AR
-        #ONBOARDING_AND_TRAINING_COL = 44        ## AS
-        #WHO_RESPONSIBLE_ONBOARDING_COL = 45     ## AT
-        #HOW_MANY_HOURS_ONBOARDING_COL = 46      ## AU
-        #ANYTHING_ELSE_COL = 47                  ## AV
-        #MIN_EXTERNS = 48                        ## AW
-        #MAX_EXTERNS = 49                        ## Ax
-
-        #todo : start here
         self.set_id(row_data_tuple[host_column["set_id"]]) #A
         self.set_start_time(row_data_tuple[host_column["set_start_time"]]) #B
         self.set_completion_time(row_data_tuple[host_column["set_completion_time"]]) #C
@@ -323,12 +265,13 @@ class Host(AttributeSet):
 
         # Making a connection - column AW goes here.
         # Work 100 hours - collumn AX goes here.
+        self.set_one_hundred_hours(row_data_tuple[host_column["set_one_hundred_hours"]]) #Ax
         # Location of orgnization state - column AY goes here.
         # Zip code or orgnization - column #AZ goes here.
         # committment to continued relatinship - column BA goes here.
         # maintianing a connecton - Column BB goes here.
         # education student skills - column BC goes here.
-
+        self.set_education_student_skills(row_data_tuple[host_column["education_student_skills"]]) #BC
         #self.set_min_externs(row_data_tuple[MIN_EXTERNS].value)
         #self.set_max_externs(row_data_tuple[MAX_EXTERNS].value)
 
@@ -478,6 +421,12 @@ class Host(AttributeSet):
 
     def get_hours_per_week(self):
         return self.hours_per_week
+
+    def set_education_student_skills(self, education_student_skills):
+        self.education_student_skills = education_student_skills
+
+    def get_education_student_skills(self):
+        return self.education_student_skills
 
     def set_continuing_relationship(self, continuing_relationship):
         self.continuing_relationship = continuing_relationship
@@ -893,6 +842,12 @@ class Host(AttributeSet):
             return True
         else:
             return False
+
+    def set_one_hundred_hours(self, one_hundred_hours):
+        self.one_hundred_hours = one_hundred_hours
+
+    def get_one_hundred_hours(self):
+        return self.one_hundred_hours
 
     def __str__(self):
         out_str = ""
