@@ -5,4 +5,5 @@
 EdApplicationPath = r"/home/jamie/Source/Python/skillMatch/data/Input/250127_Externship_ExternApplication.csv"
 
 # This is the path to the xlsx file listing the sites who want to host a teacher to teach in the program.
-HostApplicationPath = r"/home/jamie/Source/Python/skillMatch/data/Input/240314-025428_HostApplication_Final.xlsx"
+#HostApplicationPath = r"/home/jamie/Source/Python/skillMatch/data/Input/240314-025428_HostApplication_Final.xlsx"
+HostApplicationPath = r"/home/jamie/Source/Python/skillMatch/data/Input/250127_Externship_HostApplication.csv"

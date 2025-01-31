@@ -17,24 +17,36 @@ log = logging.getLogger(__name__)
 
 class MatchSet():
 
-    def parse_host_dataframe(self, dataframe):
+    def parse_host_dataframe(self, dataframe=None, dataframecsv=None):
         """
         :param dataframe:
         :return: a list of lists holding the information in the dataframe.
         """
+        if dataframe is not None:
+            out_lst = []
 
-        out_lst = []
+            FIRST_DATA_ROW = 2
 
-        FIRST_DATA_ROW = 2
+            for row in dataframe.iter_rows(FIRST_DATA_ROW, dataframe.max_row):
+                ## each row represents a host
+                ## create and populate host object
+                host_obj = Host.Host(row)
+                out_lst.append(host_obj)
 
-        for row in dataframe.iter_rows(FIRST_DATA_ROW, dataframe.max_row):
-            ## each row represents a host
-            ## create and populate host object
-            host_obj = Host.Host(row)
-            out_lst.append(host_obj)
+            return out_lst
 
-        return out_lst
+        elif dataframecsv is not None:
+            out_lst = []
+            # using a csvdataframe
+            # log.debug("using a csv dataframe.")
+            FIRST_DATA_ROW = 1
+            LAST_DATA_ROW = len(dataframecsv)
 
+            for row in dataframecsv[FIRST_DATA_ROW:LAST_DATA_ROW]:
+                host_obj = Host.Host(row)
+                out_lst.append(host_obj)
+
+            return out_lst
 
     def get_extern_dataframe(self):
         """
@@ -63,7 +75,7 @@ class MatchSet():
         """
         out_lst = []
 
-        if (dataframe is not None):
+        if dataframe is not None:
             # using a xlsxdataframe
             # log.debug("using an xlsx dataframe.")
             FIRST_DATA_ROW = 2
@@ -71,8 +83,9 @@ class MatchSet():
                 extern_obj = Extern.Extern(row)
                 out_lst.append(extern_obj)
 
-        # using a csvdataframe
-        elif (dataframecsv is not None):
+
+        elif dataframecsv is not None:
+            # using a csvdataframe
             # log.debug("using a csv dataframe.")
             FIRST_DATA_ROW = 1
             LAST_DATA_ROW = len(dataframecsv)
@@ -85,7 +98,7 @@ class MatchSet():
 
     def get_host_objects_lst(self):
         host_dataframe = self.get_host_dataframe()
-        host_objects_lst = self.parse_host_dataframe(host_dataframe)
+        host_objects_lst = self.parse_host_dataframe(dataframecsv=host_dataframe)
         return host_objects_lst
 
     def get_extern_obj_lst(self):
@@ -110,12 +123,26 @@ class MatchSet():
         Given a path to a host file return a dataframe records.
         :return:
         """
-        #host_filename = "/data/Input/240314-025428_HostApplication_Final.xlsx"
-        host_filename = data_config.HostApplicationPath
-        dataframe = openpyxl.load_workbook(host_filename)
-        dataframe1 = dataframe.active
 
-        return dataframe1
+        host_filename = data_config.HostApplicationPath
+        if (".xlsx" in host_filename):
+            log.debug("Using a .xlsx file for the hosts data.")
+            dataframe = openpyxl.load_workbook(host_filename)
+            dataframe1 = dataframe.active
+
+            return dataframe1
+
+        elif (".csv" in host_filename):
+            log.debug("Using a .csv file for the hosts data.")
+            dataframe1 = []
+
+            with open(host_filename, encoding='latin-1') as csvfile:
+                spamreader = csv.reader(csvfile)
+                for row in spamreader:
+                    dataframe1.append(row)
+
+            return dataframe1
+
 
     def __init__(self):
         log.debug("250127 : Generating a Matchset Object.")
