@@ -158,8 +158,8 @@ class Extern(AttributeSet):
         #self.open_to_teaching = None               ## Column Unknown
         self.open_to_curriculum_design = None
         self.Open_to_camp_counselor = None
-        self.particular_stem_fields = None          ## U
-        self.what_work_locations = None
+        self.particular_stem_fields = None
+        self.what_work_locations = None ## U
         self.open_to_travelling = None
         self.grade_levels = None                    ## X
         self.stem_domains = None                    ## Y

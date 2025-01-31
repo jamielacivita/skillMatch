@@ -180,7 +180,7 @@ class Host(AttributeSet):
         self.other_teams = None #AM
         self.work_done_remotely = None #AN
 
-        self.zip = None #AO
+        self.zip = None # AO
         self.travel_rerquired = None #AP
         self.travel_rerquired_description = None #AQ
         self.how_hours_spent = None #AR
@@ -340,8 +340,8 @@ class Host(AttributeSet):
 
     def set_id(self, id):
         self.id = id
-        if not isinstance(self.id, int):
-            print("Warning!")
+        #if not isinstance(self.id, int):
+            #log.debug("\tself.id is not an integer.")
 
     def get_id(self):
         return self.id

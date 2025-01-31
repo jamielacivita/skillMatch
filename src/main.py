@@ -25,6 +25,7 @@ if __name__ == "__main__":
 
     log.debug("Generate a Match set Object")
     match_set_object = MatchSet.MatchSet()
+
     log.debug("Print host dossiers.")
     match_set_object.print_host_dossiers()
     log.debug("Print extern dossiers.")

@@ -15,12 +15,20 @@ with open('/home/jamie/Source/Python/skillMatch/data/Input/distance_miles.pickle
 class Match:
 
     def __init__(self, extern_obj, host_obj):
-        log.debug("\n")
-        log.info("Creating a match object")
+        log.debug("\nCreating a match object")
+        self.extern_obj = None
+        self.host_obj = None
+        self.key = None
+        self.distance = None
+        self.distance_notes = None
+        self.arson = None # used to store 1st Filter - location result.
+        self.basin = None # used to store 2nd Filter - location Host AN / Extern U
+
         self.extern_obj = extern_obj
         self.host_obj = host_obj
 
-        self.key = (extern_obj.get_id(), host_obj.get_id())
+        self.set_key()
+
         log.debug(f"match key : {self.key}")
         self.host_id = f"{host_obj.get_id()}"
         self.host_name = f"{self.host_obj.get_organization_name()}"
@@ -41,7 +49,6 @@ class Match:
         self.biz_skills_match_score = 0
         self.work_style_match_score = 0
         self.total_score = 0
-        self.distance = None
         self.distance_notes = ""
         self.remote_match = None
         self.skills = Skills.Skills()
@@ -60,16 +67,26 @@ class Match:
         self.set_total_score()
 
         # Added Matching Logic 2025
-
-        # First Filter - Location
-        # Calculate distance
-        distance = self.calculate_distance()
-        log.debug(f"JWTO Calculsted Distance {distance}:")
-
+        self.set_arson()
+        #log.debug(f"arson : {self.get_arson()}")
+        self.set_basin()
+        log.debug(f"basin: {self.basin}")
 
         if log.level <= logging.DEBUG:
             self.print_skill_chart()
-            print("foo.")
+
+    def __str__(self):
+        out_str = ""
+        out_str = out_str + "\n"
+        out_str = out_str + f"key : {self.key} : match score : {self.match_score}\n"
+        out_str = out_str + f"curriculum design match : {self.curriculum_design_match}\n"
+        out_str = out_str + "-- host object skills --\n"
+        out_str = out_str + f"{self.host_obj.skills}\n"
+        out_str = out_str + "-- extern object skills --\n"
+        out_str = out_str + f"{self.extern_obj.skills}\n"
+        # out_str = out_str + self.print_skill_chart()
+        out_str = out_str + "\n"
+        return out_str
 
     def perform_matching_for_stemexp(self, extern_skills, host_skills):
         # calculate matching for stemexp
@@ -406,19 +423,6 @@ class Match:
         self.total_score = out_score
         return out_score
 
-    def __str__(self):
-        out_str = ""
-        out_str = out_str + "\n"
-        out_str = out_str + f"key : {self.key} : match score : {self.match_score}\n"
-        out_str = out_str + f"curriculum design match : {self.curriculum_design_match}\n"
-        out_str = out_str + "-- host object skills --\n"
-        out_str = out_str + f"{self.host_obj.skills}\n"
-        out_str = out_str + "-- extern object skills --\n"
-        out_str = out_str + f"{self.extern_obj.skills}\n"
-        # out_str = out_str + self.print_skill_chart()
-        out_str = out_str + "\n"
-        return out_str
-
     def print_skill_chart(self):
         out_table = PrettyTable()
         out_table.field_names = ["Skill", "Extern", "Host"]
@@ -477,6 +481,9 @@ class Match:
 
         print(out_table)
         return None
+
+    def set_key(self):
+        self.key = (self.extern_obj.get_id(), self.host_obj.get_id())
 
     def get_key(self):
         return self.key
@@ -562,3 +569,55 @@ class Match:
 
     def get_total_score(self):
         return self.total_score
+
+    def get_arson(self):
+        return self.arson
+
+    def set_arson(self):
+        """
+        :Input: None - uses embedded peroperties.
+        :return: None - side effect is to set the first filter location - distance based on zip code.
+        """
+        #log.debug(f"In arson.")
+        #log.debug("Distance based on ZIP code")
+        #log.debug(f"Distance : {self.distance}")
+        # todo: sanity check against bad distances.
+        if self.distance < 30:
+            self.arson = "GOOD"
+        elif self.distance >= 30 and self.distance < 50:
+            self.arson = "IFFY"
+        else:
+            self.arson = "POOR"
+
+        return self.arson
+
+    def get_basin(self):
+        return self.basin
+
+    def set_basin(self):
+        log.debug("In Basin")
+        host_an = self.host_obj.work_done_remotely
+        ext_u = self.extern_obj.what_work_locations
+        log.debug(f"host_an : {host_an}")
+        log.debug(f"ext_u : {ext_u}")
+
+        host_remote = None
+        host_hybrid = None
+        host_inperson = None
+        extern_remote = None
+        extern_hybrid = None
+        extern_inperson = None
+
+        if "remote" in host_an:
+            host_remote = True
+        if "Hybrid" in host_an:
+            host_hybrid = True
+        if "office" in host_an:
+            host_inperson = True
+
+        #todo : start here by writing logic to set status of inten based on value in table.
+
+
+
+
+        self.basin = "JWTO"

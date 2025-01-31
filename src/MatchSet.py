@@ -17,6 +17,15 @@ log = logging.getLogger(__name__)
 
 class MatchSet():
 
+    def __init__(self):
+        log.debug("1. Generating a Matchset Object.")
+        self.extern_obj_lst = self.get_extern_obj_lst()
+        log.debug(f"length of extern_obj_list : {len(self.extern_obj_lst)}")
+        self.host_obj_lst = self.get_host_objects_lst()
+        log.debug(f"length of host_obj_list : {len(self.host_obj_lst)}")
+        self.match_obj_lst = self.get_match_object_lst()
+        log.debug(f"length of match_obj_list : {len(self.match_obj_lst)}")
+
     def parse_host_dataframe(self, dataframe=None, dataframecsv=None):
         """
         :param dataframe:
@@ -108,11 +117,13 @@ class MatchSet():
         return extern_objects_lst
 
     def get_match_object_lst(self):
-
+        """
+        Input a list of extern objects and a list of host objects.
+        :return: a list of match objects.
+        """
         match_obj_list = []
         for extern in self.get_extern_obj_lst():
             for host in self.get_host_objects_lst():
-                # make a empty match object.
                 match_obj = Match.Match(extern, host)
                 match_obj_list.append(match_obj)
 
@@ -133,7 +144,7 @@ class MatchSet():
             return dataframe1
 
         elif (".csv" in host_filename):
-            log.debug("Using a .csv file for the hosts data.")
+            #log.debug("Using a .csv file for the hosts data.")
             dataframe1 = []
 
             with open(host_filename, encoding='latin-1') as csvfile:
@@ -143,28 +154,45 @@ class MatchSet():
 
             return dataframe1
 
-
-    def __init__(self):
-        log.debug("250127 : Generating a Matchset Object.")
-        self.extern_obj_lst = self.get_extern_obj_lst()
-        log.debug(f"length of extern_obj_list : {len(self.extern_obj_lst)}")
-        self.host_obj_lst = self.get_host_objects_lst()
-        log.debug(f"length of host_obj_list : {len(self.host_obj_lst)}")
-        self.match_obj_lst = self.get_match_object_lst()
-        log.debug(f"length of match_obj_list : {len(self.match_obj_lst)}")
-
     def get_number_hosts(self):
         return len(self.host_obj_lst)
 
     def get_number_externs(self):
         return len(self.extern_obj_lst)
 
-
     def get_number_matches(self):
         return len(self.match_obj_lst)
 
     def get_match_chart_header_row(self):
-        return ["Extern ID", "Host ID", "EXTERN", "EXTERN CITY", "HOST", "HOST CITY","HOST NO EXP NEEDED", "DISTANCE", "DISTANCE NOTES", "REMOTE MATCH", "REMOTE ONLY", "STEM experience match", "STEM experience matched on", "Biz Skills Score", "Biz Skills Match", "Work Style Score", "Work Style Notes", "Teaching Needs Match", "Curriculum Needs Match", "Total Experience Match", "Min Interns", "Max Interns"]
+        header_row = []
+        header_row.append("Extern ID")
+        header_row.append("Host ID")
+        header_row.append("EXTERN")
+        header_row.append("EXTERN CITY")
+        header_row.append("HOST")
+        header_row.append("HOST CITY")
+        header_row.append("HOST NO EXP NEEDED")
+        header_row.append("DISTANCE")
+        header_row.append("DISTANCE NOTES")
+        header_row.append("REMOTE MATCH")
+        header_row.append("REMOTE ONLY")
+        header_row.append("STEM experience match")
+        header_row.append("STEM experience matched on")
+        header_row.append("Biz Skills Score")
+        header_row.append("Biz Skills Match")
+        header_row.append("Work Style Score")
+        header_row.append("Work Style Notes")
+        header_row.append("Teaching Needs Match")
+        header_row.append("Curriculum Needs Match")
+        header_row.append("Total Experience Match")
+        header_row.append("Min Interns")
+        header_row.append("Max Interns")
+
+        header_row.append("ARSON")
+
+        return header_row
+
+        #return ["Extern ID", "Host ID", "EXTERN", "EXTERN CITY", "HOST", "HOST CITY","HOST NO EXP NEEDED", "DISTANCE", "DISTANCE NOTES", "REMOTE MATCH", "REMOTE ONLY", "STEM experience match", "STEM experience matched on", "Biz Skills Score", "Biz Skills Match", "Work Style Score", "Work Style Notes", "Teaching Needs Match", "Curriculum Needs Match", "Total Experience Match", "Min Interns", "Max Interns"]
 
     def get_match_chart_data_rows(self, extern_id = None):
         out_rows = []
@@ -194,6 +222,8 @@ class MatchSet():
             out_row.append(f"{match.get_total_score()}")
             out_row.append(f"{match.get_min_externs()}")
             out_row.append(f"{match.get_max_externs()}")
+
+            out_row.append(f"{match.get_arson()}")
 
             out_rows.append(out_row)
 
