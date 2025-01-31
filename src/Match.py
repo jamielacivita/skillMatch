@@ -59,6 +59,14 @@ class Match:
         self.calculate_remote_match()
         self.set_total_score()
 
+        # Added Matching Logic 2025
+
+        # First Filter - Location
+        # Calculate distance
+        distance = self.calculate_distance()
+        log.debug(f"JWTO Calculsted Distance {distance}:")
+
+
         if log.level <= logging.DEBUG:
             self.print_skill_chart()
             print("foo.")

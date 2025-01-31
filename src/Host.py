@@ -11,65 +11,75 @@ log = logging.getLogger(__name__)
 class Host(AttributeSet):
     def __init__(self, row_data_tuple):
 
-        self.id = None
-        self.start_time = None
-        self.completion_time = None
-        self.email = None
-        self.name = None
+        self.id = None #A
+        self.start_time = None #B
+        self.completion_time = None #C
+        self.email = None #D
+        self.name = None #E
 
         self.last_modified_time = None
-        self.completed_work_proposal = None
-        self.first_name = None
-        self.last_name = None
-        self.email_address = None
+        self.completed_work_proposal = None #F
+        self.first_name = None #G
+        self.last_name = None #H
+        self.email_address = None #I
 
-        self.organization_name = None
-        self.location_of_organization = None
-        self.overview_of_organization = None
-        self.title_role = None
-        self.specific_educator = None
+        self.organization_name = None #J
+        self.location_of_organization = None #K
+        self.overview_of_organization = None #L
+        self.title_role = None #M
+        self.specific_educator = None #N
 
-        self.primary_contact = None
-        self.poc_first_name = None
-        self.poc_last_name = None
-        self.poc_email = None
-        self.poc_title_role = None
+        self.primary_contact = None #O
+        self.poc_first_name = None #P
+        self.poc_last_name = None #Q
+        self.poc_email = None #R
+        self.poc_title_role = None #S
 
-        self.why_part = None
-        self.hours_per_week = None
-        self.continuing_relationship = None
-        self.how_many_externs = None
-        self.project_name = None
+        self.why_part = None #T
+        self.hours_per_week = None #U
+        self.continuing_relationship = None #V
+        self.how_many_externs = None #X
+        self.project_name = None #Y
 
-        self.project_objectives = None
-        self.description = None
-        self.meaningful_learning = None
-        self.network_growth = None
-        self.professional_level_work = None
+        self.project_objectives = None #Z
+        self.description = None #AA
+        self.meaningful_learning = None #AB
+        self.network_growth = None #AC
+        self.professional_level_work = None #AD
 
-        self.set_up_success = None
-        self.what_type_learning = None
-        self.learn_the_things = None
-        self.business_education_skills = None
-        self.looking_for_experience = None
+        self.set_up_success = None #AE
+        self.what_type_learning = None #AF
+        self.learn_the_things = None #AG
+        self.business_education_skills = None #AH
+        self.looking_for_experience = None #AI
 
-        self.type_of_person = None
-        self.report_to_name = None
-        self.report_to_email = None
-        self.other_teams = None
-        self.work_done_remotely = None
+        self.type_of_person = None #AJ
+        self.report_to_name = None #AK
+        self.report_to_email = None #AL
+        self.other_teams = None #AM
+        self.work_done_remotely = None #AN
 
-        self.zip = None
-        self.travel_rerquired = None
-        self.travel_rerquired_description = None
-        self.how_hours_spent = None
-        self.onboarding_and_training = None
+        self.zip = None #AO
+        self.travel_rerquired = None #AP
+        self.travel_rerquired_description = None #AQ
+        self.how_hours_spent = None #AR
+        self.onboarding_and_training = None #AS
 
-        self.who_responsible_onboarding = None
-        self.how_many_hours_onboarding = None
-        self.anything_else = None
-        self.min_externs = None
-        self.max_externs = None
+        self.who_responsible_onboarding = None #AT
+        self.how_many_hours_onboarding = None #AU
+        self.anything_else = None #AV
+        self.min_externs = None # column?
+        self.max_externs = None # column?
+
+        self.maintain_connection = None #AW
+        self.one_hundred_hours = None #AX
+        self.location_of_organization_state = None #AY
+        self.zipcode_of_organization = None #AZ
+        self.commitment_to_relationship = None #BA
+
+        self.maintain_connection_continued = None #BB
+        self.education_student_skills = None #BC
+
 
         #append a skills object to hold data for skills matches.
         self.skills = Skills.Skills()

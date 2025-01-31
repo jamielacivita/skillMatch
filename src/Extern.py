@@ -155,7 +155,7 @@ class Extern(AttributeSet):
         self.why_part_of_program = None
         self.flavor_of_work = None                  ## P
         self.why_most_interesting = None
-        self.open_to_teaching = None
+        #self.open_to_teaching = None               ## Column Unknown
         self.open_to_curriculum_design = None
         self.Open_to_camp_counselor = None
         self.particular_stem_fields = None          ## U
@@ -186,6 +186,8 @@ class Extern(AttributeSet):
         self.open_to_secondary_teaching = None #(new in 2025) ## AQ
         self.open_to_adult_teaching = None #(new in 2025) ## AR
         self.externship_durations = None #(New in 2025) #AV
+        self.zipcode_where_you_live = None #AP
+        self.participated_before = None #AX
 
         #append a skills object to hold data for skills matches.
         self.skills = Skills.Skills()
@@ -213,97 +215,97 @@ class Extern(AttributeSet):
         extern_column["LAST name:"] = 7
         extern_column["I"] = 8
         extern_column["Primary EMAIL address:"] = 8
-        extern_column["J"] = 8
-        extern_column["BACKUP EMAIL address::"] = 8
+        extern_column["J"] = 9
+        extern_column["BACKUP EMAIL address::"] = 9
 
-        extern_column["K"] = 9
-        extern_column["Name of the SCHOOL where you work:"] = 9
-        extern_column["L"] = 10
-        extern_column["Name the DISTRICT where you work:"] = 10
-        extern_column["M"] = 11
-        extern_column["What are your CURRENT ROLE(S) at your school?"] = 11
-        extern_column["N"] = 12
-        extern_column["What city do you live in?"] = 12
-        extern_column["O"] = 13
-        extern_column["Why do you want to be a part of this program?"] = 13
+        extern_column["K"] = 10
+        extern_column["Name of the SCHOOL where you work:"] = 10
+        extern_column["L"] = 11
+        extern_column["Name the DISTRICT where you work:"] = 11
+        extern_column["M"] = 12
+        extern_column["What are your CURRENT ROLE(S) at your school?"] = 12
+        extern_column["N"] = 13
+        extern_column["What city do you live in?"] = 13
+        extern_column["O"] = 14
+        extern_column["Why do you want to be a part of this program?"] = 14
 
-        extern_column["P"]=14
-        extern_column["We also want to match you with the right flavor of work for you."]=14
-        extern_column["Q"]=15
-        extern_column["Open to teaching elementary school kids?"]=15
-        extern_column["R"]=16
-        extern_column["Open to curriculum design?"]=16
-        extern_column["S"]=17
-        extern_column["Column1"]=17
-        extern_column["T"]=18
-        extern_column["Are there particular STEM fields you are interested in learning more about this summer?"]=18
+        extern_column["P"]= 15
+        extern_column["We also want to match you with the right flavor of work for you."]= 15
+        extern_column["Q"]=16
+        extern_column["Open to teaching elementary school kids?"]=16
+        extern_column["R"]=17
+        extern_column["Open to curriculum design?"]=17
+        extern_column["S"]=18
+        extern_column["Column1"]=18
+        extern_column["T"]=19
+        extern_column["Are there particular STEM fields you are interested in learning more about this summer?"]=19
 
-        extern_column["U"] = 19
-        extern_column["What work location(s) are you open to?"] = 19
-        extern_column["V"] = 20
-        extern_column["Are you open to travelling / temporary relocation for the externship?"] = 20
-        extern_column["W"] = 21
-        extern_column["What grade levels do you have experience working with?"] = 21
-        extern_column["X"] = 22
-        extern_column["Projects don't typically require any prior STEM domain experience, but occasionally it helps."] = 22
-        extern_column["Y"] = 23
-        extern_column["Spreadsheet Software (MS Excel or Google Sheets)"] = 23
+        extern_column["U"] = 20
+        extern_column["What work location(s) are you open to?"] = 20
+        extern_column["V"] = 21
+        extern_column["Are you open to travelling / temporary relocation for the externship?"] = 21
+        extern_column["W"] = 22
+        extern_column["What grade levels do you have experience working with?"] = 22
+        extern_column["X"] = 23
+        extern_column["Projects don't typically require any prior STEM domain experience, but occasionally it helps."] = 23
+        extern_column["Y"] = 24
+        extern_column["Spreadsheet Software (MS Excel or Google Sheets)"] = 24
 
-        extern_column["Z"] = 24
-        extern_column["Word Processing Software (MS Word or Google Docs)"] = 24
-        extern_column["AA"] = 25
-        extern_column["Presentation Software (MS Powerpoint or Google Slides)"] = 25
-        extern_column["AB"] = 26
-        extern_column["Elementary-Level Instruction"] = 26
-        extern_column["AC"] = 27
-        extern_column["Curriculum Design"] = 27
-        extern_column["AD"] = 28
-        extern_column["Project Management"] = 28
+        extern_column["Z"] = 25
+        extern_column["Word Processing Software (MS Word or Google Docs)"] = 25
+        extern_column["AA"] = 26
+        extern_column["Presentation Software (MS Powerpoint or Google Slides)"] = 26
+        extern_column["AB"] = 27
+        extern_column["Elementary-Level Instruction"] = 27
+        extern_column["AC"] = 28
+        extern_column["Curriculum Design"] = 28
+        extern_column["AD"] = 29
+        extern_column["Project Management"] = 29
 
-        extern_column["AE"] = 29
-        extern_column["Secondary-Level Instruction"] = 29
-        extern_column["AF"] = 30
-        extern_column["Adult Education / Training"] = 30
-        extern_column["AG"] = 31
-        extern_column["Public Speaking / Group Presentation"] = 31
-        extern_column["AH"] = 32
-        extern_column["Email & Administrative Software"] = 32
-        extern_column["AI"] = 33
-        extern_column["Many hosts are interested in knowing about what experiences educators have enjoyed outside the classroom."] = 33
+        extern_column["AE"] = 30
+        extern_column["Secondary-Level Instruction"] = 30
+        extern_column["AF"] = 31
+        extern_column["Adult Education / Training"] = 31
+        extern_column["AG"] = 32
+        extern_column["Public Speaking / Group Presentation"] = 32
+        extern_column["AH"] = 33
+        extern_column["Email & Administrative Software"] = 33
+        extern_column["AI"] = 34
+        extern_column["Many hosts are interested in knowing about what experiences educators have enjoyed outside the classroom."] = 34
 
-        extern_column["AJ"] = 34
-        extern_column["If you have a LinkedIn profile, please share:"] = 34
-        extern_column["AK"] = 35
-        extern_column["Phone number:"] = 35
-        extern_column["AL"] = 36
+        extern_column["AJ"] = 35
+        extern_column["If you have a LinkedIn profile, please share:"] = 35
+        extern_column["AK"] = 36
         extern_column["Phone number:"] = 36
-        extern_column["AM"] = 37
-        extern_column["Host sites will be reaching out via phone calls, emails, and/or text messaging. What is the best time of day for them to reach you?"] = 37
-        extern_column["AN"] = 38
-        extern_column["Communication & Availability"] = 38
+        extern_column["AL"] = 37
+        extern_column["Phone number:"] = 37
+        extern_column["AM"] = 38
+        extern_column["Host sites will be reaching out via phone calls, emails, and/or text messaging. What is the best time of day for them to reach you?"] = 38
+        extern_column["AN"] = 39
+        extern_column["Communication & Availability"] = 39
 
-        extern_column["AO"] = 39
-        extern_column["I feel comfortable and confident in telling my students about how STEM skills show up in multiple types of careers."] = 39
-        extern_column["AP"] = 40
-        extern_column["ZIP code where you live?"] = 40
-        extern_column["AQ"] = 41
-        extern_column["Open to teaching secondary school kids?"] = 41
-        extern_column["AR"] = 42
-        extern_column["Open to teaching adults?"] = 42
+        extern_column["AO"] = 40
+        extern_column["I feel comfortable and confident in telling my students about how STEM skills show up in multiple types of careers."] = 40
+        extern_column["AP"] = 41
+        extern_column["ZIP code where you live?"] = 41
+        extern_column["AQ"] = 42
+        extern_column["Open to teaching secondary school kids?"] = 42
+        extern_column["AR"] = 43
+        extern_column["Open to teaching adults?"] = 43
 
-        extern_column["AS"] = 43
-        extern_column["Open to being a camp counselor?"] = 43
-        extern_column["AT"] = 44
-        extern_column["Open to curriculum design?"] = 44
-        extern_column["AU"] = 45
-        extern_column["Question"] = 45
-        extern_column["AV"] = 46
-        extern_column["While the typical externship is $5000 for 200 hours, some hosts may have opportunities for 100 hour externships at a reduced stipend of $2500."] = 46
-        extern_column["AW"] = 47
-        extern_column["occasionally hosts do look for a specific skill"] = 47
+        extern_column["AS"] = 44
+        extern_column["Open to being a camp counselor?"] = 44
+        extern_column["AT"] = 45
+        extern_column["Open to curriculum design?"] = 45
+        extern_column["AU"] = 46
+        extern_column["Question"] = 46
+        extern_column["AV"] = 47
+        extern_column["While the typical externship is $5000 for 200 hours, some hosts may have opportunities for 100 hour externships at a reduced stipend of $2500."] = 47
+        extern_column["AW"] = 48
+        extern_column["occasionally hosts do look for a specific skill"] = 48
 
-        extern_column["AX"] = 48
-        extern_column["Have you participated in the Externship Program before?"] = 48
+        extern_column["AX"] = 49
+        extern_column["Have you participated in the Externship Program before?"] = 49
 
         blanktuple = (("x","y"))
         blanklist = []
@@ -357,26 +359,21 @@ class Extern(AttributeSet):
             # best time of day to reach you (column AM) goes here - No data in chart.
             self.set_communication_and_availability(row_data_tuple[extern_column["AN"]].value)
             self.set_business_software_and_skills(row_data_tuple[extern_column["AW"]])
-            #todo : comfortable and confident (column AO) goes here
+            self.set_comfortable_and_confident((row_data_tuple[extern_column["AO"]]))
+            self.set_open_to(row_data_tuple[extern_column["U"]])
 
-            self.open_to(row_data_tuple[extern_column["U"]])
-            #todo :  zip code where you live goes here (column AP)
-            self.open_to_secondary_teaching(row_data_tuple[extern_column["AQ"]])
-            self.open_to_adult_teaching(row_data_tuple[extern_column["AR"]])
+            self.set_zipcode_where_you_live(row_data_tuple[extern_column["AP"]])
+            self.set_open_to_secondary_teaching(row_data_tuple[extern_column["AQ"]])
+            self.set_open_to_adult_teaching(row_data_tuple[extern_column["AR"]])
             self.set_Open_to_camp_counselor(row_data_tuple[extern_column["AS"]].value)
-            #todo : open to curriculum design goes here (column AT)
+            self.set_open_to_curriculum_design(row_data_tuple[extern_column["AT"]])
 
             #todo : Question (column AU) goes here.
-            self.externship_durations(row_data_tuple[extern_column["AV"]].value)
+            self.set_externship_durations(row_data_tuple[extern_column["AV"]].value)
+            self.set_participated_before(row_data_tuple[extern_column["AX"]])
 
-            #todo :  Particapted in program before (column AX) goes here.
-
-            self.set_why_most_interesting(row_data_tuple[WHY_MOST_INTERESTING_COL].value)
-            self.set_open_to_teaching(row_data_tuple[OPEN_TO_TEACHING_COL].value)
-
-
-
-
+            #self.set_why_most_interesting(row_data_tuple[WHY_MOST_INTERESTING_COL].value)
+            #self.set_open_to_teaching(row_data_tuple[OPEN_TO_TEACHING_COL].value)
 
             #self.set_group_presentation(row_data_tuple[GROUP_PRESENTATION_COL].value)
             self.set_zip(city_zip[self.city_you_live_in])
@@ -403,31 +400,54 @@ class Extern(AttributeSet):
             self.set_city_you_live_in(row_data_tuple[extern_column["N"]])
             self.set_why_part_of_program(row_data_tuple[extern_column["O"]])
 
-            self.set_flavor_of_work(row_data_tuple[FLAVOR_OF_WORK_COL])
-            self.set_why_most_interesting(row_data_tuple[WHY_MOST_INTERESTING_COL])
-            self.set_open_to_teaching(row_data_tuple[OPEN_TO_TEACHING_COL])
-            self.set_open_to_curriculum_design(row_data_tuple[OPEN_TO_CURRICULUM_DESIGN_COL])
-            self.set_Open_to_camp_counselor(row_data_tuple[OPEN_TO_CAMP_COUNSELOR_COL])
-            self.set_particular_stem_fields(row_data_tuple[PARTICULAR_STEM_FIELDS_COL])
-            self.set_what_work_locations(row_data_tuple[WHAT_WORK_LOCATIONS_COL])
-            self.set_open_to_travelling(row_data_tuple[OPEN_TO_TRAVELLING_COL])
-            self.set_grade_levels(row_data_tuple[GRADE_LEVELS_COL])
-            self.set_stem_domains(row_data_tuple[STEM_DOMAINS_COL])
-            self.set_spreadsheet_software(row_data_tuple[SPREADSHEET_SOFTWARE_COL])
-            self.set_word_processings_software(row_data_tuple[WORD_PROCESSINGS_SOFTWARE_COL])
-            self.set_presentation_software(row_data_tuple[PRESENTATION_SOFTWARE_COL])
-            self.set_elementary_level_instruction(row_data_tuple[ELEMENTARY_LEVEL_INSTRUCTION_COL])
-            self.set_curriculum_design(row_data_tuple[CURRICULUM_DESIGN_COL])
-            self.set_project_management(row_data_tuple[PROJECT_MANAGEMENT_COL])
-            self.set_secondary_level_instruction(row_data_tuple[SECONDARY_LEVEL_INSTRUCTION_COL])
-            self.set_experiences_or_interests(row_data_tuple[EXPERIENCES_OR_INTERESTS_COL])
-            self.set_linkedin_profile(row_data_tuple[LINKEDIN_PROFILE_COL])
-            self.set_adult_education_training(row_data_tuple[ADULT_EDUCATION_TRAINING_COL])
-            self.set_public_speaking(row_data_tuple[PUBLIC_SPEAKING_COL])
-            #self.set_group_presentation(row_data_tuple[GROUP_PRESENTATION_COL])
-            self.set_email_administrative_software(row_data_tuple[EMAIL_ADMINISTRATIVE_SOFTWARE_COL])
-            self.set_zip(city_zip[self.city_you_live_in])
+            self.set_flavor_of_work(row_data_tuple[extern_column["P"]])
+            self.set_elementary_level_instruction(row_data_tuple[extern_column["Q"]])
+            self.set_open_to_curriculum_design(row_data_tuple[extern_column["AT"]]) #was R before.
+            self.set_particular_stem_fields(row_data_tuple[extern_column["T"]])
+            self.set_what_work_locations(row_data_tuple[extern_column["U"]])
 
+            self.set_open_to_travelling(row_data_tuple[extern_column["V"]])
+            self.set_grade_levels(row_data_tuple[extern_column["W"]])
+            self.set_stem_domains(row_data_tuple[extern_column["X"]])
+            self.set_spreadsheet_software(row_data_tuple[extern_column["Y"]])
+            self.set_word_processings_software(row_data_tuple[extern_column["Z"]])
+
+            self.set_presentation_software(row_data_tuple[extern_column["AA"]])
+            # Column AB - elementary level instruction goes here.  No data in chart.
+            self.set_curriculum_design(row_data_tuple[extern_column["AC"]])
+            self.set_project_management(row_data_tuple[extern_column["AD"]])
+            self.set_secondary_level_instruction(row_data_tuple[extern_column["AE"]])
+
+            self.set_adult_education_training(row_data_tuple[extern_column["AF"]])
+            self.set_public_speaking(row_data_tuple[extern_column["AG"]])
+            self.set_email_administrative_software(row_data_tuple[extern_column["AH"]])
+            self.set_experiences_or_interests(row_data_tuple[extern_column["AI"]])
+            self.set_linkedin_profile(row_data_tuple[extern_column["AJ"]])
+
+            self.set_phone(row_data_tuple[extern_column["AK"]])
+            self.set_phone(row_data_tuple[extern_column["AL"]])
+
+            # best time of day to reach you (column AM) goes here - No data in chart.
+            self.set_communication_and_availability(row_data_tuple[extern_column["AN"]])
+            self.set_business_software_and_skills(row_data_tuple[extern_column["AW"]])
+            self.set_comfortable_and_confident((row_data_tuple[extern_column["AO"]]))
+            self.set_open_to(row_data_tuple[extern_column["U"]])
+
+            self.set_zipcode_where_you_live(row_data_tuple[extern_column["AP"]])
+            self.set_open_to_secondary_teaching(row_data_tuple[extern_column["AQ"]])
+            self.set_open_to_adult_teaching(row_data_tuple[extern_column["AR"]])
+            self.set_Open_to_camp_counselor(row_data_tuple[extern_column["AS"]])
+            self.set_open_to_curriculum_design(row_data_tuple[extern_column["AT"]])
+
+            #todo : Question (column AU) goes here.
+            self.set_externship_durations(row_data_tuple[extern_column["AV"]])
+            self.set_participated_before(row_data_tuple[extern_column["AX"]])
+
+            #self.set_why_most_interesting(row_data_tuple[WHY_MOST_INTERESTING_COL].value)
+            #self.set_open_to_teaching(row_data_tuple[OPEN_TO_TEACHING_COL].value)
+
+            #self.set_group_presentation(row_data_tuple[GROUP_PRESENTATION_COL].value)
+            self.set_zip(city_zip[self.city_you_live_in])
             self.set_skills()
             self.set_remote_only()
 
@@ -577,6 +597,15 @@ class Extern(AttributeSet):
 
     def set_externship_durations(self, externship_durations):
         self.externship_durations = externship_durations
+
+    def set_comfortable_and_confident(self, comfortable_and_confident):
+        self.comfortable_and_confident = comfortable_and_confident
+
+    def set_zipcode_where_you_live(self, zipcode_where_you_live):
+        self.zipcode_where_you_live = zipcode_where_you_live
+
+    def set_participated_before(self, participated_before):
+        self.participated_before = participated_before
 
     def set_skills(self):
         ### STEM Experience Match ###
@@ -839,7 +868,9 @@ class Extern(AttributeSet):
         return self.why_most_interesting
 
     def get_open_to_teaching(self):
-        return self.open_to_teaching
+        #return self.open_to_teaching
+        return ""
+        #todo : Decide if this can be completely refactored out.
 
     def get_open_to_curriculum_design(self):
         return self.open_to_curriculum_design
@@ -1006,6 +1037,15 @@ class Extern(AttributeSet):
 
     def get_externship_durations(self):
         return self.externship_durations
+
+    def get_comfortable_and_confident(self):
+        return self.comfortable_and_confident
+
+    def get_zipcode_where_you_live(self):
+        return self.zipcode_where_you_live
+
+    def get_participated_before(self):
+        return self.participated_before
 
     def __str__(self):
         out_str = ""
