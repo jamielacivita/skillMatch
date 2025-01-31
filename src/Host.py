@@ -11,48 +11,101 @@ log = logging.getLogger(__name__)
 class Host(AttributeSet):
     def __init__(self, row_data_tuple):
         host_column = {}
+
         host_column["A"] = 0
+        host_column["set_id"] = 0
         host_column["B"] = 1
+        host_column["set_start_time"] = 1
         host_column["C"] = 2
+        host_column["set_completion_time"] = 2
         host_column["D"] = 3
+        host_column["set_email"] = 3
         host_column["E"] = 4
+        host_column["set_name"] = 4
+
         host_column["F"] = 5
+        host_column["set_completed_work_proposal"] = 5
         host_column["G"] = 6
+        host_column["set_first_name"] = 6
         host_column["H"] = 7
+        host_column["set_last_name"] = 7
         host_column["I"] = 8
+        host_column["set_email_address"] = 8
         host_column["J"] = 9
+        host_column["set_organization_name"] = 9
+
         host_column["K"] = 10
+        host_column["set_location_of_organization"] = 10
         host_column["L"] = 11
+        host_column["set_overview_of_organization"] = 11
         host_column["M"] = 12
+        host_column["set_title_role"] = 12
         host_column["N"] = 13
+        host_column["set_specific_educator"] = 13
         host_column["O"] = 14
+        host_column["set_primary_contact"] = 14
+
+
         host_column["P"] = 15
+        host_column["set_poc_first_name"] = 15
         host_column["Q"] = 16
+        host_column["set_poc_last_name"] = 16
         host_column["R"] = 17
+        host_column["set_poc_email"] = 17
         host_column["S"] = 18
+        host_column["set_poc_title_role"] = 18
         host_column["T"] = 19
+        host_column["set_why_part"] = 19
+
         host_column["U"] = 20
+        host_column["set_hours_per_week"] = 20
         host_column["V"] = 21
-        host_column["W"] = 22
+        host_column["set_continuing_relationship"] = 21
+        #host_column["W"] = 22
+        #host_column["Queston"] = 22 There is no data for this colum in the test file.
         host_column["X"] = 23
+        host_column["set_how_many_externs"] = 23
         host_column["Y"] = 24
+        host_column["set_project_name"] = 24
         host_column["Z"] = 25
+        host_column["set_project_objectives"] = 25
 
         host_column["AA"] = 26
+        host_column["set_description"] = 26
         host_column["AB"] = 27
+        host_column["set_meaningful_learning"] = 27
         host_column["AC"] = 28
+        host_column["set_network_growth"] = 28
         host_column["AD"] = 29
+        host_column["set_professional_level_work"] = 29
         host_column["AE"] = 30
+        host_column["set_set_up_success"] = 30
+
+
+
+
         host_column["AF"] = 31
+        host_column["set_what_type_learning"] = 31
         host_column["AG"] = 32
+        host_column["set_learn_the_things"] = 32
         host_column["AH"] = 33
+        host_column["set_business_education_skills"] = 33
         host_column["AI"] = 34
+        host_column["set_looking_for_experience"] = 34
         host_column["AJ"] = 35
+        host_column["set_type_of_person"] = 35
+
         host_column["AK"] = 36
+        host_column["set_report_to_name"] = 36
         host_column["AL"] = 37
+        host_column["set_report_to_email"] = 37
         host_column["AM"] = 38
+        host_column["set_other_teams"] = 38
         host_column["AN"] = 39
+        host_column["set_work_done_remotely"] = 39
         host_column["AO"] = 40
+        host_column["set_zip"] = 40
+
         host_column["AP"] = 41
         host_column["AQ"] = 42
         host_column["AR"] = 43
@@ -198,46 +251,57 @@ class Host(AttributeSet):
         #MAX_EXTERNS = 49                        ## Ax
 
         #todo : start here
-        self.set_id(row_data_tuple[ID_COL].value)
-        self.set_start_time(row_data_tuple[START_TIME_COL].value)
-        self.set_completion_time(row_data_tuple[COMPLETION_TIME_COL].value)
-        self.set_email(row_data_tuple[EMAIL_COL].value)
-        self.set_name(row_data_tuple[NAME_COL].value)
-        self.set_last_modified_time(row_data_tuple[LAST_MODIFIED_TIME_COL].value)
-        self.set_completed_work_proposal(row_data_tuple[COMPLETED_WORK_PROPOSAL_COL].value)
-        self.set_first_name(row_data_tuple[FIRST_NAME_COL].value)
-        self.set_last_name(row_data_tuple[LAST_NAME_COL].value)
-        self.set_email_address(row_data_tuple[EMAIL_ADDRESS_COL].value)
-        self.set_organization_name(row_data_tuple[ORGANIZATION_NAME_COL].value)
-        self.set_location_of_organization(row_data_tuple[LOCATION_OF_ORGANIZATION_COL].value)
-        self.set_overview_of_organization(row_data_tuple[OVERVIEW_OF_ORGANIZATION_COL].value)
-        self.set_title_role(row_data_tuple[TITLE_ROLE_COL].value)
-        self.set_specific_educator(row_data_tuple[SPECIFIC_EDUCATOR_COL].value)
-        self.set_primary_contact(row_data_tuple[PRIMARY_CONTACT_COL].value)
-        self.set_poc_first_name(row_data_tuple[POC_FIRST_NAME_COL].value)
-        self.set_poc_last_name(row_data_tuple[POC_LAST_NAME_COL].value)
-        self.set_poc_email(row_data_tuple[POC_EMAIL_COL].value)
-        self.set_poc_title_role(row_data_tuple[POC_TITLE_ROLE_COL].value)
-        self.set_why_part(row_data_tuple[WHY_PART_COL].value)
-        self.set_hours_per_week(row_data_tuple[HOURS_PER_WEEK_COL].value)
-        self.set_continuing_relationship(row_data_tuple[CONTINUING_RELATIONSHIP_COL].value)
-        self.set_how_many_externs(row_data_tuple[HOW_MANY_EXTERNS_COL].value)
-        self.set_project_name(row_data_tuple[PROJECT_NAME_COL].value)
-        self.set_project_objectives(row_data_tuple[PROJECT_OBJECTIVES_COL].value)
-        self.set_description(row_data_tuple[DESCRIPTION_COL].value)
-        self.set_meaningful_learning(row_data_tuple[MEANINGFUL_LEARNING_COL].value)
-        self.set_network_growth(row_data_tuple[NETWORK_GROWTH_COL].value)
-        self.set_professional_level_work(row_data_tuple[PROFESSIONAL_LEVEL_WORK_COL].value)
-        self.set_set_up_success(row_data_tuple[SET_UP_SUCCESS_COL].value)
-        self.set_what_type_learning(row_data_tuple[WHAT_TYPE_LEARNING_COL].value)
-        self.set_learn_the_things(row_data_tuple[LEARN_THE_THINGS_COL].value)
-        self.set_business_education_skills(row_data_tuple[BUSINESS_EDUCATION_SKILLS_COL].value)
-        self.set_looking_for_experience(row_data_tuple[LOOKING_FOR_EXPERIENCE_COL].value)
-        self.set_type_of_person(row_data_tuple[TYPE_OF_PERSON_COL].value)
-        self.set_report_to_name(row_data_tuple[REPORT_TO_NAME_COL].value)
-        self.set_report_to_email(row_data_tuple[REPORT_TO_EMAIL_COL].value)
-        self.set_other_teams(row_data_tuple[OTHER_TEAMS_COL].value)
-        self.set_work_done_remotely(row_data_tuple[WORK_DONE_REMOTELY_COL].value)
+        self.set_id(row_data_tuple[host_column["set_id"]]) #A
+        self.set_start_time(row_data_tuple[host_column["set_start_time"]]) #B
+        self.set_completion_time(row_data_tuple[host_column["set_completion_time"]]) #C
+        self.set_email(row_data_tuple[host_column["set_email"]]) #D
+        self.set_name(row_data_tuple[host_column["set_name"]]) #E
+
+        #self.set_last_modified_time(row_data_tuple[LAST_MODIFIED_TIME_COL].value)
+        self.set_completed_work_proposal(row_data_tuple[host_column["set_completed_work_proposal"]]) #F
+        self.set_first_name(row_data_tuple[host_column["set_first_name"]]) #G
+        self.set_last_name(row_data_tuple[host_column["set_last_name"]]) #H
+        self.set_email_address(row_data_tuple[host_column["set_email_address"]]) #I
+        self.set_organization_name(row_data_tuple[host_column["set_organization_name"]]) #J
+
+        self.set_location_of_organization(row_data_tuple[host_column["set_location_of_organization"]]) #K
+        self.set_overview_of_organization(row_data_tuple[host_column["set_overview_of_organization"]]) #L
+        self.set_title_role(row_data_tuple[host_column["set_title_role"]]) #M
+        self.set_specific_educator(row_data_tuple[host_column["set_specific_educator"]]) #N
+        self.set_primary_contact(row_data_tuple[host_column["set_primary_contact"]]) #O
+
+        self.set_poc_first_name(row_data_tuple[host_column["set_poc_first_name"]]) #P
+        self.set_poc_last_name(row_data_tuple[host_column["set_poc_last_name"]]) #Q
+        self.set_poc_email(row_data_tuple[host_column["set_poc_email"]]) #R
+        self.set_poc_title_role(row_data_tuple[host_column["set_title_role"]]) #S
+        self.set_why_part(row_data_tuple[host_column["set_why_part"]]) #T
+
+        self.set_hours_per_week(row_data_tuple[host_column["set_hours_per_week"]]) #U
+        self.set_continuing_relationship(row_data_tuple[host_column["set_continuing_relationship"]]) #V
+        # Column W is skipped - no data.
+        self.set_how_many_externs(row_data_tuple[host_column["set_how_many_externs"]]) #X
+        self.set_project_name(row_data_tuple[host_column["set_project_name"]].value) #Y
+        self.set_project_objectives(row_data_tuple[host_column["set_project_objectives"]]) #Z
+
+        self.set_description(row_data_tuple[host_column["set_description"]]) #AA
+        self.set_meaningful_learning(row_data_tuple[host_column["set_meaningful_learning"]]) #AB
+        self.set_network_growth(row_data_tuple[host_column["set_network_growth"]]) #AC
+        self.set_professional_level_work(row_data_tuple[host_column["set_professional_level_work"]]) #AD
+        self.set_set_up_success(row_data_tuple[host_column["set_set_up_success"]]) #AE
+
+        self.set_what_type_learning(row_data_tuple[host_column["set_what_type_learning"]]) #AF
+        self.set_learn_the_things(row_data_tuple[host_column["set_learn_the_things"]].value) #AG
+        self.set_business_education_skills(row_data_tuple[host_column["set_business_education_skills"]]) #AH
+        self.set_looking_for_experience(row_data_tuple[host_column["set_looking_for_experience"]]) #AI
+        self.set_type_of_person(row_data_tuple[host_column["set_type_of_person"]]) #AJ
+
+
+        self.set_report_to_name(row_data_tuple[host_column["set_report_to_name"]]) #AK
+        self.set_report_to_email(row_data_tuple[host_column["set_report_to_email"]]) #AL
+        self.set_other_teams(row_data_tuple[host_column["set_other_teams"]]) #AM
+        self.set_work_done_remotely(row_data_tuple[host_column["set_work_done_remotely"]]) #AN
+        self.set_zip(row_data_tuple[host_column["set_zip"]]) #AO
+
         self.set_travel_rerquired(row_data_tuple[TRAVEL_RERQUIRED_COL].value)
         self.set_travel_rerquired_description(row_data_tuple[TRAVEL_RERQUIRED_DESCRIPTION_COL].value)
         self.set_how_hours_spent(row_data_tuple[HOW_HOURS_SPENT_COL].value)
@@ -245,7 +309,7 @@ class Host(AttributeSet):
         self.set_who_responsible_onboarding(row_data_tuple[WHO_RESPONSIBLE_ONBOARDING_COL].value)
         self.set_how_many_hours_onboarding(row_data_tuple[HOW_MANY_HOURS_ONBOARDING_COL].value)
         self.set_anything_else(row_data_tuple[ANYTHING_ELSE_COL].value)
-        self.set_zip(row_data_tuple[ZIP_COL].value)
+
         self.set_min_externs(row_data_tuple[MIN_EXTERNS].value)
         self.set_max_externs(row_data_tuple[MAX_EXTERNS].value)
 
