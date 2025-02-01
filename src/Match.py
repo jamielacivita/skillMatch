@@ -495,7 +495,8 @@ class Match:
         return None
 
     def set_key(self):
-        self.key = (self.extern_obj.get_id(), self.host_obj.get_id())
+        #self.key = (self.extern_obj.get_id(), self.host_obj.get_id())
+        self.key = f"E{self.extern_obj.get_id()}-H{self.host_obj.get_id()}"
 
     def get_key(self):
         return self.key

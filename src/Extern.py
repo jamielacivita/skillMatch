@@ -1,139 +1,144 @@
 import sys
+import os
 
 from AttributeSet import AttributeSet
 import Skills as Skills
 
 import logging
+
+from src.DataPool import DataPool
+
 log = logging.getLogger(__name__)
 
 
-city_zip = {}
-city_zip["Ada County"] = 83706
-city_zip["Ammon "] = 83406
-city_zip["Arco"] = 83213
-city_zip["Bellevue"] = 83313
-city_zip["Blackfoot "] = 83221
-city_zip["Blackfoot"] = 83221
-city_zip["Boise"] = 83706
-city_zip["Boise "] = 83706
-city_zip["Boise, ID"] = 83706
-city_zip["Boise, Idaho"] = 83706
-city_zip["Gooding, Idaho, but I have a residence in Boise, ID that I can stay at during summer break if needed. "] = 83706
-city_zip["Boise County, halfway between Idaho City and Boise"] = 83716
-city_zip["Buhl"] = 83316
-city_zip["Burley"] = 83318
-city_zip["Burley, ID"] = 83318
-city_zip["Caldwell"] = 83606
-city_zip["Caldwell "] = 83606
-city_zip["Caldwell, ID"] = 83606
-city_zip["Carey"] = 83320
-city_zip["Chubbuck"] = 83202
-city_zip["Clarkston"] = 99403
-city_zip["Coeur d'Alene"] = 83815
-city_zip["Coeur d' Alene"] = 83815
-city_zip["Coeur d'Alene "] = 83815
-city_zip["Coeur d\"Alene"] = 83815
-city_zip["Coeur d Alene"] = 83815
-city_zip["Craigmont"] = 83523
-city_zip["Dayton"] = 83232
-city_zip["Dietrich "] = 83324
-city_zip["Driggs, ID"] = 83422
-city_zip["Driggs"] = 83422
-city_zip["Eagle"] = 83616
-city_zip["Eagle, ID"] = 83616
-city_zip["Eagle, Idaho"] = 83616
-city_zip["Emmett"] = 83617
-city_zip["Garden Valley"] = 83622
-city_zip["Glenns Ferry"] = 83623
-city_zip["Gooding"] = 83330
-city_zip["Grace"] = 83241
-city_zip["Grand View"] = 83624
-city_zip["Hailey"] = 83333
-city_zip["Hailey, ID"] = 83333
-city_zip["Heyburn"] = 83336
-city_zip["Heyburn (moving to Idaho Falls area this summer)  83401"] = 83401
-city_zip["Hayden Id"] = 83335
-city_zip["Hazelton, ID"] = 83335
-city_zip["Hazelton"] = 83335
-city_zip["Jerome"] = 83338
-city_zip["Idaho City"] = 83631
-city_zip["Idaho Falls"] = 83402
-city_zip["Idaho Falls "] = 83402
-city_zip["Idaho falls "] = 83402
-city_zip["Idaho Falls, ID"] = 83402
-city_zip["Idaho Falls, Idaho "] = 83402
-city_zip["Inkom"] = 83245
-city_zip["Kellogg"] = 83868
-city_zip["Kuna, Idaho"] = 83642
-city_zip["Kuna"] = 83642
-city_zip["Lewiston"] = 83501
-city_zip["Lewiston, ID"] = 83501
-city_zip["Malta"] = 83342
-city_zip["McCall"] = 83638
-city_zip["McCammon"] = 83250
-city_zip["McCammon, Idaho"] = 83250
-city_zip["Melba"] = 83641
-city_zip["Meridian"] = 83646
-city_zip["Meridian, Idaho"] = 83646
-city_zip["Meridian and Garden Valley"] = 83646
-city_zip["Meridian (Near Roaring Springs Water Park)"] = 83646
-city_zip["Middleton"] = 83646
-city_zip["Middleton "] = 83646
-city_zip["Midvale "] = 83645
-city_zip["Montpelier"] = 83254
-city_zip["moscow "] = 83843
-city_zip["Moscow"] = 83843
-city_zip["Mountain Home"] = 83647
-city_zip["Mountain Home "] = 83647
-city_zip["mountain home"] = 83647
-city_zip["Nampa"] = 83651
-city_zip["Nampa "] = 83651
-city_zip["Nampa, ID"] = 83651
-city_zip["Nezperce"] = 83543
-city_zip["Oakley"] = 83346
-city_zip["Palouse, WA"] = 99161
-city_zip["Parma Idaho"] = 83660
-city_zip["Parker, Idaho- live; work in Rexburg, Idaho "] = 83438
-city_zip["Paul"] = 83347
-city_zip["Pocatello"] = 83205
-city_zip["Pocatello, ID"] = 83205
-city_zip["Pocatello, Idaho "] = 83205
-city_zip["Pocatello Idaho"] = 83205
-city_zip["Post Falls"] = 83854
-city_zip["Potlatch"] = 83855
-city_zip["Preston"] = 83263
-city_zip["Princeton, Idaho"] = 83857
-city_zip["Rathdrum"] = 83858
-city_zip["Rathdrum, ID"] = 83858
-city_zip["Rexburg"] = 83440
-city_zip["Rexburg "] = 83440
-city_zip["Rexburg, ID"] = 83440
-city_zip["Rexburg, Idaho"] = 83440
-city_zip["Richfield"] = 83349
-city_zip["Richfield, Idaho"] = 83349
-city_zip["Richfield, ID"] = 83349
-city_zip["Rigby"] = 83442
-city_zip["Riggins"] = 83549
-city_zip["Ririe"] = 83443
-city_zip["Ririe/Idaho Falls"] = 83443
-city_zip["Rupert"] = 83350
-city_zip["St. Anthony"] = 83445
-city_zip["Saint anthony"] = 83445
-city_zip["St Anthony Idaho"] = 83445
-city_zip["Sandpoint"] = 83864
-city_zip["Sandpoint "] = 83864
-city_zip["Shelley"] = 83274
-city_zip["Shoshone "] = 83352
-city_zip["Spirit Lake, Idaho but I commute to Coeur d'Alene daily. "] = 83869
-city_zip["Star"] = 83646
-city_zip["Spokane Valley, WA"] = 99212
-city_zip["Sugar City Idaho"] = 83448
-city_zip["Twin Falls"] = 83301
-city_zip["Twin Falls, Idaho"] = 83301
-city_zip["Wallace, Id"] = 83873
-city_zip["Wilder"] = 83303
-city_zip[""] = 99999
+#city_zip = {}
+#city_zip["Ada County"] = 83706
+#city_zip["Ammon "] = 83406
+#city_zip["Arco"] = 83213
+#city_zip["Bellevue"] = 83313
+#city_zip["Blackfoot "] = 83221
+#city_zip["Blackfoot"] = 83221
+#city_zip["Boise"] = 83706
+#city_zip["Boise "] = 83706
+#city_zip["Boise, ID"] = 83706
+#city_zip["Boise, Idaho"] = 83706
+#city_zip["Gooding, Idaho, but I have a residence in Boise, ID that I can stay at during summer break if needed. "] = 83706
+#city_zip["Boise County, halfway between Idaho City and Boise"] = 83716
+#city_zip["Buhl"] = 83316
+#city_zip["Burley"] = 83318
+#city_zip["Burley, ID"] = 83318
+#city_zip["Caldwell"] = 83606
+#city_zip["Caldwell "] = 83606
+#city_zip["Caldwell, ID"] = 83606
+#city_zip["Carey"] = 83320
+#city_zip["Chubbuck"] = 83202
+#city_zip["Clarkston"] = 99403
+#city_zip["Coeur d'Alene"] = 83815
+#city_zip["Coeur d' Alene"] = 83815
+#city_zip["Coeur d'Alene "] = 83815
+#city_zip["Coeur d\"Alene"] = 83815
+#city_zip["Coeur d Alene"] = 83815
+#city_zip["Craigmont"] = 83523
+#city_zip["Dayton"] = 83232
+#city_zip["Dietrich "] = 83324
+#city_zip["Driggs, ID"] = 83422
+#city_zip["Driggs"] = 83422
+#city_zip["Eagle"] = 83616
+#city_zip["Eagle, ID"] = 83616
+#city_zip["Eagle, Idaho"] = 83616
+#city_zip["Emmett"] = 83617
+#city_zip["Garden Valley"] = 83622
+#city_zip["Glenns Ferry"] = 83623
+#city_zip["Gooding"] = 83330
+#city_zip["Grace"] = 83241
+#city_zip["Grand View"] = 83624
+#city_zip["Hailey"] = 83333
+#city_zip["Hailey, ID"] = 83333
+#city_zip["Heyburn"] = 83336
+#city_zip["Heyburn (moving to Idaho Falls area this summer)  83401"] = 83401
+#city_zip["Hayden Id"] = 83335
+#city_zip["Hazelton, ID"] = 83335
+#city_zip["Hazelton"] = 83335
+#city_zip["Jerome"] = 83338
+#city_zip["Idaho City"] = 83631
+#city_zip["Idaho Falls"] = 83402
+#city_zip["Idaho Falls "] = 83402
+#city_zip["Idaho falls "] = 83402
+#city_zip["Idaho Falls, ID"] = 83402
+#city_zip["Idaho Falls, Idaho "] = 83402
+#city_zip["Inkom"] = 83245
+#city_zip["Kellogg"] = 83868
+#city_zip["Kuna, Idaho"] = 83642
+#city_zip["Kuna"] = 83642
+#city_zip["Lewiston"] = 83501
+#city_zip["Lewiston, ID"] = 83501
+#city_zip["Malta"] = 83342
+#city_zip["McCall"] = 83638
+#city_zip["McCammon"] = 83250
+#city_zip["McCammon, Idaho"] = 83250
+#city_zip["Melba"] = 83641
+#city_zip["Meridian"] = 83646
+#city_zip["Meridian, Idaho"] = 83646
+#city_zip["Meridian and Garden Valley"] = 83646
+#city_zip["Meridian (Near Roaring Springs Water Park)"] = 83646
+#city_zip["Middleton"] = 83646
+#city_zip["Middleton "] = 83646
+#city_zip["Midvale "] = 83645
+#city_zip["Montpelier"] = 83254
+#city_zip["moscow "] = 83843
+#city_zip["Moscow"] = 83843
+#city_zip["Mountain Home"] = 83647
+#city_zip["Mountain Home "] = 83647
+#city_zip["mountain home"] = 83647
+#city_zip["Nampa"] = 83651
+#city_zip["Nampa "] = 83651
+#city_zip["Nampa, ID"] = 83651
+#city_zip["Nezperce"] = 83543
+#city_zip["Oakley"] = 83346
+#city_zip["Palouse, WA"] = 99161
+#city_zip["Parma Idaho"] = 83660
+#city_zip["Parker, Idaho- live; work in Rexburg, Idaho "] = 83438
+#city_zip["Paul"] = 83347
+#city_zip["Pocatello"] = 83205
+#city_zip["Pocatello, ID"] = 83205
+#city_zip["Pocatello, Idaho "] = 83205
+#city_zip["Pocatello Idaho"] = 83205
+#city_zip["Post Falls"] = 83854
+#city_zip["Potlatch"] = 83855
+#city_zip["Preston"] = 83263
+#city_zip["Princeton, Idaho"] = 83857
+#city_zip["Rathdrum"] = 83858
+#city_zip["Rathdrum, ID"] = 83858
+#city_zip["Rexburg"] = 83440
+#city_zip["Rexburg "] = 83440
+#city_zip["Rexburg, ID"] = 83440
+#city_zip["Rexburg, Idaho"] = 83440
+#city_zip["Richfield"] = 83349
+#city_zip["Richfield, Idaho"] = 83349
+#city_zip["Richfield, ID"] = 83349
+#city_zip["Rigby"] = 83442
+#city_zip["Riggins"] = 83549
+#city_zip["Ririe"] = 83443
+#city_zip["Ririe/Idaho Falls"] = 83443
+#city_zip["Rupert"] = 83350
+#city_zip["St. Anthony"] = 83445
+#city_zip["Saint anthony"] = 83445
+#city_zip["St Anthony Idaho"] = 83445
+#city_zip["Sandpoint"] = 83864
+#city_zip["Sandpoint "] = 83864
+#city_zip["Shelley"] = 83274
+#city_zip["Shoshone "] = 83352
+#city_zip["Spirit Lake, Idaho but I commute to Coeur d'Alene daily. "] = 83869
+#city_zip["Star"] = 83646
+#city_zip["Spokane Valley, WA"] = 99212
+#city_zip["Sugar City Idaho"] = 83448
+#city_zip["Twin Falls"] = 83301
+#city_zip["Twin Falls, Idaho"] = 83301
+#city_zip["Wallace, Id"] = 83873
+#city_zip["Wilder"] = 83303
+#city_zip[""] = 99999
 
+city_zip = DataPool.get_city_dictionary(None)
 
 class Extern(AttributeSet):
     def __init__(self, row_data_tuple):
@@ -932,21 +937,15 @@ class Extern(AttributeSet):
         return self.presentation_software
 
     def get_business_software_skills_printable_list(self):
+        skills_lst = []
         out_txt = ""
-        #if self.get_spreadsheet_software() != "No Experience":
-            #out_txt = out_txt + f"\t* spreadsheet software:        {self.get_spreadsheet_software()}\n"
-        #if self.get_word_processings_software() != "No Experience":
-            #out_text = out_txt + f"\t* word processing:             {self.get_word_processings_software()}\n"
-        #if self.get_presentation_software() != "No Experience":
-            #out_txt = out_text + f"\t* presentation software:       {self.get_presentation_software()}\n"
-        #if self.get_project_management() != "No Experience":
-            #out_txt = out_txt + f"\t* project management software: {self.get_project_management()}\n"
-        #if self.get_email_administrative_software() != "No Experience":
-            #out_txt = out_txt + f"\t* administrative software:       {self.get_email_administrative_software()}\n"
-        #if self.get_public_speaking() != "No Experience":
-            #out_txt = out_txt + f"\t* public speaking:             {self.get_public_speaking()}\n"
         for skill in self.get_business_software_and_skills().split(";"):
-            out_txt = out_txt + f"\t* {skill}"
+            skills_lst.append(skill)
+
+        skills_lst.remove("")
+
+        for skill in skills_lst:
+            out_txt = out_txt + f"\t* {skill}\n"
 
         return out_txt
 
@@ -1005,8 +1004,9 @@ class Extern(AttributeSet):
     def get_open_to_printable_list(self):
         out_text = ""
         selection_lst = self.get_open_to().split(";")
+        selection_lst.remove("")
         for s in selection_lst:
-            out_text = out_text + f"\t* {s}"
+            out_text = out_text + f"\t* {s}\n"
         return out_text
 
     def get_externship_durations_printable_list(self):
@@ -1099,8 +1099,13 @@ class Extern(AttributeSet):
     def save_dossier(self, to_file=False):
         origional_stdout = sys.stdout
         filename = f"{self.get_last_name()}_{self.get_first_name()}"
-        # filepath = f"/home/jamie/PycharmProjects/skillMatch/data/dossier/{filename}.txt"
         filepath = f"/home/jamie/Source/Python/skillMatch/data/Output/dossier/extern/{filename}.txt"
+
+        try:
+            os.remove(filepath)
+        except FileNotFoundError:
+            pass
+
         log.debug(f"writing file : {filepath}")
 
         with open(filepath, 'a') as f:
@@ -1122,10 +1127,6 @@ class Extern(AttributeSet):
             print(f"EXPERIENCE")
             print(f"Grade Levels: ")    #From column X
             print(f"{self.get_grade_levels_printable_list()}")
-            print(f"")
-            # print("Instructional Experience:")
-            # print(f"{self.get_instructional_experience_printable_list()}")
-            print(f"")
             print("STEM Domain Experience")
             print(f"{self.get_stem_domains_printable_list()}")
             print("Business software & skills:")
@@ -1148,24 +1149,13 @@ class Extern(AttributeSet):
             print(f"")
             print(f"LOGISTICS")
             print(f"Residence : {self.get_city_you_live_in()}") # Column N
-            # print(f"Open to Remote?")
-            # print(f"\t* {self.get_open_to_remeote_printable()}")
             print(f"Open to:")
             print(self.get_open_to_printable_list())
-            #print(f"\t* {self.get_open_to_remeote_printable()}")
-            print(f"")
-            # print(f"Open to temporary relocation?")
-            # print(f"\t* {self.get_open_to_travelling()}")
-            print(f"")
             print(f"CONTACT")
             print(f"\t* Primary Email : {self.get_primary_email()}") # I
             print(f"\t* Secondary Email : {self.get_backup_email()}") # J
             print(f"\t* Phone : {self.get_phone()}") # J
             print(f"\t* Communication & Availability : {self.get_communication_and_availability()}") # AN
-
-
-
-
 
         # Return standard out back to origonal configuration.
         sys.stdout = origional_stdout

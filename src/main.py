@@ -1,10 +1,10 @@
 import MatchSet as MatchSet
+import data_config
 
 import logging.config
-# logging.config.fileConfig("/home/jamie/source/python/skillMatch/src/logging_config.ini")
-logging.config.fileConfig("/home/jamie/Source/Python/skillMatch/src/logging_config.ini")
+logging_config_file = data_config.LoggingConfigurationFile
+logging.config.fileConfig(logging_config_file)
 log = logging.getLogger(__name__)
-
 
 def host_generate_field_headings(filename="/home/jamie/PycharmProjects/skillMatch/data/240218-055238_Host.xlsx"):
     """

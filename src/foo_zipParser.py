@@ -5,8 +5,11 @@ import pickle
 
 def main():
     print("In foo_zipParser")
-    input_file = r"/home/jamie/PycharmProjects/skillMatch/data/uszips.csv"
-    output_file = r"/home/jamie/PycharmProjects/skillMatch/data/uszips_idaho.csv"
+    #input_file = r"/home/jamie/PycharmProjects/skillMatch/data/uszips.csv"
+    input_file = r"/home/jamie/Source/Python/skillMatch/data/Input/uszips.csv"
+    #output_file = r"/home/jamie/PycharmProjects/skillMatch/data/uszips_idaho.csv"
+    output_file = r"/home/jamie/Source/Python/skillMatch/data/Input/uszips_idaho.csv"
+
     idaho_zips = []
 
     ## read in the .csv file which contains zips for the entire country.
@@ -39,12 +42,14 @@ def hav(loc1,loc2):
 def make_dict():
     distance_miles = {}
 
-    input_file = r"/home/jamie/PycharmProjects/skillMatch/data/uszips.csv"
+    #input_file = r"/home/jamie/PycharmProjects/skillMatch/data/uszips.csv"
+    input_file = r"/home/jamie/Source/Python/skillMatch/data/Input/uszips.csv"
+
     idaho_zips = []
     with open(input_file, newline='') as uszips:
         reader = csv.reader(uszips, delimiter=",",quotechar='"')
         for row in reader:
-            if row[4] == "ID":
+            if (row[4] == "ID") or (row[4] == "WA") :
                 idaho_zips.append(row)
     uszips.close()
 
@@ -64,7 +69,9 @@ def make_dict():
             #for n in distance_miles.keys():
                 #print(f"{n} : {distance_miles[n]}")
 
-    pickle_file = r"/home/jamie/PycharmProjects/skillMatch/data/distance_miles.pickle"
+    #pickle_file = r"/home/jamie/PycharmProjects/skillMatch/data/distance_miles.pickle"
+    pickle_file = r"/home/jamie/Source/Python/skillMatch/data/Input/distance_miles.pickle"
+
     with open(pickle_file, 'wb') as handle:
         pickle.dump(distance_miles, handle, protocol=pickle.HIGHEST_PROTOCOL)
 

@@ -280,6 +280,7 @@ class MatchSet():
             host.save_dossier()
 
     def print_extern_dossiers(self):
+
         for extern in self.get_extern_obj_lst():
             extern.save_dossier()
 

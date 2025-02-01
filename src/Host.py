@@ -1,6 +1,7 @@
 from AttributeSet import AttributeSet
 import Skills as Skills
 import sys
+import os
 import re
 
 
@@ -916,8 +917,12 @@ class Host(AttributeSet):
     def save_dossier(self, to_file=False):
         origional_stdout = sys.stdout
         filename = f"{self.get_organization_name_filesafe()}"
-        # filepath = f"/home/jamie/PycharmProjects/skillMatch/data/dossier/{filename}.txt"
         filepath = f"/home/jamie/Source/Python/skillMatch/data/Output/dossier/host/{filename}.txt"
+        try:
+            os.remove(filepath)
+        except FileNotFoundError:
+            pass
+
         log.debug(f"writing file : {filepath}")
         with open(filepath, 'a') as f:
             sys.stdout = f
