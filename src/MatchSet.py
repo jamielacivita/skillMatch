@@ -189,10 +189,17 @@ class MatchSet():
         header_row.append("Max Interns")
 
         header_row.append("ARSON")
+        header_row.append("BASIN")
+        header_row.append("CARREAR")
+        header_row.append("DEFEND")
+        header_row.append("ENDORSE")
+        header_row.append("FORTIFY")
+        header_row.append("GAVEL")
+
 
         return header_row
 
-        #return ["Extern ID", "Host ID", "EXTERN", "EXTERN CITY", "HOST", "HOST CITY","HOST NO EXP NEEDED", "DISTANCE", "DISTANCE NOTES", "REMOTE MATCH", "REMOTE ONLY", "STEM experience match", "STEM experience matched on", "Biz Skills Score", "Biz Skills Match", "Work Style Score", "Work Style Notes", "Teaching Needs Match", "Curriculum Needs Match", "Total Experience Match", "Min Interns", "Max Interns"]
+
 
     def get_match_chart_data_rows(self, extern_id = None):
         out_rows = []
@@ -224,6 +231,12 @@ class MatchSet():
             out_row.append(f"{match.get_max_externs()}")
 
             out_row.append(f"{match.get_arson()}")
+            out_row.append(f"{match.get_basin()}")
+            out_row.append(f"{match.get_carrear()}")
+            out_row.append(f"{match.get_defend()}")
+            out_row.append(f"{match.get_endorse()}")
+            out_row.append(f"{match.get_fortify()}")
+            out_row.append(f"{match.get_gavel()}")
 
             out_rows.append(out_row)
 
@@ -251,7 +264,7 @@ class MatchSet():
         :return: None - effect is to save the match chart data to a CSV.
         """
         path = f"/home/jamie/PycharmProjects/skillMatch/data/"
-        path = f"/home/jamie/Source/Python/skillMatch/data"
+        path = f"/home/jamie/Source/Python/skillMatch/data/Output/chart/"
         filename = f"{time.strftime('%Y%m%d-%H%M%S')}_out.csv"
         path_to_file = path + filename
         with open(path_to_file, "w", newline='') as csvfile:

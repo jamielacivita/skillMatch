@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="Adding new matching logic.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="Updates to matching logic.">
       <change beforePath="$PROJECT_DIR$/data/Output/dossier/extern/Abrams_Carissa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/extern/Abrams_Carissa.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/Output/dossier/extern/Alonzo_Dana.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/extern/Alonzo_Dana.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/Output/dossier/extern/Ashton_Addie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/extern/Ashton_Addie.txt" afterDir="false" />
@@ -202,9 +201,8 @@
       <change beforePath="$PROJECT_DIR$/data/Output/dossier/extern/bowman_christopher.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/extern/bowman_christopher.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/Output/dossier/extern/nilsen_amy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/extern/nilsen_amy.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/Output/dossier/extern/valencia_gabriela.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/extern/valencia_gabriela.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Host.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Host.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Match.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logging_config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/src/logging_config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatchSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatchSet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738341924159</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Updates to matching logic.">
+      <option name="closed" value="true" />
+      <created>1738367230513</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738367230513</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -384,6 +390,7 @@
     <MESSAGE value="In progress on updates to Host.py to ingest .csv files." />
     <MESSAGE value="Host.py is now able to ingest .csv files." />
     <MESSAGE value="Adding new matching logic." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding new matching logic." />
+    <MESSAGE value="Updates to matching logic." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates to matching logic." />
   </component>
 </project>

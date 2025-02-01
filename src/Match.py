@@ -77,12 +77,11 @@ class Match:
 
         # Added Matching Logic 2025
         self.set_arson()
-        #log.debug(f"arson : {self.get_arson()}")
-        #self.set_basin()
-        #self.set_career()
-        #self.set_defend()
-        #self.set_endorse()
-        #self.set_fortify()
+        self.set_basin()
+        self.set_career()
+        self.set_defend()
+        self.set_endorse()
+        self.set_fortify()
         self.set_gavel()
 
         if log.level <= logging.DEBUG:
