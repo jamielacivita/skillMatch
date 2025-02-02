@@ -111,8 +111,11 @@ class MatchSet():
         return host_objects_lst
 
     def get_extern_obj_lst(self):
+        """
+        Given a collection of extern data (extern dataframe)
+        :return: a list of extern objects.
+        """
         extern_dataframe = self.get_extern_dataframe()
-        #extern_objects_lst = self.parse_extern_dataframe(extern_dataframe)
         extern_objects_lst = self.parse_extern_dataframe(dataframecsv=extern_dataframe)
         return extern_objects_lst
 

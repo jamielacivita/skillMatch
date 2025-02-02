@@ -20,7 +20,6 @@ def host_generate_field_headings(filename="/home/jamie/PycharmProjects/skillMatc
             if cell.column_letter == "AJ":
                 print(f" {cell.column_letter} : {cell.value}")
 
-
 if __name__ == "__main__":
 
     log.debug("Generate a Match set Object")
