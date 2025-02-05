@@ -591,9 +591,7 @@ class Match:
         :Input: None - uses embedded peroperties.
         :return: None - side effect is to set the first filter location - distance based on zip code.
         """
-        #log.debug(f"In arson.")
-        #log.debug("Distance based on ZIP code")
-        #log.debug(f"Distance : {self.distance}")
+        filelog.debug("In Arson")
         # todo: sanity check against bad distances.
         if self.distance < 30:
             self.arson = "GOOD"
@@ -601,6 +599,9 @@ class Match:
             self.arson = "IFFY"
         else:
             self.arson = "POOR"
+
+        filelog.debug(f"ARSON value is {self.arson} because distance is {self.distance}.")
+        filelog.debug(f"\n")
 
         return self.arson
 
