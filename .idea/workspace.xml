@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="Updated logging for Arson">
+    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="Updated data for new externs.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataPool.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataPool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Host.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Host.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Match.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MatchSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatchSet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logging_config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/src/logging_config.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738716033933</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Updated data for new externs.">
+      <option name="closed" value="true" />
+      <created>1738980891828</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738980891828</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +230,7 @@
     <MESSAGE value="Updates to matching logic." />
     <MESSAGE value="Updates to file refrences." />
     <MESSAGE value="Updated logging for Arson" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated logging for Arson" />
+    <MESSAGE value="Updated data for new externs." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated data for new externs." />
   </component>
 </project>
