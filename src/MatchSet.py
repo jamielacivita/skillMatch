@@ -210,16 +210,16 @@ class MatchSet():
             out_row = []
 
             #out_row.append(f"{match.get_key()}")
-            out_row.append(f"{match.get_extern_id()}")
-            out_row.append(f"{match.get_host_id()}")
-            out_row.append(f"{match.get_extern_name()}")
-            out_row.append(f"{match.get_extern_city()}")
-            out_row.append(f"{match.get_host_name()}")
-            out_row.append(f"{match.get_host_city()}")
-            out_row.append(f"{match.get_host_no_skills_needed()}")
-            out_row.append(f"{match.get_distance()}")
-            out_row.append(f"{match.get_distance_notes()}")
-            out_row.append(f"{match.get_remote_match()}")
+            out_row.append(f"{match.get_extern_id()}") #A
+            out_row.append(f"{match.get_host_id()}") #B
+            out_row.append(f"{match.get_extern_name()}") #C
+            out_row.append(f"{match.get_extern_city()}") #D
+            out_row.append(f"{match.get_host_name()}") #E
+            out_row.append(f"{match.get_host_city()}") #F
+            out_row.append(f"{match.get_host_no_skills_needed()}") #G
+            out_row.append(f"{match.get_distance()}") #H
+            out_row.append(f"{match.get_distance_notes()}") #I
+            out_row.append(f"{match.get_remote_match()}") #J
             out_row.append(f"{match.get_extern_remote_only()}")
             out_row.append(f"{match.get_stem_experience_match_score()}")
             out_row.append(f"{match.get_stem_experience_match_notes()}")

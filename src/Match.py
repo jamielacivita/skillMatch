@@ -412,7 +412,7 @@ class Match:
 
     def calculate_remote_match(self):
         # set remote match
-        # A remote match is Extern V (what work locations are you open to) and Host AN (can this work be done remotely)
+        # A remote match is Extern column V (what work locations are you open to) and Host AN (can this work be done remotely)
         extern_remote_match = self.extern_obj.get_what_work_locations()
         host_remote_match = self.host_obj.get_work_done_remotely()
 

@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="Updates to file refrences.">
+    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="Updated logging for Arson">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataPool.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataPool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Host.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Host.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatchSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatchSet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logging_config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/src/logging_config.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="updateHostReferences" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,20 +53,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Extern.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Host.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Match.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MatchSet.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.foo_zipParser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.DataPool.executor": "Run",
+    "Python.Extern.executor": "Run",
+    "Python.Host.executor": "Debug",
+    "Python.Match.executor": "Run",
+    "Python.MatchSet.executor": "Debug",
+    "Python.foo_zipParser.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "NewExtern",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data/Output" />
@@ -188,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738532203458</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Updated logging for Arson">
+      <option name="closed" value="true" />
+      <created>1738716033933</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738716033933</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +227,7 @@
     <MESSAGE value="Adding new matching logic." />
     <MESSAGE value="Updates to matching logic." />
     <MESSAGE value="Updates to file refrences." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates to file refrences." />
+    <MESSAGE value="Updated logging for Arson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated logging for Arson" />
   </component>
 </project>

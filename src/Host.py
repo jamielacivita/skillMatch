@@ -458,10 +458,13 @@ class Host(AttributeSet):
 
         host_list = self.get_looking_for_experience()
         host_list = host_list.upper()
+        #log.debug(f"{host_list}")
 
-        if "No, experience in a specific STEM domain isn't necessary".upper() in host_list:
+        # used in "HOST NO EXP NEEDED" in the output chart.
+        key_phrase = "No specific skills needed - we'll take anyone with the right attitude & train on what's needed!"
+        if key_phrase.upper() in host_list:
             self.skills.set_stemexp_na(True)
-            #log.debug(f"host {self.get_id()} matched on set_stemexp_na")
+            log.debug(f"host {self.get_id()} matched on set_stemexp_na")
 
         if "Life science / biology".upper() in host_list:
             self.skills.set_stemexp_lifesci(True)
@@ -510,6 +513,7 @@ class Host(AttributeSet):
         ## Business Skill Section ##
         host_list_business = self.get_business_education_skills()
         host_list_business = host_list_business.upper()
+        log.debug(f"host_list_business : {host_list_business}")
 
         #skills_biz_na
         if "No specific skills needed".upper() in host_list_business:
@@ -681,6 +685,7 @@ class Host(AttributeSet):
 
     def get_work_done_remotely(self):
         return self.work_done_remotely
+
     def set_zip(self, zip):
         if self.get_id() == 5:
             self.zip = "83301"
@@ -839,7 +844,7 @@ class Host(AttributeSet):
         return self.anything_else
 
     def get_no_skills_needed(self):
-        if (self.skills.stemexp_na):
+        if self.skills.stemexp_na:
             return True
         else:
             return False

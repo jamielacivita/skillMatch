@@ -66,6 +66,7 @@ class DataPool:
         city_zip["Bellevue"] = 83313
         city_zip["Blackfoot "] = 83221
         city_zip["Blackfoot"] = 83221
+        city_zip["Blackfooot "] = 83221
         city_zip["Boise"] = 83706
         city_zip["Boise "] = 83706
         city_zip["Boise, ID"] = 83706
@@ -73,13 +74,18 @@ class DataPool:
         city_zip[
             "Gooding, Idaho, but I have a residence in Boise, ID that I can stay at during summer break if needed. "] = 83706
         city_zip["Boise County, halfway between Idaho City and Boise"] = 83716
+        city_zip["Boise County"] = 83316
+        city_zip["Bonner Ferry and Rathdrum"] = 83805
         city_zip["Buhl"] = 83316
         city_zip["Burley"] = 83318
         city_zip["Burley, ID"] = 83318
+        city_zip["Burley, Idaho"] = 83318
         city_zip["Caldwell"] = 83606
         city_zip["Caldwell "] = 83606
+        city_zip["Caldwell but more than willing to travel for a great fit!"] = 83606
         city_zip["Caldwell, ID"] = 83606
         city_zip["Carey"] = 83320
+        city_zip["Cataldo, ID"] = 83810
         city_zip["Chubbuck"] = 83202
         city_zip["Clarkston"] = 99403
         city_zip["Coeur d'Alene"] = 83815
@@ -89,9 +95,11 @@ class DataPool:
         city_zip["Coeur d Alene"] = 83815
         city_zip["Craigmont"] = 83523
         city_zip["Dayton"] = 83232
+        city_zip["Dayton, Idaho"] = 83232
         city_zip["Dietrich "] = 83324
         city_zip["Driggs, ID"] = 83422
         city_zip["Driggs"] = 83422
+        city_zip["Downey"] = 83234
         city_zip["Eagle"] = 83616
         city_zip["Eagle, ID"] = 83616
         city_zip["Eagle, Idaho"] = 83616
@@ -120,7 +128,10 @@ class DataPool:
         city_zip["Kuna, Idaho"] = 83642
         city_zip["Kuna"] = 83642
         city_zip["Lewiston"] = 83501
+        city_zip["Lewiston "] = 83501
         city_zip["Lewiston, ID"] = 83501
+        city_zip["Lewiston ID"] = 83501
+        city_zip["Logan"] = 84322
         city_zip["Malta"] = 83342
         city_zip["McCall"] = 83638
         city_zip["McCammon"] = 83250
@@ -139,9 +150,11 @@ class DataPool:
         city_zip["Mountain Home"] = 83647
         city_zip["Mountain Home "] = 83647
         city_zip["mountain home"] = 83647
+        city_zip["Mountain Home, Idaho"] = 83647
         city_zip["Nampa"] = 83651
         city_zip["Nampa "] = 83651
         city_zip["Nampa, ID"] = 83651
+        city_zip["Nampa, Idaho"] = 83651
         city_zip["Nezperce"] = 83543
         city_zip["Oakley"] = 83346
         city_zip["Palouse, WA"] = 99161
@@ -169,7 +182,9 @@ class DataPool:
         city_zip["Riggins"] = 83549
         city_zip["Ririe"] = 83443
         city_zip["Ririe/Idaho Falls"] = 83443
+        city_zip["Robin, Idaho (Arimo)"] = 83214
         city_zip["Rupert"] = 83350
+        city_zip["Rupert, ID"] = 83350
         city_zip["St. Anthony"] = 83445
         city_zip["Saint anthony"] = 83445
         city_zip["St Anthony Idaho"] = 83445
@@ -185,6 +200,7 @@ class DataPool:
         city_zip["Twin Falls, Idaho"] = 83301
         city_zip["Wallace, Id"] = 83873
         city_zip["Wilder"] = 83303
+        city_zip["Weiser"] = 83672
         city_zip[""] = 99999
 
         return city_zip
