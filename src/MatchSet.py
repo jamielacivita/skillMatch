@@ -11,7 +11,9 @@ import data_config
 
 import logging.config
 # logging.config.fileConfig("/home/jamie/source/python/skillMatch/src/logging_config.ini")
-logging.config.fileConfig("/home/jamie/Source/Python/skillMatch/src/logging_config.ini")
+#logging.config.fileConfig("/home/jamie/Source/Python/skillMatch/src/logging_config.ini")
+logging.config.fileConfig(data_config.LoggingConfigurationFile)
+
 log = logging.getLogger(__name__)
 
 

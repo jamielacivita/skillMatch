@@ -1,18 +1,22 @@
 
 import pickle
 
-from OpenGL.wrapper import none_or_pass
+#from OpenGL.wrapper import none_or_pass
 
 import Skills as Skills
 from prettytable import PrettyTable as PrettyTable
 import logging
+import data_config
+
 log = logging.getLogger(__name__)
 filelog = logging.getLogger("FileLogger")
 # set level to 10 to enable debugging.
 
 
 # Load in the dictionary that holds in the distances between zipcodes.
-with open('/home/jamie/Source/Python/skillMatch/data/Input/distance_miles.pickle', 'rb') as distance:
+distance_miles_pickle = data_config.distance_miles_pickle
+#with open('/home/jamie/Source/Python/skillMatch/data/Input/distance_miles.pickle', 'rb') as distance:
+with open(distance_miles_pickle, 'rb') as distance:
     distance_dict = pickle.load(distance)
 
 
