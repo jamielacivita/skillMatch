@@ -46,22 +46,17 @@ class Extern(AttributeSet):
 
         self.Open_to_camp_counselor = None
 
+        self.presentation_software = None #Z
 
-
-
-
-      ## Z
-        self.presentation_software = None
-
-        self.curriculum_design = None
-        self.project_management = None
-        self.secondary_level_instruction = None
-        self.experiences_or_interests = None
-        self.linkedin_profile = None
-        self.adult_education_training = None
-        self.public_speaking = None
+        self.curriculum_design = None #AC
+        self.project_management = None #AD
+        self.secondary_level_instruction = None #AE
+        self.experiences_or_interests = None #AI
+        self.linkedin_profile = None #AJ
+        self.adult_education_training = None #AF
+        self.public_speaking = None #AG
         #self.group_presentation = None
-        self.email_administrative_software = None
+        self.email_administrative_software = None #AH
         self.zip = None # This is a synthetic property -- needs conversion from City Live In to a zip.
         self.remote_only = None  # This is a synthetic property -- If extern ONLY indicated “remote” in column V, True
         self.phone = None # column AL (new in 2025)
@@ -183,15 +178,15 @@ class Extern(AttributeSet):
         extern_column["Open to being a camp counselor?"] = 44
         extern_column["AT"] = 45
         extern_column["Open to curriculum design?"] = 45
+        # extern_column["AU"] = 46
+        # extern_column["Question"] = 46
         extern_column["AU"] = 46
-        extern_column["Question"] = 46
+        extern_column["While the typical externship is $5000 for 200 hours, some hosts may have opportunities for 100 hour externships at a reduced stipend of $2500."] = 46
         extern_column["AV"] = 47
-        extern_column["While the typical externship is $5000 for 200 hours, some hosts may have opportunities for 100 hour externships at a reduced stipend of $2500."] = 47
-        extern_column["AW"] = 48
-        extern_column["occasionally hosts do look for a specific skill"] = 48
+        extern_column["occasionally hosts do look for a specific skill"] = 47
 
-        extern_column["AX"] = 49
-        extern_column["Have you participated in the Externship Program before?"] = 49
+        extern_column["AW"] = 48
+        extern_column["Have you participated in the Externship Program before?"] = 48
 
         blanktuple = (("x","y"))
         blanklist = []
@@ -315,7 +310,7 @@ class Extern(AttributeSet):
 
             # best time of day to reach you (column AM) goes here - No data in chart.
             self.set_communication_and_availability(row_data_tuple[extern_column["AN"]])
-            self.set_business_software_and_skills(row_data_tuple[extern_column["AW"]])
+            self.set_business_software_and_skills(row_data_tuple[extern_column["AV"]])
             self.set_comfortable_and_confident((row_data_tuple[extern_column["AO"]]))
             self.set_open_to(row_data_tuple[extern_column["U"]])
 
@@ -326,8 +321,8 @@ class Extern(AttributeSet):
             self.set_open_to_curriculum_design(row_data_tuple[extern_column["AT"]])
 
             #todo : Question (column AU) goes here.
-            self.set_externship_durations(row_data_tuple[extern_column["AV"]])
-            self.set_participated_before(row_data_tuple[extern_column["AX"]])
+            self.set_externship_durations(row_data_tuple[extern_column["AU"]])
+            self.set_participated_before(row_data_tuple[extern_column["AW"]])
 
             #self.set_why_most_interesting(row_data_tuple[WHY_MOST_INTERESTING_COL].value)
             #self.set_open_to_teaching(row_data_tuple[OPEN_TO_TEACHING_COL].value)
