@@ -1,0 +1,65 @@
+Organization: Western States Equipment Company
+Contact: Wardian, Hunter
+Email: Western States Equipment Company is a Caterpillar Heavy Equipment Dealership that serves the logging, mining, and construction industries across the Idaho, Eastern Washington, Eastern Oregon, Western Montana, and North-West Wyoming. We sell, rent, and service a variety of heavy machinery and industrial tools. This extern will be working closely with the technology and marketing teams, assisting with various data analysis, data governance, and process documentation initiatives.
+Location: Boise
+Remote Possible: 100% in office
+
+ABOUT THE ORGANIZATION:
+Western States Equipment Company is a Caterpillar Heavy Equipment Dealership that serves the logging, mining, and construction industries across the Idaho, Eastern Washington, Eastern Oregon, Western Montana, and North-West Wyoming. We sell, rent, and service a variety of heavy machinery and industrial tools. This extern will be working closely with the technology and marketing teams, assisting with various data analysis, data governance, and process documentation initiatives.
+
+ABOUT THE PROJECT
+Name
+	* WSECO Data Analysis, Governance, and Documentation
+
+Objectives
+	* â¢	Assist in develop comprehensive knowledge base documentation and videos for custom business applications, ERP, and reporting systems.
+â¢	Review report and application usage data to help maintain the Technology Report and Resource catalog. 
+â¢	Analyze report usage and query run times to inform strategic decisions about reporting.
+â¢	Inventory data sources and identify data sources that are not coming from the Enterprise Data Warehouse.
+â¢	Support Data Governance projects by identifying and cleaning up inaccurate data in the ERP system.
+
+
+Description and day-to-day tasks:
+	* â¢	Developing Knowledge Base Documentation and Videos: The extern will create comprehensive documentation and instructional videos for custom business applications, ERP, and reporting systems. This includes gathering information, writing clear and concise documentation, and producing engaging video content.
+â¢	Report and Resource Catalog Clean Up: Help clean up and govern the report and resource catalog by reviewing usage data to identify outdated or redundant reports. Collaborate with product owners to confirm relevance and update the catalog accordingly. 
+â¢	Analyzing Report Usage and Query Run Times: The extern will analyze how reports are used and the performance of queries. This analysis will help inform strategic decisions about reporting and identify areas for improvement.
+â¢	Inventorying Data Sources: The extern will inventory data sources and work on standardizing direct ERP queries to ensure consistent and reliable reporting. This task involves collaborating with IT and data teams to identify and document data sources. Note: SQL experience is not needed for this task.
+â¢	Supporting Data Governance Projects: The extern will assist in identifying and cleaning up inaccurate data in the ERP system. This involves working closely with the data governance and marketing teams to ensure data quality and integrity.
+
+Meaningful learning about STEM careers:
+	* By engaging in activities related to business intelligence and marketing, the extern will gain hands-on experience in various aspects of data management, analysis, and governance. They will learn how to create and enhance documentation, improve report visuals, analyze data usage, and support data governance projects. 
+
+Additionally, the extern will collaborate with different teams, such as technology, data, and marketing, to ensure data quality and integrity. This immersive experience will equip the extern with valuable insights and practical skills that they can bring back to the classroom to inspire and educate their students.
+
+Furthermore, the extern will be exposed to various digital tools like Power BI, Power Apps, and custom applications. They will also learn about Enterprise Resource Planning (ERP) systems and how businesses use them and their data to operate efficiently. Thy will also learn about how the technology team uses Jira products to effectively record and action on business requests/issues along with the Western States Web Application Development Process. This exposure will provide the extern with a deeper understanding of the technological tools and systems that drive modern businesses, which they can share with their students to illustrate the real-world applications of STEM.
+
+
+Network growth:
+	* Developing Knowledge Base Documentation and Videos:
+o	Collaborative Workshops: Organize workshops where the extern can gather information from various departments. This will allow them to interact with different teams and understand their needs.
+o	Peer Reviews: Implement a peer review process for the documentation and videos. This will involve the extern working closely with colleagues to get feedback and improve their work.
+
+Enhancing Report Layouts and Visuals:
+o	Design Meetings: Schedule regular design meetings with stakeholders to discuss report layouts and visuals. This will help the extern understand different perspectives and build relationships.
+o	Cross-Functional Teams: Form cross-functional teams that include members from different departments to work on report enhancements. This will provide the extern with diverse viewpoints and collaborative opportunities.
+
+Analyzing Report Usage and Query Run Times:
+o	User Interviews: Encourage the extern to conduct interviews with report users to gather insights on usage patterns and performance issues. This will help them connect with various users and understand their needs.
+o	Data Analysis Workshops: Organize workshops where the extern can present their findings and discuss potential improvements with stakeholders. This will foster collaboration and knowledge sharing.
+
+Inventorying Data Sources:
+o	Data Source Mapping Sessions: Hold sessions with IT and data teams to map out data sources. This will allow the extern to interact with technical experts and learn about data management practices.
+o	Documentation Collaboration: Involve the extern in collaborative documentation efforts with data teams to ensure comprehensive and accurate records.
+
+Supporting Data Governance Projects:
+o	Data Quality Meetings: Schedule regular meetings with the data governance and marketing teams to discuss data quality issues and solutions. This will help the extern build relationships and learn from experienced professionals.
+o	Data Cleanup Initiatives: Involve the extern in data cleanup initiatives that require collaboration with various team members. This will provide hands-on experience and networking opportunities.
+
+
+Skills desired:
+	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Power BI (optional), SQL/Database experience (optional);
+
+STEM domain experience desired:
+	* Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Database architecture methods (Cloud vs on-prem, Data Warehousing, relational databases, etc.);
+
+

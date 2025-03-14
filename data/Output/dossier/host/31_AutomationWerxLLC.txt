@@ -1,0 +1,38 @@
+Organization: Automation Werx, LLC
+Contact: Steffler, Trevor
+Email: We are an Automation & Controls Company, that provides programming, control panels, wiring, and instrumentation for the Agricultural, Industrial, and Municipal market sectors. 
+Location: Idaho Falls
+Remote Possible: Hybrid - sometimes in office
+
+ABOUT THE ORGANIZATION:
+We are an Automation & Controls Company, that provides programming, control panels, wiring, and instrumentation for the Agricultural, Industrial, and Municipal market sectors. 
+
+ABOUT THE PROJECT
+Name
+	* Inventory and Asset Management
+
+Objectives
+	* Currently there is no inventory or asset management solution. Result is a lack of tracking and accountability for high value products. Implementation will allow us to track current inventory levels, reorder levels and quantities, and apply checkout of inventory to specific jobs for better project costing analysis.
+
+Description and day-to-day tasks:
+	* Initially we would provide externs an overview of the project, interaction with stakeholders to come up with a proposed solution based upon feedback and observations of inventory usage and restock. This would provide the externs enough information to propose a solution for procedures for inventory management. Once proposed and approved, we would look to them for deployment of the inventory/asset management system, training of employees, and a written procedure for future trainings.
+
+Meaningful learning about STEM careers:
+	* We are a Systems Integrator specializing in PLC, HMI, and Systems Automation for Municipal, Agricultural, and Industrial customers. The proposed inventory project would expose the externs to hardware that is commonly utilized in automating equipment, systems, and processes that the Idaho economy relies upon. Itâs a small glimpse into the critical systems and infrastructure within Idaho. 
+
+We frequently have industry professionals coming to our office to show us the latest in technology. We pride ourselves in staying on the cutting edge for sensors, automation, and controls, which is reflected in our current inventory. We utilize smart communication protocols in our systems that provide the end user the most information and analytics with the least amount of installation time. Externs will be exposed to these âSMARTâ communication protocols via the inventory grouping of similar items.
+
+
+Network growth:
+	* â¢	For the inventory system, we would rely upon the extern to perform a 1:1 with employees to see how they currently utilize inventory levels, and obtain feedback from the employees on how they would view the optimal inventory system. This would allow the externs to propose a solution based upon feedback.
+â¢	During employee 1:1âs, the externs would be able to see each employees roles and responsibilities, all the hats each employee must wear, and what it takes to be part of a small business.
+
+
+
+Skills desired:
+	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Project Management;Email & Administrative Software;
+
+STEM domain experience desired:
+	* Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources;Trades & Industry (e.g. manufacturing, automotive, construction, etc.);
+
+

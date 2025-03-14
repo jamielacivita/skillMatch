@@ -1,0 +1,32 @@
+Organization: Boise National Forest
+Contact: Robinson, Matt
+Email: The Boise National Forest manages 2.4 million acres of national forest land in southern Idaho.
+Location: Boise/Garden Valley
+Remote Possible: Hybrid - sometimes in office
+
+ABOUT THE ORGANIZATION:
+The Boise National Forest manages 2.4 million acres of national forest land in southern Idaho.
+
+ABOUT THE PROJECT
+Name
+	* Post-prescribed fire effects monitoring and analysis
+
+Objectives
+	* The object of this assignment is to design and implement a forest-wide monitoring program for assessing the ground cover, erosion and riparian effects of prescribed fire.
+
+Description and day-to-day tasks:
+	* The extern will research, design and implement monitoring of past and present prescribed fire units. He/she will need to read scientific literature, write and design the program, and then go out into the forest to implement the monitoring. If there is time, a write up of the findings would be helpful.
+
+Meaningful learning about STEM careers:
+	* Extern will learn about prescribed fire, why we do it, how itâs done, itâs effects and will combine that with research, monitoring and statistical skills to assess the effects of prescribed fire. The intern will also learn how our southern Idaho ecosystems depend on fire for their life cycle. This project requires the extern to interact with multiple disciplines: Fire and Fuels, Hydrology, Soils, Fisheries, and GIS. This person will leave the externship with a good working knowledge of what the people in those fields do for the Forest Service.
+
+Network growth:
+	* The project will require them to cross disciplines and meet people from across the forest.
+
+Skills desired:
+	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);
+
+STEM domain experience desired:
+	* Life Science / Biology;Earth & Environmental Science;Math;prescribed fire and forest management; watershed and hydrology; statistics;
+
+

@@ -1,0 +1,35 @@
+Organization: Clearwater Financial LLC
+Contact: Perry, Jace
+Email: We are a Municipal Advisory firm. Our roll is consultants to government entities to help them with financing needs including issuing bonds. We also help Municipalities with long range facility planning and financial planning, forecasting, feasibility studies, public engagement, economic development, and other accounting and finance services. The finance work deals heavily in math. We also have important software programs that help manager our core client project management and CRM that require software support and some programming to maximize the use of the system. 
+Location: Boise
+Remote Possible: 100% remote
+
+ABOUT THE ORGANIZATION:
+We are a Municipal Advisory firm. Our roll is consultants to government entities to help them with financing needs including issuing bonds. We also help Municipalities with long range facility planning and financial planning, forecasting, feasibility studies, public engagement, economic development, and other accounting and finance services. The finance work deals heavily in math. We also have important software programs that help manager our core client project management and CRM that require software support and some programming to maximize the use of the system. 
+
+ABOUT THE PROJECT
+Name
+	* CRM and Project Management Software maximization (ZohoOne CRM and Projects)
+
+Objectives
+	* Creation of internal reporting to help assess efficiency of project management and improve the ability to track and close new opportunities with our CRM software. In addition to report creation, use the data analytics tool within the software to create dashboards for ZohoOne users. The project would also include the opportunity for some basic programming within the system to automate processes that are currently manual. For example sending out emails when certain tasks are complete. 
+
+We will benefit from this project by having better insight into our productivity and make improvements to better use the project management system. We will also improve prospective client engagement and increase our ability to close new clients with improved reporting and functionality of the CRM software.
+
+
+Description and day-to-day tasks:
+	* Work with the team to understand the functionality and the current use of the both CRM and Projects. Outline desired report criteria and then create the report within the system. Work with the team to understand what information would be helpful in dashboards, design and create dashboards to meet those needs. Work with the team to identify opportunities to automate steps within the system and program code to implement those automations.
+
+Meaningful learning about STEM careers:
+	* This project will expose the educator to tools, processes and technical terminology associated with computer programming, particularly as related to project management and to municipal finance. Exposure to our processes and procedures will also give the Teacher an opportunity to see how we our processes work to complete, issuing bonds, long range planning for facilities, feasibility studies, public engagement campaigns, and administering RFPs. This will allow the Teacher to have insight to multiple STEM applicable workforces.
+
+Network growth:
+	* We have a small team at Clearwater Financial. The Extern would have the opportunity to interact with everyone on our Team include top leadership. We would set up 1:1s with each team member to allow the Extern to determine what reporting and functionality they would like out of the system and how they use the system each day to do their work.
+
+Skills desired:
+	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Project Management;Email & Administrative Software;Computer programming (ZohoOne experience if possible;
+
+STEM domain experience desired:
+	* Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);
+
+

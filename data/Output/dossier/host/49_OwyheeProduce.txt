@@ -1,0 +1,126 @@
+Organization: Owyhee Produce
+Contact: Froerer, Colsie
+Email: Owyhee Produce is a family-owned agricultural company based in the Pacific Northwest, specializing in the farming, packing, and shipping of onions, asparagus, watermelon and other crops. We focus on sustainable farming practices and innovative agricultural techniques to enhance productivity and crop quality.
+
+Owyhee Produce's work ties into STEM through its use of modern farming technology, data analysis, and engineering solutions. For example:
+
+Science: Soil testing, crop genetics, and pest management rely on biological and environmental sciences.
+Technology: Advanced machinery for planting, harvesting, and packaging uses cutting-edge technology, including GPS systems and automated sorting.
+Engineering: Designing and maintaining irrigation systems and farm equipment requires engineering knowledge.
+Mathematics: Data analytics help with crop yield predictions, inventory tracking, and optimizing resource use.
+
+As for STEM careers, Owyhee Produce employs specialists such as agricultural scientists, data analysts, mechanical engineers, and IT technicians. These roles help improve farming efficiency, solve technical problems, and support sustainable practices.
+Location: Parma
+Remote Possible: 100% in office
+
+ABOUT THE ORGANIZATION:
+Owyhee Produce is a family-owned agricultural company based in the Pacific Northwest, specializing in the farming, packing, and shipping of onions, asparagus, watermelon and other crops. We focus on sustainable farming practices and innovative agricultural techniques to enhance productivity and crop quality.
+
+Owyhee Produce's work ties into STEM through its use of modern farming technology, data analysis, and engineering solutions. For example:
+
+Science: Soil testing, crop genetics, and pest management rely on biological and environmental sciences.
+Technology: Advanced machinery for planting, harvesting, and packaging uses cutting-edge technology, including GPS systems and automated sorting.
+Engineering: Designing and maintaining irrigation systems and farm equipment requires engineering knowledge.
+Mathematics: Data analytics help with crop yield predictions, inventory tracking, and optimizing resource use.
+
+As for STEM careers, Owyhee Produce employs specialists such as agricultural scientists, data analysts, mechanical engineers, and IT technicians. These roles help improve farming efficiency, solve technical problems, and support sustainable practices.
+
+ABOUT THE PROJECT
+Name
+	* Scale House Operations & Data Managment
+
+Objectives
+	* The desired business outcomes of the STEM externship project at Owyhee Produce are to enhance operational efficiency, strengthen community partnerships, and build a talent pipeline for future agri-tech careers.
+
+Business Benefits:
+
+Operational Efficiency:
+
+By developing a clear data management workflow and identifying process improvements, the externâs work will help streamline onion intake and storage tracking.
+
+Talent Development and Recruitment:
+
+The extern will design outreach materials and a âDay in the Life of a Scale House Technicianâ curriculum, promoting STEM careers in agriculture.
+These efforts will increase student interest in agri-tech roles, positioning Owyhee Produce as a forward-thinking employer and helping build a future talent pool.
+
+Technology Integration:
+
+The externâs work on SharePoint pages and data visualizations will create user-friendly tools for staff, enhancing data accessibility and internal training resources.
+
+Community Engagement and Brand Reputation:
+
+Strengthening relationships with local schools and highlighting career opportunities at Owyhee Produce will reinforce the companyâs reputation as an innovative and community-minded business.
+Promoting STEM education in agriculture aligns with broader sustainability and tech-forward initiatives, boosting brand image.
+
+Description and day-to-day tasks:
+	* The STEM externship at Owyhee Produce focuses on scale house operations, data management, and technology integration within an agricultural setting. The extern will gain hands-on experience with real-world data while contributing to process improvements and community outreach efforts.
+
+Daily Tasks:
+
+Data Management & Record-Keeping:
+
+Weigh and log incoming onion shipments, ensuring accuracy in data entry.
+Use digital scale programs and storage tracking databases to maintain intake records.
+Review and validate records for onion variety, weight, and origin.
+
+Technology Integration:
+
+Learn and troubleshoot scale house software systems.
+Shadow IT personnel to understand how digital systems interact with physical processes like scales and storage sensors.
+Design and update a SharePoint page to organize scale house data and training resources.
+
+Data Analysis & Visualization:
+
+Create data visualizations to track storage trends and onion flow.
+Analyze records to identify patterns or areas for operational improvement.
+
+Process Development:
+
+Draft a âthree-stepâ model for recording, storing, and analyzing data.
+Identify and propose automation opportunities to streamline intake and storage tracking.
+
+Outreach & Career Integration:
+
+Develop ideas for high school STEM projects connected to scale house operations.
+Create a curriculum outline for a âDay in the Life of a Scale House Technician.â
+Draft a marketing plan to promote externship and internship opportunities to local schools.
+
+Meaningful learning about STEM careers:
+	* This externship at Owyhee Produce will clearly demonstrate how STEM is applied in real-world agricultural careers, giving the extern tangible examples to share with their students.
+
+Technology Integration: The extern will see firsthand how digital scale programs, storage tracking databases, and automation tools streamline the intake and storage of onions. This highlights how software engineering, data management, and IT skills play a vital role in modern farming operations.
+
+Data Science & Analysis: By creating data visualizations and analyzing storage trends, the extern will experience how data science helps optimize workflows and reduce waste â an essential application of math and analytical thinking.
+
+Process Improvement & Automation: The extern will learn how small automation solutions, like streamlining data entry processes or integrating software with physical equipment (scales and sensors), improve efficiency â reinforcing how engineering and technology drive innovation in agriculture.
+
+Career Exploration: Through collaboration with the Operations Manager, IT staff, and Food Safety team, the extern will uncover a variety of STEM-related careers beyond traditional roles, such as agri-tech specialists, data analysts, and automation engineers.
+
+Student Connection: The extern will design a âDay in the Life of a Scale House Technicianâ curriculum, allowing them to translate their experiences into engaging STEM projects for students â bridging classroom learning with real-world applications.
+
+By the end of the program, the extern will have a clear understanding of how STEM supports the agricultural industry and be equipped to inspire students about the diverse, tech-driven career opportunities available in agri-tech. 
+
+Network growth:
+	* Owyhee Produce will provide the extern with multiple opportunities to connect with and learn from a diverse range of STEM professionals, helping them gain a well-rounded understanding of how technology and science drive modern agriculture.
+
+Operations Manager & Scale House Team: The extern will work closely with the Operations Manager and scale house staff to understand how data collection, logistics, and technology intersect in daily operations.
+
+IT Department: The extern will shadow IT personnel to learn about the digital systems used for data tracking, automation, and equipment troubleshooting â gaining insight into how technology supports agricultural processes.
+
+Food Safety Team: Collaboration with the Food Safety team will expose the extern to the science behind quality control, record-keeping, and regulatory compliance â showcasing how STEM ensures product safety and traceability.
+
+Data Analysts: The extern will interact with data analysts (or team members handling data visualization) to learn how real-time data is used to track storage trends, forecast needs, and optimize processes.
+
+Cross-Department Collaboration: The extern will have opportunities to attend team meetings, learning how departments like operations, food safety, and IT work together to maintain efficiency and accuracy â reinforcing how STEM careers often require interdisciplinary teamwork.
+
+Networking & Outreach: As part of their student outreach project, the extern will connect with local educators and career counselors, expanding their network and sharing what theyâve learned about agri-tech STEM roles.
+
+Through these interactions, the extern will build meaningful relationships with professionals across the STEM spectrum, gaining valuable insights they can bring back to the classroom to inspire their students about careers in agricultural technology and data science.
+
+Skills desired:
+	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;Spreadsheet Software (MS Excel or Google Sheets);Project Management
+
+STEM domain experience desired:
+	* Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources
+
+
