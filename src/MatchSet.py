@@ -268,8 +268,9 @@ class MatchSet():
         """
         :return: None - effect is to save the match chart data to a CSV.
         """
-        path = f"/home/jamie/PycharmProjects/skillMatch/data/"
-        path = f"/home/jamie/Source/Python/skillMatch/data/Output/chart/"
+        #path = f"/home/jamie/PycharmProjects/skillMatch/data/"
+        #path = f"/home/jamie/Source/Python/skillMatch/data/Output/chart/"
+        path = f"/home/jamie/source/skillMatch/data/Output/chart"
         filename = f"{time.strftime('%Y%m%d-%H%M%S')}_out.csv"
         path_to_file = path + filename
         with open(path_to_file, "w", newline='') as csvfile:

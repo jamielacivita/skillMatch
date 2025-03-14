@@ -720,7 +720,7 @@ class Match:
         host_column_lst = host_column.split(";")
         extern_column_lst = extern_colum.split(";")
 
-        host_column_lst.remove("")
+        #host_column_lst.remove("")
         extern_column_lst.remove("")
 
         common = set(host_column_lst) & set(extern_column_lst)
@@ -760,7 +760,7 @@ class Match:
         for n in extern_x_lst_raw:
             extern_x_lst.append(n.strip())
 
-        host_ai_lst.remove("")
+        #host_ai_lst.remove("")
         extern_x_lst.remove("")
 
         common = set(host_ai_lst) & set(extern_x_lst)
@@ -793,7 +793,7 @@ class Match:
         host_ai_lst = host_ai.split(";")
         extern_t_lst = extern_t.split("'")
 
-        host_ai_lst.remove("")
+        #host_ai_lst.remove("")
         if "" in extern_t_lst:
             extern_t_lst.remove("")
 

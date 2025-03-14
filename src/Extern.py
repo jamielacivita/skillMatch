@@ -974,7 +974,8 @@ class Extern(AttributeSet):
     def save_dossier(self, to_file=False):
         original_stdout = sys.stdout
         filename = f"{self.get_last_name()}_{self.get_first_name()}"
-        filepath = f"/home/jamie/Source/Python/skillMatch/data/Output/dossier/extern/{filename}.txt"
+        #filepath = f"/home/jamie/Source/Python/skillMatch/data/Output/dossier/extern/{filename}.txt"
+        filepath = f"/home/jamie/source/skillMatch/data/Output/dossier/extern/{filename}.txt"
 
         try:
             os.remove(filepath)

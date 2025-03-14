@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="After updating zipcode dictionary.">
+    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="Nightly commit.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Extern.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Host.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Host.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatchSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatchSet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +64,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "externColumnOffset",
+    "git-widget-placeholder": "updateHostColumns",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -205,8 +210,19 @@
       <option name="project" value="LOCAL" />
       <updated>1741827508042</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Nightly commit.">
+      <option name="closed" value="true" />
+      <created>1741829668682</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1741829668682</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -244,6 +260,7 @@
     <MESSAGE value="Updates to file refrences." />
     <MESSAGE value="After fixing missing column." />
     <MESSAGE value="After updating zipcode dictionary." />
-    <option name="LAST_COMMIT_MESSAGE" value="After updating zipcode dictionary." />
+    <MESSAGE value="Nightly commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Nightly commit." />
   </component>
 </project>

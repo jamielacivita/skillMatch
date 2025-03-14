@@ -15,121 +15,130 @@ class Host(AttributeSet):
 
         host_column["A"] = 0
         host_column["set_id"] = 0
+
         host_column["B"] = 1
         host_column["set_start_time"] = 1
         host_column["C"] = 2
         host_column["set_completion_time"] = 2
         host_column["D"] = 3
-        host_column["set_email"] = 3
+        host_column["set_first_name"] = 3
         host_column["E"] = 4
-        host_column["set_name"] = 4
-
+        host_column["set_last_name"] = 4
         host_column["F"] = 5
-        host_column["set_completed_work_proposal"] = 5
+        host_column["set_email"] = 5
+
         host_column["G"] = 6
-        host_column["set_first_name"] = 6
+        host_column["set_organization_name"] = 6
         host_column["H"] = 7
-        host_column["set_last_name"] = 7
+        host_column["set_location_of_organization"] = 7
         host_column["I"] = 8
-        host_column["set_email_address"] = 8
+        host_column["set_overview_of_organization"] = 8
         host_column["J"] = 9
-        host_column["set_organization_name"] = 9
-
+        host_column["set_title_role"] = 9
         host_column["K"] = 10
-        host_column["set_location_of_organization"] = 10
+        host_column["set_specific_educator"] = 10
+
         host_column["L"] = 11
-        host_column["set_overview_of_organization"] = 11
+        host_column["set_primary_contact"] = 11
         host_column["M"] = 12
-        host_column["set_title_role"] = 12
+        host_column["set_poc_first_name"] = 12
         host_column["N"] = 13
-        host_column["set_specific_educator"] = 13
+        host_column["set_poc_last_name"] = 13
         host_column["O"] = 14
-        host_column["set_primary_contact"] = 14
-
-
+        host_column["set_poc_email"] = 14
         host_column["P"] = 15
-        host_column["set_poc_first_name"] = 15
+        host_column["set_poc_title_role"] = 15
+
         host_column["Q"] = 16
-        host_column["set_poc_last_name"] = 16
+        host_column["set_why_part"] = 16
         host_column["R"] = 17
-        host_column["set_poc_email"] = 17
-        host_column["S"] = 18
-        host_column["set_poc_title_role"] = 18
-        host_column["T"] = 19
-        host_column["set_why_part"] = 19
+        host_column["set_hours_per_week"] = 17
+
+        # Column S : I don't see that we have a set function for this data.  Check eve's chart to see if used.
+        # Column T : "Question" I'm just ignoring this as it doesn't hold data.
 
         host_column["U"] = 20
-        host_column["set_hours_per_week"] = 20
+        host_column["set_how_many_externs"] = 20
         host_column["V"] = 21
-        host_column["set_continuing_relationship"] = 21
-        #host_column["W"] = 22
-        #host_column["Queston"] = 22 There is no data for this colum in the test file.
+        host_column["set_project_name"] = 21
+        host_column["W"] = 22
+        host_column["set_project_objectives"] = 22
         host_column["X"] = 23
-        host_column["set_how_many_externs"] = 23
+        host_column["set_description"] = 23
         host_column["Y"] = 24
-        host_column["set_project_name"] = 24
+        host_column["set_meaningful_learning"] = 24
         host_column["Z"] = 25
-        host_column["set_project_objectives"] = 25
-
+        host_column["set_network_growth"] = 25
         host_column["AA"] = 26
-        host_column["set_description"] = 26
+        host_column["set_professional_level_work"] = 26
         host_column["AB"] = 27
-        host_column["set_meaningful_learning"] = 27
+        host_column["set_set_up_success"] = 27
         host_column["AC"] = 28
-        host_column["set_network_growth"] = 28
+        host_column["set_what_type_learning"] = 28
         host_column["AD"] = 29
-        host_column["set_professional_level_work"] = 29
+        host_column["set_learn_the_things"] = 29
         host_column["AE"] = 30
-        host_column["set_set_up_success"] = 30
-
+        host_column["set_business_education_skills"] = 30
         host_column["AF"] = 31
-        host_column["set_what_type_learning"] = 31
-        host_column["AG"] = 32
-        host_column["set_learn_the_things"] = 32
+        host_column["set_looking_for_experience"] = 31
+
+        # No data for AG "What type of person..."
+
         host_column["AH"] = 33
-        host_column["set_business_education_skills"] = 33
+        host_column["set_report_to_name"] = 33
         host_column["AI"] = 34
-        host_column["set_looking_for_experience"] = 34
+        host_column["set_report_to_email"] = 34
         host_column["AJ"] = 35
-        host_column["set_type_of_person"] = 35
-
+        host_column["set_other_teams"] = 35
         host_column["AK"] = 36
-        host_column["set_report_to_name"] = 36
+        host_column["set_work_done_remotely"] = 36
         host_column["AL"] = 37
-        host_column["set_report_to_email"] = 37
+        host_column["set_zip"] = 37
         host_column["AM"] = 38
-        host_column["set_other_teams"] = 38
+        host_column["set_travel_rerquired"] = 38
         host_column["AN"] = 39
-        host_column["set_work_done_remotely"] = 39
+        host_column["set_travel_rerquired_description"] = 39
         host_column["AO"] = 40
-        host_column["set_zip"] = 40
-
+        host_column["set_how_hours_spent"] = 40
         host_column["AP"] = 41
-        host_column["set_travel_rerquired"] = 41
+        host_column["set_onboarding_and_training"] = 41
         host_column["AQ"] = 42
-        host_column["set_travel_rerquired_description"] = 42
+        host_column["set_who_responsible_onboarding"] = 42
         host_column["AR"] = 43
-        host_column["set_how_hours_spent"] = 43
+        host_column["set_how_many_hours_onboarding"] = 43
         host_column["AS"] = 44
-        host_column["set_onboarding_and_training"] = 44
-        host_column["AT"] = 45
-        host_column["set_who_responsible_onboarding"] = 45
+        host_column["set_anything_else"] = 44
+
+        # AT "Maintaining a connection" does not appear to have any data an I'm not sure which it referrs to.
 
         host_column["AU"] = 46
-        host_column["set_how_many_hours_onboarding"] = 46
-        host_column["AV"] = 47
-        host_column["set_anything_else"] = 47
+        host_column["set_one_hundred_hours"] = 46
 
-        host_column["AW"] = 48
+        # AV We don't have a set function for this. (Location of Orgnization - State)
+        # AW we don't have a set function for this (ZIP CODE of Orgnization)
+
         host_column["AX"] = 49
-        host_column["set_one_hundred_hours"] = 49
+        host_column["set_continuing_relationship"] = 49
+        host_column["AY"] = 50
+        host_column["education_student_skills"] = 50
+
+
+        host_column["E"] = 4
+        host_column["set_name"] = 4
+        host_column["F"] = 5
+        host_column["set_completed_work_proposal"] = 5
+        host_column["I"] = 8
+        host_column["set_email_address"] = 8
+        #host_column["W"] = 22
+        #host_column["Queston"] = 22 There is no data for this colum in the test file.
+        host_column["AJ"] = 35
+        host_column["set_type_of_person"] = 35
+        host_column["AW"] = 48
         host_column["AY"] = 50
         host_column["AZ"] = 51
-
         host_column["BA"] = 52
         host_column["BB"] = 53
-        host_column["BC"] = 54
-        host_column["education_student_skills"] = 54
+
 
         self.id = None #A
         self.start_time = None #B
@@ -207,12 +216,12 @@ class Host(AttributeSet):
         self.set_id(row_data_tuple[host_column["set_id"]]) #A
         self.set_start_time(row_data_tuple[host_column["set_start_time"]]) #B
         self.set_completion_time(row_data_tuple[host_column["set_completion_time"]]) #C
+        self.set_first_name(row_data_tuple[host_column["set_first_name"]]) #D
         self.set_email(row_data_tuple[host_column["set_email"]]) #D
         self.set_name(row_data_tuple[host_column["set_name"]]) #E
 
         #self.set_last_modified_time(row_data_tuple[LAST_MODIFIED_TIME_COL].value)
         self.set_completed_work_proposal(row_data_tuple[host_column["set_completed_work_proposal"]]) #F
-        self.set_first_name(row_data_tuple[host_column["set_first_name"]]) #G
         self.set_last_name(row_data_tuple[host_column["set_last_name"]]) #H
         self.set_email_address(row_data_tuple[host_column["set_email_address"]]) #I
         self.set_organization_name(row_data_tuple[host_column["set_organization_name"]]) #J
@@ -917,7 +926,8 @@ class Host(AttributeSet):
     def save_dossier(self, to_file=False):
         origional_stdout = sys.stdout
         filename = f"{self.get_organization_name_filesafe()}"
-        filepath = f"/home/jamie/Source/Python/skillMatch/data/Output/dossier/host/{filename}.txt"
+        #filepath = f"/home/jamie/Source/Python/skillMatch/data/Output/dossier/host/{filename}.txt"
+        filepath = f"/home/jamie/source/skillMatch/data/Output/dossier/host/{filename}.txt"
         try:
             os.remove(filepath)
         except FileNotFoundError:
