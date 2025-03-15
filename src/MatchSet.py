@@ -193,13 +193,14 @@ class MatchSet():
         header_row.append("Min Interns")
         header_row.append("Max Interns")
 
-        header_row.append("ARSON")
-        header_row.append("BASIN")
-        header_row.append("CARREAR")
-        header_row.append("DEFEND")
-        header_row.append("ENDORSE")
-        header_row.append("FORTIFY")
-        header_row.append("GAVEL")
+        header_row.append("(first) Location")
+        header_row.append("(second) Location")
+        header_row.append("Teaching Openness")
+        header_row.append("Business Skills")
+        header_row.append("STEM Domains")
+        header_row.append("STEM Interest")
+        header_row.append("Hours")
+
 
 
         return header_row

@@ -4,59 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="added documentaton file.">
+    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="moved changes into main.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/10_InternationalRescueCommittee.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/10_InternationalRescueCommittee.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/11_ThreeIslandCrossingStatePark.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/11_ThreeIslandCrossingStatePark.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/12_TheWaterShedCityofBoisePublicWorks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/12_TheWaterShedCityofBoisePublicWorks.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/13_WesternAircraftInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/13_WesternAircraftInc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/14_MicronTechnology.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/14_MicronTechnology.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/15_TheCoreProject.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/15_TheCoreProject.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/16_SummitInnovationLab.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/16_SummitInnovationLab.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/17_MicronTechnologyInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/17_MicronTechnologyInc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/18_STEMfinityLLC.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/18_STEMfinityLLC.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/19_EastIdahoJACTforPlumbersandPipefitters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/19_EastIdahoJACTforPlumbersandPipefitters.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/20_ClearwaterFinancialLLC.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/20_ClearwaterFinancialLLC.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/21_LeePeskyLearningCenter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/21_LeePeskyLearningCenter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/22_LeePeskyLearningCenter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/22_LeePeskyLearningCenter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/23_GizmoCdA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/23_GizmoCdA.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/24_WesternStatesEquipmentCompany.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/24_WesternStatesEquipmentCompany.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/25_EngineeredStructuresInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/25_EngineeredStructuresInc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/26_NCCENorthwestCouncilforComputerEducation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/26_NCCENorthwestCouncilforComputerEducation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/27_BoysGirlsClubsofKootenaiCounty.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/27_BoysGirlsClubsofKootenaiCounty.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/28_BoysGirlsClubofMagicValley.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/28_BoysGirlsClubofMagicValley.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/29_IdahoVeteransChamberofCommerce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/29_IdahoVeteransChamberofCommerce.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/2_IdahoForestProductsCommissionProjectLearningTree.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/2_IdahoForestProductsCommissionProjectLearningTree.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/30_TheBassicTrainer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/30_TheBassicTrainer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/31_AutomationWerxLLC.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/31_AutomationWerxLLC.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/32_IdahoPower.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/32_IdahoPower.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/33_IdahoWorkforceDevelopmentCouncil.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/33_IdahoWorkforceDevelopmentCouncil.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/34_BoysGirlsClubsofKootenaiCountyPostFallsClubhouse.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/34_BoysGirlsClubsofKootenaiCountyPostFallsClubhouse.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/35_BoiseStateUniversityTRIOUpwardBound.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/35_BoiseStateUniversityTRIOUpwardBound.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/36_CityofNampaPublicWorks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/36_CityofNampaPublicWorks.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/37_IdahoFallsZOo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/37_IdahoFallsZOo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/38_IdahoDepartmentofEducation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/38_IdahoDepartmentofEducation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/39_Micron.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/39_Micron.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/3_FranzWitteLandscapeContractingInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/3_FranzWitteLandscapeContractingInc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/40_Exyte.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/40_Exyte.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/41_MicronSchoolofMaterialsScienceandEngineeringBoiseStateUniversity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/41_MicronSchoolofMaterialsScienceandEngineeringBoiseStateUniversity.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/42_IdahoOutofSchoolNetwork.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/42_IdahoOutofSchoolNetwork.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/43_TheLandGroupInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/43_TheLandGroupInc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/44_IdahoNationalLaboratory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/44_IdahoNationalLaboratory.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/45_IdahoInnovationCenter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/45_IdahoInnovationCenter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/46_UniversityofIdahoCollegeofEngineering.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/46_UniversityofIdahoCollegeofEngineering.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/47_Melaleuca.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/47_Melaleuca.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/48_AssociatedLoggingContractorsofIdaho.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/48_AssociatedLoggingContractorsofIdaho.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/49_OwyheeProduce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/49_OwyheeProduce.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/4_DiscoveryCenterofIdaho.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/4_DiscoveryCenterofIdaho.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/50_IdahoCommercialKitchenYellowstoneFoodVillage.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/50_IdahoCommercialKitchenYellowstoneFoodVillage.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/51_MelaleucaInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/51_MelaleucaInc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/5_IdahoDroneLeague.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/5_IdahoDroneLeague.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/6_GirlScoutofSilverSage.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/6_GirlScoutofSilverSage.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/7_ChildrensMuseumofIdaho.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/7_ChildrensMuseumofIdaho.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/8_USForestServiceBoiseNationalForest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/8_USForestServiceBoiseNationalForest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/9_BoiseNationalForest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/9_BoiseNationalForest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Host.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Host.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatchSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatchSet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,23 +48,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.DataPool.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Extern.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Host.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Match.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MatchSet.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.data_config.executor&quot;: &quot;Run&quot;,
-    &quot;Python.foo_zipParser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;250315__DossierDesign-Host&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jamie/source/skillMatch/src&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.DataPool.executor": "Run",
+    "Python.Extern.executor": "Run",
+    "Python.Host.executor": "Debug",
+    "Python.Match.executor": "Run",
+    "Python.MatchSet.executor": "Debug",
+    "Python.data_config.executor": "Run",
+    "Python.foo_zipParser.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "update__chart__match__titles",
+    "last_opened_file_path": "/home/jamie/source/skillMatch/src",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data/Output" />
@@ -338,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742071163589</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="moved changes into main.">
+      <option name="closed" value="true" />
+      <created>1742079845248</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1742079845248</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -386,6 +344,7 @@
     <MESSAGE value="update location of where chart is saved." />
     <MESSAGE value="updated logging in chart." />
     <MESSAGE value="added documentaton file." />
-    <option name="LAST_COMMIT_MESSAGE" value="added documentaton file." />
+    <MESSAGE value="moved changes into main." />
+    <option name="LAST_COMMIT_MESSAGE" value="moved changes into main." />
   </component>
 </project>
