@@ -613,6 +613,10 @@ class Match:
         return self.basin
 
     def set_basin(self):
+
+        # set default value for basin
+        self.basin = "POOR"
+
         filelog.info(f"In Basin {self.get_key()}")
         host_an = self.host_obj.work_done_remotely
         ext_u = self.extern_obj.what_work_locations
@@ -625,8 +629,7 @@ class Match:
         extern_remote = False
         extern_hybrid = False
         extern_inperson = False
-        # set default value for basin
-        self.basin = "POOR"
+
 
         # indentify host status:
         if "remote" in host_an:
@@ -650,6 +653,7 @@ class Match:
         # Both Remote
         if host_remote and extern_remote:
             self.basin = "GOOD"
+            filelog.info(f"JWTO : basin : host_remote is {host_remote} and extern_remote is {extern_remote}.  Setting self.basin to GOOD.")
 
         # Both (in-person or Hybrid) and Distance = GOOD
         if ((host_inperson and extern_inperson) or (host_hybrid and extern_hybrid)) and self.arson == "GOOD":
