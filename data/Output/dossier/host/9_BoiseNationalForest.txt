@@ -1,8 +1,15 @@
 Organization: Boise National Forest
-Contact: Robinson, Matt
-Email: The Boise National Forest manages 2.4 million acres of national forest land in southern Idaho.
+Contact: Robinson, Matt; Forest Hydrologist
 Location: Boise/Garden Valley
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* Yes
+	* The extern will need to have a valid drivers license and be comfortable driving on forest roads in remote locations. The forest service will provide vehicles for travel.
+
+EXTERNSHIP DURATION OPTIONS
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 The Boise National Forest manages 2.4 million acres of national forest land in southern Idaho.
@@ -20,13 +27,29 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* Extern will learn about prescribed fire, why we do it, how itâs done, itâs effects and will combine that with research, monitoring and statistical skills to assess the effects of prescribed fire. The intern will also learn how our southern Idaho ecosystems depend on fire for their life cycle. This project requires the extern to interact with multiple disciplines: Fire and Fuels, Hydrology, Soils, Fisheries, and GIS. This person will leave the externship with a good working knowledge of what the people in those fields do for the Forest Service.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* The project will require them to cross disciplines and meet people from across the forest.
 
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);
 
-STEM domain experience desired:
-	* Life Science / Biology;Earth & Environmental Science;Math;prescribed fire and forest management; watershed and hydrology; statistics;
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Earth & Environmental Science
+	* Math
+	* prescribed fire and forest management
+	*  watershed and hydrology
+	*  statistics
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Provide intern or shadowing opportunities to students
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

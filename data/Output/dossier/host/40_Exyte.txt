@@ -1,8 +1,15 @@
 Organization: Exyte
-Contact: Miller, Chelsea
-Email: Exyte designs and constructs high-tech, ultra-clean facilities. We are in the process of building a semiconductor manufacturing facility in Boise, Idaho. 
+Contact: Miller, Chelsea; Sr. Community Engagement Manager
 Location: Boise
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Exyte designs and constructs high-tech, ultra-clean facilities. We are in the process of building a semiconductor manufacturing facility in Boise, Idaho. 
@@ -24,13 +31,23 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* Externs will have an opportunity to participate in team meetings and be on an active, dynamic project site. They will meet other departments and gain a robust understanding of the company. Externs will get to see leading-edge technologies at play. 
 
+What types of learning will externs get from this work?
+	* Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;Extern will get exposed to a specific STEM field
+
 Network growth:
 	* Externs will have an opportunity to meet professionals in various engineering disciplines, design disciplines, construction management, and potentially client representatives. Externs will get a chance to meet each department at Exyte and will be based at the construction project location. 
 
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Project Management;Adult Education / Training
 
-STEM domain experience desired:
-	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.);BIM/VDC and Engineering/Design
+STEM domains that can be learned about in this role:
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
+Instructional work required in this role:
+	* Curriculum design	
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

@@ -1,8 +1,16 @@
 Organization: Associated Logging Contractors of Idaho
-Contact: Edmunson, Clete
-Email: The Associated Logging Contractors (ALC) of Idaho is a non-profit (5021c6) membership organization that was started in 1966 and has a current membership of 520 Logging and Log Hauling owner/operator companies. The ALC also has 88 associate members that consist of companies that have a vested interest in our business. The mission of the ALC is to develop programs that are instrumental in helping members to reduce the costs of operation and to craft creative solutions to problems confronting the industry. By working together and with others, ALC has been successful in defining the issues, providing solutions to vexing problems and building coalitions that successfully implement these solutions.
+Contact: Edmunson, Clete; Executive Director
 Location: Coeurd'Alene
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* Yes
+	* The ALC Headquarters is 8 miles south of Coeurd'Alene. We have logging jobs all over north Idaho. 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 The Associated Logging Contractors (ALC) of Idaho is a non-profit (5021c6) membership organization that was started in 1966 and has a current membership of 520 Logging and Log Hauling owner/operator companies. The ALC also has 88 associate members that consist of companies that have a vested interest in our business. The mission of the ALC is to develop programs that are instrumental in helping members to reduce the costs of operation and to craft creative solutions to problems confronting the industry. By working together and with others, ALC has been successful in defining the issues, providing solutions to vexing problems and building coalitions that successfully implement these solutions.
@@ -20,13 +28,35 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* These externs will learn a lot how STEM is incorporated in developing timber sales, how these sales are efficiently logged and trucked to the mills. Everything they will be learning will be real world experience because that is what our industry is. 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills
+
 Network growth:
 	* The forest products industry works because we have so many partners working together. For an extern to fully understand our industry they will need to learn with those who develop the timber sale, learn from the road buildings and the loggers, the truckers, those in the mill who cut the logs into lumber and those who sell the lumber to the consumer. 
 
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Project Management;Adult Education / Training;Public Speaking / Group Presentation;Email & Administrative Software
 
-STEM domain experience desired:
-	* Physics;Earth & Environmental Science;Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources;Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.);Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
+STEM domains that can be learned about in this role:
+	* Physics
+	* Earth & Environmental Science
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Agriculture, Food, Natural Resources
+	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+	* Elementary-level instructional experience
+	* Curriculum design	
+	* Willing to be a camp counselor
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Provide intern or shadowing opportunities to students
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
+	* Our organization has unique ideas specific to our industry to maintain a lasting relationshipÂ 
 

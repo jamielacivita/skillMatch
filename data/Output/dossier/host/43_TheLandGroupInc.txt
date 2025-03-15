@@ -1,8 +1,16 @@
 Organization: The Land Group, Inc.
-Contact: Hawkins, Christopher 
-Email: The Land Group is a multi-disciplinary design firm with professional landscape architects, civil engineers and land surveyors. Our team of these 3 designated STEM disciplines works collaboratively within our firm, and with allied professionals, to design outdoor spaces, improve community infrastructure, and guide development projects throughout the Intermountain West.  We take an evidence-based approach to design grounded in analytical research.
+Contact: Hawkins, Christopher ; Project Manager/Professional Landscape Architect
 Location: Eagle
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 The Land Group is a multi-disciplinary design firm with professional landscape architects, civil engineers and land surveyors. Our team of these 3 designated STEM disciplines works collaboratively within our firm, and with allied professionals, to design outdoor spaces, improve community infrastructure, and guide development projects throughout the Intermountain West.  We take an evidence-based approach to design grounded in analytical research.
@@ -32,13 +40,29 @@ Landscape architects, civil engineers, and land surveyors regularly use engineer
 
 Landscape architects, civil engineers, and land surveyors regularly apply mathematics including algebra, trigonometry, geometry, and calculus when preparing planting, irrigation, structural, earthwork, stormwater, electrical, energy, and hydraulic computations.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills
+
 Network growth:
 	* As noted above, The Land Group is a multi-disciplinary firm. That enables daily interaction with practitioners from 3 designated STEM disciplines as well as an allied discipline of land planning. Beyond that, because The Land Group works on many of the regionâs most ambitious and complex projects (Micron, St. Lukeâs, Boise State University, Brundage Mountain Resort, Tamarack Resort, College of Western Idaho) we have excellent partners. Externs will have the opportunity to engage with geotechnical engineers, mechanical/electrical/plumbing engineers, structural engineers, architects, restoration ecologists, construction managers, and general/trade contractors. These discussions will occur organically as the extern joins meetings and site visits, but they also happen more intentionally through education sessions that are a long-standing part of The Land Groupâs intern program and new employee onboarding.
 
 Skills desired:
 	* Word Processing Software (MS Word or Google Docs);Spreadsheet Software (MS Excel or Google Sheets);Project Management;Presentation Software (MS Powerpoint or Google Slides);Public Speaking / Group Presentation;Email & Administrative Software
 
-STEM domain experience desired:
-	* Life Science / Biology;Earth & Environmental Science;Math;Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources;Engineering
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Earth & Environmental Science
+	* Math
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Agriculture, Food, Natural Resources
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Provide intern or shadowing opportunities to students
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
+	* Field trips to our site
 

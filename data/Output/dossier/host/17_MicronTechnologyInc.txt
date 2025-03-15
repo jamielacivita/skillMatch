@@ -1,10 +1,16 @@
 Organization: Micron Technology Inc.
-Contact: Phithak, Kevin
-Email: Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.
-
-
+Contact: Phithak, Kevin; Community College Program Lead
 Location: Boise
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* Yes
+	* Extern will need to come onsite in Boise, ID Monday through Thursday with Friday working from home.
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.
@@ -49,13 +55,25 @@ Meaningful learning about STEM careers:
 â¢	Summary of the program's benefits.
 â¢	Next steps for participants.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Extern will learn how a STEM organization works;
+
 Network growth:
 	* Externs will get set up to meet with other departments by job shadowing and doing 1 on 1 with team members. 
 
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Project Management;Public Speaking / Group Presentation;
 
-STEM domain experience desired:
-	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.);Engineering Technology;
+STEM domains that can be learned about in this role:
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
+	* Engineering Technology
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

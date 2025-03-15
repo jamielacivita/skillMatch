@@ -1,8 +1,16 @@
 Organization: Western States Equipment Company
-Contact: Wardian, Hunter
-Email: Western States Equipment Company is a Caterpillar Heavy Equipment Dealership that serves the logging, mining, and construction industries across the Idaho, Eastern Washington, Eastern Oregon, Western Montana, and North-West Wyoming. We sell, rent, and service a variety of heavy machinery and industrial tools. This extern will be working closely with the technology and marketing teams, assisting with various data analysis, data governance, and process documentation initiatives.
+Contact: Wardian, Hunter; Technology Product Owner
 Location: Boise
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Western States Equipment Company is a Caterpillar Heavy Equipment Dealership that serves the logging, mining, and construction industries across the Idaho, Eastern Washington, Eastern Oregon, Western Montana, and North-West Wyoming. We sell, rent, and service a variety of heavy machinery and industrial tools. This extern will be working closely with the technology and marketing teams, assisting with various data analysis, data governance, and process documentation initiatives.
@@ -34,6 +42,9 @@ Additionally, the extern will collaborate with different teams, such as technolo
 Furthermore, the extern will be exposed to various digital tools like Power BI, Power Apps, and custom applications. They will also learn about Enterprise Resource Planning (ERP) systems and how businesses use them and their data to operate efficiently. Thy will also learn about how the technology team uses Jira products to effectively record and action on business requests/issues along with the Western States Web Application Development Process. This exposure will provide the extern with a deeper understanding of the technological tools and systems that drive modern businesses, which they can share with their students to illustrate the real-world applications of STEM.
 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* Developing Knowledge Base Documentation and Videos:
 o	Collaborative Workshops: Organize workshops where the extern can gather information from various departments. This will allow them to interact with different teams and understand their needs.
@@ -59,7 +70,19 @@ o	Data Cleanup Initiatives: Involve the extern in data cleanup initiatives that 
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Power BI (optional), SQL/Database experience (optional);
 
-STEM domain experience desired:
-	* Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Database architecture methods (Cloud vs on-prem, Data Warehousing, relational databases, etc.);
+STEM domains that can be learned about in this role:
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Database architecture methods (Cloud vs on-prem, Data Warehousing, relational databases, etc.)
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Provide intern or shadowing opportunities to students
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

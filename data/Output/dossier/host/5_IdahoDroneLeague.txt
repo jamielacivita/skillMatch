@@ -1,8 +1,16 @@
 Organization: Idaho Drone League
-Contact: Ryu, Jae
-Email: During the summer extern program, K-12 educators will develop their own curriculum based on the existing curriculum by using unmanned autonomous vehicles (e.g., DIY drones, DIY robots) to benefit Idaho youth in their classroom settings.
+Contact: Ryu, Jae; Professor / Founder
 Location: Boise
-Remote Possible: Externâs choice
+
+EXTERNSHIP LOCATION
+	* Externâs choice
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 During the summer extern program, K-12 educators will develop their own curriculum based on the existing curriculum by using unmanned autonomous vehicles (e.g., DIY drones, DIY robots) to benefit Idaho youth in their classroom settings.
@@ -20,13 +28,24 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* Autonomous unmmaned vehicles, including drones and ground robots are one of the economic drivers in the world. Learning this fast-moving technology along with artificial intelligence capabilities is another avenue to inspire the next generation of STEM workforce to make the nation competitive in years to come. 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;
+
 Network growth:
 	* Collaborative ccurriculum development in different class levels (e.g., elementary, middle, and high school) from various perspectives in STEM fields will be valuable experience to increase their knowledge and confidence in project-based STEM learning and teaching
 
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;
 
-STEM domain experience desired:
-	* Earth & Environmental Science;Computer Science (e.g., coding, programming languages, software/app development, etc.);
+STEM domains that can be learned about in this role:
+	* Earth & Environmental Science
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Provide intern or shadowing opportunities to students
 

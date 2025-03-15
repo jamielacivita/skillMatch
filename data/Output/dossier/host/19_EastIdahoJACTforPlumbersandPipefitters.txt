@@ -1,8 +1,16 @@
 Organization: East Idaho JACT for Plumbers and Pipefitters 
-Contact: Gray, Kendall 
-Email: EIJATC is a Joint Apprentice committee we are a 5 year apprentice program for the Plumbing and Pipefitting industry located in East Idaho   
+Contact: Gray, Kendall ; Training coordinator 
 Location: Pocatello 
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 EIJATC is a Joint Apprentice committee we are a 5 year apprentice program for the Plumbing and Pipefitting industry located in East Idaho   
@@ -22,13 +30,28 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* Exposing Externs to the Requirements of a JATC program to be able to bring that back to there class room as another career path I believe is invaluable 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;
+
 Network growth:
 	* Would be able to have meetings with different contractor groups for the Apprentice hour reporting 
 
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;
 
-STEM domain experience desired:
-	* Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Trades & Industry (e.g. manufacturing, automotive, construction, etc.);
+STEM domains that can be learned about in this role:
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
+	* Our organization has unique ideas specific to our industry to maintain a lasting relationshipÂ 
+	* We have a Open House Every Spring 
 

@@ -1,8 +1,15 @@
 Organization: International Rescue Committee
-Contact: Balogh, Pippa
-Email: The IRC is present in over 40 countries and 29 cities in the U.S. where we deliver lasting impact by providing case management, welcoming newcomers in their resettlement process and empowering individuals and families to become self-reliant. 
+Contact: Balogh, Pippa; Community Engagement Coordinator
 Location: Boise
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 The IRC is present in over 40 countries and 29 cities in the U.S. where we deliver lasting impact by providing case management, welcoming newcomers in their resettlement process and empowering individuals and families to become self-reliant. 
@@ -39,6 +46,9 @@ Meaningful learning about STEM careers:
 â¢	Extern will learn to communicate effectively with clients across cultures and with interpreters. 
 â¢	Extern will learn effective outreach strategies for building strategic relationships.
 
+What types of learning will externs get from this work?
+	* Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;Extern will acquire a new STEM skill;Project will connect what is taught in schools to real world STEM careers;Extern will get exposed to a specific STEM field;
+
 Network growth:
 	* Extern will learn to communicate effectively with clients across cultures and with interpreters, by conducting pre-enrollment analyses with eligible clients and assist with cash assistance enrollment processes. Extern will be directly assisting/supporting refugee families/clients in their resettlement journey in Idaho.
 
@@ -46,7 +56,12 @@ Network growth:
 Skills desired:
 	* Word Processing Software (MS Word or Google Docs);If you have the desire to work with newly arrived refugees, we will help you be successful!;
 
-STEM domain experience desired:
-	* Math;
+STEM domains that can be learned about in this role:
+	* Math
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Our organization has unique ideas specific to our industry to maintain a lasting relationshipÂ 
 

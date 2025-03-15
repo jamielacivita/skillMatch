@@ -54,6 +54,8 @@ class Host(AttributeSet):
         host_column["R"] = 17
         host_column["set_hours_per_week"] = 17
 
+        host_column["set_maintain_conection"] = 18
+        host_column["S"] = 18
         # Column S : I don't see that we have a set function for this data.  Check eve's chart to see if used.
         # Column T : "Question" I'm just ignoring this as it doesn't hold data.
 
@@ -163,6 +165,7 @@ class Host(AttributeSet):
         self.poc_last_name = None #Q
         self.poc_email = None #R
         self.poc_title_role = None #S
+        self.maintain_connection = None #S 2025
 
         self.why_part = None #T
         self.hours_per_week = None #U
@@ -280,6 +283,9 @@ class Host(AttributeSet):
         # Zip code or orgnization - column #AZ goes here.
         # committment to continued relatinship - column BA goes here.
         # maintianing a connecton - Column BB goes here.
+        self.set_maintain_connection(row_data_tuple[host_column["set_maintain_conection"]])
+
+
         # education student skills - column BC goes here.
         self.set_education_student_skills(row_data_tuple[host_column["education_student_skills"]]) #BC
         #self.set_min_externs(row_data_tuple[MIN_EXTERNS].value)
@@ -438,6 +444,15 @@ class Host(AttributeSet):
     def get_education_student_skills(self):
         return self.education_student_skills
 
+    def get_education_student_skills_printable_list(self):
+        output = ""
+        skills = self.get_education_student_skills()
+        skills_lst = skills.split(";")
+        for s in skills_lst:
+            if s != "":
+                output = output + f"\t* {s}\n"
+        return output
+
     def set_continuing_relationship(self, continuing_relationship):
         self.continuing_relationship = continuing_relationship
 
@@ -461,6 +476,27 @@ class Host(AttributeSet):
 
     def get_max_externs(self):
         return self.max_externs
+
+    def set_maintain_connection(self, maintain_connection):
+        self.maintain_connection = maintain_connection
+
+    def get_maintain_connection(self):
+        return self.maintain_connection
+
+    def get_maintain_connection_printable_list(self):
+        output = ""
+        connections = self.get_maintain_connection()
+        connections_lst = connections.split(";")
+        for c in connections_lst:
+            if c == "":
+                pass
+            elif "Participate in STEM nights and Career Days" in c:
+                output = output + "\t* Participate in STEM nights and Career Days\n"
+            else:
+                output = output + f"\t* {c}\n"
+
+        return output
+
 
 
     def set_skills(self):
@@ -859,6 +895,16 @@ class Host(AttributeSet):
     def get_one_hundred_hours(self):
         return self.one_hundred_hours
 
+    def get_one_hundred_hours_printable(self):
+        output = ""
+        if self.get_one_hundred_hours() == "Yes":
+            output = output + f"\t* 100 hours\n"
+            output = output + f"\t* 200 hours\n"
+        if self.get_one_hundred_hours() == "No":
+            output = output + f"\t* 200 hours\n"
+
+        return output
+
     def __str__(self):
         out_str = ""
         out_str = out_str + f"ID: {self.get_id()}\n"
@@ -939,11 +985,19 @@ class Host(AttributeSet):
             #sys.stdout = origional_stdout #(uncomment this to print to the screen).
 
             print(f"Organization: {self.get_organization_name()}")
-            print(f"Contact: {self.get_last_name()}, {self.get_first_name()}")
-            print(f"Email: {self.get_email_address()}")
+            print(f"Contact: {self.get_last_name()}, {self.get_first_name()}; {self.get_title_role()}")
             print(f"Location: {self.get_location_of_organization()}")
-            print(f"Remote Possible: {self.get_work_done_remotely()}")
             print(f"")
+
+            print(f"Externship Location".upper())
+            print(f"\t* {self.get_work_done_remotely()}")
+            print(f"Work requires travel or relocation:")
+            print(f"\t* {self.get_travel_rerquired()}")
+            print(f"\t* {self.get_travel_rerquired_description()}")
+            print("")
+
+            print(f"Externship duration options".upper())
+            print(f"{self.get_one_hundred_hours_printable()}")
 
             print(f"ABOUT THE ORGANIZATION:")
             print(f"{self.get_overview_of_organization()}")
@@ -966,6 +1020,10 @@ class Host(AttributeSet):
             print(f"\t* {self.get_meaningful_learning()}")
             print(f"")
 
+            print(f"What types of learning will externs get from this work?")
+            print(f"\t* {self.get_what_type_learning()}")
+            print(f"")
+
             print(f"Network growth:")
             print(f"\t* {self.get_network_growth()}")
             print(f"")
@@ -974,8 +1032,15 @@ class Host(AttributeSet):
             print(f"\t* {self.get_business_education_skills()}")
             print(f"")
 
-            print(f"STEM domain experience desired:")
-            print(f"\t* {self.get_looking_for_experience()}")
-            print(f"\n")
+            print(f"STEM domains that can be learned about in this role:")
+            print(f"{self.get_looking_for_experience_printable_list()}")
+
+            print(f"Instructional work required in this role:")
+            print(f"{self.get_education_student_skills_printable_list()}")
+
+            print(f"Types of connections hos is considering during school year:")
+            print(f"{self.get_maintain_connection_printable_list()}")
+
+
         # Return standard out back to origonal configuration.
         sys.stdout = origional_stdout

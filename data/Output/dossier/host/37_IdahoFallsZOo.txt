@@ -1,8 +1,16 @@
 Organization: Idaho Falls ZOo
-Contact: West, Bethanie 
-Email: It is the purpose of the Idaho Falls Zoo (IFZ) to operate as a professional facility which houses captive wildlife and domestic animals, provides recreational and educational opportunities for its visitors, and actively participates in the conservation of all natural resources.
+Contact: West, Bethanie ; Curator of Education
 Location: Idaho Falls
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* No
+	* This project does require a dedicated amount of time spent on zoo grounds each week to collect surveys from guests. While relocation is not required, extern should expect to commute to the zoo at least once but ideally 3 times a week.
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 It is the purpose of the Idaho Falls Zoo (IFZ) to operate as a professional facility which houses captive wildlife and domestic animals, provides recreational and educational opportunities for its visitors, and actively participates in the conservation of all natural resources.
@@ -33,6 +41,9 @@ Meaningful learning about STEM careers:
 In addition to this, externs will have the opportunity to observe various zoo programs, learn the basics of interpretation using techniques developed by the National Association of Interpretation, and learn about the basics of animal welfare and conservation within AZA accredited Zoos.
 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn what STEM employers want in future STEM employees - hard and soft skills
+
 Network growth:
 	* The extern will have access to our digital learning academy with courses developed by professionals in the zoo and aquarium world for their basic training courses. In addition, they will work closely with the Curator of Education and the rest of the education department team. Throughout their various tasks, externs will have the opportunity to observe keeper chats and educational programs and interact with the staff providing those programs to learn from them. 
 
@@ -42,7 +53,17 @@ The extern will have regular 1 on 1 meetings with the curator of education to de
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Project Management;Public Speaking / Group Presentation
 
-STEM domain experience desired:
-	* Life Science / Biology;Earth & Environmental Science;Math;Computer Science (e.g., coding, programming languages, software/app development, etc.)
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Earth & Environmental Science
+	* Math
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

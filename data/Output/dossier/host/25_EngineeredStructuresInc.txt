@@ -1,8 +1,16 @@
 Organization: Engineered Structures, Inc. 
-Contact: Honeycutt, Kevin
-Email: Engineered Structures, Inc. is an Idaho General Contractor, with over 10 divisions including Advanced Technologies, Retail, Grocery, Commercial, Industrial, Community Living, Waste Water. ESI also offer Design Build services. 
+Contact: Honeycutt, Kevin; Director of Field Operations
 Location: Boise
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* N/A
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Engineered Structures, Inc. is an Idaho General Contractor, with over 10 divisions including Advanced Technologies, Retail, Grocery, Commercial, Industrial, Community Living, Waste Water. ESI also offer Design Build services. 
@@ -20,13 +28,24 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* This work project will show the Extern how to manage and design efficient processes, how to create a meaningful culture, and how to communicate and work in a professional manner.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* Extern will be given the opportunity through shadowing and connecting with teams and employees to create a network that could be fostered and continued after their project.
 
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;ESI looks for employees who are Dependable, Dynamic, Dedicated, Humble, Hungry, and Smart, so we would like to have an Extern who has those qualities. From there, skills can be shared and taught.;
 
-STEM domain experience desired:
-	* Math;Trades & Industry (e.g. manufacturing, automotive, construction, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);
+STEM domains that can be learned about in this role:
+	* Math
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Field trips to our site
+	* Provide intern or shadowing opportunities to students
 

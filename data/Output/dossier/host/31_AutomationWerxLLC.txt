@@ -1,8 +1,16 @@
 Organization: Automation Werx, LLC
-Contact: Steffler, Trevor
-Email: We are an Automation & Controls Company, that provides programming, control panels, wiring, and instrumentation for the Agricultural, Industrial, and Municipal market sectors. 
+Contact: Steffler, Trevor; Owner
 Location: Idaho Falls
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 We are an Automation & Controls Company, that provides programming, control panels, wiring, and instrumentation for the Agricultural, Industrial, and Municipal market sectors. 
@@ -23,6 +31,9 @@ Meaningful learning about STEM careers:
 We frequently have industry professionals coming to our office to show us the latest in technology. We pride ourselves in staying on the cutting edge for sensors, automation, and controls, which is reflected in our current inventory. We utilize smart communication protocols in our systems that provide the end user the most information and analytics with the least amount of installation time. Externs will be exposed to these âSMARTâ communication protocols via the inventory grouping of similar items.
 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* â¢	For the inventory system, we would rely upon the extern to perform a 1:1 with employees to see how they currently utilize inventory levels, and obtain feedback from the employees on how they would view the optimal inventory system. This would allow the externs to propose a solution based upon feedback.
 â¢	During employee 1:1âs, the externs would be able to see each employees roles and responsibilities, all the hats each employee must wear, and what it takes to be part of a small business.
@@ -32,7 +43,20 @@ Network growth:
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Project Management;Email & Administrative Software;
 
-STEM domain experience desired:
-	* Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources;Trades & Industry (e.g. manufacturing, automotive, construction, etc.);
+STEM domains that can be learned about in this role:
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Agriculture, Food, Natural Resources
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Provide intern or shadowing opportunities to students
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

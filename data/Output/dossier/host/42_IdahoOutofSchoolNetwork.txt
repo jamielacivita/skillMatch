@@ -1,8 +1,16 @@
 Organization: Idaho Out-of-School Network
-Contact: Post, Amy
-Email: We support out-of-school time (afterschool, camps, library, clubs, etc.) programs through professional development, resources (including TMC Labs, our STEM program), and advocacy.
+Contact: Post, Amy; TMC Labs project coordinator
 Location: Boise
-Remote Possible: Externâs choice
+
+EXTERNSHIP LOCATION
+	* Externâs choice
+Work requires travel or relocation:
+	* No
+	* Travel is NOT required, however, travel opportunities may be available if the Extern is willing.
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 We support out-of-school time (afterschool, camps, library, clubs, etc.) programs through professional development, resources (including TMC Labs, our STEM program), and advocacy.
@@ -54,13 +62,23 @@ Possible projects (ION and Extern will work together to choose projects that are
 Meaningful learning about STEM careers:
 	* Externs will become familiar with the factors that contribute to quality STEM programs in an out-of-school time setting.  They will learn how to use the experiential learning model to teach.  They will be able to apply these tactics in their classrooms, which will make them more versatile educators.  The projects of their choice will support professional skill development specific to their project.  They will interact daily with an education coordinators at a non-profit and a university (ION and U of I Extension 4H), and learn the various aspects of the jobs.  They will be exposed to the roles and responsibilities of various roles at a medium-sized non-profit with diverse projects and roles (meet with or learn about employees at Jannus and U of I Extension 4H).
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills
+
 Network growth:
 	* The Extern will work closely with the STEM education program coordinator and other co-managers of TMC Labs, as well as the AmeriCorps members assigned to the program, at a non-profit (ION/Jannus) and a university (U of I).  They will interact with other employees at each site and learn about their roles through 1:1s and tours.  They may have a chance to interview and/or visit partner sitesâ program leaders and participants to gain an understanding of quality programing. 
 
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Project Management;Adult Education / Training;Public Speaking / Group Presentation;Email & Administrative Software;ANY of the following: state educational standards alignment, materials management, program evaluation, video editing
 
-STEM domain experience desired:
-	* Informal K-6 STEM education using experiential learning
+STEM domains that can be learned about in this role:
 
+Instructional work required in this role:
+	* Elementary-level instructional experience
+	* Curriculum design	
+
+Types of connections hos is considering during school year:
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
+	* Participate in community of practice (Shop Talk meetings) and newsletter, possible evaluation opportunities
 

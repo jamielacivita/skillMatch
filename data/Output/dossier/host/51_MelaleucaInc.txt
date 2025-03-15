@@ -1,8 +1,15 @@
 Organization: Melaleuca, Inc.
-Contact: Faldmo, Steffany
-Email: âMelaleuca's global headquarters in Idaho Falls, Idaho, offers diverse career opportunities across various departments. Departments at this location include Accounting & Finance, Creative, Human Resources, Information Technology, Manufacturing, Marketing, Operations, Research & Development, Coaching & Leadership Development, and Supply Chain.
+Contact: Faldmo, Steffany; SEO Software Engineer
 Location: Idaho Falls
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 âMelaleuca's global headquarters in Idaho Falls, Idaho, offers diverse career opportunities across various departments. Departments at this location include Accounting & Finance, Creative, Human Resources, Information Technology, Manufacturing, Marketing, Operations, Research & Development, Coaching & Leadership Development, and Supply Chain.
@@ -27,13 +34,25 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* This externship will provide firsthand exposure to how STEM is applied in real-world careers by immersing educators in the recruitment and hiring processes for IT, cybersecurity, and R&D professionals at Melaleuca. Externs will see how technical skills, problem-solving abilities, and industry certifications directly impact career opportunities, helping them bridge the gap between classroom instruction and workforce expectations. By collaborating with hiring managers, analyzing job descriptions, and evaluating candidate qualifications, externs will gain insight into the essential skills and knowledge that STEM employers seek. This experience will empower them to better prepare students for STEM careers, integrating industry-relevant skills, resume-building strategies, and career-readiness activities into their teaching.
 
+What types of learning will externs get from this work?
+	* Project will connect what is taught in schools to real world STEM careers;Extern will learn what STEM employers want in future STEM employees - hard and soft skills
+
 Network growth:
 	* Melaleuca will provide externs with unique access to a diverse network of STEM professionals, allowing them to engage with IT specialists, cybersecurity experts, research scientists, product developers, and data analysts. Through meetings with department leaders, job shadowing opportunities, and collaborative projects, externs will gain insight into the day-to-day responsibilities, challenges, and innovations driving STEM careers at Melaleuca. They will work closely with the HR and recruiting teams to refine job descriptions and understand the technical qualifications and problem-solving skills required in these fields. By interacting with professionals across various departments, externs will gain a well-rounded perspective on STEM career pathways, equipping them with real-world examples and industry insights to bring back to their students.
 
 Skills desired:
 	* Word Processing Software (MS Word or Google Docs);Email & Administrative Software;Research skills are beneficial
 
-STEM domain experience desired:
-	* Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Chemistry;Life Science / Biology
+STEM domains that can be learned about in this role:
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Chemistry
 
+Instructional work required in this role:
+	* Elementary-level instructional experience
+
+Types of connections hos is considering during school year:
+	* Field trips to our site
+	* Provide intern or shadowing opportunities to students
+	* Participate in STEM nights and Career Days
 

@@ -1,21 +1,16 @@
 Organization: University of Idaho College of Engineering
-Contact: Schiffelbein, Katie 
-Email: The University of Idaho College of Engineering offers degree programs in a variety of fields online and in Moscow, Coeur dâAlene, Boise and Idaho Falls. Experience the difference and what it means to engineer like a Vandal.
-
-At Idaho, we have one of the leading engineering programs in the Northwest. Our Senior Capstone Program has been named one of the top 10 in the nation. Our focus is teaching the fundamentals of engineering and providing hands-on design and research opportunities. We have world-class facilities and professors who are eager to work with students on a wide range of cutting edge research. Our faculty and staff are dedicated to our students' success.
-
-We have six departments in the College of Engineering: Chemical and Biological Engineering, Civil and Environmental Engineering, Computer Science, Electrical and Computer Engineering, Mechanical Engineering, Nuclear Engineering and Industrial Management. 
-
-Points of Pride: 
-ï§	No. 1 Best Value Public University in the West Five Years Running â ranked by U.S. News and World Report. Weâre also the only public university in Idaho to be ranked best value by Forbes, Money and The Princeton Review.
-ï§	Top 7 in the Nation for âinfusing real-world experiences into engineering educationâ through our undergraduate Senior Capstone Design Program â  National Academy of Engineering
-ï§	Best Undergraduate Computer Science Program â nationally recognized by U.S. News and World Report
-ï§	More Scholarships Awarded than any 4-year public engineering college in Idaho. â U of I Financial Aid Data
-ï§	Personalized Attention from nationally and internationally recognized faculty and staff through small class sizes, 1-on-1 interaction, mentorship, advising and research collaboration.
-ï§	Hands-On Experience, Guaranteed through unique undergraduate research opportunities, world-class research centers, and paid internship, assistantship and fellowship programs.
-
+Contact: Schiffelbein, Katie ; Director of Strategic Programs and Student Success
 Location: Moscow
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* Yes
+	* Possibly travel to a coding camp location; possible orientation travel - though this may be via Zoom - depends on funding opportunities.
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 The University of Idaho College of Engineering offers degree programs in a variety of fields online and in Moscow, Coeur dâAlene, Boise and Idaho Falls. Experience the difference and what it means to engineer like a Vandal.
@@ -62,6 +57,9 @@ Further, through informational interviews with engineering/computer science facu
 
 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills
+
 Network growth:
 	* Through informational interviews of faculty and graduate students from five engineering and computer science departments, the extern will meet real-world STEM professionals and learn about their jobs and projects. 
 
@@ -71,7 +69,17 @@ Through industry tours, the extern will meet real-world STEM professionals, netw
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Project Management;Public Speaking / Group Presentation;Email & Administrative Software
 
-STEM domain experience desired:
-	* Chemistry;Computer Science (e.g., coding, programming languages, software/app development, etc.);Engineering, Computer Science
+STEM domains that can be learned about in this role:
+	* Chemistry
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+	* Elementary-level instructional experience
+	* Curriculum design	
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Participate in STEM nights and Career Days
 

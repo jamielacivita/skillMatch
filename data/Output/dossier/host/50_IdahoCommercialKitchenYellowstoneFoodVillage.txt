@@ -1,8 +1,16 @@
 Organization: Idaho Commercial Kitchen & Yellowstone Food Village
-Contact: Magleby, Bryan
-Email: These are extensions of the Idaho Innovation Center. The Idaho Commercial Kitchen is a certified kitchen where culinary entrepreneurs can create their food in a safe and fully certified kitchen. The Yellowstone Food Village is a village of 6 foot truck spots where food truck vendors can park as their home base to establish a customer base and build their business in addition to attending events.
+Contact: Magleby, Bryan; Executive Director
 Location: Idaho Falls
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* No
+	* Must live within a driving distance they are willing to commute to our office in Idaho Falls.
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 These are extensions of the Idaho Innovation Center. The Idaho Commercial Kitchen is a certified kitchen where culinary entrepreneurs can create their food in a safe and fully certified kitchen. The Yellowstone Food Village is a village of 6 foot truck spots where food truck vendors can park as their home base to establish a customer base and build their business in addition to attending events.
@@ -47,13 +55,27 @@ YELLOWSTONE FOOD VILLAGE
 Meaningful learning about STEM careers:
 	* They have the opportunity to learn how data analytics tools can optimize marketing efforts, track engagement, and personalize content. They will gain exposure to emerging STEM topics in the culinary world, such as AI-powered meal planning and the science behind sustainable food production (e.g., hydroponics, aquaponics). They will also learn about space optimization techniques and engineering solutions to winter-specific challenges, such as designing water systems to prevent freezing.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill
+
 Network growth:
 	* They will be interacting with professionals in a variety of industries, offering them the chance to network and create connections.
 
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Project Management;Adult Education / Training
 
-STEM domain experience desired:
-	* Life Science / Biology;Earth & Environmental Science;Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Earth & Environmental Science
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+	* Curriculum design	
+
+Types of connections hos is considering during school year:
+	* Field trips to our site
+	* Offer a certified space for potential development of new food products.
 

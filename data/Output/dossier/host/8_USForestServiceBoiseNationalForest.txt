@@ -1,8 +1,15 @@
 Organization: US Forest Service - Boise National Forest
-Contact: Montini, Doug
-Email: Performs a variety of typical engineering duties, including field surveys, data collection, building and administering construction contract packages, and inspections of construction operations.
+Contact: Montini, Doug; Civil Engineer
 Location: Boise
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Performs a variety of typical engineering duties, including field surveys, data collection, building and administering construction contract packages, and inspections of construction operations.
@@ -20,13 +27,27 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* This project will expose the educator to tools, processes and technical terminology associated with STEM jobs, particularly as related to civil engineering. Exposure to the inner workings of engineering -- how software interacts with construction and how plans and contract packages are developed will give educators more confidence incorporating more advanced technologies with their students. 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;
+
 Network growth:
 	* Extern will meet and interact with a variety of specialists within the Boise National Forest, to include fish biologists, botanists, archeologists, recreation specialists, and the timber management team. May also have opportunities to meet with construction contractors, and other federal agencies. 
 
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Email & Administrative Software;
 
-STEM domain experience desired:
-	* Earth & Environmental Science;Math;Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources;Trades & Industry (e.g. manufacturing, automotive, construction, etc.);
+STEM domains that can be learned about in this role:
+	* Earth & Environmental Science
+	* Math
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Agriculture, Food, Natural Resources
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Provide intern or shadowing opportunities to students
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

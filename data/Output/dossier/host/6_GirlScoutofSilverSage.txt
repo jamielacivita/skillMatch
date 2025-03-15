@@ -1,8 +1,16 @@
 Organization: Girl Scout of Silver Sage
-Contact: Gillespie, Dana
-Email: Provide educational fun activities, and Leadership.
+Contact: Gillespie, Dana; Camp Programming and Property Director
 Location: Boise
-Remote Possible: 100% remote
+
+EXTERNSHIP LOCATION
+	* 100% remote
+Work requires travel or relocation:
+	* No
+	* Extern will have the opportunity to attend camp.
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Provide educational fun activities, and Leadership.
@@ -20,13 +28,29 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* All Girl Scout badges have a STEM aspect.  By creating kits for Leaders and Staff to use to teach our core values of courage, confidence and character.  
 
+What types of learning will externs get from this work?
+	* Project will connect what is taught in schools to real world STEM careers;Extern will get exposed to a specific STEM field;
+
 Network growth:
 	* Extern will have access to all council staff and camp staff.  Extern will be encouraged to meet with staff to learn how we all work together to support the growth of girls.  Extern will also have the opportunity to attend camp to experience how the project will be implemented.
 
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;
 
-STEM domain experience desired:
-	* Life Science / Biology;Chemistry;Physics;Earth & Environmental Science;Math;Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Chemistry
+	* Physics
+	* Earth & Environmental Science
+	* Math
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Provide intern or shadowing opportunities to students
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

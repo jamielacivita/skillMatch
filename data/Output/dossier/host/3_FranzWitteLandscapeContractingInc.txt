@@ -1,8 +1,16 @@
 Organization: Franz Witte Landscape Contracting, Inc.
-Contact: Bell, Jill
-Email: We are a full service garden center which host many different opportunities in the green and construction industry.
+Contact: Bell, Jill; HR Manager
 Location: Boise
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 We are a full service garden center which host many different opportunities in the green and construction industry.
@@ -20,13 +28,28 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* We will show our extern a wide range of careers available in the green industry and give them information that they can present to their college bound and non-college bound students.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* The extern will collaborate with the garden center team.  Throughout the externship, the teacher extern will contribute to various projects aimed at enriching their professional experience while also learning how the company runs its maintenance and construction divisions.
 
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;Email & Administrative Software;
 
-STEM domain experience desired:
-	* Life Science / Biology;Earth & Environmental Science;Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources;Trades & Industry (e.g. manufacturing, automotive, construction, etc.);
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Earth & Environmental Science
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Agriculture, Food, Natural Resources
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Field trips to our site
+	* Classroom visits
 

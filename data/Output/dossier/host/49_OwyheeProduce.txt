@@ -1,17 +1,16 @@
 Organization: Owyhee Produce
-Contact: Froerer, Colsie
-Email: Owyhee Produce is a family-owned agricultural company based in the Pacific Northwest, specializing in the farming, packing, and shipping of onions, asparagus, watermelon and other crops. We focus on sustainable farming practices and innovative agricultural techniques to enhance productivity and crop quality.
-
-Owyhee Produce's work ties into STEM through its use of modern farming technology, data analysis, and engineering solutions. For example:
-
-Science: Soil testing, crop genetics, and pest management rely on biological and environmental sciences.
-Technology: Advanced machinery for planting, harvesting, and packaging uses cutting-edge technology, including GPS systems and automated sorting.
-Engineering: Designing and maintaining irrigation systems and farm equipment requires engineering knowledge.
-Mathematics: Data analytics help with crop yield predictions, inventory tracking, and optimizing resource use.
-
-As for STEM careers, Owyhee Produce employs specialists such as agricultural scientists, data analysts, mechanical engineers, and IT technicians. These roles help improve farming efficiency, solve technical problems, and support sustainable practices.
+Contact: Froerer, Colsie; Director of Food Safety 
 Location: Parma
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Owyhee Produce is a family-owned agricultural company based in the Pacific Northwest, specializing in the farming, packing, and shipping of onions, asparagus, watermelon and other crops. We focus on sustainable farming practices and innovative agricultural techniques to enhance productivity and crop quality.
@@ -100,6 +99,9 @@ Student Connection: The extern will design a âDay in the Life of a Scale Ho
 
 By the end of the program, the extern will have a clear understanding of how STEM supports the agricultural industry and be equipped to inspire students about the diverse, tech-driven career opportunities available in agri-tech. 
 
+What types of learning will externs get from this work?
+	* Project will connect what is taught in schools to real world STEM careers;Extern will get exposed to a specific STEM field;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;Extern will learn how a STEM organization works;Extern will acquire a new STEM skill
+
 Network growth:
 	* Owyhee Produce will provide the extern with multiple opportunities to connect with and learn from a diverse range of STEM professionals, helping them gain a well-rounded understanding of how technology and science drive modern agriculture.
 
@@ -120,7 +122,16 @@ Through these interactions, the extern will build meaningful relationships with 
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;Spreadsheet Software (MS Excel or Google Sheets);Project Management
 
-STEM domain experience desired:
-	* Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources
+STEM domains that can be learned about in this role:
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 
+Instructional work required in this role:
+	* Curriculum design	
+
+Types of connections hos is considering during school year:
+	* Field trips to our site
+	* Classroom visits
+	* Provide intern or shadowing opportunities to students
 

@@ -1,8 +1,16 @@
 Organization: Summit Innovation Lab
-Contact: Hoban, Jenny 
-Email: We provide out-of-school STEM learning opportunities to students. 
+Contact: Hoban, Jenny ; STEM Education Administrator
 Location: Boise
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 We provide out-of-school STEM learning opportunities to students. 
@@ -40,6 +48,9 @@ Provide the extern with exposure to industry practices: By collaborating with pr
 
 Externs will experience firsthand the benefits of collaboration between schools and industry, potentially inspiring them to seek similar partnerships for their own classrooms or schools.
 
+What types of learning will externs get from this work?
+	* Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* The extern will collaborate with our community partners to learn about and test STEM products that we will then use in our programming. 
 
@@ -48,7 +59,19 @@ I am an active participant in entrepreneurial and STEM events in the Valley. The
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Public Speaking / Group Presentation;
 
-STEM domain experience desired:
-	* Chemistry;Computer Science (e.g., coding, programming languages, software/app development, etc.);Curriculum Development, Business Development and Operations. ;
+STEM domains that can be learned about in this role:
+	* Chemistry
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Curriculum Development, Business Development and Operations. 
 
+Instructional work required in this role:
+	* Elementary-level instructional experience
+	* Curriculum design	
+
+Types of connections hos is considering during school year:
+	* Provide intern or shadowing opportunities to students
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
+	* Field trips to our site
+	* Classroom visits
 

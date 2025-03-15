@@ -1,8 +1,16 @@
 Organization: Idaho National Laboratory
-Contact: Shepherd, Sunshine
-Email: The mission of INLâs K-12 Education Enrichment Programs is to inspire Idahoâs future STEM workforce; impact students, teachers and families by integrating best practices in STEM education; and empower employees to become STEM mentors to transform K-12 Education Enrichment into a driver for innovation.
+Contact: Shepherd, Sunshine; K12 STEM Education Coordinator
 Location: Idaho Falls
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 The mission of INLâs K-12 Education Enrichment Programs is to inspire Idahoâs future STEM workforce; impact students, teachers and families by integrating best practices in STEM education; and empower employees to become STEM mentors to transform K-12 Education Enrichment into a driver for innovation.
@@ -32,13 +40,25 @@ Task: Collaborate with lab staff to organize and oversee field trip logistics.
 Meaningful learning about STEM careers:
 	* This experience will help them understand the relevance of STEM in various industries and inspire them to incorporate real-world applications into their teaching. Additionally, externs will have the opportunity to collaborate with INL professionals, gaining insights into different STEM careers and the skills required, which they can share with their students to better prepare them for future opportunities in STEM fields.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Extern will acquire a new STEM skill;Project will connect what is taught in schools to real world STEM careers;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills
+
 Network growth:
 	* We will set up tours and such for them. 
 
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;Public Speaking / Group Presentation
 
-STEM domain experience desired:
-	* Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+STEM domains that can be learned about in this role:
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
+	* Our organization has unique ideas specific to our industry to maintain a lasting relationshipÂ 
 

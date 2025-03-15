@@ -1,8 +1,16 @@
 Organization: Three Island Crossing State Park
-Contact: Redd, John
-Email: Our organization preserves the natural resources and Oregon Trail History by providing camping opportunities and visitor experiences to renew the human spirit. 
+Contact: Redd, John; Park Ranger
 Location: Glenns Ferry
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* Yes
+	* It will require travel from home to the park.
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Our organization preserves the natural resources and Oregon Trail History by providing camping opportunities and visitor experiences to renew the human spirit. 
@@ -20,13 +28,26 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* This experience would allow the extern to dive into areas of natural resources, communication skills, and history of the Oregon Trail.
 
+What types of learning will externs get from this work?
+	* Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;Extern will learn how a STEM organization works;
+
 Network growth:
 	* I will enable my extern to meet and learn from a variety of people in this work by monthly planned meetings that involve different rangers and shadow the extern in their various interactions with visitors.
 
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;Word Processing Software (MS Word or Google Docs);
 
-STEM domain experience desired:
-	* Agriculture, Food, Natural Resources;Trades & Industry (e.g. manufacturing, automotive, construction, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Life Science / Biology;
+STEM domains that can be learned about in this role:
+	* Agriculture, Food, Natural Resources
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Life Science / Biology
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Participate in STEM nights and Career Days
+	* Field trips to our site
+	* Classroom visits
 

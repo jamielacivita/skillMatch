@@ -1,8 +1,16 @@
 Organization: Boys & Girls Clubs of Kootenai County - Post Falls Clubhouse
-Contact: Johnson, Emma
-Email: The Boys & Girls Club of Kootenai County is a Youth Development agency that provides after school and summer full day care to members ages 6-18. During time spent at the Club, members have the opportunity to participate in a variety of planned activities, including formal and informal STEM education. STEM programs at the Club have included computer science and basic coding, robotics, engineering, and DIY STEM projects that focus on lessons that can be done with basic at-home supplies. 
+Contact: Johnson, Emma; Post Falls Clubhouse Director
 Location: Post Falls
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* Yes
+	* Available in the Post Falls area.
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 The Boys & Girls Club of Kootenai County is a Youth Development agency that provides after school and summer full day care to members ages 6-18. During time spent at the Club, members have the opportunity to participate in a variety of planned activities, including formal and informal STEM education. STEM programs at the Club have included computer science and basic coding, robotics, engineering, and DIY STEM projects that focus on lessons that can be done with basic at-home supplies. 
@@ -50,13 +58,28 @@ Reflections & Clean-up
 Meaningful learning about STEM careers:
 	* During this program, externs will have the opportunity to work alongside Boys & Girls Club professionals while leading interactive, hands-on and engaging activities. While implementing lessons, externs will also be teaching students ages from 6 to 18, all with different, individual understandings and needs. This experience will allow educators to practice real-world skills such as collaboration, problem solving, building connections and lesson development. These skills will give externs opportunities to refine their teaching approach and lesson creation.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Extern will acquire a new STEM skill;
+
 Network growth:
 	* The Boys & Girls Club works with community partners promoting STEM education including the Discovery Bus, the Community Library Network as well as the Post Falls Community Forest. In addition to providing inspiration, these collaborations will provide externs the opportunity to connect with and foster relationships that can be invited into the classroom to enrich learning experiences for students. 
 
 Skills desired:
 	* Project Management;Public Speaking / Group Presentation;
 
-STEM domain experience desired:
-	* Chemistry;Physics;Math;Engineering & Technology;
+STEM domains that can be learned about in this role:
+	* Chemistry
+	* Physics
+	* Math
+	* Engineering & Technology
 
+Instructional work required in this role:
+	* Elementary-level instructional experience
+	* Curriculum design	
+	* Willing to be a camp counselor
+
+Types of connections hos is considering during school year:
+	* Advise on STEM curriculum
+	* Our organization has unique ideas specific to our industry to maintain a lasting relationshipÂ 
+	* Inviting externs to return to the Club when available to volunteer or visit
 

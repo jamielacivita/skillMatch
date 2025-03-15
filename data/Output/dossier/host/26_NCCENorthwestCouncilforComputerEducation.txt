@@ -1,8 +1,15 @@
 Organization: NCCE Northwest Council for Computer Education
-Contact: Davenport, Shannon 
-Email: NCCE provides professional learning opportunities for educators and works to support educators and students using Educational Technology throughout the curriculum. Our non-profit organization brings together the education industry and technology companies working to advance students to be future ready for the workforce. STEM is intertwined throughout all areas of our work.
+Contact: Davenport, Shannon ; CEO
 Location: Coeur d'Alene
-Remote Possible: 100% remote
+
+EXTERNSHIP LOCATION
+	* 100% remote
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 NCCE provides professional learning opportunities for educators and works to support educators and students using Educational Technology throughout the curriculum. Our non-profit organization brings together the education industry and technology companies working to advance students to be future ready for the workforce. STEM is intertwined throughout all areas of our work.
@@ -74,6 +81,9 @@ By participating in this externship, educators will gain valuable insights into 
 
 
 
+What types of learning will externs get from this work?
+	* Project will connect what is taught in schools to real world STEM careers;Extern will get exposed to a specific STEM field;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* To ensure the extern has ample opportunities to meet and learn from a variety of people in STEM careers, we will incorporate several key activities and interactions throughout the project:
 
@@ -100,7 +110,18 @@ By incorporating these activities and interactions, the extern will gain a well-
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Project Management;Adult Education / Training;Public Speaking / Group Presentation;Email & Administrative Software;
 
-STEM domain experience desired:
-	* Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Math;
+STEM domains that can be learned about in this role:
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Math
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+	* Elementary-level instructional experience
+	* Curriculum design	
+
+Types of connections hos is considering during school year:
+	* Advise on STEM curriculum
+	* Our organization has unique ideas specific to our industry to maintain a lasting relationshipÂ 
+	* Conference and Membership Connections
 

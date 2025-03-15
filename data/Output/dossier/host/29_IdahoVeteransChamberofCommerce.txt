@@ -1,9 +1,16 @@
 Organization: Idaho Veterans Chamber of Commerce
-Contact: Anderson, Mindi
-Email: Our Mission is to deliver wrap-around services and a navigation network hub for veterans, active-duty military personnel, and their families, providing community resources for education, housing, entrepreneurship, workforce management, family, and wellness services. Through our work there are many ways they could be exposed to STEM experience through data analysis and data project management. 
-
+Contact: Anderson, Mindi; Executive Director/President
 Location: Nampa
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Our Mission is to deliver wrap-around services and a navigation network hub for veterans, active-duty military personnel, and their families, providing community resources for education, housing, entrepreneurship, workforce management, family, and wellness services. Through our work there are many ways they could be exposed to STEM experience through data analysis and data project management. 
@@ -24,6 +31,9 @@ Meaningful learning about STEM careers:
 	* Managing a database, working in Canva for marketing and graphic design, working with Wix website build, Email communications. Working with our Board to track progress in our fund development plan will all provide a meaningful learning experience. 
 
 
+What types of learning will externs get from this work?
+	* Extern will learn how a STEM organization works;Extern will get exposed to a specific STEM field;Extern will acquire a new STEM skill;
+
 Network growth:
 	* Through our work there are many ways they could be exposed to STEM opportunities. Our Navigation Services cross over 5 areas of networking across Idaho and as the extern develops benefits of being a donor, supporting the Chamber, etc., they will connect with impact opportunities across our network of Idaho to highlight the success and partnerships to support financial growth. 
 
@@ -31,7 +41,13 @@ Network growth:
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Project Management;Email & Administrative Software;
 
-STEM domain experience desired:
-	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);
+STEM domains that can be learned about in this role:
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Provide intern or shadowing opportunities to students
 

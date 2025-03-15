@@ -1,8 +1,16 @@
 Organization: Boise State University TRIO Upward Bound
-Contact: Campbell, Jaime
-Email: Overview
+Contact: Campbell, Jaime; Director/Principal (High School- Summer)
 Location: Boise
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* NA
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Overview
@@ -34,6 +42,9 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* This project will place externs in a role that is hands-on and encourages cross-disciplinary exposure. Specifically, externs will engage in industry site visits, use a variety of innovative educational technology, and learn to better work with underrepresented youth populations. Externs will work network directly with STEM organizations. They will gain information about the field and experience mentorship through insights into the diverse use of STEM in the area. Lastly, externs will help students bridge the gap between classroom learning and practical STEM applications in the workplace.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;work with underrepresented youth;Extern will learn how a STEM organization works;
+
 Network growth:
 	* Previously answered.
 
@@ -42,7 +53,27 @@ Externs will research and facilitate student field trips to a variety of STEM ca
 Skills desired:
 	* Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Public Speaking / Group Presentation;Spreadsheet Software (MS Excel or Google Sheets);Youth Education/Teaching;Email & Administrative Software;
 
-STEM domain experience desired:
-	* Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);VR Tech, Raspberry Pi's, science educational tech, small robots, etc.  ;Physics;Chemistry;Math;Earth & Environmental Science;Life Science / Biology;Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.);Trades & Industry (e.g. manufacturing, automotive, construction, etc.);Agriculture, Food, Natural Resources;
+STEM domains that can be learned about in this role:
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* VR Tech, Raspberry Pi's, science educational tech, small robots, etc.  
+	* Physics
+	* Chemistry
+	* Math
+	* Earth & Environmental Science
+	* Life Science / Biology
+	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
+	* Agriculture, Food, Natural Resources
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+	* Curriculum design	
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Participate in STEM nights and Career Days
+	* Advise on STEM curriculum
+	* Potential to come back each summer for future employment
+	* Field trips to our site
 

@@ -1,8 +1,16 @@
 Organization: STEMfinity, LLC
-Contact: Albert, William
-Email: STEMfinity is a leading provider of STEM educational resources for PreK-12 students, offering hands-on learning materials, software, professional development, and curriculum solutions in robotics, A.I., virtual reality, 3D printing, drone technology, esports, alternative energy, computer science, rocketry, and more. Our solutions support STEM learning in classrooms, afterschool programs, makerspaces, and summer enrichment initiatives. By equipping educators and students with cutting-edge tools, STEMfinity seeks to bridge the gap between education and STEM careers, fostering the next generation of innovators.
+Contact: Albert, William; Founder and CEO
 Location: Boise
-Remote Possible: Externâs choice
+
+EXTERNSHIP LOCATION
+	* Externâs choice
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 STEMfinity is a leading provider of STEM educational resources for PreK-12 students, offering hands-on learning materials, software, professional development, and curriculum solutions in robotics, A.I., virtual reality, 3D printing, drone technology, esports, alternative energy, computer science, rocketry, and more. Our solutions support STEM learning in classrooms, afterschool programs, makerspaces, and summer enrichment initiatives. By equipping educators and students with cutting-edge tools, STEMfinity seeks to bridge the gap between education and STEM careers, fostering the next generation of innovators.
@@ -38,6 +46,9 @@ Meaningful learning about STEM careers:
 â¢	Externs will gain familiarity with the latest STEM education products and resources available for grades PreK-12+, which they can incorporate into their classrooms.
 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* â¢	Externs will participate in weekly team meetings with each department to understand cross-departmental operations and how each team contributes to the achievement of company-wide sales goals.
 â¢	STEMfinity will schedule meetings with our vendors who are creating and distributing the STEM education resources and products utilized in classrooms throughout the U.S. (includes creators of humanoid robots, AI lesson plan generators, flight simulators, 3D printers, and more).
@@ -47,7 +58,23 @@ Network growth:
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;
 
-STEM domain experience desired:
-	* Life Science / Biology;Chemistry;Physics;Earth & Environmental Science;Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources;Trades & Industry (e.g. manufacturing, automotive, construction, etc.);STEM in retail industry;
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Chemistry
+	* Physics
+	* Earth & Environmental Science
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Agriculture, Food, Natural Resources
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
+	* STEM in retail industry
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

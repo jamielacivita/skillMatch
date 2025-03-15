@@ -1,8 +1,16 @@
 Organization: Discovery Center of Idaho
-Contact: Seymour, Erin
-Email: As a hands-on science center located in the heart of downtown Boise, we inspire lifelong interest and learning in science, technology, engineering, math (STEM) and the arts because we believe learning is fun and expands minds and lives. By providing the community with learning opportunities for all ages, including classes, camps, speakers and special events, field trips, and more, we aim to curate a strong STEM identity in everyone who walks through our front doors.
+Contact: Seymour, Erin; Education Director
 Location: Boise
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 As a hands-on science center located in the heart of downtown Boise, we inspire lifelong interest and learning in science, technology, engineering, math (STEM) and the arts because we believe learning is fun and expands minds and lives. By providing the community with learning opportunities for all ages, including classes, camps, speakers and special events, field trips, and more, we aim to curate a strong STEM identity in everyone who walks through our front doors.
@@ -20,13 +28,31 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* Teacher Externs will have the opportunity to see the daily functionality of an informal educational space, designed to interest people of all ages in STEM concepts and careers. This opportunity will also build further relationships between the Discovery Center and local schools in order to share information about resources and opportunities available to educators, students, and families.
 
+What types of learning will externs get from this work?
+	* Project will connect what is taught in schools to real world STEM careers;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;Extern will acquire a new STEM skill;
+
 Network growth:
 	* Using a structured schedule which eases the extern into each task, they will be able to work with people engaged in STEM careers at multiple levels, including our education, marketing, and exhibits teams, as well as seasoned volunteers, ranging from high school to retirees, all of whom have chosen to dedicate time and energy to sharing their passion for STEM with others.
 
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;
 
-STEM domain experience desired:
-	* Life Science / Biology;Chemistry;Physics;Earth & Environmental Science;Math;Trades & Industry (e.g. manufacturing, automotive, construction, etc.);
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Chemistry
+	* Physics
+	* Earth & Environmental Science
+	* Math
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
+Instructional work required in this role:
+	* Willing to be a camp counselor
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Provide intern or shadowing opportunities to students
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
+	* Our organization has unique ideas specific to our industry to maintain a lasting relationshipÂ 
 

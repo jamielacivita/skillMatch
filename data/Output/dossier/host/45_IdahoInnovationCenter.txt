@@ -1,8 +1,16 @@
 Organization: Idaho Innovation Center
-Contact: Magleby, Bryan
-Email: The IIC is a nonprofit small business incubator. Our mission is to help entrepreneurs to be successful by teaching them how to incorporate the newest technologies, we support innovators/inventors, we offer business education, mentoring, and networking opportunities. We offer monthly webinars to small businesses to help keep them abreast of new technologies and trends that may affect businesses, and offer access to professionals who can help them to navigate those technologies and trends in their own businesses. We currently have several different energy businesses on our campus and a couple of innovators that are designing, manufacturing and marketing new products they have created.
+Contact: Magleby, Bryan; Executive Director
 Location: Idaho Falls
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* No
+	* Must live in the Idaho Falls area within a distance they are willing to drive to/from our office.
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 The IIC is a nonprofit small business incubator. Our mission is to help entrepreneurs to be successful by teaching them how to incorporate the newest technologies, we support innovators/inventors, we offer business education, mentoring, and networking opportunities. We offer monthly webinars to small businesses to help keep them abreast of new technologies and trends that may affect businesses, and offer access to professionals who can help them to navigate those technologies and trends in their own businesses. We currently have several different energy businesses on our campus and a couple of innovators that are designing, manufacturing and marketing new products they have created.
@@ -33,6 +41,9 @@ Meaningful learning about STEM careers:
 * They will gain insight into different career paths, including business management, finance, marketing, and technology-driving entrepreneurship.
 
 
+What types of learning will externs get from this work?
+	* Project will connect what is taught in schools to real world STEM careers;Project will show a new career path to consider for their STEM-driven students and offer guidance about protecting their intellectual property.;Extern will acquire a new STEM skill
+
 Network growth:
 	* * They will have the chance to participate in workshops, panel discussions, and networking events that will expand their professional connections.
 * They will interact with the event judges who will be additional contacts from a variety of industries and professions.
@@ -40,7 +51,20 @@ Network growth:
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Project Management;Email & Administrative Software;Public Speaking / Group Presentation
 
-STEM domain experience desired:
-	* Math;Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Trades & Industry (e.g. manufacturing, automotive, construction, etc.);Engineering and Product Development
+STEM domains that can be learned about in this role:
+	* Math
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
+Instructional work required in this role:
+	* Curriculum design	
+	* None of these needed
+	* Secondary-level instructional experience
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Provide intern or shadowing opportunities to students
+	* Our organization has unique ideas specific to our industry to maintain a lasting relationshipÂ 
+	* Collaborating with educators to help guide ambitious students with big ideas with the opportunity to transform those ideas into an applied business.
 

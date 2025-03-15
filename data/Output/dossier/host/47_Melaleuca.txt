@@ -1,17 +1,15 @@
 Organization: Melaleuca
-Contact: Lima, Tony 
-Email: Melaleuca: The Wellness Company is a consumer packaged goods company that manufactures and distributes more than 400 health and wellness products. The products are shipped directly to two million households each year.
-
-Melaleuca manufactures and distributes supplements and nutritional products, pharmaceuticals, personal care products, cosmetics, laundry and home cleaning products, and other wellness products of superior quality. Melaleuca customers purchase Melaleuca products online from the companyâs website. This convenient system changes the way hundreds of thousands of customers shop by eliminating middlemen and reducing marketing and distribution costs. This enables the company to spend more on research and development and high-quality, environmentally friendly ingredients while maintaining reasonable prices. 
-
-Melaleuca was founded in 1985 by Frank VanderSloot, who served as CEO for 37 years and now oversees the company as Executive Chairman. Though Melaleuca began as a small operation with a handful of products and employees, the company has steadily grown since its founding nearly four decades ago. Melaleucaâs headquarters are still located in Idaho Falls, Idaho, where the company began.
-
-It became an international company in the early 1990s when Melaleuca products entered the Canadian market, and Melaleuca now operates in over 20 countries and territories. Melaleuca generates over $2 billion in annual revenue. 
-
-Melaleuca was a Forbes Best Employer in America four years in a row. The company was also named one of Forbesâ Best Employers for Women. Other awards the company has received include the Idaho Business Reviewâs Empowering Women Award, the Salvation Armyâs Others Award, and the Alturas Instituteâs Susan B. Anthony Award.
-
+Contact: Lima, Tony ; Vice President of Public Relations and SEO
 Location: Idaho Fallsl
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* N/A 
+
+EXTERNSHIP DURATION OPTIONS
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Melaleuca: The Wellness Company is a consumer packaged goods company that manufactures and distributes more than 400 health and wellness products. The products are shipped directly to two million households each year.
@@ -43,13 +41,26 @@ Meaningful learning about STEM careers:
 2.  The extern will learn a variety of cutting-edge tactics for search engine optimization across search engines like Google. 
 3.  The community outreach opportunity allows the extern to meet with community organizations and see how we can create mutually beneficial partnerships with them.   
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;Project will connect what is taught in schools to real world STEM careers
+
 Network growth:
 	* They will be a part of program that introduces them to Melaleuca executives from different departments, such as Research & Development, IT, cybersecurity, recruiting/HR, marketing, consumer research, international, manufacturing, etc. I'm constantly meeting with these individuals in the community and throughout the company, so this extern would have access to high-level STEM leaders at Melaleuca.
 
 Skills desired:
 	* Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Public Speaking / Group Presentation;Email & Administrative Software
 
-STEM domain experience desired:
-	* Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources;Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
+STEM domains that can be learned about in this role:
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Agriculture, Food, Natural Resources
 
+Instructional work required in this role:
+	* Elementary-level instructional experience
+	* Secondary-level instructional experience
+
+Types of connections hos is considering during school year:
+	* Field trips to our site
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

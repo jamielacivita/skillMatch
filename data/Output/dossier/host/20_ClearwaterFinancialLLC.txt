@@ -1,8 +1,16 @@
 Organization: Clearwater Financial LLC
-Contact: Perry, Jace
-Email: We are a Municipal Advisory firm. Our roll is consultants to government entities to help them with financing needs including issuing bonds. We also help Municipalities with long range facility planning and financial planning, forecasting, feasibility studies, public engagement, economic development, and other accounting and finance services. The finance work deals heavily in math. We also have important software programs that help manager our core client project management and CRM that require software support and some programming to maximize the use of the system. 
+Contact: Perry, Jace; Chief Operations Officer
 Location: Boise
-Remote Possible: 100% remote
+
+EXTERNSHIP LOCATION
+	* 100% remote
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 We are a Municipal Advisory firm. Our roll is consultants to government entities to help them with financing needs including issuing bonds. We also help Municipalities with long range facility planning and financial planning, forecasting, feasibility studies, public engagement, economic development, and other accounting and finance services. The finance work deals heavily in math. We also have important software programs that help manager our core client project management and CRM that require software support and some programming to maximize the use of the system. 
@@ -23,13 +31,24 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* This project will expose the educator to tools, processes and technical terminology associated with computer programming, particularly as related to project management and to municipal finance. Exposure to our processes and procedures will also give the Teacher an opportunity to see how we our processes work to complete, issuing bonds, long range planning for facilities, feasibility studies, public engagement campaigns, and administering RFPs. This will allow the Teacher to have insight to multiple STEM applicable workforces.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* We have a small team at Clearwater Financial. The Extern would have the opportunity to interact with everyone on our Team include top leadership. We would set up 1:1s with each team member to allow the Extern to determine what reporting and functionality they would like out of the system and how they use the system each day to do their work.
 
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Project Management;Email & Administrative Software;Computer programming (ZohoOne experience if possible;
 
-STEM domain experience desired:
-	* Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);
+STEM domains that can be learned about in this role:
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 
+Instructional work required in this role:
+	* None of these needed
+
+Types of connections hos is considering during school year:
+	* Provide intern or shadowing opportunities to students
+	* Our organization has unique ideas specific to our industry to maintain a lasting relationshipÂ 
 

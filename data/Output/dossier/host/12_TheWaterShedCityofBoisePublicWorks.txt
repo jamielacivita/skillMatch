@@ -1,8 +1,15 @@
 Organization: The WaterShed, City of Boise Public Works 
-Contact: Gabrielli, Augie 
-Email: We are the educational and outreach arm of the City of Boise Public Works department. Located at the West Boise Water Renewal Facility, we communicate to the general public about city water renewal and climate action efforts. We also operate an environmental education center and campus, which hosts an exhibit hall focused on water and climate science and community action to combat climate change. A large part of what we do is communicate STEM topics in Idaho's climate and water fields for local students. 
+Contact: Gabrielli, Augie ; WaterShed Education Coordinator Lead
 Location: Boise
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 We are the educational and outreach arm of the City of Boise Public Works department. Located at the West Boise Water Renewal Facility, we communicate to the general public about city water renewal and climate action efforts. We also operate an environmental education center and campus, which hosts an exhibit hall focused on water and climate science and community action to combat climate change. A large part of what we do is communicate STEM topics in Idaho's climate and water fields for local students. 
@@ -29,13 +36,29 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* The WaterShed is a part of the Public Works department in the city of Boise. The Public Works department houses experts in climate, water quality, water renewal, geothermal resources, water quality lab analysis, and more. All these fields should be considered when working towards the objectives of the externship. The extern will be exposed to many of these professionals and their work. They will have a better understanding of the scope of Public Works and all the careers that make up the department. They will also learn strategies that we use to teach about these careers and be able to utilize those in the classroom. 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;Extern will learn how a STEM organization works;
+
 Network growth:
 	* The WaterShed has a large network of professionals. We work directly with water quality scientists, water renewal experts, sustainability experts, and more. Additionally, we have connections with many organizations that work on conservation and natural resources in the Treasure Valley. The extern will be able to follow their interests and develop connections across the city and beyond. We encourage the externs to shadow, tour, and interview experts within the department. Additionally, their work will require collaboration with members of the department. Past externs have relied on these relationships to build effective programming and we expect this yearâs extern to do the same. 
 
 Skills desired:
 	* Word Processing Software (MS Word or Google Docs);Public Speaking / Group Presentation;Email & Administrative Software;
 
-STEM domain experience desired:
-	* Life Science / Biology;Chemistry;Earth & Environmental Science;Agriculture, Food, Natural Resources;
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Chemistry
+	* Earth & Environmental Science
+	* Agriculture, Food, Natural Resources
 
+Instructional work required in this role:
+	* Curriculum design	
+	* Elementary-level instructional experience
+	* Secondary-level instructional experience
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

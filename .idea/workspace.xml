@@ -4,9 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="update location of where chart is saved.">
+    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="added documentaton file.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/10_InternationalRescueCommittee.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/10_InternationalRescueCommittee.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/11_ThreeIslandCrossingStatePark.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/11_ThreeIslandCrossingStatePark.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/12_TheWaterShedCityofBoisePublicWorks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/12_TheWaterShedCityofBoisePublicWorks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/13_WesternAircraftInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/13_WesternAircraftInc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/14_MicronTechnology.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/14_MicronTechnology.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/15_TheCoreProject.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/15_TheCoreProject.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/16_SummitInnovationLab.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/16_SummitInnovationLab.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/17_MicronTechnologyInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/17_MicronTechnologyInc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/18_STEMfinityLLC.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/18_STEMfinityLLC.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/19_EastIdahoJACTforPlumbersandPipefitters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/19_EastIdahoJACTforPlumbersandPipefitters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/20_ClearwaterFinancialLLC.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/20_ClearwaterFinancialLLC.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/21_LeePeskyLearningCenter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/21_LeePeskyLearningCenter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/22_LeePeskyLearningCenter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/22_LeePeskyLearningCenter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/23_GizmoCdA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/23_GizmoCdA.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/24_WesternStatesEquipmentCompany.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/24_WesternStatesEquipmentCompany.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/25_EngineeredStructuresInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/25_EngineeredStructuresInc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/26_NCCENorthwestCouncilforComputerEducation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/26_NCCENorthwestCouncilforComputerEducation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/27_BoysGirlsClubsofKootenaiCounty.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/27_BoysGirlsClubsofKootenaiCounty.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/28_BoysGirlsClubofMagicValley.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/28_BoysGirlsClubofMagicValley.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/29_IdahoVeteransChamberofCommerce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/29_IdahoVeteransChamberofCommerce.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/2_IdahoForestProductsCommissionProjectLearningTree.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/2_IdahoForestProductsCommissionProjectLearningTree.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/30_TheBassicTrainer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/30_TheBassicTrainer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/31_AutomationWerxLLC.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/31_AutomationWerxLLC.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/32_IdahoPower.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/32_IdahoPower.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/33_IdahoWorkforceDevelopmentCouncil.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/33_IdahoWorkforceDevelopmentCouncil.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/34_BoysGirlsClubsofKootenaiCountyPostFallsClubhouse.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/34_BoysGirlsClubsofKootenaiCountyPostFallsClubhouse.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/35_BoiseStateUniversityTRIOUpwardBound.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/35_BoiseStateUniversityTRIOUpwardBound.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/36_CityofNampaPublicWorks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/36_CityofNampaPublicWorks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/37_IdahoFallsZOo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/37_IdahoFallsZOo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/38_IdahoDepartmentofEducation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/38_IdahoDepartmentofEducation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/39_Micron.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/39_Micron.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/3_FranzWitteLandscapeContractingInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/3_FranzWitteLandscapeContractingInc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/40_Exyte.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/40_Exyte.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/41_MicronSchoolofMaterialsScienceandEngineeringBoiseStateUniversity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/41_MicronSchoolofMaterialsScienceandEngineeringBoiseStateUniversity.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/42_IdahoOutofSchoolNetwork.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/42_IdahoOutofSchoolNetwork.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/43_TheLandGroupInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/43_TheLandGroupInc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/44_IdahoNationalLaboratory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/44_IdahoNationalLaboratory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/45_IdahoInnovationCenter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/45_IdahoInnovationCenter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/46_UniversityofIdahoCollegeofEngineering.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/46_UniversityofIdahoCollegeofEngineering.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/47_Melaleuca.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/47_Melaleuca.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/48_AssociatedLoggingContractorsofIdaho.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/48_AssociatedLoggingContractorsofIdaho.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/49_OwyheeProduce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/49_OwyheeProduce.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/4_DiscoveryCenterofIdaho.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/4_DiscoveryCenterofIdaho.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/50_IdahoCommercialKitchenYellowstoneFoodVillage.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/50_IdahoCommercialKitchenYellowstoneFoodVillage.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/51_MelaleucaInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/51_MelaleucaInc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/5_IdahoDroneLeague.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/5_IdahoDroneLeague.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/6_GirlScoutofSilverSage.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/6_GirlScoutofSilverSage.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/7_ChildrensMuseumofIdaho.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/7_ChildrensMuseumofIdaho.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/8_USForestServiceBoiseNationalForest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/8_USForestServiceBoiseNationalForest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/host/9_BoiseNationalForest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/host/9_BoiseNationalForest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Host.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Host.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +73,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="250315_DossierFeedback" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +110,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "250315__DossierDesign-Host",
     "last_opened_file_path": "/home/jamie/source/skillMatch/src",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -272,7 +322,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742066934623</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="updated logging in chart.">
+      <option name="closed" value="true" />
+      <created>1742071087663</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1742071087663</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added documentaton file.">
+      <option name="closed" value="true" />
+      <created>1742071163589</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1742071163589</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -318,17 +384,8 @@
     <MESSAGE value="Updated files to add." />
     <MESSAGE value="Added N/A for missing linked in pages." />
     <MESSAGE value="update location of where chart is saved." />
-    <option name="LAST_COMMIT_MESSAGE" value="update location of where chart is saved." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/Match.py</url>
-          <line>667</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="updated logging in chart." />
+    <MESSAGE value="added documentaton file." />
+    <option name="LAST_COMMIT_MESSAGE" value="added documentaton file." />
   </component>
 </project>

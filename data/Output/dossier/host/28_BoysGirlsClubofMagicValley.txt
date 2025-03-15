@@ -1,8 +1,16 @@
 Organization: Boys & Girls Club of Magic Valley
-Contact: Owen, Bri
-Email: We are a youth development organization serving kids ages 5-18. We provide an affordable, safe space for kids to be after school and during the summer when school is not in session. We provide caring mentors and high-quality programs in the areas of Sports, Fitness & Recreation, The Arts, Character & Leadership, Health & Life Skills, Workforce/Career Development, and of course - STEM! We have 10 Club sites across the Magic Valley in the communities of Twin Falls, Jerome, Buhl, and Rupert serving over 4,000 youth each year. STEM programming is a huge part of what we do, and connecting our programs to real-world experiences is extremely important to us. We try to expose our Club members to different career opportunities and give them opportunities that they might not otherwise have due to a variety of different barriers. We try to take advantage of any opportunity to enhance and expand our programs to ensure we are giving all of our Club members and optimal Club experience. 
+Contact: Owen, Bri; Director of Operations
 Location: Twin Falls, Buhl, and Rupert
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 We are a youth development organization serving kids ages 5-18. We provide an affordable, safe space for kids to be after school and during the summer when school is not in session. We provide caring mentors and high-quality programs in the areas of Sports, Fitness & Recreation, The Arts, Character & Leadership, Health & Life Skills, Workforce/Career Development, and of course - STEM! We have 10 Club sites across the Magic Valley in the communities of Twin Falls, Jerome, Buhl, and Rupert serving over 4,000 youth each year. STEM programming is a huge part of what we do, and connecting our programs to real-world experiences is extremely important to us. We try to expose our Club members to different career opportunities and give them opportunities that they might not otherwise have due to a variety of different barriers. We try to take advantage of any opportunity to enhance and expand our programs to ensure we are giving all of our Club members and optimal Club experience. 
@@ -40,13 +48,26 @@ Day-to-day tasks will include:
 Meaningful learning about STEM careers:
 	* Throughout this program, STEM professionals could visit the TMC lab to share their career experiences, explain how they use STEM in their jobs, and highlight the skills they rely on in their work. These discussions would help the extern see the broad spectrum of career paths that STEM education opens up. We can also facilitate industry-specific demonstrations so the extern will get the chance to see real-world applications in action. The extern will learn how to develop and teach STEM curriculum that connects to real-world careers. For instance, instead of just teaching kids how to build a basic circuit, the extern can explain how electrical engineers use circuits to power complex systems in electronics, vehicles and renewable energy sources. 
 
+What types of learning will externs get from this work?
+	* Extern will learn what STEM employers want in future STEM employees - hard and soft skills;Project will connect what is taught in schools to real world STEM careers;
+
 Network growth:
 	* We will organize guest speaker events where professionals from different STEM fields visit the TMC lab and discuss their careers, the skills required in their fields, and how STEM education contributes to their work. Providing opportunities for our extern to network with these professionals to help them build professional relationships and learn from the diverse paths these individuals have taken. The extern will be invited to participate on the field trip/tour of Micron and any other behind-the-scenes tours of companies that the group may take. These tours will allow the extern to see firsthand how STEM careers are executed in different industries.  
 
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;
 
-STEM domain experience desired:
-	* Chemistry;Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Physics;
+STEM domains that can be learned about in this role:
+	* Chemistry
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Physics
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+
+Types of connections hos is considering during school year:
+	* Field trips to our site
+	* Provide intern or shadowing opportunities to students
+	* Participate in STEM nights and Career Days
 

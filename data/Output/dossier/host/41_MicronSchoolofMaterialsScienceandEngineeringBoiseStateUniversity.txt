@@ -1,8 +1,16 @@
 Organization: Micron School of Materials Science and Engineering - Boise State University
-Contact: Economy, Jessica
-Email: The Micron School of Materials Science and Engineering is an academic department at Boise State Unit. Specific to this externship, the school is the most active research unit at the university - conducting over $10M in external research activity annually. The school contains many research labs, each with a faculty lead who are working in many innovate areas of research including nuclear fuels, semi-conductors, sustainability, and quantum computing. 
+Contact: Economy, Jessica; Academic Programs Manager
 Location: Boise
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 The Micron School of Materials Science and Engineering is an academic department at Boise State Unit. Specific to this externship, the school is the most active research unit at the university - conducting over $10M in external research activity annually. The school contains many research labs, each with a faculty lead who are working in many innovate areas of research including nuclear fuels, semi-conductors, sustainability, and quantum computing. 
@@ -33,6 +41,9 @@ Meaningful learning about STEM careers:
 -Exposure to laboratory, experimental, and computational techniques used in materials science and engineering.
 -Learn new and groundbreaking applications of fundamental science
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works
+
 Network growth:
 	* Mini-rotations (approximately 2 weeks) with 5 different research labs over the course of the summer. Each lab will have different researchers for the individual to learn from.
 
@@ -42,7 +53,18 @@ Partnering with school leadership to help communicate that research to a broader
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!
 
-STEM domain experience desired:
-	* Chemistry;Physics;Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Engineering
+STEM domains that can be learned about in this role:
+	* Chemistry
+	* Physics
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+
+Types of connections hos is considering during school year:
+	* Field trips to our site
+	* Classroom visits
+	* Participate in STEM nights and Career Days
+	* Engaging with teachers and schools is our current #1 outreach priority
 

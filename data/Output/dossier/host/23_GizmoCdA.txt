@@ -1,8 +1,15 @@
 Organization: Gizmo-CdA
-Contact: Mueller, Barbara
-Email: Gizmo-CdA is a nonprofit makerspace that fosters innovation, creativity, and hands-on learning in STEM (Science, Technology, Engineering, and Math). Through workshops, community programs, and workforce development initiatives, we provide access to tools, technology, and mentorship that empower individuals of all ages to explore STEM fields. Gizmo plays a critical role in introducing students to STEM careers by offering hands-on experience in engineering, electronics, robotics, digital fabrication, and advanced manufacturing. Our programs bridge the gap between education and industry, helping students and community members build skills that translate into real-world opportunities. By engaging learners in meaningful, project-based experiences, we inspire curiosity and confidence, ensuring they see themselves as capable problem-solvers and innovators.
+Contact: Mueller, Barbara; Chair of the Board
 Location: Coeur d'Alene Id
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* Yes
+	* Gizmo-CdA is located on the campus of North Idaho College.  There will be travel from there to different industry partners in the area.
+
+EXTERNSHIP DURATION OPTIONS
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Gizmo-CdA is a nonprofit makerspace that fosters innovation, creativity, and hands-on learning in STEM (Science, Technology, Engineering, and Math). Through workshops, community programs, and workforce development initiatives, we provide access to tools, technology, and mentorship that empower individuals of all ages to explore STEM fields. Gizmo plays a critical role in introducing students to STEM careers by offering hands-on experience in engineering, electronics, robotics, digital fabrication, and advanced manufacturing. Our programs bridge the gap between education and industry, helping students and community members build skills that translate into real-world opportunities. By engaging learners in meaningful, project-based experiences, we inspire curiosity and confidence, ensuring they see themselves as capable problem-solvers and innovators.
@@ -28,6 +35,9 @@ These experiences will help the extern translate industry STEM needs into classr
 
 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* Our TechHelp partner provides industry connections throughout North Idaho. Externs will learn to use the TechHelp database to research companies and find workplaces to explore during their time with Gizmo. The externs will also be able to form connections with each other and with the people they meet at Gizmo.
 
@@ -36,7 +46,15 @@ Each extern will spend a week meeting with 2 or 3 industry partners. They will r
 Skills desired:
 	* No specific skills needed - we'll take anyone with the right attitude & train on what's needed!;All would be great, yet a passion to learn, collaborate, and loves project driven education;
 
-STEM domain experience desired:
-	* It will be the choice of the extern what industries they observe;
+STEM domains that can be learned about in this role:
+	* It will be the choice of the extern what industries they observe
 
+Instructional work required in this role:
+	* Curriculum design	
+	* Willing to be a camp counselor
+
+Types of connections hos is considering during school year:
+	* Field trips to our site
+	* Participate in STEM nights and Career Days
+	* Our organization has unique ideas specific to our industry to maintain a lasting relationshipÂ 
 

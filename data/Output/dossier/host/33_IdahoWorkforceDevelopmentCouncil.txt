@@ -1,8 +1,15 @@
 Organization: Idaho Workforce Development Council
-Contact: Reberry, Sherawn
-Email: Our work puts Idahoans on a path to prosperity by getting them into in-demand careers. We connect partners across the state to ensure all regions have access to high-quality career training and education. These efforts ensure Idahoâs employers have the highly educated, skilled talent they need to thrive, today and into the future.
+Contact: Reberry, Sherawn; Project Manager: Idaho LAUNCH
 Location: Boise
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Our work puts Idahoans on a path to prosperity by getting them into in-demand careers. We connect partners across the state to ensure all regions have access to high-quality career training and education. These efforts ensure Idahoâs employers have the highly educated, skilled talent they need to thrive, today and into the future.
@@ -20,13 +27,34 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* Idaho LAUNCH is an opportunity that not only provides students with training and education opportunities post-high school; but it also helps to connect educators to industry. It allows the classroom to become alive with assisting students to understand what happens after high school graduation and the many facets (a.k.a. pathways) students can choose. It will provide them a more in-depth understanding of the world of work. 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* The extern will engage with WDC partners to learn not only about STEM careers, but all careers that are considered in-demand in Idaho. They will be introduced to current and future initiatives that will drive a deeper understanding of in-demand careers in Idaho.
 
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Adult Education / Training;Email & Administrative Software;
 
-STEM domain experience desired:
-	* Life Science / Biology;Chemistry;Physics;Earth & Environmental Science;Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources;Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.);Trades & Industry (e.g. manufacturing, automotive, construction, etc.);
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Chemistry
+	* Physics
+	* Earth & Environmental Science
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Agriculture, Food, Natural Resources
+	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+	* Elementary-level instructional experience
+	* Curriculum design	
+
+Types of connections hos is considering during school year:
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
+	* Classroom visits
 

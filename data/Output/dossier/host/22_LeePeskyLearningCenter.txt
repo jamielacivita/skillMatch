@@ -1,15 +1,15 @@
 Organization: Lee Pesky Learning Center
-Contact: Sundell, Brittany
-Email: The Learning Pathway Literacy Center (LPLC) supports learners with disabilities and differences of all ages, focusing on STEM education. With offices in Boise and Wood River Valley, we offer both in-person and virtual services, including:
-Academic and Socio-Emotional Assessments: Advanced evaluations to understand learning and emotional needs.
-STEM Academic Interventions: Assistance in Reading, Writing, Math, and Science.
-Academic Coaching: Personalized guidance for excelling in STEM.
-Educator Professional Development: Tools and strategies for STEM teaching.
-Literacy Tutoring for English Language Learners: Enhancing English literacy for access to STEM fields.
-LPLC is a comprehensive resource for individuals aiming to succeed in STEM careers.
-
+Contact: Sundell, Brittany; Advancement Director
 Location: Boise
-Remote Possible: Hybrid - sometimes in office
+
+EXTERNSHIP LOCATION
+	* Hybrid - sometimes in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 The Learning Pathway Literacy Center (LPLC) supports learners with disabilities and differences of all ages, focusing on STEM education. With offices in Boise and Wood River Valley, we offer both in-person and virtual services, including:
@@ -45,13 +45,27 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* The extern will be exposed to new learning about digital marketing, specifically in the use of social media and digital communication tools, which can be taken back to the classroom. This will show how technology plays a critical role in the everyday operations of any educational organization.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* The extern will engage with various departments within LPLC, allowing him/her to meet and learn from a variety of professionals. The extern will have the freedom to schedule one-on-one meetings with department heads to gain comprehensive knowledge of their roles.
 
 Skills desired:
 	* Spreadsheet Software (MS Excel or Google Sheets);Word Processing Software (MS Word or Google Docs);Presentation Software (MS Powerpoint or Google Slides);Project Management;Public Speaking / Group Presentation;Email & Administrative Software;
 
-STEM domain experience desired:
-	* Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Social Media Administration;
+STEM domains that can be learned about in this role:
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Social Media Administration
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+	* Curriculum design	
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Provide intern or shadowing opportunities to students
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

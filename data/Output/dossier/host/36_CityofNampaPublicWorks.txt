@@ -1,8 +1,15 @@
 Organization: City of Nampa Public Works
-Contact: Black, Kelly
-Email: The City of Nampa has the largest public works department in Idaho ensuring the public health and safety of the community by maintaining the streets, airport, fleet, drinking water systems, irrigation system and the wastewater systems. Our team consists of engineers, GIS analysts, operators and a variety of other roles. 
+Contact: Black, Kelly; Public Works Communication Manager
 Location: Nampa 
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 The City of Nampa has the largest public works department in Idaho ensuring the public health and safety of the community by maintaining the streets, airport, fleet, drinking water systems, irrigation system and the wastewater systems. Our team consists of engineers, GIS analysts, operators and a variety of other roles. 
@@ -29,6 +36,9 @@ Meaningful learning about STEM careers:
 â¢	Learn how GIS supports infrastructure management of the distribution and collections systems for One Water systems including stormwater, pressurized irrigation, domestic water and wastewater.
 â¢	Visit the construction site for Nampaâs new water tank with the project manager and talk about skills needed to run large-scale infrastructure projects. 
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* The Extern will be placed in a collaborative team environment, be given the opportunity to shadow professionals and meet 1:1 with staff working in STEM careers. Depending on the interests of the Extern potential opportunities to choose from include: 
 â¢	Tour wetlands site with project engineer or program director and review plan set. Understand how an advanced constructed wetlands can treat surface water to remove contaminants of emerging concern.  
@@ -47,7 +57,22 @@ Network growth:
 Skills desired:
 	* Word Processing Software (MS Word or Google Docs);Project Management;Adult Education / Training;Adult Ed a bonus. Need experience with middle and high school education.;
 
-STEM domain experience desired:
-	* Life Science / Biology;Chemistry;Physics;Earth & Environmental Science;Math;Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Agriculture, Food, Natural Resources;
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Chemistry
+	* Physics
+	* Earth & Environmental Science
+	* Math
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Agriculture, Food, Natural Resources
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+	* Curriculum design	
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Provide intern or shadowing opportunities to students
+	* Participate in STEM nights and Career Days
 

@@ -1,8 +1,16 @@
 Organization: Micron Technology
-Contact: Hansen, Ren
-Email: Micron Technology is a global leader in the semiconductor industry, specializing in innovative memory and storage solutions. Micron relies heavily on STEM professionals to drive innovation and maintain its leadership in the semiconductor industry. Careers at Micron often involve roles in engineering, data science, and technology development.
+Contact: Hansen, Ren; Manufacturing Engineering Project & Hiring Manager
 Location: Boise
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* No
+	* 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 Micron Technology is a global leader in the semiconductor industry, specializing in innovative memory and storage solutions. Micron relies heavily on STEM professionals to drive innovation and maintain its leadership in the semiconductor industry. Careers at Micron often involve roles in engineering, data science, and technology development.
@@ -20,13 +28,31 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* Externs will develop a comprehensive understanding of how STEM is applied in real-world job roles by shadowing various positions within the Operations department. They will gain hands-on experience with equipment and processes critical to semiconductor manufacturing. Externs are required to document their experiences and insights throughout the program. This documentation will facilitate their ability to articulate the value of their learning and share newly acquired knowledge with students and colleagues.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Project will connect what is taught in schools to real world STEM careers;Extern will acquire a new STEM skill;Extern will learn how a STEM organization works;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* Micron has developed a complete schedule for its externs. The schedule includes shadowing in various areas to enhance understanding of the different roles within our operations. This will enable externs to interact with and learn from a diverse group of individuals at Micron. A detailed training schedule will be provided, with adjustments made based on feedback from the externs during their time at Micron.
 
 Skills desired:
 	* Project Management;Presentation Software (MS Powerpoint or Google Slides);Adult Education / Training;Public Speaking / Group Presentation;Email & Administrative Software;Word Processing Software (MS Word or Google Docs);Spreadsheet Software (MS Excel or Google Sheets);
 
-STEM domain experience desired:
-	* Life Science / Biology;Chemistry;Physics;Math;Computer Science (e.g., coding, programming languages, software/app development, etc.);Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.);Trades & Industry (e.g. manufacturing, automotive, construction, etc.);
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Chemistry
+	* Physics
+	* Math
+	* Computer Science (e.g., coding, programming languages, software/app development, etc.)
+	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
+	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+
+Types of connections hos is considering during school year:
+	* Classroom visits
+	* Field trips to our site
+	* Provide intern or shadowing opportunities to students
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
 

@@ -1,8 +1,16 @@
 Organization: Boys & Girls Clubs of Kootenai County 
-Contact: Richardson, Ashley 
-Email: We provide youth developing stem programs to elementary aged youth, to enable them to become innvators, and creative thinkers. 
+Contact: Richardson, Ashley ; Branch Director 
 Location: Coeur d' Alene
-Remote Possible: 100% in office
+
+EXTERNSHIP LOCATION
+	* 100% in office
+Work requires travel or relocation:
+	* Yes
+	* Extern must be able to get to the Boys & Girls Club everyday. 
+
+EXTERNSHIP DURATION OPTIONS
+	* 100 hours
+	* 200 hours
 
 ABOUT THE ORGANIZATION:
 We provide youth developing stem programs to elementary aged youth, to enable them to become innvators, and creative thinkers. 
@@ -41,13 +49,31 @@ Description and day-to-day tasks:
 Meaningful learning about STEM careers:
 	* The Youth Development STEM Program provides externs with hands-on experience, allowing them to apply STEM concepts in practical ways they can bring back to their classrooms. By leading interactive projects and working alongside professionals, they gain insight into problem solving, collaboration, and real-world applications. The program helps them connect classroom learning to future careers, making lessons more engaging and relevant for students. Through reflection and lesson development, externs refine their teaching approach; ensuring students see the real impact of STEM in everyday life.
 
+What types of learning will externs get from this work?
+	* Extern will get exposed to a specific STEM field;Extern will acquire a new STEM skill;Extern will learn what STEM employers want in future STEM employees - hard and soft skills;
+
 Network growth:
 	* The Boys & Girls Club of Kootenai County is proud to collaborate with a diverse range of local STEM partners, including GIZMO, I-STEM, and the Discovery Bus. Our organization is dedicated to facilitating valuable connections, offering the extern opportunities for job shadowing, and enabling the exchange of innovative ideas to bring back to the classroom. Additionally, the extern may have the chance to cultivate lasting partnerships, inviting experts into the classroom to enrich the learning experience for students.
 
 Skills desired:
 	* Public Speaking / Group Presentation;Project Management;
 
-STEM domain experience desired:
-	* Life Science / Biology;Chemistry;Physics;None of these;
+STEM domains that can be learned about in this role:
+	* Life Science / Biology
+	* Chemistry
+	* Physics
+	* None of these
 
+Instructional work required in this role:
+	* Secondary-level instructional experience
+	* Elementary-level instructional experience
+	* Curriculum design	
+	* Willing to be a camp counselor
+
+Types of connections hos is considering during school year:
+	* Field trips to our site
+	* Classroom visits
+	* Advise on STEM curriculum
+	* Participate in STEM nights and Career Days
+	* Our organization has unique ideas specific to our industry to maintain a lasting relationshipÂ 
 
