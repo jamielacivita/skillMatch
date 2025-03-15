@@ -1045,11 +1045,7 @@ class Extern(AttributeSet):
 
             print("")
             print("Externship durations they are available for:".upper())
-            log.debug(f"1043")
-            #log.debug(self.get_externship_durations_printable_list())
             print(f"{self.get_externship_durations_printable_list()}")
-            # uses colum AV
-            #todo: need a printable function for this data.
 
             print("Other interesting experience:".upper())
             print(f"{self.get_experiences_or_interests()}")
