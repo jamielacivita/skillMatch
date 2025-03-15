@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* As a music teacher, my students are interested in many different areas of life or expertise that they want to pursue.  After reading through some of the blog testimonies, I thought this would provide a good opportunity to learn about other subject areas that my students participate in.  Ag education is a big one for my area.  Branching outside of music is a great way to help support my students as well to understand how to support them better.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Earth & Environmental Science
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
@@ -26,25 +28,29 @@ Grade Levels:
 	* 11
 	* 12
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 	* Hospitality and Leadership
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Public Speaking / Group Presentation
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 
 
 LOGISTICS

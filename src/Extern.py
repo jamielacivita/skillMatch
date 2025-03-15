@@ -417,6 +417,7 @@ class Extern(AttributeSet):
 
     def set_stem_domains(self, stem_domains):
         self.stem_domains = stem_domains
+        #log.debug(f"{self.stem_domains}")
 
     def set_spreadsheet_software(self, spreadsheet_software):
         self.spreadsheet_software = spreadsheet_software
@@ -892,9 +893,14 @@ class Extern(AttributeSet):
 
     def get_externship_durations_printable_list(self):
         out_text = ""
-        selection_lst = self.get_.split(";")  # here.
+        selection_lst = self.get_externship_durations().split(";")  # here.
         for s in selection_lst:
-            out_text = out_text + f"\t* {s}"
+            if s != "":
+                if "100" in s:
+                    out_text = out_text + f"\t* 100 hours\n"
+                if "200" in s:
+                    out_text = out_text + f"\t* 200 hours\n"
+                #out_text = out_text + f"\t* {s.strip()}\n"
         return out_text
 
     def set_zip(self, zip):
@@ -1004,29 +1010,48 @@ class Extern(AttributeSet):
             print(f"\t* {self.get_why_part_of_program()}")
             # print(f"This applicant likes work environments that are:")
             # print(f"{self.get_flavor_of_work_printable_list()}")
-            print("STEM fields they are particularly interested in learning more about:")
+            print("")
+            print("STEM fields they are particularly interested in learning more about:".upper())
+            print("")
             print(f"{self.get_particular_stem_fields_printable_list()}")
+
             print(f"EXPERIENCE")
             print(f"Grade Levels: ")    #From column X
             print(f"{self.get_grade_levels_printable_list()}")
-            print("STEM Domain Experience")
+
+            print("STEM Domain Experience".upper())
             print(f"{self.get_stem_domains_printable_list()}")
-            print("Business software & skills:")
+
+            print("Business software & skills:".upper())
             print(f"{self.get_business_software_skills_printable_list()}")
 
-            print("Instructional work they are open to during externship:")
+            print("Instructional work they are open to during externship:".upper())
             # Uses colums Q, AQ, AR, AS and AT.
-            print(f"Elementary teaching : {self.get_elementary_level_instruction()}") #Q
-            print(f"Secondary Teaching : {self.get_open_to_secondary_teaching()}") #AQ
-            print(f"Adult Teaching : {self.get_open_to_adult_teaching()}") #AR
-            print(f"Camp counselor : {self.get_Open_to_camp_counselor()}") #AS
-            print(f"Curriculum design : {self.get_open_to_curriculum_design()}") #AT
+            if self.get_elementary_level_instruction() == "Yes":
+                print(f"\t* Elementary Teaching")
+            #print(f"Elementary teaching : {self.get_elementary_level_instruction()}") #Q
+            if self.get_open_to_secondary_teaching() == "Yes":
+                print(f"\t* Elementary Teaching")
+            #print(f"Secondary Secondary : {self.get_open_to_secondary_teaching()}") #AQ
+            if self.get_open_to_adult_teaching() == "Yes":
+                print(f"\t* Adult Teaching")
+            #print(f"Adult Teaching : {self.get_open_to_adult_teaching()}") #AR
+            if self.get_Open_to_camp_counselor() == "Yes":
+                print(f"\t* Camp counselor")
+            #print(f"Camp counselor : {self.get_Open_to_camp_counselor()}") #AS
+            if self.get_open_to_curriculum_design() == "Yes":
+                print(f"\t* Curriculum design")
+            #print(f"Curriculum design : {self.get_open_to_curriculum_design()}") #AT
 
-            print("Externship durations they are available for:")
+            print("")
+            print("Externship durations they are available for:".upper())
+            log.debug(f"1043")
+            #log.debug(self.get_externship_durations_printable_list())
+            print(f"{self.get_externship_durations_printable_list()}")
             # uses colum AV
             #todo: need a printable function for this data.
 
-            print("Other interesting experience:")
+            print("Other interesting experience:".upper())
             print(f"{self.get_experiences_or_interests()}")
             print(f"")
             print(f"LOGISTICS")

@@ -6,7 +6,9 @@ LinkedIn Profile : https://www.linkedin.com/in/crisvalderrama93
 INTERESTS
 Why they want to be a part of this program:
 	* ThatÂ´s why I believe this program will deepen my understanding of STEM applications, empowering me to carry out more engaging and relevant practices to bring new and meaningful knowledge into the classroom. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Life Science / Biology
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
@@ -21,24 +23,27 @@ Grade Levels:
 	* 5
 	* Postsecondary
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Adult Education / Training
 	* Public Speaking / Group Presentation
 
-Instructional work they are open to during externship:
-Elementary teaching : No
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 In addition to teaching foreign languages, I have had a strong interest in technology since secondary school, where I gained valuable knowledge about hardware, software, as well as introductory ideas on programming, and databases. Over time, I have empirically developed digital skills in website creation, as well as video and image editing, which I used to manage and promote my small Spanish language school before I paused that project for a while. 
 
 LOGISTICS

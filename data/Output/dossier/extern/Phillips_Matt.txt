@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* I am always looking to make school and science more relevant to my students. The more real, relevant, and practical school is, the more likely student are to engage and participate.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Chemistry
 	* Earth & Environmental Science
 	* Life Science / Biology
@@ -24,12 +26,12 @@ Grade Levels:
 	* 12
 	* Postsecondary
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Life Science / Biology
 	* Chemistry
 	* Physics
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Adult Education / Training
@@ -37,14 +39,16 @@ Business software & skills:
 	* Email & Administrative Software
 	* Project Management
 
-Instructional work they are open to during externship:
-Elementary teaching : No
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : No
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Adult Teaching
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 I love hunting, fishing, backpacking, hiking, and travel. I enjoy mechanical and electrical fix-it jobs or problems solving tasks.
 
 LOGISTICS

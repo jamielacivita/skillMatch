@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* Through a community STEM externship, I hope to gain real-world experience and insights into current STEM practices, allowing me to create more engaging, hands-on learning experiences for preschool students. This opportunity will help me integrate practical STEM concepts into the classroom, fostering curiosity, critical thinking, and problem-solving skills at an early age. By connecting classroom learning with real-world applications, I aim to inspire students to explore and experiment with confidence. Additionally, the externship could lead to valuable partnerships and resources that further enhance learning, helping young learners develop a strong foundation for future academic and personal success in STEM fields.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
 	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 	* Agriculture, Food, Natural Resources
@@ -32,13 +34,13 @@ Grade Levels:
 	* Pre K
 	* K
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 	* Agriculture, Food, Natural Resources
 	* Early childhood 
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Project Management
@@ -46,14 +48,18 @@ Business software & skills:
 	* Public Speaking / Group Presentation
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+	* 100 hours
+
+OTHER INTERESTING EXPERIENCE:
 With experience owning a daycare center and a strong interest in technology, I bring a unique blend of entrepreneurial skills and early childhood education expertise to a community STEM externship. Running a daycare has taught me leadership, organization, and problem-solving, as well as the ability to foster a nurturing environment where children can explore and learn. My passion for technology drives me to stay informed on emerging trends, and I am eager to apply these advancements in early learning environments. This externship would allow me to connect my interest in technology with my experience in child development, enhancing STEM learning for young students.
 
 LOGISTICS

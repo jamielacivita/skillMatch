@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* Not only is this program and incredible opportunity for myself, my students will greatly benefit from the skills and industrial knowledge that I will gain from being apart of it, should I be chosen. I am currently a CTE teacher at the junior high school level teaching students foundational knowledge in engineering. We define this class as "pre-engineering". Along with many of the duties I have as a CTE teacher, I have a duty to continue to uphold industry standards and continue to change as those standards change. What better place to maintain this equilibrium than with an industry partner. Students yearn for understand, especially when it comes from a class that they enjoy so much. Being grated this experience would allow me to give them an even more in-depth understanding of what an engineer is, how they operate, why it is so important that we take the steps that we do in our class while following the engineering design process. And so much more! Additionally, I believe it is crucial that students see that their teachers are still life long learners. Transferring that reality to them at such a young age is bound to generate a generation bent on finding solutions rather than problems. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 	* Engineering 
 
@@ -18,24 +20,24 @@ Grade Levels:
 	* 8
 	* 9
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Life Science / Biology
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 	* Engineering & Technology
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Public Speaking / Group Presentation
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : No
-Camp counselor : No
-Curriculum design : No
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 Roto-Rippers Ski Project (Hailey, ID):
 - Facilitated and advocated for the operation of a skiing initiative project, a non-profit founded by the Sun Valley Ski Education Foundation, where students from lower socioeconomic backgrounds had the opportunity to learn how to ski.
 - Students apart of this organization were given the opportunity to ski after school two days a week with all equipment and necessities paid for by the organization itself.

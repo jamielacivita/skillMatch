@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* As an educator I feel that being able to show experience is a key part of the learning process. I feel like my students would benefit most from an educator who knows more about industries, and can then show how the subject applies in the real world. I am hoping that my experience in this program helps my students feel that school is more beneficial for the real world.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Life Science / Biology
 	* Chemistry
 	* Physics
@@ -21,7 +23,7 @@ Grade Levels:
 	* 12
 	* Postsecondary
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Life Science / Biology
 	* Chemistry
 	* Physics
@@ -30,21 +32,25 @@ STEM Domain Experience
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 	* Engineering & Technology
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Public Speaking / Group Presentation
 	* Email & Administrative Software
 	* Adult Education / Training
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 I have participated and directed multiple outside programs over the years. Some of these include Rocket club, astronomy club, and python programming camps. I have experience in solid works, and have multiple times with a group of students successfully made it to the state round for the Samsung solve for tomorrow competition. I have worked as a restaurant manager, and have been the outreach director for that same restaurant.
 
 LOGISTICS

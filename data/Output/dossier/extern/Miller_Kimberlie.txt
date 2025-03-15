@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* How what they are learning in math class will apply to real work job applications.  Giving them more ideas of why the math is important.  I want to be able to boost their confidence and motivation for learning the material other than just to pass the class.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Earth & Environmental Science
 	* Math
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
@@ -17,23 +19,25 @@ Grade Levels:
 	* 11
 	* 12
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Earth & Environmental Science
 	* Math
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : No
-Camp counselor : No
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 I worked as an environmental engineer for about 10 years before I became a teacher.
 
 LOGISTICS

@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* As a math teacher I am always looking for ways that I can connect and apply math from the classroom to a "real world" application. I hope to learn new ways that I can do that for my students.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Math
 	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
@@ -20,21 +22,24 @@ Grade Levels:
 	* 11
 	* 12
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Math
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : No
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 I have taught my church's youth group for the last 3 years. Previously I also taught 3rd-8th grade P.E.
 
 LOGISTICS

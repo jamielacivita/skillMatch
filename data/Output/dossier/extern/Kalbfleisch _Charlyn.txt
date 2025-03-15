@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* I would like to show my students that what I am teaching them they will use it in real life.  I want them to see that learning is a life long experience. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Math
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
@@ -20,24 +22,27 @@ Grade Levels:
 	* 5
 	* K
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Public Speaking / Group Presentation
 	* Adult Education / Training
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 I have 20 years working at Boise Cascade.
 I have librarian and computer teacher.
 I have my administration degree

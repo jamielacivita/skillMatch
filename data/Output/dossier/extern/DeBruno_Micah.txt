@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* I would love to be able to work with companies that may become the employers of my current students. Getting this opportunity to see what employers are looking for and expecting from applicants will help me prepare my students to enter the workforce. Through this program, I am hoping to build a network that will allow me to give my students opportunities through people who I have met in various industries.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Math
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 
@@ -18,21 +20,23 @@ Grade Levels:
 	* 11
 	* 12
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Math
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Presentation Software (MS Powerpoint or Google Slides)
 
-Instructional work they are open to during externship:
-Elementary teaching : No
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : No
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Adult Teaching
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 I was previously a member of the United States Air Force, I worked briefly for a video game developing company called Firaxis, and I currently volunteer as the youth director at Trinity Baptist Church in Moscow Idaho.
 
 LOGISTICS

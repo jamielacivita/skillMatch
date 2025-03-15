@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* I hope to learn of things, jobs, and skills that can be taken back into the classroom that can help students transition into post-high school things.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Life Science / Biology
 	* Earth & Environmental Science
 	* Math
@@ -25,26 +27,30 @@ Grade Levels:
 	* 12
 	* Postsecondary
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Math
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Project Management
 	* Adult Education / Training
 	* Public Speaking / Group Presentation
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 -Construction: I have hands-on experience building houses, which has given me valuable skills in teamwork and project management.
 -Power Washing: I was a former owner of a power washing business, where I learned about entrepreneurship and customer service.
 -Coaching: I have coached high school football, an experience that taught me leadership and mentorship skills while fostering a love for teamwork among young athletes.

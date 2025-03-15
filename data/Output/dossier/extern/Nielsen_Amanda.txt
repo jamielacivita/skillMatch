@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* I would love to find new and exciting ways to adapt my teaching to better set students up for future success in an ever evolving world of technology. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Math
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
@@ -18,23 +20,27 @@ Grade Levels:
 	* 4
 	* 5
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Math
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Public Speaking / Group Presentation
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+	* 100 hours
+
+OTHER INTERESTING EXPERIENCE:
 I am a very creative person. I enjoy crafting and quilting. I also greatly enjoy elevating boring presentations to make them eye catching and engaging to the audience. 
 
 LOGISTICS

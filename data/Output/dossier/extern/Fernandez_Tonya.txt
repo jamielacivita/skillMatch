@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	*  I work with at risk kids and am always looking for ways to get them interested in new programs/work opportunities that they may not have considered. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Agriculture, Food, Natural Resources
 	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
@@ -19,23 +21,25 @@ Grade Levels:
 	* 11
 	* 12
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Email & Administrative Software
 	* Public Speaking / Group Presentation
 
-Instructional work they are open to during externship:
-Elementary teaching : No
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : No
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+	* 100 hours
+
+OTHER INTERESTING EXPERIENCE:
 
 
 LOGISTICS

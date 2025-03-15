@@ -13,7 +13,9 @@ Additionally, I hope to build long-term relationships with my host and potential
 
 Ultimately, this program will benefit both my professional growth and my students' learning experiences, fostering a deeper connection between classroom concepts and real-world applications.
 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* No specific preference - anything goes!
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Physics
@@ -34,7 +36,7 @@ Grade Levels:
 	* 8
 	* K
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Physics
 	* Life Science / Biology
 	* Earth & Environmental Science
@@ -45,20 +47,24 @@ STEM Domain Experience
 	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
 	* Robotics
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Public Speaking / Group Presentation
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+	* 100 hours
+
+OTHER INTERESTING EXPERIENCE:
 Outside the classroom, I have enjoyed a variety of experiences that have enriched my teaching and broadened my perspective. I have taught an afterschool 3D printing class, which allowed me to introduce students to cutting-edge technology and foster their creativity. Currently, I am teaching a VEX IQ robotics class, where students learn about engineering and programming through hands-on activities.
 
 In addition to my teaching roles, I took a course about front-end software development, which has enhanced my technical skills and understanding of the digital world. I have also participated in numerous i-STEM teacher professional development courses, which have provided me with valuable insights and strategies for integrating STEM education into my curriculum.

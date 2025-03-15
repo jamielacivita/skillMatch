@@ -6,7 +6,9 @@ LinkedIn Profile : https://www.linkedin.com/in/christopher-glascock-35991b81/
 INTERESTS
 Why they want to be a part of this program:
 	* Being a part of the Extern Program helps me learn new skills that are in demand and relevant to current High School students.  I will be able to become a better teacher and mentor to students.  
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 	* Anything Business, Cyber Security, Printing, Web design
@@ -19,11 +21,11 @@ Grade Levels:
 	* 12
 	* Postsecondary
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Adult Education / Training
 	* Project Management
 	* Email & Administrative Software
@@ -31,14 +33,17 @@ Business software & skills:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Public Speaking / Group Presentation
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : No
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+	* 100 hours
+
+OTHER INTERESTING EXPERIENCE:
 I currently am learning AI and Chat GPT. I volunteer taking pictures and editing at different events. I am the ESPORTS coach for the High School also.  Previously, I have worked in Customer Service and volunteered as financial clerks and non-profit organizations in various positions. I believe I am a very well-rounded person interested in continued life-long learning. 
 
 LOGISTICS

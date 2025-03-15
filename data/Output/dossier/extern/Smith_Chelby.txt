@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* I teach digital media and career exploration. As a CTE teacher, I find it incredibly important to offer students real world, hands on information and opportunities. This externship in STEM would provide me with first-hand insight into STEM careers, workforce needs, and knowledge that I could bring back to my technology and workplace ready focused classroom. I also look forward to the partnerships that would be possible with host sites which could lead to guest speakers and opportunities for my students. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
@@ -29,26 +31,30 @@ Grade Levels:
 	* K
 	* Postsecondary
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 	* Agriculture, Food, Natural Resources
 	* Engineering & Technology
 	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Project Management
 	* Public Speaking / Group Presentation
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 junior rodeo clinics, marketing (emphasis on social media), business management, event planning, STEM gifted and talented teacher, elementary summer reading, psychology research assistant, counseling teaching assistant
 
 LOGISTICS

@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* The first step to motivating students is to be enthusiastic about a subject yourself. Working in an internship will give me the knowledge I could use to bring enthusiasm to students on various subjects. As a veteran teacher, I am fully aware that I avoid teaching subjects that I know little about. I would like to change the narrative in my own career and explore the world in new ways in order to bring knowledge and learning experiences into my classroom. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Life Science / Biology
 	* Earth & Environmental Science
 	* Agriculture, Food, Natural Resources
@@ -23,11 +25,11 @@ Grade Levels:
 	* 5
 	* 6
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Life Science / Biology
 	* Earth & Environmental Science
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Project Management
@@ -35,14 +37,17 @@ Business software & skills:
 	* Public Speaking / Group Presentation
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 Co-Chair of the Meridian Dairy Days Princess Pageant (6 years)
 4-H parent/ barn help
 After School Club coordinator (for students who could benefit from extra help)

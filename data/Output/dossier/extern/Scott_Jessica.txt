@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* I would like to bring more agri-science education to my school. I work in rural Idaho, and we do not provide our students enough science/math learning opportunities that tie to their out of school lives. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Life Science / Biology
 	* Earth & Environmental Science
 	* Agriculture, Food, Natural Resources
@@ -20,22 +22,25 @@ Grade Levels:
 	* 7
 	* 8
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Life Science / Biology
 	* Earth & Environmental Science
 	* Agriculture, Food, Natural Resources
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Public Speaking / Group Presentation
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 4H 
 
 LOGISTICS

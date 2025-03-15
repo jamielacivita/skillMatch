@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* I am looking to make connections with industry partners. I want to know their work and be able to bring them in to educate my students on their STEM field. I want to connect students to careers that excite them.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Chemistry
 	* Physics
 	* Earth & Environmental Science
@@ -19,24 +21,25 @@ Grade Levels:
 	* 9
 	* 10
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Physics
 	* Chemistry
 	* Earth & Environmental Science
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Public Speaking / Group Presentation
 
-Instructional work they are open to during externship:
-Elementary teaching : No
-Secondary Teaching : No
-Adult Teaching : Yes
-Camp counselor : No
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Adult Teaching
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+	* 100 hours
+
+OTHER INTERESTING EXPERIENCE:
 
 
 LOGISTICS

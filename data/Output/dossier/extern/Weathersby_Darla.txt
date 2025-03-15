@@ -11,7 +11,9 @@ Why they want to be a part of this program:
 
          Most importantly, I think the skills and knowledge I gain from this program will help my students directly. By using new teaching methods and adding innovative resources, I want to create a more exciting and welcoming learning environment. This will not only make learning more fun for them but also help them develop important skills like critical thinking and problem-solving. In the end, my goal is to encourage a love for learning and help my students reach their full potential.
 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
 	* Agriculture, Food, Natural Resources
@@ -26,25 +28,28 @@ Grade Levels:
 	* 6
 	* K
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Math
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Project Management
 	* Email & Administrative Software
 	* Public Speaking / Group Presentation
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : No
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 During my pursuit of a master's degree, I had the privilege of teaching fellow educators effective strategies for integrating technology into the classroom. I am eager to explore opportunities that will enhance my computer science curriculum and further enrich my classroom experience. Additionally, I am enthusiastic about participating in any programs offered through the INL and am open to any other opportunities that may arise.
 
 LOGISTICS

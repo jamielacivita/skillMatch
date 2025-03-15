@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* Working with our youngest learners, I enjoy bringing real world experiences into our classroom. I believe that all students can benefit from connections within the community specifically finding relevance in what they are learning to their own communities. This program seems to bridge educators with community leaders and offers some unique learning experiences that I would like the opportunity to explore. I am also very passionate about technology integration in education and I would enjoy the opportunity to continue to grow the skills I already have. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* No specific preference - anything goes!
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
@@ -20,25 +22,27 @@ Grade Levels:
 	* 4
 	* 5
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 	* Engineering & Technology
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Email & Administrative Software
 	* Public Speaking / Group Presentation
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : No
-Adult Teaching : Yes
-Camp counselor : No
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Adult Teaching
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 One of my hobbies that I am most passionate about includes traveling. I enjoy learning new languages and interacting with a diverse group of people. I am very passionate about technology and technology integration in the classroom.
 
 LOGISTICS

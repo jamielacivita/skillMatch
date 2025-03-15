@@ -6,7 +6,9 @@ LinkedIn Profile : https://www.linkedin.com/in/lily-rasmussen-76054b164/
 INTERESTS
 Why they want to be a part of this program:
 	* I'm excited to be a part of this program to gain real world experience to better equip my students. I want to learn and stretch myself so that I become a more capable teacher. Also, I just want to be a more informed member of my community for myself as well. These externship opportunities seem like the perfect opportunity to gain new perspectives and get hands on understanding of something I may not have known about before.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Earth & Environmental Science
 	* Physics
 	* Chemistry
@@ -26,7 +28,7 @@ Grade Levels:
 	* 9
 	* 10
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Life Science / Biology
 	* Chemistry
 	* Math
@@ -34,21 +36,25 @@ STEM Domain Experience
 	* Agriculture, Food, Natural Resources
 	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Project Management
 	* Public Speaking / Group Presentation
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+	* 100 hours
+
+OTHER INTERESTING EXPERIENCE:
 I've worked in several labs including the Feed and Fertilizer lab for the ISDA, quality assurance for Clif bar, and water quality for the DEQ. I have managed a greenhouse zone for Monsanto growing experimental wheat populations. Through this externship program, I have worked for CSI getting experience in a variety of areas such as networking, interacting with the local ag industries, and coding.
 
 LOGISTICS

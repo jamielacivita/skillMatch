@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* I hope to make community partnerships to bring more opportunities to my students. I also want to experience new trades as a lifelong learner. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Math
 	* Earth & Environmental Science
 	* Agriculture, Food, Natural Resources
@@ -24,28 +26,30 @@ Grade Levels:
 	* 8
 	* K
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Math
 	* Agriculture, Food, Natural Resources
 	* Engineering & Technology
 	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 	* Life Science / Biology
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Project Management
 	* Public Speaking / Group Presentation
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : No
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 I served as an external for Teton Toyota last year (in the marketing department). I had a fabulous time and learned a lot!
 
 LOGISTICS

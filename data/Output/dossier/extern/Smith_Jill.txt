@@ -7,7 +7,9 @@ INTERESTS
 Why they want to be a part of this program:
 	* This program presents a valuable chance to enhance my knowledge of STEM industries and their real-world applications as they relate to careers in our area. This experience will enable me to integrate up-to-date examples into my teaching, effectively linking theory with practice. By witnessing STEM careers in action, I can more effectively guide and motivate my students, showcasing viable career paths and essential skills for success. Additionally, hands-on experience with innovative technologies will enrich my teaching. 
 For my students, this opportunity will provide valuable insights into real-world STEM careers and the skills needed to pursue them. Sharing my externship experiences will help them recognize the diverse opportunities within STEM fields and the significance of problem-solving. I aim to inspire students, particularly those who may not have considered STEM careers, by showcasing the excitement and importance of these industries. Ultimately, my goal is to empower students with the knowledge, skills, and confidence to explore their own STEM interests
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Drone usage as relates to agriculture 
 	* No specific preference - anything goes!
@@ -23,26 +25,29 @@ Grade Levels:
 	* K
 	* Pre K
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
 	* Drones
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Project Management
 	* Adult Education / Training
 	* Public Speaking / Group Presentation
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : No
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 
 
 LOGISTICS

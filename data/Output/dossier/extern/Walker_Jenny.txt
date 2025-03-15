@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* I teach in a blended learning model with students attending their online lessons but at our building each day. I feel this will help me get real life experience and ideas to bring more STEM education into the classroom.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Agriculture, Food, Natural Resources
 
 EXPERIENCE
@@ -23,23 +25,24 @@ Grade Levels:
 	* Pre K
 	* K
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 	* Agriculture, Food, Natural Resources
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : No
-Adult Teaching : No
-Camp counselor : No
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 I have had animals my entire life with anything from 4-H and FFA projects, to showing horses and raising animals at our house. 
 
 LOGISTICS

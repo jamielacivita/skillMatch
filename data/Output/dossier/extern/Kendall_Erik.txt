@@ -6,7 +6,9 @@ LinkedIn Profile : www.linkedin.com/in/erikmkendall
 INTERESTS
 Why they want to be a part of this program:
 	* I would love to have an opportunity to get industry experience in cybersecurity, networking, or programming. I could then integrate what I learn into my students' classroom experience helping them be more prepared for future work.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Math
@@ -23,7 +25,7 @@ Grade Levels:
 	* 12
 	* Postsecondary
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Chemistry
 	* Physics
 	* Math
@@ -31,19 +33,20 @@ STEM Domain Experience
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 	* Cybersecurity
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : No
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : No
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Adult Teaching
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 
 
 LOGISTICS

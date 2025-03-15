@@ -13,7 +13,9 @@ By immersing myself in industry practices, I hope to enhance my curriculum with 
 Additionally, as a leadership teacher and GATE facilitator, I aim to inspire students to explore their passions and develop leadership skills in STEM and beyond. By sharing real-world scenarios and career pathways learned during the externship, I can better guide my students toward future opportunities and empower them to see the relevance of their education in shaping their futures.
 
 Ultimately, this program aligns with my commitment to preparing students not only for academic success but also for meaningful contributions to their communities and careers.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Life Science / Biology
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
@@ -25,25 +27,26 @@ Grade Levels:
 	* 7
 	* 8
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Life Science / Biology
 	* Chemistry
 	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Email & Administrative Software
 	* Public Speaking / Group Presentation
 
-Instructional work they are open to during externship:
-Elementary teaching : No
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : No
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+
+OTHER INTERESTING EXPERIENCE:
 I have had the privilege of gaining diverse hands-on experiences in the biomedical field, which I believe would be valuable in connecting with the right hosts. I worked in a hospital transplantology lab, where I genotyped blood samples to match donors and recipients for bone marrow transplants. During the COVID-19 pandemic, I conducted PCR-based COVID testing in a genetic laboratory of a public hospital, contributing directly to public health efforts.
 
 As a Fulbright scholar, I spent a year at the University of Idaho in the Bana Jabri Immunology lab, where I conducted research on GATA4 receptors in celiac disease modeled in mice for my masterâs thesis. After completing my degree, I worked for two years at Santacruz Biotechnology at IdahoBioscience lab in Ketchum, ID, where I focused on the development of monoclonal antibodies.

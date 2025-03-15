@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* As a middle school math teacher I am questioned regularly about how the topics we cover are relevant to the real world. I would love an opportunity to see and work in an area where I can see the skills I teach applied to a career field.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Life Science / Biology
 	* Earth & Environmental Science
 	* Math
@@ -20,22 +22,22 @@ Grade Levels:
 	* 7
 	* 8
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Life Science / Biology
 	* Math
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 
-Instructional work they are open to during externship:
-Elementary teaching : No
-Secondary Teaching : No
-Adult Teaching : Yes
-Camp counselor : No
-Curriculum design : No
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Adult Teaching
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 
 
 LOGISTICS

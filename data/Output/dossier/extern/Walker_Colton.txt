@@ -6,7 +6,9 @@ LinkedIn Profile : https://www.linkedin.com/in/colton-walker-26a205139/https://w
 INTERESTS
 Why they want to be a part of this program:
 	* I hope this program will continue to help me connect to individuals in the work force that I can use to network with to better help my students as well as giving me the new skills and knowledge that I can share with my students. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Earth & Environmental Science
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Agriculture, Food, Natural Resources
@@ -27,7 +29,7 @@ Grade Levels:
 	* 12
 	* Postsecondary
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Earth & Environmental Science
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
@@ -35,7 +37,7 @@ STEM Domain Experience
 	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
 	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Project Management
@@ -43,14 +45,17 @@ Business software & skills:
 	* Public Speaking / Group Presentation
 	* Email & Administrative Software
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 I have started STEM Outreach/Mentorship programs where I go to rural communities with my students to engage and interact with students to show them the benefits of STEM. I also help out with various athletic departments in my community. 
 
 LOGISTICS

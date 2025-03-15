@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* I would like to be a part of this program so I can help my students understand potential career opportunities as well as gain a love and passion for STEM. I want to help my students become more curious and excited to learn. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Life Science / Biology
 	* Earth & Environmental Science
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
@@ -28,21 +30,23 @@ Grade Levels:
 	* 7
 	* 8
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Life Science / Biology
 	* Earth & Environmental Science
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Presentation Software (MS Powerpoint or Google Slides)
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : No
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 I am passionate about nature, outdoor activities, and conservation. I love hiking, fishing, camping, etc. I enjoy baking as well as arts and crafts. 
 
 LOGISTICS

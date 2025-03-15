@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* I want to express my gratitude for your support as I strive to inspire my students at our STEM school. I am eager to explore real-world connections that can motivate them to achieve their best. Additionally, I am looking to expand my personal work experience beyond the traditional role of teaching summer school to struggling students. If you have any insights or opportunities that could assist me in this endeavor, I would greatly appreciate your input. Thank you once again for your guidance and support.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* No specific preference - anything goes!
 
 EXPERIENCE
@@ -16,23 +18,27 @@ Grade Levels:
 	* 4
 	* 5
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Life Science / Biology
 	* Earth & Environmental Science
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 In the past I have had positive experiences in wilderness summer camps, wildlife management, outdoor education, and music and drama programs. 
 
 LOGISTICS

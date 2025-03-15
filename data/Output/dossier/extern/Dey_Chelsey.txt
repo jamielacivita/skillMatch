@@ -6,7 +6,9 @@ LinkedIn Profile : N/A
 INTERESTS
 Why they want to be a part of this program:
 	* As a CTE instructor, I look for opportunities to learning more about industry and careers that I can prepare my students for. Any skill sets I gain I try incorporate into my coursework for students to develop those skills before entering the workforce.
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Life Science / Biology
 	* Earth & Environmental Science
 	* Agriculture, Food, Natural Resources
@@ -22,13 +24,13 @@ Grade Levels:
 	* 11
 	* 12
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Life Science / Biology
 	* Earth & Environmental Science
 	* Agriculture, Food, Natural Resources
 	* Health Professions (e.g. medical, nursing, pharmacy, veterinary, etc.)
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Project Management
@@ -36,14 +38,18 @@ Business software & skills:
 	* Email & Administrative Software
 	* Adult Education / Training
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 I am a former youth hockey, basketball, soccer coach. I enjoy learning about cultures and travel. I spent 10 years working in Title and escrow. Iâve work as a title officer; researching land, legal descriptions, platting, and maintaining title databases. I also worked as an escrow officer preparing and executing legal documents, balancing accounts, clearing land issues, handling prorations, individual, construction, VA, and business loans. I also have experience marketing clients and fostering business relations.
 
 LOGISTICS

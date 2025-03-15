@@ -8,7 +8,9 @@ Why they want to be a part of this program:
 	* My college degree is in mathematics education, but I have always loved engineering in my spare time. I was so excited when I found out that I could combine the two and teach engineering! It has now been 6 years since I started teaching pre-engineering classes for the West Ada School District, and I haven't looked back.
 
 However, due to my background in education, I feel that I am lacking valuable industry experience and connections which would greatly benefit my students. The Idaho Educator Externship Program seems to be EXACTLY what I need to help my students network with industry professionals, as well as develop my technical skills by working to solve real-world problems. 
-STEM fields they are particularly interested in learning more about:
+
+STEM FIELDS THEY ARE PARTICULARLY INTERESTED IN LEARNING MORE ABOUT:
+
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.) 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 	* Trades & Industry (e.g. manufacturing, automotive, construction, etc.)
@@ -23,26 +25,30 @@ Grade Levels:
 	* 11
 	* 12
 
-STEM Domain Experience
+STEM DOMAIN EXPERIENCE
 	* Physics
 	* Math
 	* Computer Science (e.g., coding, programming languages, software/app development, etc.)Â 
 	* Information & Communication Technology (e.g. networking, data management, building/troubleshooting computer systems, etc.)
 	* Engineering & Technology
 
-Business software & skills:
+BUSINESS SOFTWARE & SKILLS:
 	* Spreadsheet Software (MS Excel or Google Sheets)
 	* Presentation Software (MS Powerpoint or Google Slides)
 	* Public Speaking / Group Presentation
 
-Instructional work they are open to during externship:
-Elementary teaching : Yes
-Secondary Teaching : Yes
-Adult Teaching : Yes
-Camp counselor : Yes
-Curriculum design : Yes
-Externship durations they are available for:
-Other interesting experience:
+INSTRUCTIONAL WORK THEY ARE OPEN TO DURING EXTERNSHIP:
+	* Elementary Teaching
+	* Elementary Teaching
+	* Adult Teaching
+	* Camp counselor
+	* Curriculum design
+
+EXTERNSHIP DURATIONS THEY ARE AVAILABLE FOR:
+	* 100 hours
+	* 200 hours
+
+OTHER INTERESTING EXPERIENCE:
 The following are things I enjoy outside of work, in no particular order:
 
 -Coding
