@@ -444,6 +444,12 @@ class Extern(AttributeSet):
 
     def set_linkedin_profile(self, linkedin_profile):
         self.linkedin_profile = linkedin_profile
+        if self.linkedin_profile == "":
+            #log.debug(f"LinkedIn profile for {self.get_id()}:{self.get_last_name()} is blank.  Setting it to N/A")
+            self.linkedin_profile = "N/A"
+        else:
+            #log.debug(f"LinkedIn profile for {self.get_id()}:{self.get_last_name()} is {self.linkedin_profile}")
+            pass
 
     def set_adult_education_training(self, adult_education_training):
         self.adult_education_training = adult_education_training
