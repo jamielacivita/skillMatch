@@ -678,15 +678,15 @@ class Match:
             filelog.info(f"basin 2 extern_hybrid : {extern_hybrid}")
             filelog.info(f"basin 2 distance (arson) : {self.arson}")
 
+        # Host = Extern’s Choice AND Distance = (IFFY or POOR) ---> GOOD (remote)
+        if (host_externs_choice) and self.arson == "IFFY":
+            self.basin = "GOOD (remote)"
+        if (host_externs_choice) and self.arson == "POOR":
+            self.basin = "GOOD (remote)"
+
         #Host = Extern’s Choice AND Distance = GOOD --> GOOD (close)
         if (host_externs_choice) and self.arson == "GOOD":
             self.basin = "GOOD (close)"
-
-        # Host = Extern’s Choice AND Distance = (IFFY or POOR) ---> GOOD (remote)
-        if (host_externs_choice) and self.arson == "GOOD":
-            self.basin = "GOOD (remote)"
-        if (host_externs_choice) and self.arson == "IFFY":
-            self.basin = "GOOD (remote)"
 
         # Both (in-person or Hybrid) and Distance = IFFY
         if ((host_inperson and extern_inperson) or (host_hybrid and extern_hybrid)) and self.arson == "IFFY":

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="Updates to basin chart." />
+    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="bugfix to basin logic 4." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -317,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742159389833</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="bugfix to basin logic 4.">
+      <option name="closed" value="true" />
+      <created>1742160266948</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1742160266948</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -369,6 +377,7 @@
     <MESSAGE value="Fixing bugs in matching chart." />
     <MESSAGE value="small refactor" />
     <MESSAGE value="Updates to basin chart." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates to basin chart." />
+    <MESSAGE value="bugfix to basin logic 4." />
+    <option name="LAST_COMMIT_MESSAGE" value="bugfix to basin logic 4." />
   </component>
 </project>
