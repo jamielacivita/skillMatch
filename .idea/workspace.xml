@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="moved changes into main.">
+    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="updated matching chart titles.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MatchSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatchSet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/chart/20250315-132505_out.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/chart/20250315-132805_out.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/chart/20250315-172549_out.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/chart/20250316-115751_out.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logging_config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/src/logging_config.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +64,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "update__chart__match__titles",
+    "git-widget-placeholder": "debug__stemInterestMatch",
     "last_opened_file_path": "/home/jamie/source/skillMatch/src",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }

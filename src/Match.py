@@ -652,20 +652,38 @@ class Match:
 
         # Both Remote
         if host_remote and extern_remote:
-            self.basin = "GOOD"
-            filelog.info(f"JWTO : basin : host_remote is {host_remote} and extern_remote is {extern_remote}.  Setting self.basin to GOOD.")
+            self.basin = "GOOD (remote)"
+            filelog.info(f"basin : host_remote is {host_remote} and extern_remote is {extern_remote}.  Setting self.basin to GOOD.")
 
         # Both (in-person or Hybrid) and Distance = GOOD
         if ((host_inperson and extern_inperson) or (host_hybrid and extern_hybrid)) and self.arson == "GOOD":
-            self.basin = "GOOD"
+            self.basin = "GOOD (close)"
+            filelog.info(f"basin 2")
+            filelog.info(f"basin 2 host_inperson : {host_inperson}")
+            filelog.info(f"basin 2 extern_inperson : {extern_inperson}")
+            filelog.info(f"basin 2 host_hybrid : {host_hybrid}")
+            filelog.info(f"basin 2 extern_hybrid : {extern_hybrid}")
+            filelog.info(f"basin 2 distance (arson) : {self.arson}")
+
 
         # Both (in-person or Hybrid) and Distance = IFFY
         if ((host_inperson and extern_inperson) or (host_hybrid and extern_hybrid)) and self.arson == "IFFY":
-            self.basin = "GOOD"
+            self.basin = "IFFY"
+            filelog.info(f"basin 2")
+            filelog.info(f"basin 2 host_inperson : {host_inperson}")
+            filelog.info(f"basin 2 extern_inperson : {extern_inperson}")
+            filelog.info(f"basin 2 host_hybrid : {host_hybrid}")
+            filelog.info(f"basin 2 extern_hybrid : {extern_hybrid}")
+            filelog.info(f"basin 2 distance (arson) : {self.arson}")
 
         # One remobe ONLY, other in person or Hybrid only -- logic not added defaulting to poor.
 
+        log.debug(f"match key : {self.get_key()}")
+        log.debug(f"self.basin : {self.basin}")
+
+
         filelog.info(f"basin : {self.basin}\n")
+
 
     def get_carrear(self):
         return self.career
@@ -788,14 +806,16 @@ class Match:
         return self.fortify
 
     def set_fortify(self):
-        filelog.debug(f"Fortify {self.get_key()}")
-        self.fortify = "IFFY"
+        #filelog.debug(f"Fortify {self.get_key()}")
+        log.debug(f"Fortify {self.get_key()}")
+
+        self.fortify = "FINE"
 
         host_ai = self.host_obj.get_looking_for_experience()
         extern_t = self.extern_obj.get_particular_stem_fields()
 
         host_ai_lst = host_ai.split(";")
-        extern_t_lst = extern_t.split("'")
+        extern_t_lst = extern_t.split(";")
 
         #host_ai_lst.remove("")
         if "" in extern_t_lst:
@@ -809,10 +829,19 @@ class Match:
         filelog.debug(f"common : {common}")
         filelog.debug(f"number common : {number_common}")
 
-        if number_common >= 1:
+        log.debug(f"host_ai : {host_ai}")
+        log.debug(f"extern_t : {extern_t}")
+        log.debug(f"common : {common}")
+        log.debug(f"number common : {number_common}")
+
+        if number_common == 1:
             self.fortify = "GOOD"
 
+        if number_common > 1:
+            self.fortify = "STRONG"
+
         filelog.debug(f"fortify : {self.get_fortify()}\n")
+        log.debug(f"fortify : {self.get_fortify()}\n")
 
     def get_gavel(self):
         return self.gavel
@@ -856,7 +885,7 @@ class Match:
         if number_common >= 1:
             self.gavel = "GOOD"
         else:
-            self.gavel = "IFFY"
+            self.gavel = "POOR"
 
         filelog.debug(f"{self.get_gavel()}")
 
