@@ -170,49 +170,45 @@ class MatchSet():
 
     def get_match_chart_header_row(self):
         header_row = []
-        header_row.append("Extern ID")
-        header_row.append("Host ID")
-        header_row.append("EXTERN")
-        header_row.append("EXTERN CITY")
-        header_row.append("HOST")
-        header_row.append("HOST CITY")
-        header_row.append("HOST NO EXP NEEDED")
-        header_row.append("DISTANCE")
-        header_row.append("DISTANCE NOTES")
-        header_row.append("REMOTE MATCH")
-        header_row.append("REMOTE ONLY")
-        header_row.append("STEM experience match")
-        header_row.append("STEM experience matched on")
-        header_row.append("Biz Skills Score")
-        header_row.append("Biz Skills Match")
-        header_row.append("Work Style Score")
-        header_row.append("Work Style Notes")
-        header_row.append("Teaching Needs Match")
-        header_row.append("Curriculum Needs Match")
-        header_row.append("Total Experience Match")
-        header_row.append("Min Interns")
-        header_row.append("Max Interns")
-
-        header_row.append("(first) Location")
-        header_row.append("(second) Location")
-        header_row.append("Teaching Openness")
-        header_row.append("Business Skills")
-        header_row.append("STEM Domains")
-        header_row.append("STEM Interest")
-        header_row.append("Hours")
-
-
+        header_row.append("Extern ID")                          #match.get_extern_id()
+        header_row.append("Host ID")                            #match.get_host_id()
+        header_row.append("EXTERN")                             #match.get_extern_name()
+        header_row.append("EXTERN CITY")                        #atch.get_extern_city()
+        header_row.append("HOST")                               #match.get_host_name()
+        header_row.append("HOST CITY")                          #match.get_host_city()
+        header_row.append("HOST NO EXP NEEDED")                 #match.get_host_no_skills_needed()
+        header_row.append("DISTANCE")                           #match.get_distance()
+        header_row.append("DISTANCE NOTES")                     #match.get_distance_notes()
+        header_row.append("REMOTE MATCH")                       #match.get_remote_match()
+        header_row.append("REMOTE ONLY")                        #match.get_extern_remote_only()
+        header_row.append("EXTERN LOCATION OPENNESS")           #match.get_extern_open_to()
+        header_row.append("HOST LOCATION OPENNESS")             #match.get_host_work_done_remotely()
+        header_row.append("STEM experience match")              #match.get_stem_experience_match_score()
+        header_row.append("STEM experience matched on")         #match.get_stem_experience_match_notes()
+        header_row.append("Biz Skills Score")                   #match.get_biz_skills_match_score()
+        header_row.append("Biz Skills Match")                   #match.get_biz_skills_match_notes()
+        header_row.append("Work Style Score")                   #match.get_work_style_match_score()
+        header_row.append("Work Style Notes")                   #match.get_work_style_match_notes()
+        header_row.append("Teaching Needs Match")               #match.get_teaching_needs_match()
+        header_row.append("Curriculum Needs Match")             #match.get_curriculum_design_match()
+        header_row.append("Total Experience Match")             #match.get_total_score()
+        header_row.append("Min Interns")                        #match.get_min_externs()
+        header_row.append("Max Interns")                        #match.get_max_externs()
+        header_row.append("(first) Location")                   #match.get_arson()
+        header_row.append("(second) Location")                  #match.get_basin()
+        header_row.append("Teaching Openness")                  #match.get_carrear()
+        header_row.append("Business Skills")                    #match.get_defend()
+        header_row.append("STEM Domains")                       #match.get_endorse()
+        header_row.append("STEM Interest")                      #match.get_fortify()
+        header_row.append("Hours")                              #match.get_gavel()
 
         return header_row
-
-
 
     def get_match_chart_data_rows(self, extern_id = None):
         out_rows = []
         for match in self.match_obj_lst:
             out_row = []
 
-            #out_row.append(f"{match.get_key()}")
             out_row.append(f"{match.get_extern_id()}")
             out_row.append(f"{match.get_host_id()}")
             out_row.append(f"{match.get_extern_name()}")
@@ -224,6 +220,8 @@ class MatchSet():
             out_row.append(f"{match.get_distance_notes()}")
             out_row.append(f"{match.get_remote_match()}")
             out_row.append(f"{match.get_extern_remote_only()}")
+            out_row.append(f"{match.get_extern_open_to()}")
+            out_row.append(f"{match.get_host_work_done_remotely()}")
             out_row.append(f"{match.get_stem_experience_match_score()}")
             out_row.append(f"{match.get_stem_experience_match_notes()}")
             out_row.append(f"{match.get_biz_skills_match_score()}")
@@ -235,7 +233,6 @@ class MatchSet():
             out_row.append(f"{match.get_total_score()}")
             out_row.append(f"{match.get_min_externs()}")
             out_row.append(f"{match.get_max_externs()}")
-
             out_row.append(f"{match.get_arson()}")
             out_row.append(f"{match.get_basin()}")
             out_row.append(f"{match.get_carrear()}")

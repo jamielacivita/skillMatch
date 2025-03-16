@@ -332,6 +332,8 @@ class Extern(AttributeSet):
             self.set_skills()
             self.set_remote_only()
 
+        log.debug("placeholder")
+
     def set_ID(self, ID):
         self.ID = ID
 

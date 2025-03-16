@@ -47,11 +47,14 @@ class Match:
         self.host_name = f"{self.host_obj.get_organization_name()}"
         self.host_city = f"{self.host_obj.get_location_of_organization()}"
         self.host_no_skills_needed = f"{self.host_obj.get_no_skills_needed()}"
+        self.host_work_done_remotely = f"{self.host_obj.get_work_done_remotely()}"
 
         self.extern_id = f"{extern_obj.get_id()}"
         self.extern_name = f"{self.extern_obj.get_last_name()}, {self.extern_obj.get_first_name()}"
         self.extern_city = f"{self.extern_obj.get_city_you_live_in()}"
         self.extern_remote_only = f"{self.extern_obj.get_remote_only()}"
+        self.extern_open_to = f"{self.extern_obj.get_open_to()}"
+
 
         # Teaching/Curriculum Needs Match Data #
         self.teaching_needs_match = None
@@ -551,6 +554,12 @@ class Match:
     def get_extern_remote_only(self):
         return self.extern_remote_only
 
+    def get_extern_open_to(self):
+        return self.extern_open_to
+
+    def get_host_work_done_remotely(self):
+        return self.host_work_done_remotely
+
     def get_biz_skills_match_score(self):
         return self.biz_skills_match_score
 
@@ -683,7 +692,6 @@ class Match:
 
 
         filelog.info(f"basin : {self.basin}\n")
-
 
     def get_carrear(self):
         return self.career

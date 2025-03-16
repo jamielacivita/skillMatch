@@ -293,9 +293,7 @@ class Host(AttributeSet):
 
         self.set_skills()
 
-
-
-
+        log.debug(f"placeholder")
 
     def set_id(self, id):
         self.id = id
@@ -726,6 +724,7 @@ class Host(AttributeSet):
 
     def get_work_done_remotely(self):
         return self.work_done_remotely
+
     def set_zip(self, zip):
         if self.get_id() == 5:
             self.zip = "83301"
