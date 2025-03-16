@@ -684,9 +684,9 @@ class Match:
 
         # Host = Extern’s Choice AND Distance = (IFFY or POOR) ---> GOOD (remote)
         if (host_externs_choice) and self.arson == "GOOD":
-            self.basin = "GOOD (close)"
+            self.basin = "GOOD (remote)"
         if (host_externs_choice) and self.arson == "IFFY":
-            self.basin = "GOOD (close)"
+            self.basin = "GOOD (remote)"
 
         # Both (in-person or Hybrid) and Distance = IFFY
         if ((host_inperson and extern_inperson) or (host_hybrid and extern_hybrid)) and self.arson == "IFFY":
