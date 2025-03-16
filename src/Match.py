@@ -94,6 +94,8 @@ class Match:
         if log.level <= logging.DEBUG:
             self.print_skill_chart()
 
+        log.debug("Placeholder")
+
     def __str__(self):
         out_str = ""
         out_str = out_str + "\n"
@@ -635,6 +637,8 @@ class Match:
         host_remote = False
         host_hybrid = False
         host_inperson = False
+        host_externs_choice = False
+
         extern_remote = False
         extern_hybrid = False
         extern_inperson = False
@@ -647,15 +651,15 @@ class Match:
             host_hybrid = True
         if "office" in host_an:
             host_inperson = True
+        if "choice" in host_an:
+            host_externs_choice = True
 
         # identify extern status:
         # options In-Person;Remote;Hybrid;
         if "In-Person" in ext_u:
             extern_inperson = True
-
         if "Remote" in ext_u:
             extern_remote = True
-
         if "Hybrid" in ext_u:
             extern_hybrid = True
 
@@ -674,6 +678,15 @@ class Match:
             filelog.info(f"basin 2 extern_hybrid : {extern_hybrid}")
             filelog.info(f"basin 2 distance (arson) : {self.arson}")
 
+        #Host = Extern’s Choice AND Distance = GOOD --> GOOD (close)
+        if (host_externs_choice) and self.arson == "GOOD":
+            self.basin = "GOOD (close)"
+
+        # Host = Extern’s Choice AND Distance = (IFFY or POOR) ---> GOOD (remote)
+        if (host_externs_choice) and self.arson == "GOOD":
+            self.basin = "GOOD (close)"
+        if (host_externs_choice) and self.arson == "IFFY":
+            self.basin = "GOOD (close)"
 
         # Both (in-person or Hybrid) and Distance = IFFY
         if ((host_inperson and extern_inperson) or (host_hybrid and extern_hybrid)) and self.arson == "IFFY":
