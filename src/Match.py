@@ -628,81 +628,186 @@ class Match:
         # set default value for basin
         self.basin = "POOR"
 
-        filelog.info(f"In Basin {self.get_key()}")
-        host_an = self.host_obj.work_done_remotely
-        ext_u = self.extern_obj.what_work_locations
-        filelog.info(f"host_an : {host_an}")
-        filelog.info(f"ext_u : {ext_u}")
+        # set physical distance values
+        physical_distance_good = False
+        physical_distance_iffy = False
+        physical_distance_poor = False
+        physical_distance_code = None
 
-        host_remote = False
-        host_hybrid = False
-        host_inperson = False
-        host_externs_choice = False
+        physical_distance = self.arson
+        if physical_distance == "GOOD":
+            physical_distance_good = True
+            physical_distance_code = "G"
+        elif physical_distance == "IFFY":
+            physical_distance_iffy = True
+            physical_distance_code = "I"
+        elif physical_distance == "POOR":
+            physical_distance_poor = True
+            physical_distance_code = "P"
 
-        extern_remote = False
-        extern_hybrid = False
-        extern_inperson = False
+        assert (physical_distance_good or physical_distance_iffy or physical_distance_poor)
+        assert (physical_distance_code == "G" or physical_distance_code == "I" or physical_distance_code == "P")
 
 
-        # indentify host status:
-        if "remote" in host_an:
-            host_remote = True
-        if "Hybrid" in host_an:
-            host_hybrid = True
-        if "office" in host_an:
-            host_inperson = True
-        if "choice" in host_an:
-            host_externs_choice = True
+        # set host_work_location values
+        host_work_location = self.host_obj.work_done_remotely
+        host_work_location_code = None
 
-        # identify extern status:
-        # options In-Person;Remote;Hybrid;
-        if "In-Person" in ext_u:
-            extern_inperson = True
-        if "Remote" in ext_u:
-            extern_remote = True
-        if "Hybrid" in ext_u:
-            extern_hybrid = True
+        if host_work_location == "Hybrid - sometimes in office":
+            host_work_location_hybrid = True
+            host_work_location_code = "H"
+        if host_work_location == "100% in office":
+            host_work_location_office = True
+            host_work_location_code = "O"
+        if host_work_location == "Externâ\x80\x99s choice":
+            host_work_location_externchoice = True
+            host_work_location_code = "E"
+        if host_work_location == "100% remote":
+            host_work_location_remote = True
+            host_work_location_code = "R"
 
-        # Both Remote
-        if host_remote and extern_remote:
-            self.basin = "GOOD (remote)"
-            filelog.info(f"basin : host_remote is {host_remote} and extern_remote is {extern_remote}.  Setting self.basin to GOOD.")
+        assert (host_work_location_code == "O" or host_work_location_code == "H" or host_work_location_code == "R" or host_work_location_code == "E")
 
-        # Both (in-person or Hybrid) and Distance = GOOD
-        if ((host_inperson and extern_inperson) or (host_hybrid and extern_hybrid)) and self.arson == "GOOD":
-            self.basin = "GOOD (close)"
-            filelog.info(f"basin 2")
-            filelog.info(f"basin 2 host_inperson : {host_inperson}")
-            filelog.info(f"basin 2 extern_inperson : {extern_inperson}")
-            filelog.info(f"basin 2 host_hybrid : {host_hybrid}")
-            filelog.info(f"basin 2 extern_hybrid : {extern_hybrid}")
-            filelog.info(f"basin 2 distance (arson) : {self.arson}")
+        # set extern open to values and codes
+        extern_open_to_code = ""
+        extern_open_to_remote = False
+        extern_open_to_inperson = False
+        extern_open_to_hybrid = False
 
-        # Host = Extern’s Choice AND Distance = (IFFY or POOR) ---> GOOD (remote)
-        if (host_externs_choice) and self.arson == "IFFY":
-            self.basin = "GOOD (remote)"
-        if (host_externs_choice) and self.arson == "POOR":
-            self.basin = "GOOD (remote)"
+        extern_open_to = self.extern_obj.what_work_locations
+        if "Remote" in extern_open_to:
+            extern_open_to_remote = True
+            extern_open_to_code = extern_open_to_code + "M"
+        if "In-Person" in extern_open_to:
+            extern_open_to_inperson = True
+            extern_open_to_code = extern_open_to_code + "N"
+        if "Hybrid" in extern_open_to:
+            extern_open_to_hybrid = True
+            extern_open_to_code = extern_open_to_code + "Y"
 
-        #Host = Extern’s Choice AND Distance = GOOD --> GOOD (close)
-        if (host_externs_choice) and self.arson == "GOOD":
-            self.basin = "GOOD (close)"
+        # check that at least once choice is made
+        assert (extern_open_to_remote or extern_open_to_inperson or extern_open_to_hybrid)
 
-        # Both (in-person or Hybrid) and Distance = IFFY
-        if ((host_inperson and extern_inperson) or (host_hybrid and extern_hybrid)) and self.arson == "IFFY":
-            self.basin = "IFFY"
-            filelog.info(f"basin 2")
-            filelog.info(f"basin 2 host_inperson : {host_inperson}")
-            filelog.info(f"basin 2 extern_inperson : {extern_inperson}")
-            filelog.info(f"basin 2 host_hybrid : {host_hybrid}")
-            filelog.info(f"basin 2 extern_hybrid : {extern_hybrid}")
-            filelog.info(f"basin 2 distance (arson) : {self.arson}")
+        assert extern_open_to_code in ["MNY","MN","NY","MY","M","N","Y"]
 
-        # One remobe ONLY, other in person or Hybrid only -- logic not added defaulting to poor.
+        option_code = None
+        option_code = physical_distance_code + host_work_location_code + extern_open_to_code
 
-        log.debug(f"match key : {self.get_key()}")
-        log.debug(f"self.basin : {self.basin}")
+        location_choices_output = {}
 
+        # Good and Office
+        location_choices_output["GOMNY"] = "GOOD (close)"
+        location_choices_output["GOMN"] = "GOOD (close)"
+        location_choices_output["GONY"] = "GOOD (close)"
+        location_choices_output["GOMY"] = "IFFY"
+        location_choices_output["GOM"] = "POOR"
+        location_choices_output["GON"] = "GOOD (close)"
+        location_choices_output["GOY"] = "IFFY"
+
+        # Good and Hybrid
+        location_choices_output["GHMNY"] = "GOOD (close)"
+        location_choices_output["GHMN"] = "GOOD (close)"
+        location_choices_output["GHNY"] = "GOOD (close)"
+        location_choices_output["GHMY"] = "GOOD (close)"
+        location_choices_output["GHM"] = "POOR"
+        location_choices_output["GHN"] = "GOOD (close)"
+        location_choices_output["GHY"] = "GOOD (close)"
+
+        # GOOD and Extern's Choice
+        location_choices_output["GEMNY"] = "GOOD (close)"
+        location_choices_output["GEMN"] = "GOOD (close)"
+        location_choices_output["GENY"] = "GOOD (close)"
+        location_choices_output["GEMY"] = "GOOD (close)"
+        location_choices_output["GEM"] = "GOOD (remote)"
+        location_choices_output["GEN"] = "GOOD (close)"
+        location_choices_output["GEY"] = "GOOD (close)"
+
+        # Good and Remote
+        location_choices_output["GRMNY"] = "GOOD (remote)"
+        location_choices_output["GRMN"] = "GOOD (remote)"
+        location_choices_output["GRNY"] = "POOR"
+        location_choices_output["GRMY"] = "GOOD (remote)"
+        location_choices_output["GRM"] = "GOOD (remote)"
+        location_choices_output["GRN"] = "POOR"
+        location_choices_output["GRY"] = "POOR"
+
+        # Iffy and Office
+        location_choices_output["IOMNY"] = "IFFY"
+        location_choices_output["IOMN"] = "IFFY"
+        location_choices_output["IONY"] = "IFFY"
+        location_choices_output["IOMY"] = "IFFY"
+        location_choices_output["IOM"] = "POOR"
+        location_choices_output["ION"] = "IFFY"
+        location_choices_output["IOY"] = "IFFY"
+
+        # IFFY and Hybrid
+        location_choices_output["IHMNY"] = "IFFY"
+        location_choices_output["IHMN"] = "IFFY"
+        location_choices_output["IHNY"] = "IFFY"
+        location_choices_output["IHMY"] = "IFFY"
+        location_choices_output["IHM"] = "POOR"
+        location_choices_output["IHN"] = "IFFY"
+        location_choices_output["IHY"] = "IFFY"
+
+        # IFFY and Remote
+        location_choices_output["IRMNY"] = "GOOD (remote)"
+        location_choices_output["IRMN"] = "GOOD (remote)"
+        location_choices_output["IRNY"] = "POOR"
+        location_choices_output["IRMY"] = "GOOD (remote)"
+        location_choices_output["IRM"] = "GOOD (remote)"
+        location_choices_output["IRN"] = "POOR"
+        location_choices_output["IRY"] = "POOR"
+
+        # IFFY and Extern's choice
+        location_choices_output["IEMNY"] = "GOOD (remote)"
+        location_choices_output["IEMN"] = "GOOD (remote)"
+        location_choices_output["IENY"] = "IFFY"
+        location_choices_output["IEMY"] = "GOOD (remote)"
+        location_choices_output["IEM"] = "GOOD (remote)"
+        location_choices_output["IEN"] = "IFFY"
+        location_choices_output["IEY"] = "IFFY"
+
+        # Poor and Office
+        location_choices_output["POMNY"] = "POOR"
+        location_choices_output["POMN"] = "POOR"
+        location_choices_output["PONY"] = "POOR"
+        location_choices_output["POMY"] = "POOR"
+        location_choices_output["POM"] = "POOR"
+        location_choices_output["PON"] = "POOR"
+        location_choices_output["POY"] = "POOR"
+
+        # Poor and Hybrid
+        location_choices_output["PHMNY"] = "POOR"
+        location_choices_output["PHMN"] = "POOR"
+        location_choices_output["PHNY"] = "POOR"
+        location_choices_output["PHMY"] = "POOR"
+        location_choices_output["PHM"] = "POOR"
+        location_choices_output["PHN"] = "POOR"
+        location_choices_output["PHY"] = "POOR"
+
+        # poor and office
+        location_choices_output["POMNY"] = "POOR"
+
+        # poor and remote
+        location_choices_output["PRMNY"] = "GOOD (remote)"
+        location_choices_output["PRMN"] = "GOOD (remote)"
+        location_choices_output["PRNY"] = "POOR"
+        location_choices_output["PRMY"] = "GOOD (remote)"
+        location_choices_output["PRM"] = "GOOD (remote)"
+        location_choices_output["PRN"] = "POOR"
+        location_choices_output["PRY"] = "POOR"
+
+        # poor and extern's choice
+        location_choices_output["PEMNY"] = "GOOD (remote)"
+        location_choices_output["PEMN"] = "GOOD (remote)"
+        location_choices_output["PENY"] = "POOR"
+        location_choices_output["PEMY"] = "GOOD (remote)"
+        location_choices_output["PEM"] = "GOOD (remote)"
+        location_choices_output["PEN"] = "POOR"
+        location_choices_output["PEY"] = "POOR"
+
+
+        self.basin = location_choices_output[option_code]
 
         filelog.info(f"basin : {self.basin}\n")
 
