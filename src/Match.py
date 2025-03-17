@@ -648,7 +648,6 @@ class Match:
         assert (physical_distance_good or physical_distance_iffy or physical_distance_poor)
         assert (physical_distance_code == "G" or physical_distance_code == "I" or physical_distance_code == "P")
 
-
         # set host_work_location values
         host_work_location = self.host_obj.work_done_remotely
         host_work_location_code = None
@@ -713,15 +712,6 @@ class Match:
         location_choices_output["GHN"] = "GOOD (close)"
         location_choices_output["GHY"] = "GOOD (close)"
 
-        # GOOD and Extern's Choice
-        location_choices_output["GEMNY"] = "GOOD (close)"
-        location_choices_output["GEMN"] = "GOOD (close)"
-        location_choices_output["GENY"] = "GOOD (close)"
-        location_choices_output["GEMY"] = "GOOD (close)"
-        location_choices_output["GEM"] = "GOOD (remote)"
-        location_choices_output["GEN"] = "GOOD (close)"
-        location_choices_output["GEY"] = "GOOD (close)"
-
         # Good and Remote
         location_choices_output["GRMNY"] = "GOOD (remote)"
         location_choices_output["GRMN"] = "GOOD (remote)"
@@ -730,6 +720,15 @@ class Match:
         location_choices_output["GRM"] = "GOOD (remote)"
         location_choices_output["GRN"] = "POOR"
         location_choices_output["GRY"] = "POOR"
+
+        # GOOD and Extern's Choice
+        location_choices_output["GEMNY"] = "GOOD (close)"
+        location_choices_output["GEMN"] = "GOOD (close)"
+        location_choices_output["GENY"] = "GOOD (close)"
+        location_choices_output["GEMY"] = "GOOD (close)"
+        location_choices_output["GEM"] = "GOOD (remote)"
+        location_choices_output["GEN"] = "GOOD (close)"
+        location_choices_output["GEY"] = "GOOD (close)"
 
         # Iffy and Office
         location_choices_output["IOMNY"] = "IFFY"
@@ -785,9 +784,6 @@ class Match:
         location_choices_output["PHN"] = "POOR"
         location_choices_output["PHY"] = "POOR"
 
-        # poor and office
-        location_choices_output["POMNY"] = "POOR"
-
         # poor and remote
         location_choices_output["PRMNY"] = "GOOD (remote)"
         location_choices_output["PRMN"] = "GOOD (remote)"
@@ -806,10 +802,7 @@ class Match:
         location_choices_output["PEN"] = "POOR"
         location_choices_output["PEY"] = "POOR"
 
-
         self.basin = location_choices_output[option_code]
-
-        filelog.info(f"basin : {self.basin}\n")
 
     def get_carrear(self):
         return self.career
