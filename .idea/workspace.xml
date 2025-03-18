@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="bugfix to basin logic 4.1.">
+    <list default="true" id="33612e74-fdd5-4777-8c63-3603b4c69471" name="Changes" comment="refactor for location_choices logic.">
+      <change afterPath="$PROJECT_DIR$/data/Input/250318_Externship_ExternApplication-old.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Input/250318_Externship_ExternApplication.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Input/250311_Externship_ExternApplication.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Input/250311_Externship_ExternApplication.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Output/dossier/extern/Nelson_Cody.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/Output/dossier/extern/Nelson_Cody.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataPool.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataPool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,15 +62,18 @@
     "Python.MatchSet.executor": "Debug",
     "Python.data_config.executor": "Run",
     "Python.foo_zipParser.executor": "Run",
-    "Python.main.executor": "Run",
+    "Python.main.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "update-location__choices-logic",
-    "last_opened_file_path": "/home/jamie/source/skillMatch/src",
+    "git-widget-placeholder": "PrestonZipCodeChange",
+    "last_opened_file_path": "/home/jamie/source/skillMatch/data/Input",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/Input" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data/Output" />
       <recent name="$PROJECT_DIR$/data/Input" />
@@ -336,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742160767051</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="refactor for location_choices logic.">
+      <option name="closed" value="true" />
+      <created>1742173823539</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1742173823539</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -390,6 +406,18 @@
     <MESSAGE value="Updates to basin chart." />
     <MESSAGE value="bugfix to basin logic 4." />
     <MESSAGE value="bugfix to basin logic 4.1." />
-    <option name="LAST_COMMIT_MESSAGE" value="bugfix to basin logic 4.1." />
+    <MESSAGE value="refactor for location_choices logic." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor for location_choices logic." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Match.py</url>
+          <line>411</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

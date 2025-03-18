@@ -167,6 +167,7 @@ class DataPool:
         city_zip["Post Falls"] = 83854
         city_zip["Potlatch"] = 83855
         city_zip["Preston"] = 83263
+        city_zip["Preston, ID"] = 83263
         city_zip["Princeton, Idaho"] = 83857
         city_zip["Rathdrum"] = 83858
         city_zip["Rathdrum, ID"] = 83858
